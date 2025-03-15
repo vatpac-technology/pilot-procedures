@@ -21,7 +21,7 @@ Melbourne Airport runs 2 runways, that being runway 16/34, and runway 27/09.
 
 Melbourne airport uses **disconnect points** procedures to pushback aircraft. The system is comprised of multiple points on the ground of which ATC can direct aircraft to pushback to. This system is used to optimise the flow of traffic pushing back, allowing for a more efficient flow of traffic to both enter and exit the bays.
 
-![alt text](APAM-CA-DR-03-2501[F]-1-1.png)
+![alt text](img/melbourne_disconnect_points.png)
 
 ATC will usually assign a disconnect point;
 
@@ -64,7 +64,7 @@ MB_GND: `VCY, ground, taxi holding point Golf 2 runway 17R`
 
 Although at first slightly daunting, Moorabbin's taxiways can be easily learned, and as the saying goes, if you can taxi at Moorabbin, you can taxi anywhere. 
 
-![alt text](picture3-1.png)
+![alt text](moorabbin_taxi.png)
 
 ### Outbound
 Departing Moorabbin, you will always depart initially via a leg of the circuit, wether that be upwind, crosswind or downwind. Aircraft departing Moorabin should maintain 2000 feet unless otherwise advised, until outside the 3 mile zone, where aircraft may then fly underneath the Class Charlie airspace (northbound bellow 3,500 FT, Southbound bellow 4,500 FT.) 
@@ -114,7 +114,7 @@ Keep to the right of the lane to avoid oncoming traffic. Pilots should have land
 anti‑collision strobes and navigation lights on to assist sighting and avoiding other traffic. Maintain
 a vigilant lookout and an effective scan. 
 
-![alt text](image.png)
+![alt text](melbourne_vtc.png)
 
 ### Melbourne City Orbits
 VFR aircrft have the ability to orbit the Melbourne CBD. To do so however, they do need to enter controlled airspace. Although Essendon tower owns the Melbourne city airspace, due to the infrequent staffing of EN_TWR on VATSIM, the airspace is normally assumed to Melbourne Approach.
