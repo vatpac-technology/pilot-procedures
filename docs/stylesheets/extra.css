@@ -115,3 +115,7 @@ h4 {
 .coldline {
   background-color: var(--coldline);
 }
+.indented {
+  display: block;
+  margin-left: 1em; /* Adjust the value for more or less indentation */
+}
