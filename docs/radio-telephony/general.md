@@ -4,6 +4,11 @@
 
 --8<-- "includes/abbreviations.md"
 
+## General Radio Tips
+The key to a successful flight is often the smaller details, one of which being efficient, timely use of the radio. Pilots should strive to keep their radio calls as clear, concise, and standardised as possible.
+
+At any one time, there may be over a dozen aircraft on frequency. If every pilot takes an *extra 5 seconds* to pass their message, that's an *entire minute* lost for the controller! Keep things short, clear, and by the book.
+
 ## Reporting Requirements
 Pilots are expected to make reports to ATC in the following scenarios:
 
