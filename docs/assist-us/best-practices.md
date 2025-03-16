@@ -57,9 +57,7 @@ Example radio calls should take the following format:
 ### Phraseology Formatting
 To maintain consistency with the format used in AIP GEN, wrap pieces of information which should be replaced by actual data by the pilot in brackets and italicize them. Any optional items should be wrapped in square brakets.
 
-``` md
-   Cleared to *(destination)* via *(first waypoint)*, flight plan route, enter controlled airspace at *(altitude)* 
-```
+Radio call formats should be wrapped in a `!!! note "Format"` admonition. In situations where the context makes it obvious that the contents are the format of the call, you can remove the header with ```!!! note ""`. Consider following a Format admonition with an Example admonition, for clarity.
 
 ``` md
     *(ATC unit)*, *(aircraft callsign)*, descending to *(cleared level)*, received *(ATIS identifier)*, *[(inflight conditions)]*
@@ -68,4 +66,5 @@ To maintain consistency with the format used in AIP GEN, wrap pieces of informat
 !!! example
     Contact Adelaide Approach and request clearance for the procedure.
 
-    "Adelaide Approach, *(your callsign)*, *(your position)*, *(your altitude)*, received *(ATIS identifier)*, request coastal northbound"
+    !!! note "Format"
+        "Adelaide Approach, *(your callsign)*, *(your position)*, *(your altitude)*, received *(ATIS identifier)*, request coastal northbound"

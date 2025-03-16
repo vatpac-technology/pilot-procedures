@@ -35,22 +35,13 @@ Pilots are expected to make reports to ATC in the following scenarios:
 ## Position Reports
 When not identified on Radar or ADSB, Pilots must provide position reports to update ATC on their estimated location. This can be expected at low altitude in remote areas, and over the ocean. ATC will tell aircraft when they are identified, usually immediately upon departure.
 
-### Format
-- Callsign
-- "Position"
-- Significant Point
-- Time
-- Level/Altitude, (or "Left" last level vacated if on climb/descent)
-- Climbing/Descending to (Assigned level) (if applicable)
-- Next Significant point
-- Estimated time over
-- Ensuing significant point
-- "Next"
+!!! note "Format"
+    "*(Callsign)* position *(Significant Point)* *(Time)*, *(Level/Altitude)*, estimating *(Next Waypoint)* time *(ETA)*, *(Ensuing Waypoint)* next"
 
 !!! example
     **QFA123**: "QFA123, Position"  
     **Brisbane Radio**: "QFA123"  
-    **QFA123**: "QFA123, Position MIKEG time 17, Flight level 370, Estimating OMKIN time 05, DADLU Next"  
+    **QFA123**: "QFA123, position MIKEG time 17, flight level 370, estimating OMKIN time 05, DADLU Next"  
     **Brisbane Radio**: "QFA123"  
 
 
