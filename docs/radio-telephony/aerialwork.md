@@ -1,5 +1,5 @@
 ---
-  title: IFR aireal work
+  title: Aerial Work
 ---
 
 --8<-- "includes/abbreviations.md"
