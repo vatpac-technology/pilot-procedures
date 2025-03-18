@@ -5,52 +5,50 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airways Clearance
-### Standard airways clearance format
+### Route Clearances
+!!! note "Format"
+    "*(ATC Unit)*, *(Callsign)*, to *(Destination)*, request clearance"
 
-!!! TIP
-    If the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.
+ATC will respond with an airways clearance. During your readback, you should advise them of your parking bay (if known).
 
-**IFR**
+!!! example
+    *QFA421 is an IFR B738*  
+    **QFA421**: "Sydney Delivery, QFA421, to YMML, request clearance"  
+    **SY ACD**: "QFA421, cleared to YMML via WOL, flight planned route, runway 16R, GROOK1 departure WOL transition, climb via SID to A050, squawk 3231, departure frequency 129.7"  
+    **QFA421**: "Cleared to YMML via WOL, flight planned route, runway 16R, GROOK1 departure WOL transition, climb via SID to A050, squawk 3231, departure frequency 129.7, bay 3, QFA421"  
 
-Request:"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance" 
+    *TEK is a VFR Cherokee*  
+    **TEK**: "Sydney Delivery, TEK, to YCNK, request clearance"  
+    **SY ACD**: "TEK, cleared to YCNK via SYHD, flight planned route, runway 16L, climb to A035, squawk 0542, departure frequency 123.0"  
+    **TEK**: "Cleared to YCNK via SYHD, flight planned route, runway 16L, climb to A035, squawk 0542, departure frequency 123.0, TEK"
 
-Clearance: `"[Callsign] cleared to [Destniation] via [First point] Flight planed route Runway [Identifier] [Standard instrument departure] departure, climb via the SID [Alt] Squawk [Code] Departures [Freq]"`
+### Circuits
+!!! note "Format"
+    "*(ATC Unit)*, *(Callsign)*, for circuits, request clearance"
 
-Readback: `"Cleared to [Destniation] Via [First point] Flight planed route, Runway [Indentifier] [SID] departure, climb via the sid [ALT] Squawk [Code], Departures [Freq], bay [Bay number] **[Callsign]"`
+In response, ATC will issue a clearance to operate in the circuit area, not above an appropriate altitude. A squawk code will not always be issued.
 
-**VFR**
+!!! example
+    **LKU**: "Melbourne Delivery, LKU, for circuits, request clearance"  
+    **ML ACD**: "LKU, cleared to operate in the circuit area, not above A020, squawk 0100"  
+    **LKU**: "Cleared to operate in the circuit area, not above A020, squawk 0100, LKU"
 
-Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance"`
+### PDCs
+A PDC may be issued over text by a controller to assist with their workload. In Australia, a PDC **must be read back on frequency**.
 
-Clearance:`"[Callsign] cleared [destination] via [First point]/Direct, runway [Identifier] climb/not above [ALT] Departures [Freq]"`
+When reading back a PDC, only the following items must be transmitted by the pilot:
 
-Readback:`"Cleared [Destination] Via [First point]/Direct, Runway [Identifier] Climb/Not above [ALT] Departures [Freq]"`
+- SID (including transition, if applicable)
+- Squawk Code
+- Parking Bay
 
-**Circuits**
+!!! warning "Important"
+    Advise the controller of your intention to readback your PDC by establishing contact with them first, to allow them to cross-check your readback against your flight data record.
 
-Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] [Aircraft type] [Bay] [number] People on board, for circuits"`
-<Sub>Controller may tell you to stand by as they co-ordinate with other controllers on things like altitude, runway and circuit direction</Sub>
-
-Clearance:`"[Callsign] cleared to operate in the circuit area runway [Identifier] [circuit direction of applicable] not above [Alt] squawk [code]"`
-
-### PDC
-
-You may recive a PDC at any time with out requesting it (via direct message), OR you may request a PDC on freq with the following phraseology.
-
-`" [Callsign] for [Destniation] Request PDC"`
-
-!!! NOTE
-    - If you wish to recive a PDC via CPDLC/ACARS check the controller info for a CPDLC/PDC logon code and send a PDC request that way.
-    - CPDLC/PDC logons are 4 letter codes and will look like `CPDLC/PDC YYYY`
-    - Controller info can be found by double clicking the frequency in the frequency list in V/X pilot
-
-After you recived a PDC you are required to read it back on the specified freq. FIRST inform the controller you have a PDC readback so they can be ready to check it.
-
-`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] with PDC readback"`
-
-When the controller says:`"[Callsign] go ahead"`
-
-Readback:`"[SID],Bay [Number], [Squawk]"`
+!!! example
+    **VOZ723**: "Sydney Delivery, VOZ723, PDC readback"  
+    **SY ACD**: "VOZ723"  
+    **VOZ723**: "GROOK1 departure, WOL transition, squawk 4412, bay 32, VOZ723"  
 
 ## Pushback & Taxi
 ### Pushback
