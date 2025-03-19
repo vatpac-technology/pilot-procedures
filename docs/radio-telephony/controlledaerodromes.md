@@ -50,81 +50,111 @@ When reading back a PDC, only the following items must be transmitted by the pil
     **SY ACD**: "VOZ723"  
     **VOZ723**: "GROOK1 departure, WOL transition, squawk 4412, bay 32, VOZ723"  
 
-## Pushback & Taxi
+## Pushback & Engine Start
+### Engine Start
+Authorisation to commence engine start is generally not required, unless advised on the ATIS, the ERSA, or [Local Procedures](../../local-procedures/).
+
+!!! note "Format"
+    "*(ATC Unit)*, *(Callsign)*, *(Parking Position)*, request engine start"
+
 ### Pushback
+!!! note "Format"
+    "*(Callsign)*, *(Parking Position)*, request pushback"
 
- `"[Callsign] request push"` <Sub> note in normal operations start approval is not explicitly required </Sub>
+## Taxi
+### Fixed Wing
+!!! note "Format"
+    "*(Callsign)*, *(ATIS Code)*, request taxi, *[(Desired Holding Point)]*"
 
-### Engine start
+In response, ATC will provide taxi instructions to the runway or to an intermediate point if required. Where unrestricted taxi to the runway (or your parking bay) is not immediately available, you may receive instructions to hold short of a position or give way to other aircraft.
 
- **There is only one type of engine start that needs ATC clearance in Australia. This is a Cross-bleed start, only applicable to jets that need to start 1 engine on the bay with ground crew assistance prior to pushback.**
-  ~~`"[Callsign], Bay [Number] request cross-bleed start and push"`~~
+!!! example
+    **JST512**: "JST512, received F, request taxi, holding point B4 or better"  
+    **SY SMC**: "JST512, taxi via B4, hold short of B"  
+    **JST512**: "Taxi via B4, hold short of B, JST512"
 
-### Taxi
+    **SY SMC**: "JST512, give way to the Qantas 737 northbound on B, taxi to holding point B4, runway 16R"  
+    **JST512**: "Give way to the Qantas 737, taxi to holding point B4, runway 16R, JST512"
 
-Request:`"[Callsign] with information [ATIS info] Ready for taxi [Runway]"`
+### Helicopters
+Helicopters can either ground taxi, air taxi, or air transit around an aerodrome.
+
+| Taxi Technique | Meaning |
+| -------------- | ------- |
+| Ground Taxi | Traditional taxi using an aerodrome's taxiways, by helicopters equipped with wheels |
+| Air Taxi | Transit of a helicopter in ground effect and at less than 20kt |
+| Air Transit | Expeditious transit of a helicopter at or below 100ft AGL and at speeds greater than those during air taxiing |
+
+Helicopter pilots should generally nominate which method they would like to use, however air transits may not always be available.
+
+!!! example
+    **HSZ**: "Bankstown Ground, helicopter HSZ, taxiway F, for the main pad, received V, request air taxi"  
+    **BK SMC**: "HSZ, air taxi to the main pad"  
+    **HSZ**: "Air taxi to the main pad, HSZ"
   
- A taxi instruction will be laid out as follow, `"[Callsign] Taxi via [routing] to [Taxi limit/end]"`
- A clearance may advice you to Hold short, give way or cross a runway.
- 
-  - Hold short `"Hold short of [taxi way]"`
-  - Hold short of runway `"... Holding point [Point] Runway [Identifier]"`
-  - Give way `"...Give way to [Callsign/company] [Aircraft type]..."`
-  - Runway crossings `"...on [taxi-way] cross [runway]..."` Alternatively `"...Cross [Runway]..."`
-  
-  Readback: Readback all instructions as they were issued to you. Pen and paper doesn't hurt.
-
 ## Takeoff & Landing
-### Report Ready
-  on first contact with Tower, or when ready to depart, ensure you report ready for departure. As tower can't issue a take-off clearance untill you do so. There are 2 methods of doing this. 
-    
-  You can either report that you will be ready when you reach the holding point with `"[Station] [Callsign] ready upon reaching [Holding point]"`
+### Reporting Ready
+After receiving unrestricted taxi instructions to the holding point and after completing all necessary pre-takeoff checks, report 'ready' to ADC.
 
-  Else you can report that you're ready when waiting at the holding point with `"[Station] [Callsign] Ready [Holding point]"`
+!!! note "Format"
+    "*(ATC Unit)*, *(Callsign)*, ready"
 
-### Take-off clearance
- As a general rule, a take-off clearance will only consist of  `"[callsign][runway],clear for take-off"`
+!!! warning "Important"
+    In Australia, only international aircraft will be explicity transferred from SMC to ADC (and vice versa). Domestic aircraft should switch to the ADC frequency without direction from SMC when approaching the instructed holding point and when ready for departure.
 
-How ever, there may be special requirements that need to be followed like `"[Callsign][Runway],Clear for Imidiate take-off/no delay"` Or, `"[Callsign] Assigned heading xxx/[special requirements],[Runway] Clear for take-off"`
+### Takeoff Clearance
+ATC may provide departure instructions with a takeoff clearance, including an assigned heading or a turn instruction.
 
-With all clearances you are required to read back all special instructions/requirements. HOW EVER, if tower report new winds, winds readback not required.
+!!! example
+    "RXA6166, assigned heading left 230, runway 34L, cleared for takeoff"
 
-Take-off readback should look like: `"Cleared for take-off [Sepcial instructions] [Callsign]"`
+!!! warning "Important"
+    You must obtain departure instructions prior to commencing your takeoff roll if you have been cleared via a radar SID. If ATC fails to provide relevant instructions, it is your responsibility to query them.
 
-## Helicopter Operations
-Helicopters have the fun little quirk of being able/having to leave the ground to get around, even away from the runway. There are 2 ways of completing this, either air taxi, or air transit. ATC will decide which is best in the senario, usually prioritising air taxi.
+### Landing Clearance
+ATC may provide runway vacating instructions, wind information, and/or other relevant information with a landing clearance.
 
-Heli pilots should be ready to either depart from their position or to manuver to a helipad/runway
+!!! example
+    **SY ADC**: "QLK52D, the crossing runway is available to vacate, wind 180 degrees at 18kt, runway 16R, cleared to land"  
+    **QLK52D**: "16R, cleared to land, QLK52D"
 
-Request:`"[Station][Callsign] Ready for departure."`
+### Outside the Manoeuvring Area
+Helicopters and some light aircraft may operate from areas outside the manoeuvring area, such as hospital helipads or small airstrips inside the CTR, or other locations on the aerodrome. A takeoff/landing clearance **will not** be provided in these situations but approval must be sought to become airborne inside the control zone.
 
-### Air taxi
+After obtaining an airways clearance, ATC will instruct you to *'report airborne'* or *'report on the ground'*.
 
-A-Taxi clearance `"[Callsign] Airtaxi not above [Height] AGL, [Taxi instructions]"` (AGL standing for above ground level)
+!!! example
+    *RSCU201 is a VFR helicopter at St George Hospital (inside the Sydney CTR)*  
+    **RSCU201**: "Sydney Tower, helicopter RSCU201, St George Hospital, for YSBK, received F, ready"  
+    **SY ADC**: "RSCU201, cleared to YSBK direct, climb to A015 visual, squawk 0466, report airborne"  
+    **RSCU201**: "Cleared to YSBK direct, climb to A015 visual, squawk 0466, RSCU201"  
 
-Readback:`"Cleared air taxi not above [Height], [Taxi instructions],[Callsign]"`
+    **RSCU201**: "RSCU201, airborne"
 
-### Air Transit
+!!! example
+    *YOE is a VFR helicopter inbound on the Maroubra inbound helicopter route to YSSY*  
+    **YOE**: "Sydney Tower, helicopter YOE"  
+    **SY ADC**: "YOE, Sydney Tower, cleared visual approach to H8, report on the ground"  
+    **YOE**: "Cleared visual approach to H8, YOE"  
 
-A-Transit clearance`"[Callsign] Cleared air transit [destniation] not above [Height] AGL"`
-
-Readback:`"Cleared Air transit [Destniation] not above [Height][Callsign]"`
+    **YOE**: "YOE on the pad"
 
 ## Circuits
-You will know your circuit direction either from your clearance OR runway config, if there is any chance of missinterpretation tower will advise in take-off clearance. Tower may also specify "report downwind" as a reminder, how ever even if they don't specify this you must report downwind ALWAYS.
-### Take-off clearance
-Normal:`"[Callsign], runway [Identifier], clear for take-off"`
-Specified:`"[Callsign], Make [direction] Circuit, report downwind, runway [identifier] clear for take-off"`
+### Takeoff Clearance
+Unless it is implied by runway configuration or ERSA/[Local Procedure](../../local-procedures/), circuit direction will be nominated with takeoff clearance.
+
+!!! example
+    "LKU, make left circuit, runway 29L, cleared for takeoff"
 
 ### Downwind report
-<Sub>Reminder, you must always report turning onto or level on downwind with intentions </Sub>
+You must report downwind on each circuit, to advise ATC of your intentions.
 
-Turn, Touch and Go:`"[Callsign], turning downwind [Runway], touch and go"`
+!!! note "Format"
+    "*(Callsign)*, downwind, *(Intentions)*"
 
-Touch and Go:`"[Callsign] downwind [Runway] touch and go"`
-
-Turn, Full Stop:`"[Callsign] turning downwind [Runway] full stop"`
-
-Full Stop:`"[Callsign] downwind [Runway] Full stop"`
-
-Departure (not previously discussed):`"[Callsign] downwind [Runway] for departue to [Point/Destniation]"`
+| Intention | Meaning |
+| --------- | ------- |
+| Touch and Go | Conduct a touch and go |
+| Full Stop | Conduct a full stop landing |
+| Stop and Go | Land, come to a complete stop, then commence takeoff roll without vacating |
+| *(Details)* Departure | After a touch and go, depart the circuit area as described |
