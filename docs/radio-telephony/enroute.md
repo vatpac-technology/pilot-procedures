@@ -4,76 +4,50 @@
 
 --8<-- "includes/abbreviations.md"
 
-## contact Station on FREQ
+## Frequency Transfers
+After being instructed to contact an adjacent ATC unit, you must report your assigned level.
 
-When being asked to contact another sector, readback should look like the following:
+!!! example
+    "Melbourne Centre, QFA773, climbing to FL280"
 
-`Contact [Station] on [FREQ] [Callsign]` (you may add a note of goodbye or thanks how ever NOT recomended in events)
+!!! note
+    You should not report your *passing* level unless you have not yet been identified and you expect the new controller to have surveillance coverage at your position. The controller will ask you to verify your level in this case, so if in doubt, leave it out!
 
-### First contact with new station.
-They will be expecting you! unless they are your departure freq after leaving tower, all you have to say is:
+## STAR Clearance
+When issued a STAR clearance, you must read it back in its entirety, including any assigned runway and level instruction.
 
-`[Station] [Callsign] Gday/Hello`
+!!! example
+    **BLA**: "JST440, cleared LIZZI9A arrival, runway 16, maintain FL380"  
+    **JST440**: "Cleared LIZZI9A arrival, runway 16, maintain FL380, JST440"
 
-IF they are your first airborn controller (anything above a tower) you need to inform them what Altitude you are passing to the nearest 100ft. and If assigned to fly a heading that heading.
+If you require a particular runway or approach, you should inform ATC *before* you receive your STAR clearance. The more notice, the better.
 
-example on SY3 departure with assigned heading 170 and you call as you pass A023 cleared climb A050: `Sydney Approach Qantas zero six seven, climbing two tousand tree hundred on climb fife tousand`
+## Tracking Requests
+### Route Deviation
+In controlled airspace, you must obtain approval to deviate from your cleared route. For weather deviations, positioning the aircraft for the capture region of an instrument approach, or any other route deviation, request an appropriate distance left or right of route.
 
-## Controlled Airspace
+!!! note "Format"
+    "*(Callsign)*, request *(Distance)* miles *(Left/Right)* of route due *(Reason)*"
 
-### Strar clearance
+!!! example
+    **RXA6166**: "RXA6166, request 10 miles left of route due weather"  
+    **GUN**: "RXA6166, cleared up to 10 miles left of route, report clear of weather"  
+    **RXA6166**: "Cleared up to 10 miles left of route, RXA6166"
 
-Star clearances is what you use to get from your route to the landing runway. You are encouraged to think about you STAR once reaching cruise for Top of Descent planning. 
+### Change of Level
+Short, straight-forward requests like a change of level do not require a heads up to the controller.
 
-the star clearance from Center will sound as such: 
+!!! example
+    **JST12**: "JST12, request climb to FL400"  
+    **KEN**: "JST12, climb to FL400"  
+    **JST12**: "Climb to FL400, JST12"
 
-**Center**:`[Callsign], Star clearance, Cleared [STAR] arrival, runway [RWY], [Altitude instrucitons]`
+### Amended Route
+It is good practice to preface complicated or time consuming requests with some warning, so the controller can prepare themselves.
 
-**You**:`Cleared [STAR] Arrival, Runway [RWY], [Altitude instructions], [Callsign]`
-
-request to plan for a different approach (therefore ammded star)? This is only for changing from the cleared star
-
-**You**:`[Callsign], request [Ammended STAR] for [ammended Approach]`
-
-## Weather avoidance/amended tracking requests
-
-### Route deviation
-
-**You**:`Request to deviate up to [distance] miles [left/right] of route due [reason]`
-
-### Reroute request
-
-**You on center**:`"Center [Callsign] Request"`
-
-**Center on Center**:`"[Callsign] Go ahead"`
-
-**You on Center**:`"Request ammended routing [new routing]"`
-
-## Amended level requests
-
-**You on Center/APP**:`"[Station] [Callsign] Request"`
-
-**Station on Center/APP**:`"[Callsign go ahead]"`
-
-**You on Center or APP**:`"[Callsign] Request ammended 
-
-## Cleared to leave control area?
-
-APP or Center may say `"[Callsign] clear to leave control area [instruction], [traffic info], [QNH]"`
-
-So now we've gotta respond
-
-### On Decent
-
-Readback:**You on Center/APP** `"Clear to leave control area on decent [extra instructions], Copy the traffic, [QNH] [Callsign]"`
-
-This simply gives you the freedom to decend on your present track/routing till you clear of CTA then operate as required from there.
-
-### Direct / via
-
-Readback:**You on Center/APP** `"Clear to leave control area [instructions], copy the traffic, [QNH], [Callsign]"`
-
-## Uncontrolled Airspace
-- [Flight following](VFRFlightfollowing.md)
-
-**Others?**
+!!! example
+    **VOZ850**: "VOZ850, request"  
+    **ARL**: "VOZ850"  
+    **VOZ850**: "VOZ850, request amended tracking via CFS, BNA, CG, thence YBBN, due operational requirement"  
+    **ARL**: "VOZ850, recleared direct CFS, thence BNA, CG, YBBN, maintain FL370"  
+    **VOZ850**: "Recleared direct CFS, thence BNA, CG, YBBN, maintain FL370, VOZ850"
