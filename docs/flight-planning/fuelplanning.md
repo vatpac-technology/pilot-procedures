@@ -148,7 +148,7 @@ Add your required reserves to determine your calculated minimum fuel, then apply
 ### Inflight Fuel Emergencies
 As explained in [Reserve Fuel](#reserve-fuel), you are required to land with your Final Reserve fuel intact (untouched). During the course of normal operations, this should not be a problem. If, through poor planning or unexpected enroute delays, you are expecting to land with less than your Final Reserve fuel onboard, you must notify ATC, as per below.
 
-See [Radio Telephony - Emergency](../radio-telephony/emergency.md) for notes on how to communicate these emergencies over the radio.
+See [Radio Telephony - Emergency](../radio-telephony/emergency.md#fuel-emergencies) for notes on how to communicate these emergencies over the radio.
 
 #### Minimum Fuel
 You must declare `MINIMUM FUEL` to ATC when you are informed of a delay which will result in you using all of the holding fuel you have onboard. This means that the current delay will **not** result in you landing with less than your Final Reserve fuel onboard, but any *additional* delay will.
