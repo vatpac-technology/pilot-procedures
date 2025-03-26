@@ -1,5 +1,5 @@
 ---
-  title: Controlled Aerodromes
+  title: Aerodrome
 ---
 
 --8<-- "includes/abbreviations.md"

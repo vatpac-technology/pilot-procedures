@@ -1,5 +1,5 @@
 ---
-  title: IFR in Class G 
+  title: Enroute 
 ---
 
 --8<-- "includes/abbreviations.md"
