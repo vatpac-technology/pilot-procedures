@@ -52,7 +52,7 @@ When reading back a PDC, only the following items must be transmitted by the pil
 
 ## Pushback & Engine Start
 ### Engine Start
-Authorisation to commence engine start is generally not required, unless advised on the ATIS, the ERSA, or [Local Procedures](../../local-procedures/).
+Authorisation to commence engine start is generally not required, unless advised on the ATIS, the ERSA, or [Local Procedures](../../../local-procedures/).
 
 !!! note "Format"
     "*(ATC Unit)*, *(Callsign)*, *(Parking Position)*, request engine start"
@@ -141,7 +141,7 @@ After obtaining an airways clearance, ATC will instruct you to *'report airborne
 
 ## Circuits
 ### Takeoff Clearance
-Unless it is implied by runway configuration or ERSA/[Local Procedure](../../local-procedures/), circuit direction will be nominated with takeoff clearance.
+Unless it is implied by runway configuration or ERSA/[Local Procedure](../../../local-procedures/), circuit direction will be nominated with takeoff clearance.
 
 !!! example
     "LKU, make left circuit, runway 29L, cleared for takeoff"
