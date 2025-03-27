@@ -22,7 +22,7 @@ It is up to the discretion of the pilot in command as to whether to declare a Pa
 | Medical emergency | VFR in IMC |
 | Necessary weather avoidance in contradiction of ATC clearance | |
 
-## Urgency Call (PAN PAN)
+## Urgency Call (Pan Pan)
 An urgency call should be made when an aircraft requires urgent assistance but there is not an *immediate* threat to life.
 
 !!! note "Format"
@@ -32,7 +32,7 @@ An urgency call should be made when an aircraft requires urgent assistance but t
     **JST430**: "Pan Pan, Melbourne Centre, JST430, engine failure, descending to F210, 178 POB"  
     **ML CTR**: "JST430, roger Pan"
 
-## Distress Call (MAYDAY)
+## Distress Call (Mayday)
 A distress call should be made when an aircraft requires urgent assistance and there is an immediate threat to life.
 
 !!! note "Format"
