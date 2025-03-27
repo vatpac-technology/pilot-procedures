@@ -1,5 +1,5 @@
 ---
-  title: VFR Flight Following
+  title: Flight Following
 ---
 
 --8<-- "includes/abbreviations.md"
