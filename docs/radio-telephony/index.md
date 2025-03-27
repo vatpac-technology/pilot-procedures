@@ -14,6 +14,98 @@ It is important that you don't interrupt an ongoing conversation on frequency, w
 
 When switching to a new frequency, you should wait 3-5 seconds to ensure that another interaction is not taking place, then pass your message.
 
+## Transmission of Numbers
+### Callsigns
+Numbers should be grouped in pairs, from right to left.
+
+| Callsign | Phraseology | Logon Code |
+| ------ | ---------- | ------- |
+| Qantas 1 | Qantas one | QFA1 |
+| Jetstar 23 | Jetstar twenty three | JST23 |
+| Virgin Australia 844 | Velocity eight forty four | VOZ844 |
+| Rex 6166 | Rex sixty one sixty six | RXA6166 |
+| RA-Aus registered 24-5236 | Jabiru fifty two thirty six | R5236 |
+| VH-FEK *(on flights within Australian FIR)* | Foxtrot Echo Kilo | FEK |
+| VH-FEK *(on flights entering, leaving, or outside Australian FIR)* | Victor Hotel Foxtrot Echo Kilo | VHFEK |
+
+!!! tip
+    For a list of common operator radio designators, see [Operator Callsigns](operatorcallsigns.md).
+
+When transmitting on a CTAF, the aircraft type should precede the callsign when making initial calls. When making an initial call on any frequency, helicopters should prefix their callsign with *'helicopter'*.
+
+### Navigation
+#### Altitudes
+| Element | Phraseology |
+| ------- | ----------- |
+| 300ft | Three hundred feet |
+| 1,800ft | One thousand eight hundred feet |
+| 10,000ft | One zero thousand feet |
+| 7,000ft | Seven thousand feet |
+| FL160 | Flight level one six zero |
+| FL300 | Flight level three hundred |
+
+#### Headings
+| Element | Phraseology |
+| ------- | ----------- |
+| 130 | Heading one three zero |
+| 025 | Heading zero two five |
+| 200 | Heading two zero zero |
+
+#### Mach Number
+| Element | Phraseology |
+| ------- | ----------- |
+| 0.78 | Mach decimal seven eight |
+| 0.80 | Mach decimal eight zero |
+
+#### Altimeter Setting
+| Element | Phraseology |
+| ------- | ----------- |
+| 1024 | QNH one zero two four |
+| 1000 | QNH one thousand |
+| 997 | QNH nine nine seven |
+
+#### Transponder Code
+| Element | Phraseology |
+| ------- | ----------- |
+| 1200 | Squawk one two zero zero |
+| 2000 | Squawk two thousand |
+| 3645 | Squawk three six four five |
+
+#### Time
+| Element | Phraseology |
+| ------- | ----------- |
+| 0612 | Time zero six one two<br>Time one two *(if hour is the current hour)* |
+| 2245 | Time two two four five<br>Time four five *(if hour is the current hour)* |
+
+### Meteorology
+#### Visibility
+| Element | Phraseology |
+| ------- | ----------- |
+| 800m | Eight hundred metres |
+| 2,400m | Two thousand four hundred metres |
+| 7,000m | Seven kilometres |
+
+!!! note
+    Visibility distances up to and including 5km are referred to in **metres**. Distances greater than 5km are referred to in **kilometres**.
+
+#### Wind
+| Element | Phraseology |
+| ------- | ----------- |
+| 020°/15 kt | Zero two zero degrees, one five knots |
+| 350°/20 kt | Three five zero degrees, two zero knots |
+| 100°/18G30 kt | One zero zero degrees, one eight knots gusting three zero |
+
+## Radio Checks
+In response to a radio check, or when providing feedback on the quality of a transmission, the following scale is to be used.
+
+| Value | Meaning |
+| ---- | ---- |
+| 1 | Unreadable |
+| 2 | Readable now and then |
+| 3 | Readable but with difficulty |
+| 4 | Readable |
+| 5 | Perfectly readable |
+
 ## Reporting Requirements
 Pilots are expected to make reports to ATC in the following scenarios:
 
