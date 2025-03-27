@@ -30,7 +30,7 @@ In response, ATC will provide an airways clearance (where available), if not alr
     "*(Callsign)*, departed *(Location)* *(Time of Departure)*, tracking *(Outbound Track)*, climbing to *(Requested Level)*, estimating *(First Waypoint)* at *(ETA)*" 
 
 !!! example 
-    "EWQ, departed YQLP 18, tracking 076, climbing to FL130, estimating CV at 51"
+    "EWQ, departed YQLP 18, tracking 076, climbing to F130, estimating CV at 51"
 
 ### Descent 
 As you approach top of descent, ATC will provide a clearance to leave CTA (if required) and a traffic statement for your arrival, as well as the current area QNH.

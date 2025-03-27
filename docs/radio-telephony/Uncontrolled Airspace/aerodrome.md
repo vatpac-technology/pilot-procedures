@@ -29,7 +29,7 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
     **QLK101D**: "Squawk 1202, wilco, QLK101D"  
 
     **QLK101D**: "QLK101D, lined up"  
-    **INL**: "QLK101D, cleared to YSSY via SORTI, flight planned route, climb to FL120"  
-    **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to FL120, QLK101D"
+    **INL**: "QLK101D, cleared to YSSY via SORTI, flight planned route, climb to F120"  
+    **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to F120, QLK101D"
 
 ## CTAF Frequency
