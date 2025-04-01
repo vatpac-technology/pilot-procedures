@@ -1,5 +1,5 @@
 ---
-  title: Terminal Areas
+  title: Terminal Areas (TODO)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -9,6 +9,6 @@
 - Climb/descent via SID/STAR
 - Being taken off a SID/STAR
 - Cleared for instrument approach
+- Cleared for instrument approach leaving CTA (YMAV, YSBK)
 - Cleared for visual approach
-- Leave CTA descending
 - Others?

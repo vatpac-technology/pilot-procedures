@@ -1,8 +1,4 @@
 Title: Radio Telephony
 nav:
     - "Overview": index.md
-    - "General": general.md
-    - "Class Golf operations": ClassGifr.md
-    - "Enroute": enroute.md
-    - "Controlled Aerodromes": controlledaerodromes.md
     - ...

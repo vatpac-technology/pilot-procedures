@@ -4,7 +4,7 @@ The VATPAC Pilot Procedures site is an open-source collaborative project allowin
 
 ## Contributing
 
-Contribution guidelines can be found within the project under [Assist Us](https://vatpac-technology.github.io/pilot-resources/assist-us/). 
+Contribution guidelines can be found within the project under [Assist Us](https://vatpac-technology.github.io/pilot-procedures/assist-us/). 
 
 **Before contributing** you should liaise with the VATPAC ATS Team to ascertain whether that particular procedure is needed. There is a fine-line between enabling a realistic service, and making our procedures easy to navigate and understand.  
 
