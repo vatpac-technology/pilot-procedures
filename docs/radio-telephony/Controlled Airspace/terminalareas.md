@@ -1,5 +1,5 @@
 ---
-  title: Terminal Areas
+  title: Terminal Areas (TODO)
 ---
 
 --8<-- "includes/abbreviations.md"
