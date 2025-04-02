@@ -158,3 +158,9 @@ You must report downwind on each circuit, to advise ATC of your intentions.
 | Full Stop | Conduct a full stop landing |
 | Stop and Go | Land, come to a complete stop, then commence takeoff roll without vacating |
 | *(Details)* Departure | After a touch and go, depart the circuit area as described |
+
+Any non-standard approach (such as a glide approach or practice autorotation) must be requested with the downwind report.
+
+!!! example
+    **LKU**: "LKU, downwind, touch and go, request glide approach"  
+    **BK ADC**: "LKU, glide approach approved, cleared touch and go"
