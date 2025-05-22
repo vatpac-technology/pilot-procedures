@@ -40,16 +40,7 @@ As you approach top of descent, ATC will provide a clearance to leave CTA (if re
     **EWQ**: "When ready leave controlled airspace descending, area QNH 1021, EWQ"
 
 ### Arrival
-After landing at your destination, or where insufficient radio coverage exists on the ground, at a suitable time during your arrival, report your arrival to ATC and cancel your SARWATCH.
-
-!!! note "Format"
-    "*(Callsign)*, *(Location)*, cancel SARWATCH"
-
-!!! example
-    **EWQ**: "EWQ, Charleville, cancel SARWATCH"  
-    **ISA**: "EWQ, Charleville SARWATCH terminated"
-
-SARWATCH termination is not required to be read back by the pilot. Once your SARWATCH has been terminated, your flight has finished in the eyes of ATC. No further services will be provided to you.
+For SARWATCH cancellation phraseology, see [Aerodrome](aerodrome.md#arrival).
 
 ## VFR Flight Following
 Flight following provides VFR aircraft operating in Class E and G airspace with a surveillance service. The service is only available within ATS surveillance coverage and subject to ATC workload. Pilots will receive:

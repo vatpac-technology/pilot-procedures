@@ -6,7 +6,7 @@
 
 ## ATS Frequency
 ### Taxi
-Immediately prior to, or during, taxi at a Class G aerodrome, make a taxi report to the enroute or terminal controller managing the overlying controlled airspace.
+Immediately prior to, or during, taxi at a Class G aerodrome, IFR aircraft must make a taxi report to the enroute or terminal controller managing the overlying airspace.
 
 !!! note "Format"
     "*(ATC Unit)*, *(Callsign)*, *(Aircraft Type)*, [*(Persons on Board)* POB], IFR, taxiing *(Location)* for *(Destination)*, runway *(Departure Runway)*"
@@ -31,6 +31,33 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
     **QLK101D**: "QLK101D, lined up"  
     **INL**: "QLK101D, cleared to YSSY via SORTI, flight planned route, climb to F120"  
     **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to F120, QLK101D"
+
+#### Poor Radio Reception
+Where poor radio reception precludes establishing contact with ATS on the ground, report airborne to commence your SARWATCH service.
+
+!!! note "Format"
+    "*(ATC Unit)*, *(Callsign)*, airborne *(Location)*"
+
+After establishing contact, [report your departure](enroute.md#departure).
+
+!!! example
+    **IBU**: "Melbourne Centre, IBU, airborne YMRY"  
+    **WOL**: "IBU, squawk 3277, no reported IFR traffic"  
+    **IBU**: "Squawk 3277, departed YMRY 44, tracking 340, climbing to A080, estimating ATGOD at 12, IBU"  
+    **WOL**: "IBU, no reported IFR traffic for climb to A080, area QNH 1009"  
+    **IBU**: "Area QNH 1009, IBU"
+
+### Arrival
+After landing at their destination, or where insufficient radio coverage exists on the ground, at a suitable time during their arrival, IFR aircraft must report their arrival to ATC and cancel their SARWATCH.
+
+!!! note "Format"
+    "*(Callsign)*, *(Location)*, cancel SARWATCH"
+
+!!! example
+    **EWQ**: "EWQ, Charleville, cancel SARWATCH"  
+    **ISA**: "EWQ, Charleville SARWATCH terminated"
+
+SARWATCH termination is not required to be read back by the pilot. Once your SARWATCH has been terminated, your flight has finished in the eyes of ATC. No further services will be provided to you.
 
 ## CTAF Frequency
 When operating within, or approaching, the vicinity of a non-controlled aerodrome, you should tune the appropriate CTAF and make broadcast radio calls as deemed appropriate.
