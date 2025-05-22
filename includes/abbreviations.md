@@ -264,3 +264,4 @@
 *[GAF]: Graphical Area Forecast
 *[SIGWX]: Significant Weather
 *[VFRG]: Visual Flight Rules Guide
+*[CTAF]: Common Traffic Advisory Frequency
