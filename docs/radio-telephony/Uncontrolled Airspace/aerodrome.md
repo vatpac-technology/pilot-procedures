@@ -33,7 +33,7 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
     **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to F120, QLK101D"
 
 ## CTAF Frequency
-When operating within, or approach, the vicinity of a non-controlled aerodrome, you should tune the appropriate CTAF and make broadcast radio calls as deemed appropriate.
+When operating within, or approaching, the vicinity of a non-controlled aerodrome, you should tune the appropriate CTAF and make broadcast radio calls as deemed appropriate.
 
 !!! note "Format"
     "*(Location)* traffic, [*(Aircraft Type)*] *(Callsign)*, *(Message)*, *(Location)*"
