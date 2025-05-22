@@ -36,6 +36,7 @@
 *[GLS]: GBAS Landing System
 *[ACD]: Airways Clearance Delivery
 *[ATIS]: Automatic Terminal Information Service
+*[AWIS]: Automatic Weather Information Service
 *[NOTAM]: Notice to Airmen
 *[CTA]: Controlled Airspace
 *[CCT]: Circuit
@@ -259,3 +260,7 @@
 *[NVIS]: Night Vision Imaging System
 *[INS]: Inertial Navigation System
 *[PDC]: Pre-Departure Clearance
+*[NAIPS]: National Aeronautical Information Processing System
+*[GAF]: Graphical Area Forecast
+*[SIGWX]: Significant Weather
+*[VFRG]: Visual Flight Rules Guide
