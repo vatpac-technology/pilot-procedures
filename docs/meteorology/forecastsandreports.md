@@ -64,7 +64,7 @@ METARs/SPECIs follow a specific format which makes interpreting them straightfor
         J[QNH] --- K[Other Remarks];
     ```
 
-Visibility, weather, and cloud will be omitted when the requirements of CAVOK are met.
+Visibility, weather, and cloud will be omitted when the requirements of CAVOK are met. Any element which is not available (due sensor failure or otherwise) will be replaced by forward slashes.
 
 !!! example
     `METAR YSSY 220000Z 13011KT 9999  SHOWERS IN VICINITY SCT035 SCT045 BKN055 19/17 Q1019 RMK RF00.0/000.4`
