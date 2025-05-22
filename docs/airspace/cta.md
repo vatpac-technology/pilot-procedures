@@ -1,5 +1,5 @@
 ---
-  title: Operations in CTA
+  title: Operations in CTA (TODO)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -26,6 +26,10 @@
     - Instruction on how to comply with waypoint crossing time
 - Hold exit time tolerance
     - Instruction on how to comply with hold exit time
+- Speed instructions
+    - What min/max speed means and what to reply with
+    - Self cancelling speed restrictions
+    - Speed restrictions on transition (M78/250)
 
 ## Separation Standards
 - Different classes of airspace and what separation services are provided by ATC (e.g. class C - IFR sep from all, VFR sep from IFR, VFR traffic info on VFR)

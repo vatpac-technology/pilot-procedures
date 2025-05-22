@@ -75,7 +75,11 @@ markdown_extensions:
       toc_class: custom-toc
   - meta # Add front matter to a document
   - admonition # Makes things pretty
-  - pymdownx.superfences # Nestled code
+  - pymdownx.superfences: # Nestled code
+      custom_fences: # Native flow diagrams
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list # Add HTML attributes and CSS classes to Markdown elements
   - pymdownx.tabbed: # Content tabs
       alternate_style: true

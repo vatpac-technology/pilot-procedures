@@ -33,7 +33,7 @@ In response, ATC will provide an airways clearance (where available), if not alr
     "EWQ, departed YQLP 18, tracking 076, climbing to F130, estimating CV at 51"
 
 ### Descent 
-As you approach top of descent, ATC will provide a clearance to leave CTA (if required) and a traffic statement for your arrival, as well as the current area QNH.
+As you approach top of descent, ATC will provide a clearance to leave CTA (if required) and a traffic statement for your arrival, as well as the current area QNH (if cruising above the transition layer).
 
 !!! example
     **ISA**: "EWQ, when ready leave controlled airspace descending, no reported IFR traffic, area QNH 1021"  
@@ -43,7 +43,7 @@ As you approach top of descent, ATC will provide a clearance to leave CTA (if re
 After landing at your destination, or where insufficient radio coverage exists on the ground, at a suitable time during your arrival, report your arrival to ATC and cancel your SARWATCH.
 
 !!! note "Format"
-    "(Callsign), (Location), cancel SARWATCH"
+    "*(Callsign)*, *(Location)*, cancel SARWATCH"
 
 !!! example
     **EWQ**: "EWQ, Charleville, cancel SARWATCH"  
@@ -51,12 +51,43 @@ After landing at your destination, or where insufficient radio coverage exists o
 
 SARWATCH termination is not required to be read back by the pilot. Once your SARWATCH has been terminated, your flight has finished in the eyes of ATC. No further services will be provided to you.
 
-## VFR Flight Following (TODO)
-- Initial call (position, request)
-- Expected response (traffic and AQNH)
-- Requirement to inform ATC of any changes
-- Cancellation of service by pilot
-- Termination of service by ATC
+## VFR Flight Following
+Flight following provides VFR aircraft operating in Class E and G airspace with a surveillance service. The service is only available within ATS surveillance coverage and subject to ATC workload. Pilots will receive:
+
+- Traffic information on any potentially conflicting aircraft
+- Area QNH and meteorological hazard information
+- Position/navigational assistance (on request)
+
+### Initiating the Service
+To request flight following, establish contact with the ATS unit responsible for the airspace.
+
+!!! note "Format"
+    "*(Callsign)*, request flight following"
+
+If flight following is not available, the controller will advise *"surveillance not available"*. Otherwise, they will request your position and intentions, and may provide a squawk code to aid in identification.
+
+!!! example
+    **VFC**: "Melbourne Centre, Piper Warrior VFC, request flight following"  
+    **GUN**: "VFC, squawk 0455, report position and intentions"  
+    **VFC**: "Squawk 0455, currently 15nm southeast of YBTH, A065, tracking for YTEM, VFC"  
+    **GUN**: "VFC, identified, no reported traffic, area QNH 1022"  
+    **VFC**: "Area QNH 1022, VFC"
+
+### Notifying ATS of Changes
+Whilst receiving a surveillance service, you must notify ATC prior to changing frequencies or making any change to your track/level. See [Enroute Requests](#enroute-requests) for the phraseology to use.
+
+### Cancelling the Service
+Flight following may be cancelled by the pilot at any time.
+
+!!! note "Format"
+    "*(Callsign)*, cancel flight following"
+
+The service may also be terminated by the controller due to workload or lack of surveillance coverage. In either case, you will be advised *"identification service terminated"* when you are no longer being offered a surveillance serve.
+
+!!! example
+    **VFC**: "VFC, cancel flight following"  
+    **GUN**: "VFC, identification service terminated, squawk 1200, frequency change approved"  
+    **VFC**: "Squawk 1200, frequency change approved, VFC"
 
 ## Enroute Requests
 When established outside of controlled airspace, there is no requirement for authorisation to change your flightpath. However, when receiving an identification service, you must obtain traffic information on any change you will shortly commence, to ensure that doing so doesn't cause conflict with other aircraft.

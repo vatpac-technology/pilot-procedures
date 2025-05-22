@@ -33,3 +33,24 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
     **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to F120, QLK101D"
 
 ## CTAF Frequency
+When operating within, or approaching, the vicinity of a non-controlled aerodrome, you should tune the appropriate CTAF and make broadcast radio calls as deemed appropriate.
+
+!!! note "Format"
+    "*(Location)* traffic, [*(Aircraft Type)*] *(Callsign)*, *(Message)*, *(Location)*"
+
+You are only required to make a radio broadcast on a CTAF where you consider it necessary to avoid a collision with another aircraft. However, common sense would suggest that regular, structured broadcasts are the best way to mitigate potential conflict and aid other pilots in their situational awareness.
+
+### Recommended Calls
+It is recommended that you make a broadcast in the following situations:
+
+- Immediately before, or during, taxi for departure
+- Immediately before entering a runway
+- When inbound to the CTAF, at a distance of 10nm or greater (especially for high performance aircraft)
+- Immediately before joining the circuit
+- For a straight in approach or instrument approach, established on not less than a 3nm final
+- When clear of all runways after landing
+
+!!! example
+    "YMBA traffic, Cessna 172 UWA, 10nm north of the field, passing A036 on descent, inbound, estimating the circuit area at 44, YMBA"
+
+Pilots should reply to any received broadcast with their own position and intentions (and any other relevant information) where they deem potential for conflict.
