@@ -9,10 +9,10 @@ Use this page to track each page/section as you work on it. This will avoid mult
 | Section | Page (if applicable) | Status | Editor |
 | --- | --- | --- | --- |
 | Airspace | | To Do | |
-| Radio Telephony | | In Progress | Jamie K |
+| Radio Telephony | | In Progress | Matt K |
 | Navigation | | To Do | |
 | Flight Planning | | In Progress | Matt K |
-| Meteorology | | To Do | |
+| Meteorology | | In Progress | Matt K |
 | Local Procedures | | To Do | |
 | Local Procedures | Melbourne | In Progress | Alex D (1697854) |
 
