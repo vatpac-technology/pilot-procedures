@@ -7,7 +7,7 @@
 When **not identified**, pilots must provide position reports to update ATC on their location. This can be expected over the ocean and at low altitude in remote areas. ATC will tell aircraft when they are identified, usually immediately upon departure.
 
 !!! note "Format"
-    "*(Callsign)* position *(Significant Point)* *(Time)*, *(Level/Altitude)*, estimating *(Next Waypoint)* time *(ETA)*, *(Ensuing Waypoint)* next"
+    "<span class='placeholder'>Callsign</span> position <span class='placeholder'>Significant Point</span> <span class='placeholder'>Time</span>, <span class='placeholder'>Level/Altitude</span>, estimating <span class='placeholder'>Next Waypoint</span> time <span class='placeholder'>ETA</span>, <span class='placeholder'>Ensuing Waypoint</span> next"
 
 !!! example
     **QTR17G**: "QTR17G, Position"  

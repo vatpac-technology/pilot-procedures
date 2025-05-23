@@ -55,16 +55,16 @@ Example radio calls should take the following format:
     **HUO**: "VOZ1545, descend to FL130" 
 
 ### Phraseology Formatting
-To maintain consistency with the format used in AIP GEN, wrap pieces of information which should be replaced by actual data by the pilot in brackets and italicize them. Any optional items should be wrapped in square brakets.
+To maintain consistency across the site, wrap pieces of information which should be replaced by actual data by the pilot in `<span>`s with class `placeholder`. Any optional items should be wrapped in square brakets and `<span>`s with class `optional`.
 
 Radio call formats should be wrapped in a `!!! note "Format"` admonition. In situations where the context makes it obvious that the contents are the format of the call, you can remove the header with ```!!! note ""`. Consider following a Format admonition with an Example admonition, for clarity.
 
 ``` md
-    *(ATC unit)*, *(aircraft callsign)*, descending to *(cleared level)*, received *(ATIS identifier)*, *[(inflight conditions)]*
+    <span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Aircraft Callsign</span>, descending to <span class='placeholder'>Cleared Level</span>, received <span class='placeholder'>ATIS Identifier</span>, <span class='optional'>[<span class='placeholder'>Inflight Conditions</span>]</span>
 ```
 
 !!! example
     Contact Adelaide Approach and request clearance for the procedure.
 
     !!! note "Format"
-        "Adelaide Approach, *(your callsign)*, *(your position)*, *(your altitude)*, received *(ATIS identifier)*, request coastal northbound"
+        "Adelaide Approach, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Position</span>, <span class='placeholder'>Level</span>, received <span class='placeholder'>ATIS Identifier</span>, request coastal northbound"

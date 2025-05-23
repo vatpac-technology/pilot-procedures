@@ -20,14 +20,14 @@ In response, ATC will provide an airways clearance (where available), if not alr
 
 #### Identified
 !!! note "Format"
-    "*(Callsign)*, *(Position)*, passing *(Current Level)*, climbing to *(Requested Level)*, estimating *(First Waypoint)* at *(ETA)*"  
+    "<span class='placeholder'>Callsign</span>, <span class='placeholder'>Position</span>, passing <span class='placeholder'>Current Level</span>, climbing to <span class='placeholder'>Requested Level</span>, estimating <span class='placeholder'>First Waypoint</span> at <span class='placeholder'>ETA</span>"  
 
 !!! example 
     "QLK101D, 3nm southwest of Coffs Harbour, passing A043, climbing to F180, estimating SORTI at 43"
 
 #### Not Identified
 !!! note "Format" 
-    "*(Callsign)*, departed *(Location)* *(Time of Departure)*, tracking *(Outbound Track)*, climbing to *(Requested Level)*, estimating *(First Waypoint)* at *(ETA)*" 
+    "<span class='placeholder'>Callsign</span>, departed <span class='placeholder'>Location</span> <span class='placeholder'>Time of Departure</span>, tracking <span class='placeholder'>Outbound Track</span>, climbing to <span class='placeholder'>Requested Level</span>, estimating <span class='placeholder'>First Waypoint</span> at <span class='placeholder'>ETA</span>" 
 
 !!! example 
     "EWQ, departed YQLP 18, tracking 076, climbing to F130, estimating CV at 51"
@@ -40,16 +40,7 @@ As you approach top of descent, ATC will provide a clearance to leave CTA (if re
     **EWQ**: "When ready leave controlled airspace descending, area QNH 1021, EWQ"
 
 ### Arrival
-After landing at your destination, or where insufficient radio coverage exists on the ground, at a suitable time during your arrival, report your arrival to ATC and cancel your SARWATCH.
-
-!!! note "Format"
-    "*(Callsign)*, *(Location)*, cancel SARWATCH"
-
-!!! example
-    **EWQ**: "EWQ, Charleville, cancel SARWATCH"  
-    **ISA**: "EWQ, Charleville SARWATCH terminated"
-
-SARWATCH termination is not required to be read back by the pilot. Once your SARWATCH has been terminated, your flight has finished in the eyes of ATC. No further services will be provided to you.
+For SARWATCH cancellation phraseology, see [Aerodrome](aerodrome.md#arrival).
 
 ## VFR Flight Following
 Flight following provides VFR aircraft operating in Class E and G airspace with a surveillance service. The service is only available within ATS surveillance coverage and subject to ATC workload. Pilots will receive:
@@ -62,7 +53,7 @@ Flight following provides VFR aircraft operating in Class E and G airspace with 
 To request flight following, establish contact with the ATS unit responsible for the airspace.
 
 !!! note "Format"
-    "*(Callsign)*, request flight following"
+    "<span class='placeholder'>Callsign</span>, request flight following"
 
 If flight following is not available, the controller will advise *"surveillance not available"*. Otherwise, they will request your position and intentions, and may provide a squawk code to aid in identification.
 
@@ -80,7 +71,7 @@ Whilst receiving a surveillance service, you must notify ATC prior to changing f
 Flight following may be cancelled by the pilot at any time.
 
 !!! note "Format"
-    "*(Callsign)*, cancel flight following"
+    "<span class='placeholder'>Callsign</span>, cancel flight following"
 
 The service may also be terminated by the controller due to workload or lack of surveillance coverage. In either case, you will be advised *"identification service terminated"* when you are no longer being offered a surveillance serve.
 
@@ -93,7 +84,7 @@ The service may also be terminated by the controller due to workload or lack of 
 When established outside of controlled airspace, there is no requirement for authorisation to change your flightpath. However, when receiving an identification service, you must obtain traffic information on any change you will shortly commence, to ensure that doing so doesn't cause conflict with other aircraft.
 
 !!! note "Format"
-    "*(Callsign)*, request traffic for *(intended change)*"
+    "<span class='placeholder'>Callsign</span>, request traffic for <span class='placeholder'>intended change</span>"
 
 !!! example
     **FWC**: "FWC, request traffic direct ARMWD"  

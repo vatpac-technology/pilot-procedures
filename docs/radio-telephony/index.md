@@ -4,6 +4,16 @@
 
 --8<-- "includes/abbreviations.md"
 
+## Site Formatting Conventions
+All radio format examples follow a consistent convention to maximise clarity across the site.
+
+**Placeholder** items which should be replaced with actual callsigns, altitudes, positions, etc. are italicized and highlighted in <span class="placeholder">orange</span>.
+
+**Optional** items which are not required to be included but may be relevant based on the situation at hand are wrapped in <span class="optional">[blue]</span> square brackets.
+
+!!! example
+    This <span class='placeholder'>word</span> is a placeholder, this <span class="optional">[word]</span> is optional, and <span class="optional">[<span class='placeholder'>these words</span>]</span> are both.
+
 ## General Radio Tips
 The key to a successful flight is often the smaller details, one of which being efficient, timely use of the radio. Pilots should strive to keep their radio calls as clear, concise, and standardised as possible.
 
