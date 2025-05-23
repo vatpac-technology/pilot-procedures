@@ -26,7 +26,7 @@ It is up to the discretion of the pilot in command as to whether to declare a Pa
 An urgency call should be made when an aircraft requires urgent assistance but there is not an *immediate* threat to life.
 
 !!! note "Format"
-    "Pan Pan, [Pan Pan, Pan Pan], *(ATC Unit)*, *(Callsign)*, *(Nature of Emergency)*, *(Intentions)*, *[(Position, Level, Heading)]*, *[(Any Other Useful Info)]*"
+    "Pan Pan, <span class='optional'>[Pan Pan, Pan Pan]</span>, <span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Nature of Emergency</span>, <span class='placeholder'>Intentions</span>, <span class='optional'>[<span class='placeholder'>Position, Level, Heading</span>]</span>, <span class='optional'>[<span class='placeholder'>Any Other Useful Info</span>]</span>"
 
 !!! example
     **JST430**: "Pan Pan, Melbourne Centre, JST430, engine failure, descending to F210, 178 POB"  
@@ -36,7 +36,7 @@ An urgency call should be made when an aircraft requires urgent assistance but t
 A distress call should be made when an aircraft requires urgent assistance and there is an immediate threat to life.
 
 !!! note "Format"
-    "Mayday [Mayday Mayday], *(ATC Unit)*, *(Callsign)*, *(Nature of Emergency)*, *(Intentions)*, *[(Position, Level, Heading)]*, *[(Any Other Useful Info)]*"
+    "Mayday <span class='optional'>[Mayday Mayday]</span>, <span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Nature of Emergency</span>, <span class='placeholder'>Intentions</span>, <span class='optional'>[<span class='placeholder'>Position, Level, Heading</span>]</span>, <span class='optional'>[<span class='placeholder'>Any Other Useful Info</span>]</span>"
 
 !!! example
     **VOZ881**: "Mayday Mayday Mayday, Adelaide Approach, VOZ881, engine fire, require immediate return to Adelaide, 144 POB"  
@@ -47,7 +47,7 @@ See [Fuel Planning](../flight-planning/fuelplanning.md#inflight-fuel-emergencies
 
 ### Minimum Fuel
 !!! note "Format"
-    "*(Callsign)*, minimum fuel"
+    "<span class='placeholder'>Callsign</span>, minimum fuel"
 
 ### Mayday Fuel
 !!! note "Format"

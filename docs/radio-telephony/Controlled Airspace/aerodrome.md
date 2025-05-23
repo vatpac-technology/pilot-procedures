@@ -7,7 +7,7 @@
 ## Airways Clearance
 ### Route Clearances
 !!! note "Format"
-    "*(ATC Unit)*, *(Callsign)*, to *(Destination)*, request clearance"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, to <span class='placeholder'>Destination</span>, request clearance"
 
 ATC will respond with an airways clearance. During your readback, you should advise them of your parking bay (if known).
 
@@ -24,7 +24,7 @@ ATC will respond with an airways clearance. During your readback, you should adv
 
 ### Circuits
 !!! note "Format"
-    "*(ATC Unit)*, *(Callsign)*, for circuits, request clearance"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, for circuits, request clearance"
 
 In response, ATC will issue a clearance to operate in the circuit area, not above an appropriate altitude. A squawk code will not always be issued.
 
@@ -55,16 +55,16 @@ When reading back a PDC, only the following items must be transmitted by the pil
 Authorisation to commence engine start is generally not required, unless advised on the ATIS, the ERSA, or [Local Procedures](../../../local-procedures/).
 
 !!! note "Format"
-    "*(ATC Unit)*, *(Callsign)*, *(Parking Position)*, request engine start"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Parking Position</span>, request engine start"
 
 ### Pushback
 !!! note "Format"
-    "*(Callsign)*, *(Parking Position)*, request pushback"
+    "<span class='placeholder'>Callsign</span>, <span class='placeholder'>Parking Position</span>, request pushback"
 
 ## Taxi
 ### Fixed Wing
 !!! note "Format"
-    "*(Callsign)*, *(ATIS Code)*, request taxi, *[(Desired Holding Point)]*"
+    "<span class='placeholder'>Callsign</span>, <span class='placeholder'>ATIS Code</span>, request taxi, <span class='optional'>[<span class='placeholder'>Desired Holding Point</span>]</span>"
 
 In response, ATC will provide taxi instructions to the runway or to an intermediate point if required. Where unrestricted taxi to the runway (or your parking bay) is not immediately available, you may receive instructions to hold short of a position or give way to other aircraft.
 
@@ -97,7 +97,7 @@ Helicopter pilots should generally nominate which method they would like to use,
 After receiving unrestricted taxi instructions to the holding point and after completing all necessary pre-takeoff checks, report 'ready' to ADC.
 
 !!! note "Format"
-    "*(ATC Unit)*, *(Callsign)*, ready"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, ready"
 
 !!! warning "Important"
     In Australia, only international aircraft will be explicity transferred from SMC to ADC (and vice versa). Domestic aircraft should switch to the ADC frequency without direction from SMC when approaching the instructed holding point and when ready for departure.
@@ -150,14 +150,14 @@ Unless it is implied by runway configuration or ERSA/[Local Procedure](../../../
 You must report downwind on each circuit, to advise ATC of your intentions.
 
 !!! note "Format"
-    "*(Callsign)*, downwind, *(Intentions)*"
+    "<span class='placeholder'>Callsign</span>, downwind, <span class='placeholder'>Intentions</span>"
 
 | Intention | Meaning |
 | --------- | ------- |
 | Touch and Go | Conduct a touch and go |
 | Full Stop | Conduct a full stop landing |
 | Stop and Go | Land, come to a complete stop, then commence takeoff roll without vacating |
-| *(Details)* Departure | After a touch and go, depart the circuit area as described |
+| <span class='placeholder'>Details</span> Departure | After a touch and go, depart the circuit area as described |
 
 Any non-standard approach (such as a glide approach or practice autorotation) must be requested with the downwind report.
 

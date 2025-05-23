@@ -16,6 +16,8 @@
     --md-typeset-a-color: rgb(104, 148, 230);
     --hotline: #fff820a1;
     --coldline: #35b9ff66;
+    --placeholder: #cf6400;
+    --optional: #0fa6b1;
   }
   
   [data-md-color-scheme="slate"] {
@@ -31,6 +33,8 @@
     --md-typeset-a-color: rgb(104, 148, 230);
     --hotline: #b7b10291;
     --coldline: #16aeff6e;
+    --placeholder: #ff7b00;
+    --optional: #13bbc7;
   }
   
   /*Header Modifications*/
@@ -119,6 +123,13 @@
   }
   .coldline {
     background-color: var(--coldline);
+  }
+  .placeholder {
+    color: var(--placeholder) !important;
+    font-style: italic;
+  }
+  .optional {
+    color: var(--optional);
   }
   .indented {
     display: block;

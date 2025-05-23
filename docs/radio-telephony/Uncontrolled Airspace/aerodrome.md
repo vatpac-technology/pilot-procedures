@@ -9,7 +9,7 @@
 Immediately prior to, or during, taxi at a Class G aerodrome, IFR aircraft must make a taxi report to the enroute or terminal controller managing the overlying airspace.
 
 !!! note "Format"
-    "*(ATC Unit)*, *(Callsign)*, *(Aircraft Type)*, [*(Persons on Board)* POB], IFR, taxiing *(Location)* for *(Destination)*, runway *(Departure Runway)*"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Aircraft Type</span>, <span class='optional'>[<span class='placeholder'>Persons on Board</span> POB]</span>, IFR, taxiing <span class='placeholder'>Location</span> for <span class='placeholder'>Destination</span>, runway <span class='placeholder'>Departure Runway</span>"
 
     *POB is not required for scheduled air transport flights.*
 
@@ -36,7 +36,7 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
 Where poor radio reception precludes establishing contact with ATS on the ground, report airborne to commence your SARWATCH service.
 
 !!! note "Format"
-    "*(ATC Unit)*, *(Callsign)*, airborne *(Location)*"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, airborne <span class='placeholder'>Location</span>"
 
 After establishing contact, [report your departure](enroute.md#departure).
 
@@ -51,7 +51,7 @@ After establishing contact, [report your departure](enroute.md#departure).
 After landing at their destination, or where insufficient radio coverage exists on the ground, at a suitable time during their arrival, IFR aircraft must report their arrival to ATC and cancel their SARWATCH.
 
 !!! note "Format"
-    "*(Callsign)*, *(Location)*, cancel SARWATCH"
+    "<span class='placeholder'>Callsign</span>, <span class='placeholder'>Location</span>, cancel SARWATCH"
 
 !!! example
     **EWQ**: "EWQ, Charleville, cancel SARWATCH"  
@@ -63,7 +63,7 @@ SARWATCH termination is not required to be read back by the pilot. Once your SAR
 When operating within, or approaching, the vicinity of a non-controlled aerodrome, you should tune the appropriate CTAF and make broadcast radio calls as deemed appropriate.
 
 !!! note "Format"
-    "*(Location)* traffic, [*(Aircraft Type)*] *(Callsign)*, *(Message)*, *(Location)*"
+    "<span class='placeholder'>Location</span> traffic, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Message</span>, <span class='placeholder'>Location</span>"
 
 You are only required to make a radio broadcast on a CTAF where you consider it necessary to avoid a collision with another aircraft. However, common sense would suggest that regular, structured broadcasts are the best way to mitigate potential conflict and aid other pilots in their situational awareness.
 
