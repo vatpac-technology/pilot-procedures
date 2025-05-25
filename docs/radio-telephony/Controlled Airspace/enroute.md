@@ -27,7 +27,7 @@ If you require a particular runway or approach, you should inform ATC *before* y
 In controlled airspace, you must obtain approval to deviate from your cleared route. For weather deviations, positioning the aircraft for the capture region of an instrument approach, or any other route deviation, request an appropriate distance left or right of route.
 
 !!! note "Format"
-    "<span class='placeholder'>Callsign)*, request <span class='placeholder'>Distance)* miles <span class='placeholder'>Left/Right)* of route due <span class='placeholder'>Reason)*"
+    "<span class='placeholder'>Callsign</span>, request <span class='placeholder'>Distance</span> miles <span class='placeholder'>Left/Right</span> of route due <span class='placeholder'>Reason</span>"
 
 !!! example
     **RXA6166**: "RXA6166, request 10 miles left of route due weather"  
