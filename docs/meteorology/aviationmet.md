@@ -1,5 +1,5 @@
 ---
-  title: Aviation Meteorology (TODO)
+  title: Aviation Meteorology
 ---
 
 --8<-- "includes/abbreviations.md"
