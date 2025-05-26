@@ -265,3 +265,8 @@
 *[SIGWX]: Significant Weather
 *[VFRG]: Visual Flight Rules Guide
 *[CTAF]: Common Traffic Advisory Frequency
+*[TAS]: True Airspeed
+*[IAS]: Indicated Airspeed
+*[GS]: Groundspeed
+*[OAT]: Outside Air Temperature
+*[MSL]: Mean Sea Level
