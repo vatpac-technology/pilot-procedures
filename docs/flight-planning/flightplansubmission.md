@@ -41,7 +41,7 @@ Ensure that an appropriate EOBT is filed. Where unforeseen delays occur prior to
 !!! example
     **VOZ1252**: "Sydney Delivery, VOZ1252, we'll be a bit delayed tonight, would you mind updating our EOBT to 0930?"
 
-## Equipment Codes (TOD)
+## Equipment Codes (TODO)
 
 ## Filed Route
 - should mirror what you put in your FMS

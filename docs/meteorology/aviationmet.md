@@ -48,10 +48,10 @@ For ease of use on weather reports and forecasts, each cloud type is abbreviated
 | Cb | Cumulonimbus | All | Heavy, dense, towering thunderstorm cells |
 
 ### Vertical Visibility
-Where weather phenomena (generally smoke) obscures the sky but does not form cloud, the vertical visibility will be reported. This can be treated as an overcast layer of cloud at that level.
+Where weather phenomena (e.g. smoke or raised dust) obscures the sky but does not form cloud, the vertical visibility will be reported. This can be treated as an overcast layer of cloud at that level.
 
 !!! example
-    A SPECI which contains `VV009` would indicate vertical visibility of 900ft AAL, likely caused by a layer of smoke at that level.
+    A SPECI which contains `vv009` would indicate vertical visibility of 900ft AAL.
 
 ## Visibility
 Along with cloud, low visibility also poses a major threat to all forms of aviation. Low visibility is generally caused by precipitation, fog/mist, or other airborne particles such as bushfire smoke or dust storms.
