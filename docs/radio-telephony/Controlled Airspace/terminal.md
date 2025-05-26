@@ -9,7 +9,7 @@
 On first contact with a terminal controller (generally 'Approach' or 'Departures'), **inbound** aircraft must report their assigned level, in-flight conditions, and the ATIS identifier.
 
 !!! note "Format"
-    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Cleared Level</span>, <span class='optional'>Visual</span>, received <span class='placeholder'>ATIS Code</span>"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Cleared Level</span>, <span class='optional'>[Visual]</span>, received <span class='placeholder'>ATIS Code</span>"
 
 !!! example
     "Sydney Approach, QFA426, descending to A090, received Delta"
@@ -17,7 +17,7 @@ On first contact with a terminal controller (generally 'Approach' or 'Departures
 On first contact with a terminal controller, **outbound** aircraft must report their passing level, assigned level, and assigned heading/departure instructions (if applicable).
 
 !!! note "Format"
-    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='optional'><span class='placeholder'>Departure Instructions</span>]</span>, passing <span class='placeholder'>Passing Level</span>, climbing to <span class='placeholder'>Assigned Level</span>"
+    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='optional'>[<span class='placeholder'>Departure Instructions</span>]</span>, passing <span class='placeholder'>Passing Level</span>, climbing to <span class='placeholder'>Assigned Level</span>"
 
 !!! example
     "Melbourne Departures, QLK78D, turning right heading 320, passing A023, climbing to A050"
