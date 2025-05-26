@@ -34,6 +34,9 @@ In controlled airspace, you must obtain approval to deviate from your cleared ro
     **GUN**: "RXA6166, cleared up to 10 miles left of route, report clear of weather"  
     **RXA6166**: "Cleared up to 10 miles left of route, RXA6166"
 
+!!! note
+    In busy airspace (such as the terminal area), ATS may request that you fly a specific heading rather than a block route offset. In these situations, pilots must request any additional heading changes as deemed necessary and report when the vector is no longer required.
+
 ### Change of Level
 Short, straight-forward requests like a change of level do not require a heads up to the controller.
 
