@@ -270,3 +270,5 @@
 *[GS]: Groundspeed
 *[OAT]: Outside Air Temperature
 *[MSL]: Mean Sea Level
+*[MTOW]: Maximum Takeoff Weight
+*[MLW]: Maximum Landing Weight
