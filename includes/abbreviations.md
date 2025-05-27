@@ -272,3 +272,4 @@
 *[MSL]: Mean Sea Level
 *[MTOW]: Maximum Takeoff Weight
 *[MLW]: Maximum Landing Weight
+*[PCA]: Planning Chart Australia
