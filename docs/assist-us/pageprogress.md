@@ -10,8 +10,8 @@ Use this page to track each page/section as you work on it. This will avoid mult
 | --- | --- | --- | --- |
 | Airspace | | To Do | |
 | Radio Telephony | | Complete | |
-| Navigation | | To Do | |
-| Flight Planning | | In Progress | Matt K |
+| Navigation | | In Progress | Matt K |
+| Flight Planning | | Complete | |
 | Meteorology | | Complete | |
 | Local Procedures | | To Do | |
 | Local Procedures | Melbourne | In Progress | Alex D (1697854) |
