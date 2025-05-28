@@ -12,15 +12,15 @@ Pilots should ensure they utilise their aircraft's weather radar (if equipped) a
 If a thunderstorm is present within 5nm of your intended approach or departure path, you should delay commencing the approach or the takeoff roll. Ensure that you communicate these requirements with ATS as soon as possible, as there are likely significant coordination and separation assurance requirements which will need to be conducted to provide you with a particular clearance.
 
 ## Icing
-Different operators and aircraft manufacturers define icing conditions differently, however a common marker is the presence of visibile moisture (rain, cloud, mist, etc) with an OAT of 5 deg C or below. When ice forms on an aircraft, it can add significant weight (sometimes exceeding the aircraft's MTOW). Ice forming on the wings and other aerofoils can disrupt laminar airflow and cause a large decrease in the amount of lift produced. This effect is extended to propellers and rotor blades, which will see a significant reduction in thrust as a result.
+Different operators and aircraft manufacturers define icing conditions differently, however a common marker is the presence of visibile moisture (rain, cloud, mist, etc) with an OAT of 5°C or below. When ice forms on an aircraft, it can add significant weight (sometimes exceeding the aircraft's MTOW). Ice forming on the wings and other aerofoils can disrupt laminar airflow and cause a large decrease in the amount of lift produced. This effect is extended to propellers and rotor blades, which will see a significant reduction in thrust as a result.
 
-Ice generally (but not always) forms in fixed temperature bands, with icing possible between 0 deg C and -40 deg C. The most common icing bands are below:
+Ice generally (but not always) forms in fixed temperature bands, with icing possible between 0°C and -40°C. The most common icing bands are below:
 
 | Temperature Range | Ice Type | Hazard |
 | --- | --- | --- |
-| 0 to -10 deg C | Clear Ice | Large amount of added weight, aerofoil airflow disruption |
-| -10 to -20 deg C | Rime Ice | Aerofoil airflow disruption, small amount of added weight |
-| -10 to -15 deg C | Mixed Ice | Combination of Clear & Rime Ice |
+| 0°C to -10°C | Clear Ice | Large amount of added weight, aerofoil airflow disruption |
+| -10°C to -20°C | Rime Ice | Aerofoil airflow disruption, small amount of added weight |
+| -10°C to -15°C | Mixed Ice | Combination of Clear & Rime Ice |
 
 ### Ice Protection Systems
 Aircraft which regularly operate in these icing bands are generally equipped with ice protection systems. **Anti-ice** systems prevent the formation of ice by heating or otherwise treating aircraft surfaces. **De-ice** systems remove ice once it has formed by heating, expanding, or otherwise treating aircraft surfaces.
@@ -73,4 +73,4 @@ The conditions likely to form mountain waves are:
 - Increase in wind strength with an increase in altitude
 - Temperature inversion above the mountain top
 
-Where possible, pilots should avoid areas of known or possible mountain wave activity. If it is necessary to cross a mountain range during these conditions, do so as high above the range as possible, and cross at a 45 deg angle so that the aircraft can be quickly turned back to the windward side if required.
+Where possible, pilots should avoid areas of known or possible mountain wave activity. If it is necessary to cross a mountain range during these conditions, do so as high above the range as possible, and cross at a 45° angle so that the aircraft can be quickly turned back to the windward side if required.

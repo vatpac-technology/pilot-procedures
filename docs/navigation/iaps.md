@@ -24,7 +24,7 @@
 - Provide lateral guidance only
 - Vertical profile must be maintained manually by pilot
 - Minima based on altitude (Minimum Descent Altitude) and missed approach commenced from Missed Approach Point
-- Most approaches follow a 3 degree profile
+- Most approaches follow a 3° profile
     - rule of thumb for 320ft/1nm and 1000ft/3nm
 
 ### RNP

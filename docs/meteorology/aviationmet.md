@@ -99,8 +99,8 @@ The standard MSL atmospheric conditions are:
 
 | Element | Value |
 | --- | --- |
-| Temperature | 15 deg C |
-| Temperature Lapse Rate | 2 deg C per 1,000ft of altitude *(until the tropopause at 36,000ft)* |
+| Temperature | 15°C |
+| Temperature Lapse Rate | 2°C per 1,000ft of altitude *(until the tropopause at 36,000ft)* |
 | Air Pressure | 1013 hPa |
 
 In addition to calculating actual aircraft performance (based on relevant aircraft performance charts), the values above can be used to estimate the temperature at a particular altitude which may assist in the assessment of enroute [icing conditions](./hazards.md#icing).
