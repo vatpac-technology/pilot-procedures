@@ -1,10 +1,15 @@
 ---
-  title: Attribution and Credits
+  title: Legal
 ---
+
+The content on this website is for **Flight Simulation use only**.  
+It is provided **'as is' without any warranties or guarantees**, and must **not be used for real-world aviation or any other use**. No liability is accepted for any errors, omissions, or consequences arising from its use.
+
+---
+
+# Dependencies
 
 This project utilizes several open-source tools, resources, and libraries. We acknowledge and thank the developers and contributors of these projects for their efforts.
-
----
 
 ## Python Dependencies
 
