@@ -32,6 +32,7 @@
 *[ADES]: Destination Aerodrome
 *[ADEP]: Departure Aerodrome
 *[LOC]: Localiser
+*[FAC]: Final Approach Course
 *[ILS]: Instrument Landing System
 *[GLS]: GBAS Landing System
 *[ACD]: Airways Clearance Delivery
