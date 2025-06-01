@@ -44,6 +44,8 @@ Ensure that an appropriate EOBT is filed. Where unforeseen delays occur prior to
 ## Unrecognised Landing Areas
 If your departure or destination does not have a recognised ICAO code, replace it with `ZZZZ` and include a remark with the position of the landing area. It is good practice to include an additional remark detailing the name of the landing area, for use on the radio if required.
 
+**The format of your remarks field is important.** Ensure that you use the format shown below:
+
 | Remark Abbreviation | Meaning |
 | --- | --- |
 | `DEP/<position>` | Position of departure aerodrome/landing area |
@@ -56,7 +58,7 @@ See [Custom Waypoints](#custom-waypoints) for details on how to format custom po
     **Remarks**: `DEP/2730S15327E RMK/2730S15327E IS DUSTBOWL STATION`
 
 ## Equipment Codes
-The equipment and transponder codes you file in your flight plan will impact how ATS process your navigation requirements, and control how your appear on their radar scope. **Equipment** codes refer to the navigational equipment your aircraft is equipped with. **Transponder** codes refer to the type of transponder and ADS-B system installed in your aircraft.
+The equipment and transponder codes you file in your flight plan will impact how ATS process your navigation requirements, and control how you appear on their radar scope. **Equipment** codes refer to the navigational equipment your aircraft is equipped with. **Transponder** codes refer to the type of transponder and ADS-B system installed in your aircraft.
 
 A full list of equipment codes can be obtained through various online sources (searching for *ICAO* equipment codes - not FAA), with the most commonly used summarised below:
 
