@@ -102,9 +102,20 @@ These arrivals give pilots flexibility to safely descend below the LSALT without
 ## Circling Approaches
 Pilots must select the minima to which they will conduct an instrument approach. They have the option of completing an approach to the straight-in minima (and then conducting a straight-in landing) or to the circling minima (and manoeuvring within the circling area).
 
-Aerodromes with circling approaches have surveyed circling areas, calculated by connecting arcs of a given radius from each usable runway threshold. Pilots will generally maintain the circling minima while they manoeuvre the aircraft inside the circling area to join the circuit. Once they are at a suitable point, they will commence descent in accordance with a normal circuit.
+Aerodromes with circling approaches have surveyed [circling areas](#circling-approaches). Pilots will generally maintain the circling minima while they manoeuvre the aircraft inside the circling area to join the circuit. Once they are at a suitable point, they will commence descent in accordance with a normal circuit.
 
 Some charts dictate 'No Circling Areas', where the normal circling height might not be sufficient to avoid terrain or obstacles. These areas *may* be entered by day only.
+
+### Circling Areas
+Circling areas are surveyed regions calculated by connecting arcs of a given radius from each usable runway threshold. The circling area size is dependent on the [aircraft category](../flight-planning/alternaterequirements.md#aircraft-categories).
+
+| Category | Circling Area Radius |
+| --- | --- |
+| A | 1.68nm |
+| B | 2.66nm |
+| C | 4.20nm |
+| D | 5.28nm |
+| E | 6.94nm |
 
 ## Missed Approaches
 For VATSIM purposes, a missed approach must be conducted any time an aircraft is:
