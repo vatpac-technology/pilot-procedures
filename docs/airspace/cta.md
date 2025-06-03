@@ -26,6 +26,7 @@
     - Instruction on how to comply with waypoint crossing time
 - Hold exit time tolerance
     - Instruction on how to comply with hold exit time
+    - Link to Navigation/Holds page
 - Speed instructions
     - What min/max speed means and what to reply with
     - Self cancelling speed restrictions
