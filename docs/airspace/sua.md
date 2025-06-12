@@ -4,6 +4,10 @@
 
 --8<-- "includes/abbreviations.md"
 
+## Background
+- airspace requires prior approval to operate in
+- relevance to VATSIM (most SUA is temporarily activated)
+
 ## Danger Areas
 - How to find details in ERSA
 - Replanning to avoid
@@ -15,5 +19,4 @@
 - How to remain clear laterally and vertically (i.e. boundary level between PRD and other airspace takes on designation of least restrictive airspace type)
 - Military restricted airspace and potential civil releases
 
-## Prohibited Areas
-- Not sure if we still have one in Aus or if it was downgraded to RA3
+## Military Operating Areas
