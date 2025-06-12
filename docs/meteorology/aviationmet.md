@@ -72,7 +72,7 @@ Surface winds play a major role in determining the duty runway at an aerodrome, 
 Wind information can be sourced from published reports, [ATIS/AWIS](#weather-information) stations, or by looking at the windsock. When operating at landing areas without reported weather information, environmental elements such as trees, blowing smoke, and bodies of water can indicate the wind direction.
 
 ### Enroute Winds
-Enroute winds impact [navigation](../navigation/vfrnavigation.md), requiring the aircraft's heading to be adjusted to compensate for any crosswind component (and maintain the track made good along the ground). Additionally, headwind or tailwind components will impact the time taken to fly a particular leg, requiring an adjustment in [trip fuel](../flight-planning/fuelplanning.md#flighttrip-fuel).
+Enroute winds impact [navigation](../navigation/vfrnavigation.md), requiring the aircraft's heading to be adjusted to compensate for any crosswind component (and maintain the track made good along the ground). Additionally, headwind or tailwind components will impact the time taken to fly a particular leg, requiring an adjustment in [trip fuel](../flight-planning/fuelplanning.md#trip-fuel).
 
 ## Air Pressure
 Air pressure has a moderate impact on aircraft performance. At lower pressure (generally found at higher altitudes), air density is reduced, which leads to a reduction in power from aircraft engines and a reduction in thrust from propellers/rotor blades.

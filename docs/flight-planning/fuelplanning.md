@@ -7,8 +7,8 @@
 ## Preflight Fuel Planning
 Before departing, it is critical that you ensure the fuel on board is sufficient for your intended flight, including any required reserve or holding fuel. The sections below outline the categories of fuel which may be required. A sample fuel plan is included to highlight the practical use of each fuel category.
 
-### Flight/Trip Fuel
-Flight fuel (also called Trip Fuel) is the amount of fuel you expect to burn to fly your planned route, including an allowance for climb and descent if required. It is generally calculated by dividing your route distance by your expected ground speed (accounting for forecast wind).
+### Trip Fuel
+Trip fuel (also called Flight Fuel) is the amount of fuel you expect to burn to fly your planned route, including an allowance for climb and descent if required. It is generally calculated by dividing your route distance by your expected ground speed (accounting for forecast wind).
 
 ### Reserve Fuel
 Reserve fuel is an allowance which helps cater for anything which may increase the flight fuel (such as unforecast headwinds) and provides a safety margin in case an unexpected event results in a fuel emergency. It is broken up into Final Reserve fuel and Contingency fuel.
