@@ -10,7 +10,7 @@ Use this page to track each page/section as you work on it. This will avoid mult
 | --- | --- | --- | --- |
 | Airspace | | To Do | |
 | Radio Telephony | | **Complete** | |
-| Navigation | | *In Progress* | Matt K |
+| Navigation | | **Complete** | Matt K |
 | Flight Planning | | **Complete** | |
 | Meteorology | | **Complete** | |
 | Local Procedures | | To Do | |
