@@ -24,7 +24,7 @@ In CTA, a clearance must be obtained prior to conducting airwork.
     **OIT**: "Cleared to operate within a 5nm radius of PEGSU, A080 to A100, OIT"
 
 ## Practice Instrument Approaches
-The area of operations definition above is generally sufficient for conducting practice instrument approaches OCTA. In CTA, it is generally easier for ATC if you can provide more detail about the intendeed approach.
+The area of operations definition above is generally sufficient for conducting practice instrument approaches OCTA. In CTA, it is generally easier for ATC if you can provide more detail about the intended approach.
 
 !!! example
     **UNF**: "UNF request the YSRI ILS approach runway 28 to the minima"  
