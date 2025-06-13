@@ -1,5 +1,5 @@
 ---
-  title: Special Use Airspace (TODO)
+  title: Special Use Airspace
 ---
 
 --8<-- "includes/abbreviations.md"
