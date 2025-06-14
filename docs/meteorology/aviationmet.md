@@ -19,7 +19,7 @@ Cloud cover is described by *oktas*, or how many eighths of the visible sky is o
 | Overcast (OVC) | **8**/8 of the sky obscured |
 
 !!! tip
-    [VFR navigation](../navigation/vfrnavigation.md) is considered impractical with more than 4 oktas of cloud coverage.
+    [VFR navigation](../navigation/vfrnavigation.md) is considered impractical above more than 4 oktas of cloud coverage.
 
 Area forecasts may describe the frequency of cumulonimbus clouds using the following scale:
 
