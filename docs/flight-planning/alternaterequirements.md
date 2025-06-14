@@ -63,7 +63,7 @@ If your destination does not have an instrument approach, you must plan an alter
 | ----- | ---------- |
 | LSALT +500ft | 8km |
 
-## Alterante due Navaids
+## Alternate due Navaids
 ### IFR
 An alternate must be held for IFR flights if due to the aircraft's equipment or the destination aerodrome's navigation aids, a single point of failure in the aircraft or on the ground would cause a loss of approach capability. In practice, this means that if your destination has only a single approach type available or your aircraft has only a single piece of equipment which can receive that data, you must carry an alternate.
 
