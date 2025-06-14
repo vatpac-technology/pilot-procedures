@@ -274,3 +274,5 @@
 *[MTOW]: Maximum Takeoff Weight
 *[MLW]: Maximum Landing Weight
 *[PCA]: Planning Chart Australia
+*[VMC]: Visual Meteorological Conditions
+*[IMC]: Instrument Meteorological Conditions
