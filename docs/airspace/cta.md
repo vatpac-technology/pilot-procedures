@@ -1,5 +1,5 @@
 ---
-  title: Operations in CTA (TODO)
+  title: Controlled Airspace (TODO)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -12,13 +12,16 @@
 ## Controlled Aerodromes
 - Class C
 - Class D
+    - quirks (clearance to takeoff = clearance to operate in or leave CTR)
 - Class D Metro
+    - quirks (clearance to takeoff = clearance to operate in or leave CTR)
 
 ## Pilot Tracking/Level Requests
 - Amended levels
 - Weather (and other) deviations
 - Tracking for different waypoints
 - Requests for airwork or to operate in a certain area
+- Links to radio section
 
 ## ATC Instructions & Sequencing
 - Timeframe to comply with change of level and heading instructions
