@@ -11,12 +11,7 @@ For IFR taxi phraseology to ATS, see [Aerodrome](aerodrome.md#taxi).
 ### Departure
 After taking off and setting course for your first tracking point, inform ATC of your departure. If you haven't already received an airways clearance, ensure that you stop your climb below the base of CTA.
 
-!!! tip
-    The CTA lower levels are displayed on ERCs and TACs.
-
 The appropriate call depends on whether you expect to be identified or not. If in doubt, assume you are *not* identified.
-
-In response, ATC will provide an airways clearance (where available), if not already issued.
 
 #### Identified
 !!! note "Format"

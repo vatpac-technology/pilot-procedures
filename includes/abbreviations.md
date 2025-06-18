@@ -276,3 +276,4 @@
 *[PCA]: Planning Chart Australia
 *[VMC]: Visual Meteorological Conditions
 *[IMC]: Instrument Meteorological Conditions
+*[ETA]: Estimated Time of Arrival
