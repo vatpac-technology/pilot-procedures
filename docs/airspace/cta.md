@@ -1,5 +1,5 @@
 ---
-  title: Controlled Airspace (TODO)
+  title: Controlled Airspace
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -80,29 +80,66 @@ If a pilot wishes to conduct airwork inside CTA, this must be first requested an
 ## ATC Instructions
 Pilots must comply with any ATS-issued instructions in a timely manner. If a delay is experienced (due to aircraft malfunction or pilot competence), inform ATS so that an alternate instruction may be issued.
 
-!!! note
+!!! important
     VATSIM is a learning environment for both controllers and pilots, and it is expected that pilots will need a helping hand from time to time.
 
     If you do not understand an instruction or you are having trouble complying with it, **don't stay quiet, speak up!** Controllers can always explain themselves more clearly or provide an alternate instruction. Failure to inform the controller may result in frustration later on in the flight when their systems detect that you are off course, at the wrong level, or operating in contravention of the issued instruction.
 
-### Sequencing (TODO)
+### Sequencing
 A variety of sequencing techniques are used by controllers to ensure a smooth, efficient, predictable flow of traffic. You must comply with any sequencing or delaying instructions issued.
 
 #### Speed Control
-- What min/max speed means and what to reply with
-- Self cancelling speed restrictions
-- Speed restrictions on transition (M78/250)
+Generally speaking, an ATS request to *'report speed'* refers to your current indicated airspeed. If a controller wishes to learn your TAS or Mach number, they will ask for these details explicitely.
+
+If you are instructed to reduce to **minimum speed** or increase to **maximum speed** (or any other variation of these speeds), you should acknowledge the instruction and comply immediately. There is no need to inform the controller of the actual achieved speed.
+
+!!! phraseology
+    **GUN**: "ANZ19, reduce to minimum speed"  
+    **ANZ19**: "Reduce to minimum speeed, ANZ19"
+
+Controllers may issue speed control for a particular phase of flight.
+
+!!! example
+    *"Speed on climb 250kt or less"*
+
+Some instructions may also include self-cancelling conditions.
+
+!!! example
+    *"Speed 300kt or greater until TAMMI"*
+    
+Where a controller wishes to adjust your profile descent speed, they may do so by issuing an indicated airspeed to maintain on transition from the Mach range to the IAS range. This speed should be maintained in lieu of your planned descent IAS until reaching a published speed limitation.
+
+!!! example
+    *"Reduce to Mach decimal 78, transition into 250kt"*
 
 #### Vectors
-- explanation and requirement to remain on the vector until otherwise advised
+Where speed control is insufficient or impractical, ATS will provide vectors to increase an aircraft's track miles and absorb any remaining delay. All heading instructions must be complied with in a timely manner and pilots must not alter their heading unless authorised by ATS.
 
 #### Holding
-- link to holding page
-- how to comply with exit time
+If delays are excessive, ATS may issue holding instructions. When holding at a published hold (where details are available on an ERC/TAC or approach chart), the inbound course, turn direction, and timing/DME limit specified should be used. When holding at an unpublished hold (where no details are published for that waypoint), ATS will specify these details.
+
+There are a variety of procedures specific to holds, which are covered on the [Holding](../navigation/holding.md) page.
+
+In the real world, it is common practice for pilots to be issued an onwards clearance which includes a nominated hold exit time. Pilots are responsible for ensuring they adjust their speed and the length of the pattern (with ATS approval) to pass over the holding fix at the specified time. This practice is rare online but sometimes offered to experienced pilots. Pilots in receipt of a hold exit time must cross the holding fix at up to **0 seconds late** and **60 seconds early**.
+
+Some airliner avionics will allow pilots to adjust the required time of departure from the fix, with the aircraft autothrottle adjusting the speed to meet the time. For aircraft not equipped with suitable automation, a simple calculation can determine the length of each outbound leg to meet the required time. Based on the current aircraft speed, determine the number of minutes to lose, then determine how long a single hold may take based on an arbitrary outbound length. Try different leg length values until the total delay becomes a multiple of the time taken for one holding pattern.
+
+!!! example
+    An aircraft has been issued with an onwards clearance which results in a total delay of **12 min**. The pilot may complete **two holding patterns** with an outbound **leg time of 2 min** and rate 1 turns, resulting in a total of 6 min per hold.
+
+Note that this calculation assumes that each turn will be conducted at rate 1 (and therefore take 1 min to complete a 180° turn). If this is not the case, the calculation should be adjusted to compensate.
 
 #### Waypoint Crossing Times
-- used rarely
-- how to comply
+In the real world, delays which don't necessitate holding will generally be absorbed by issuing a waypoint crossing time to a pilot. The pilot will then adjust their own speed to cross the waypoint at the given time. This practice is rate online but is gaining popularity as more pilots become familiar with the procedure. Pilots in receipt of a waypoint crossing time must cross the fix at up to **0 seconds late** and **30 seconds early**.
+
+Complying with a crossing time is simple. Most airliners have the ability to provide a Required Time of Arrival, either through a dedicated **RTA** page or by editing the waypoint details on the flight plan page. 
+
+Pilots of aircraft without these systems should adjust their speed (generally involving a speed reduction) until their FMS/GPS indicates the required ETA for the relevant waypoint. If the aircraft reaches minimum speed but is still too early for the assigned time, the pilot must inform ATS so that alternate delaying action can be provided.
+
+!!! example
+    An aircraft has been issued an instruction to cross **WELSH** at time **43**. The FMS indicates that the aircraft will currently reach WELSH at time 38. To comply with the time, the pilot should reduce speed (to not below minimum speed) until the FMS ETA for WELSH changes to 43.
+
+    Given that the accepted window for the crossing time is 0 seconds late and up to 30 seconds early, the pilot should then increase speed slightly so that the FMS indicates an ETA of 42. This way, they can be sure that they are in the 30 seconds prior to time 43.
 
 ## Separation Standards
 Different classes of airspace have different operating requirements from pilots and services provided by ATS. This is explained in detail on the [Airspace Overview](./index.md) page.
