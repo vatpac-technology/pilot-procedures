@@ -5,40 +5,132 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airways Clearances
-- Requirement to obtain a clearance prior to entering CTA
-- Airways clearance to enter CTA when already airborne
-- Airways clearance when departing from CTA aerodrome
+An airways clearance must be obtained **before** entering CTA by contacting the relevant ATS unit responsible for the airspace. This may take the form of an airways clearance on the ground at a [controlled aerodrome](../radio-telephony/Controlled%20Airspace/aerodrome.md#airways-clearance), or airborne if transiting from uncontrolled airspace to CTA.
 
-## Controlled Aerodromes
+Australia regards the following classes of airspace as **controlled airspace**:
+
+- Class A
 - Class C
 - Class D
-    - quirks (clearance to takeoff = clearance to operate in or leave CTR)
-- Class D Metro
-    - quirks (clearance to takeoff = clearance to operate in or leave CTR)
+- Class E (for IFR aircraft, see [Class E Airspace](#class-e-airspace) for more details)
+
+### Class E Airspace
+In Class E Airspace, IFR aircraft require an airways clearance prior to entry.
+
+VFR aircraft, however, do not require a clearance. Instead, VFR aircraft must maintain a listening watch to the relevant ATS frequency and respond to any radio calls which are directed to them.
+
+### Coded Clearances
+Generally, an airways clearance will specify a clearance limit, the approved route to fly, and any vertical restrictions, as well as other details (such as a squawk code and departure procedure) as required. A *coded clearance* is a published procedure which includes these details by default, removing the need for ATS to specify them over the radio. 
+
+Coded clearances are generally defined in/out of, and surrounding, busy controlled aerodromes, or in congested controlled airspace. Details can be found in local ERSA FAC entries and [Local Procedures](../local-procedures/).
+
+!!! example
+    **Regular Clearance**: *"CYF, cleared to YSBK via HBB, SYHD, MANLY, LRF, maintain A015"*  
+    **Coded Clearance**: *"CYF, cleared Harbour Scenic One"*
+
+## Controlled Aerodromes
+At a controlled aerodrome, pilots require clearance or approval to pushback, taxi, takeoff, and land from any area inside the **manoeuvring area**. CASA publish manoeuvring area maps on their [website](https://www.casa.gov.au/search-centre/aerodrome-manoeuvring-maps), showing the extent of each controller's jurisdiction. Pilots must contact the most appropriate ATS unit to obtain clearance to operate inside the manoeuvring area.
+
+!!! tip
+    VATSIM employs the [Top Down Rule](./vatsimoperations.md#top-down-rule) to provide pilots with the best possible service when few controllers are online. Ensure you contact the correct controller for any aerodrome services when the aerodrome controllers themselves are not online.
+
+### Class C
+Major controlled aerodromes are surrounded by Class C airspace. An airways clearance is required for all operations into, out of, and in the vicinity of a Class C aerodrome.
+
+### Class D
+Busy regional aerodromes, or smaller capital city aerodromes, are designated Class D aerodromes. An airways clearance is required for all operations in Class D airspace, however a takeoff clearance constitutes a clearance to operate within, or to leave, the Class D CTR (the airspace in contact with the ground). This means that pilots wishing to conduct circuits inside the CTR, or who wish to depart from the CTR directly into Class G airspace, will not receive an explicit airways clearance.
+
+!!! phraseology
+    *VH-LKU is a VFR P28A intending to depart from YSBK into Class G airspace on track to the training area.*  
+    **LKU**: "Bankstown Tower, Warrior LKU, holding point A8, runway 29R, upwind departure, ready"  
+    **BK ADC**: "LKU, runway 29R, cleared for takeoff"
+
+    *FD213 is an IFR B350 intending to depart from YSBK into the overlying Class C airspace.*  
+    **FD213**: "Bankstown Ground, FD213, to YBTH, request clearance"  
+    **BK SMC**: "FD213, cleared to YBTH via KADOM, flight planned route, BK9 departure, climb via SID to A030, squawk 3236"  
+    **FD213**: "Cleared to YBTH via KADOM, flight planned route, BK9 departure, climb via SID to A030, squawk 3236, FD213"
+
+Class D aerodromes include a portion of Class D airspace managed by ADC. Aircraft intending to enter the airspace from Class G must report their position and intentions to ADC prior to entering CTA. In Class D airspace, two-way communications established between ATS and the pilot constitutes a clearance to enter CTA in the manner described.
+
+!!! example
+    *AI9 is a VFR DA42, reporting inbound to YCFS from the south. The response by ADC establishes two-way communications, so AI9 may enter CTA direct to YCFS at A025.*  
+    **AI9**: "Coffs Tower, Diamond AI9, NHS, A025, inbound, received C"  
+    **CFS ADC**: "AI9, Coffs Tower"
+    
+    *YPH is a VFR DA40, reporting inbound to YCFS from the north. ADC has instructed them to standby, so they must **not** enter CTA, as this does not establish complete two-way communications.*  
+    **YPH**: "Coffs Tower, Diamond YPH, WGG, A015, inbound, received C"  
+    **CFS ADC**: "YPH, Coffs Tower, standby"
+
+#### Metro D
+Metro D aerodromes are small Class D aerodromes situated in busy terminal areas. They generally feature a small CTR with a limited lateral and vertical definition, and no overlying Class D CTA. Instead, they often sit directly below or adjacent to Class C CTA.
+
+The [Class D](#class-d) rules described above apply to Metro D aerodromes. In addition, there are often local procedures which dictate implied frequency transfers to circuit join instructions, specified in the local ERSA FAC entry and [Local Procedures](../local-procedures/). Pilots must ensure they are familiar with all local procedures prior to operating at these aerodromes.
 
 ## Pilot Tracking/Level Requests
-- Amended levels
-- Weather (and other) deviations
-- Tracking for different waypoints
-- Requests for airwork or to operate in a certain area
-- Links to radio section
+Whilst inside CTA, pilots must comply with the latest route clearance which they have received and maintain any assigned level. If alternate tracking or a different level is desired, this must first be requested and approved by ATS.
 
-## ATC Instructions & Sequencing
-- Timeframe to comply with change of level and heading instructions
-- Waypoint crossing time tolerance
-    - Instruction on how to comply with waypoint crossing time
-- Hold exit time tolerance
-    - Instruction on how to comply with hold exit time
-    - Link to Navigation/Holds page
-- Speed instructions
-    - What min/max speed means and what to reply with
-    - Self cancelling speed restrictions
-    - Speed restrictions on transition (M78/250)
+Changes of level are common due to enroute weather, prevailing winds, or traffic, and should be requested as per [Change of Level](../radio-telephony/Controlled%20Airspace/enroute.md#change-of-level).
+
+Tracking to waypoints further along a pilot's planned route (track shortening) or to positions not on a pilot's flight plan should be requested as per [Amended Route](../radio-telephony/Controlled%20Airspace/enroute.md#amended-route).
+
+Where [bad weather](../meteorology/hazards.md) presents a hazard to an aircraft, deviations around it should be requested as per [Route Deviation](../radio-telephony/Controlled%20Airspace/enroute.md#route-deviation).
+
+If a pilot wishes to conduct airwork inside CTA, this must be first requested and approved, as per [Airwork](../radio-telephony/airwork.md).
+
+## ATC Instructions
+Pilots must comply with any ATS-issued instructions in a timely manner. If a delay is experienced (due to aircraft malfunction or pilot competence), inform ATS so that an alternate instruction may be issued.
+
+!!! note
+    VATSIM is a learning environment for both controllers and pilots, and it is expected that pilots will need a helping hand from time to time.
+
+    If you do not understand an instruction or you are having trouble complying with it, **don't stay quiet, speak up!** Controllers can always explain themselves more clearly or provide an alternate instruction. Failure to inform the controller may result in frustration later on in the flight when their systems detect that you are off course, at the wrong level, or operating in contravention of the issued instruction.
+
+### Sequencing (TODO)
+A variety of sequencing techniques are used by controllers to ensure a smooth, efficient, predictable flow of traffic. You must comply with any sequencing or delaying instructions issued.
+
+#### Speed Control
+- What min/max speed means and what to reply with
+- Self cancelling speed restrictions
+- Speed restrictions on transition (M78/250)
+
+#### Vectors
+- explanation and requirement to remain on the vector until otherwise advised
+
+#### Holding
+- link to holding page
+- how to comply with exit time
+
+#### Waypoint Crossing Times
+- used rarely
+- how to comply
 
 ## Separation Standards
-- Different classes of airspace and what separation services are provided by ATC (e.g. class C - IFR sep from all, VFR sep from IFR, VFR traffic info on VFR)
-- Visual separation (by pilot)
+Different classes of airspace have different operating requirements from pilots and services provided by ATS. This is explained in detail on the [Airspace Overview](./index.md) page.
 
-## Class E Airspace
-- Requirement for IFR to obtain clearance
-- Requirement for VFR to maintain listening watch
+As a summary, pilots can expect the following separation standards to be applied to them in CTA.
+
+| Airspace Class | IFR | VFR | SVFR |
+| --- | --- | --- | --- |
+| **A** | Separated from all aircraft | - | - |
+| **C** | Separated from all aircraft | Separated from IFR, traffic info on other aircraft | Separated from SVFR (where visibility is less than VMC), traffic info on other aircraft |
+| **D** | Separated from IFR and SVFR, traffic info on VFR | Traffic info on all aircraft | Separated from SVFR (where visibility is less than VMC), traffic info on other aircraft |
+| **E** | Separated from IFR, traffic info on other aircraft | Traffic info on all aircraft | - |
+| **G** | Traffic info on all aircraft | Traffic info on all aircraft (only if receiving SIS) | - |
+
+### Visual Separation
+In some situations, a separation standard must be maintained between two aircraft, but doing so would result in a delay for one or more pilots. In these situations, ATS may delegate separation responsibility to the pilot, using visual separation.
+
+Visual separation responsibility will only be issued to a pilot when both aircraft are operating at or below A100 and the pilot reports:
+- that they have the other aircraft in sight, and
+- that they can maintain visual separation with the aircraft
+
+The delegation of separation responsibility does **not** authorise a pilot to manoeuvre in contradiction of their authorised clearance. If alternate tracking is required, pilots must still request this and await ATS approval.
+
+!!! phraseology
+    *RSCU203 is a VFR helicopter who wishes to depart from Royal Prince Alfred Hospital, which sits directly under the YSSY RWY 16L approach path.*  
+    **SY ADC:** "RSCU203, report sighting a Jetstar A320 on a 6nm final RWY 16L"  
+    **RSCU203:** "Traffic sighted, RSCU203"  
+    **SY ADC:** "RSCU203, are you able to maintain own separation with the Jetstar A320?"  
+    **RSCU203:** "Affirm, RSCU203"  
+    **SY ADC:** "RSCU203, maintain own separation with the Jetstar A320, caution wake turbulence, report airborne"  
+    **RSCU203:** "Maintain own separation with the Jetstar A320, wilco, RSCU203"
