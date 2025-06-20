@@ -61,6 +61,23 @@ Authorisation to commence engine start is generally not required, unless advised
 !!! note "Format"
     "<span class='placeholder'>Callsign</span>, <span class='placeholder'>Parking Position</span>, request pushback"
 
+### Standby for Ground Procedures
+At certain major aerodromes, SMC frequency congestion is managed by requiring pilots to request pushback or taxi on a dedicated frequency. This is generally ACD or, at Sydney, Coordinator.
+
+Pilots will be notified of these procedures by the inclusion of `WHEN READY FOR PUSHBACK OR TAXI, CONTACT [STATION] ON [FREQUENCY]` on the ATIS.
+
+Pilots of aircraft requiring pushback must contact the applicable station when ready to commence push. Pilots of aircraft **not** requiring pushback must contact the station when ready to taxi. Pending controller workload and aerodrome congestion, the pilot will either be instructed to remain on the Coordinator/ACD frequency (and informed of any expected delay) or told to *'standby for ground'*. Pilots must read this instruction back, then switch to the applicable SMC frequency and **monitor** the frequency. Pilots must **not contact** the controller directly, the controller will initiate contact with the pilot when they are able to.
+
+!!! example
+    **VOZ851**: "Sydney Coordinator, VOZ851, bay 33, request pushback"  
+    **SY COORD**: "VOZ851, standby for ground, 121.7"  
+    **VOZ851**: "Standby for ground, 121.7, VOZ851"  
+
+    *VOZ851 switches to 121.7 and <strong>waits for the controller to contact them</strong>.*
+
+    **SY SMC**: "VOZ851, pushback approved"  
+    **VOZ851**: "Pushback approved, VOZ851"
+
 ## Taxi
 ### Fixed Wing
 !!! note "Format"
@@ -75,6 +92,8 @@ In response, ATC will provide taxi instructions to the runway or to an intermedi
 
     **SY SMC**: "JST512, give way to the Qantas 737 northbound on B, taxi to holding point B4, runway 16R"  
     **JST512**: "Give way to the Qantas 737, taxi to holding point B4, runway 16R, JST512"
+
+Aircraft which do not require pushback should follow [Standby for Ground Procedures](#standby-for-ground-procedures) when ready for taxi, if the procedures are nominated on the ATIS.
 
 ### Helicopters
 Helicopters can either ground taxi, air taxi, or air transit around an aerodrome.
