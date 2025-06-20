@@ -34,6 +34,14 @@ At a controlled aerodrome, pilots require clearance or approval to pushback, tax
 !!! tip
     VATSIM employs the [Top Down Rule](./vatsimoperations.md#top-down-rule) to provide pilots with the best possible service when few controllers are online. Ensure you contact the correct controller for any aerodrome services when the aerodrome controllers themselves are not online.
 
+### Airport Efficiency Procedures
+Major aerodromes have published airport efficiency procedures which provide guidance to pilots to minimise runway occupancy and improve overall traffic capacity. Importantly, these procedures specify the preferred runway exit which pilots should plan to vacate at when landing. Pilots should plan to vacate at these exits by default, and if an alternate exit is preferred, should inform ADC on first contact.
+
+!!! example
+    Any aircraft landing on **runway 34L** at YSSY with the intention of parking at the **domestic terminal** should plan to vacate at **taxiway B9**.
+
+Airport efficiency procedures are published in dedicated DAP charts of the same title.
+
 ### Class C
 Major controlled aerodromes are surrounded by Class C airspace. An airways clearance is required for all operations into, out of, and in the vicinity of a Class C aerodrome.
 
