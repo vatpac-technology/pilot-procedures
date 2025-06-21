@@ -8,7 +8,7 @@ Use this page to track each page/section as you work on it. This will avoid mult
 
 | Section | Page (if applicable) | Status | Editor |
 | --- | --- | --- | --- |
-| Airspace | | *In Progress* | Matt K |
+| Airspace | | **Complete** | |
 | Radio Telephony | | **Complete** | |
 | Navigation | | **Complete** | |
 | Flight Planning | | **Complete** | |
