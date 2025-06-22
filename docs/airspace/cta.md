@@ -34,6 +34,26 @@ At a controlled aerodrome, pilots require clearance or approval to pushback, tax
 !!! tip
     VATSIM employs the [Top Down Rule](./vatsimoperations.md#top-down-rule) to provide pilots with the best possible service when few controllers are online. Ensure you contact the correct controller for any aerodrome services when the aerodrome controllers themselves are not online.
 
+### Frequency Transfers
+#### SMC/ADC
+In Australia, only international aircraft will be explicitly transferred from SMC to ADC (and vice versa). Domestic aircraft should switch to the ADC frequency without direction from SMC when approaching the instructed holding point and when ready for departure.
+
+!!! example
+    *AM210 is taxiing at YSSY for YBTH. They will <strong>not</strong> be explicitely transferred to ADC.*  
+    **SY SMC**: "AM210, cross runway 25, taxi to holding point B10, runway 34L"  
+    **AM210**: "Cross runway 25, taxi to holding point B10, runway 34L, AM210"  
+    *As they approach the holding point, the pilot switches to the ADC frequency.*  
+    **AM210**: "Sydney Tower, AM210, ready"
+    
+    *UAL870 is taxiing at YSSY for KLAX. They <strong>will</strong> be explicitely transferred to ADC.*  
+    **SY SMC**: "UAL870, cross runway 25, taxi to holding point A6, runway 34L"  
+    **UAL870**: "Cross runway 25, taxi to holding point A6, runway 34L, UAL870"  
+    **SY SMC**: "UAL870, report ready to tower, 120.5"  
+    **UAL870**: "120.5, UAL870"
+
+#### Departures Controller
+An explicit frequency transfer from ADC to Departures will be given for all aircraft. This may be included with the takeoff clearance or issued after the aircraft has become airborne. Do not switch to the Departures frequency until this instruction has been issued. Pilots in receipt of an airways clearance which included a 'Departure Frequency' should switch to that frequency when they are instructed to *'contact departures'*.
+
 ### Airport Efficiency Procedures
 Major aerodromes have published airport efficiency procedures which provide guidance to pilots to minimise runway occupancy and improve overall traffic capacity. Importantly, these procedures specify the preferred runway exit which pilots should plan to vacate at when landing. Pilots should plan to vacate at these exits by default, and if an alternate exit is preferred, should inform ADC on first contact.
 
