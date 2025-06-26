@@ -38,6 +38,10 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
 !!! warning "Important"
     SMC may provide instructions which contradict these standard taxi routes. Ensure you comply with any issued taxi instruction at all times.
 
+#### LAHSO (TODO)
+- Description of LAHSO
+- Pilot requirements
+- Advising of inability to comply
 
 ### Moorabbin (YMMB)
 #### Airspace

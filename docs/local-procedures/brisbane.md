@@ -1,9 +1,14 @@
 ---
+<<<<<<< HEAD
   title: Brisbane, QLD (WIP)
+=======
+  title: Brisbane, QLD (TODO)
+>>>>>>> e30813e2bcd52285cfbef8ae0948e6c032a21982
 ---
 
 --8<-- "includes/abbreviations.md"
 
+<<<<<<< HEAD
 ## Aerodomes
 ### Brisbane (YBBN)
 #### Standard Taxi Routes
@@ -169,3 +174,18 @@ All circuits are to be flown at `A010`.
     **CALLSIGN**: ", CALLSIGN"  
 
 #### Univat Route
+=======
+## Aerodromes
+### Brisbane (YBBN)
+- SMC splits
+- Heli ops
+
+### Gold Coast (YBCG)
+- VFR route
+
+### Sunshine Coast (YBSU)
+
+### Archerfield (YBAF)
+- Helicopter training areas
+- Inbound/outbound procedures
+>>>>>>> e30813e2bcd52285cfbef8ae0948e6c032a21982

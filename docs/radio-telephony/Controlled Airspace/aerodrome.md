@@ -119,7 +119,7 @@ After receiving unrestricted taxi instructions to the holding point and after co
     "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, ready"
 
 !!! warning "Important"
-    In Australia, only international aircraft will be explicity transferred from SMC to ADC (and vice versa). Domestic aircraft should switch to the ADC frequency without direction from SMC when approaching the instructed holding point and when ready for departure.
+    In Australia, only international aircraft will be explicitly transferred from SMC to ADC (and vice versa). Domestic aircraft should switch to the ADC frequency without direction from SMC when approaching the instructed holding point and when ready for departure.
 
 ### Takeoff Clearance
 ATC may provide departure instructions with a takeoff clearance, including an assigned heading or a turn instruction.
