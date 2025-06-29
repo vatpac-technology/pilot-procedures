@@ -17,7 +17,6 @@ Use this page to track each page/section as you work on it. This will avoid mult
 | Local Procedures | Melbourne | *In Progress* | Alex D - 1697854 |
 | Local Procedures | Sydney | *Planned* | Nikola Z - 1569950 |
 | Local Procedures | Brisbane | *Planned* | Charlie - 1713821 |
-| Local Procedures | Cairns | *In Progress* | Matt K - 1252125 |
 
 ## Other Tasks
 - Consider indenting subheadings like SOPs
