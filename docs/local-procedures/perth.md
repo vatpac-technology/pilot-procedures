@@ -12,6 +12,10 @@
 - expected IAPs
 - visual STARs
 
+## Jandakot (YPJT)
+### Departures
+### Arrivals
+
 ## VFR Operations
 - Victor 65
 - Victor 66
