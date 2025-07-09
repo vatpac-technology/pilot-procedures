@@ -158,7 +158,7 @@ Some airliner avionics will allow pilots to adjust the required time of departur
 Note that this calculation assumes that each turn will be conducted at rate 1 (and therefore take 1 min to complete a 180° turn). If this is not the case, the calculation should be adjusted to compensate.
 
 #### Waypoint Crossing Times
-In the real world, delays which don't necessitate holding will generally be absorbed by issuing a waypoint crossing time to a pilot. The pilot will then adjust their own speed to cross the waypoint at the given time. This practice is rate online but is gaining popularity as more pilots become familiar with the procedure. Pilots in receipt of a waypoint crossing time must cross the fix at up to **0 seconds late** and **30 seconds early**.
+In the real world, delays which don't necessitate holding will generally be absorbed by issuing a waypoint crossing time to a pilot. The pilot will then adjust their own speed to cross the waypoint at the given time. This practice is rare online but is gaining popularity as more pilots become familiar with the procedure. Pilots in receipt of a waypoint crossing time must cross the fix at up to **0 seconds late** and **30 seconds early**.
 
 Complying with a crossing time is simple. Most airliners have the ability to provide a Required Time of Arrival, either through a dedicated **RTA** page or by editing the waypoint details on the flight plan page. 
 
