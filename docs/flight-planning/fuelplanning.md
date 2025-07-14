@@ -83,7 +83,7 @@ Below are several sample fuel plans for various aircraft types. These are provid
 
     | Category | Amount |
     | -------- | ------ |
-    | Flight Fuel | 34 L |
+    | Trip Fuel | 34 L |
     | Alternate Fuel |  |
     | Weather Holding | |
     | Traffic Holding |  |
@@ -107,7 +107,7 @@ Below are several sample fuel plans for various aircraft types. These are provid
 
     | Category | Amount |
     | -------- | ------ |
-    | Flight Fuel | 475 kg |
+    | Trip Fuel | 475 kg |
     | Alternate Fuel | 257 kg |
     | Weather Holding | |
     | Traffic Holding | 150 kg (20 min) |

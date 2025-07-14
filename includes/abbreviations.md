@@ -278,3 +278,4 @@
 *[IMC]: Instrument Meteorological Conditions
 *[ETA]: Estimated Time of Arrival
 *[FCP]: False Cape
+*[MLT]: Marino Light House

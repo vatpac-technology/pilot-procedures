@@ -24,7 +24,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 All other aircraft shall expect the **CB (RADAR) SID**.
 
 ### Arrivals
-An ILS is available to RWY 35 only. RWY 12 does **not** have any associated instrument approaches. RNP-Z approaches are available to RWY 30 & RWY 35. RNP(AR) approaches are available to RWY 17 & RWY 35.
+An ILS is available to RWY 35 only. RWY 12 does **not** have any associated instrument approaches. RNP approaches are available to RWY 30 & RWY 35. RNP(AR) approaches are available to RWY 17 & RWY 35.
 
 IFR aircraft can generally expect to be processed via a STAR (or for RWY 30, direct to the IAF) terminating with the following approach:
 
