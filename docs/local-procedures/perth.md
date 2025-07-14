@@ -49,6 +49,20 @@ During periods of good weather, aircraft may be cleared via the Victor STAR for 
 ### Taxiing
 Two SMC positions exist which may sometimes be activated online. Everything west of RWY 03/21 is administered by SMC West, everything east of the runway is administered by SMC East.
 
+### Preferred Runway Exits
+The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
+
+| Runway | Aircraft Type | Preferred Exits |
+| --- | --- | --- |
+| RWY 03 | Non-Jet<br>F100/E195/RJ1H and below | A6, C6 |
+| RWY 03 | Jet above F100/E195/RJ1H | P, D |
+| RWY 21 | Non-Jet<br>Light/Medium Jet | A6, C6 |
+| RWY 21 | Heavy Jet | A7, C9 |
+| RWY 24 | All | J1, A |
+
+!!! note
+    At YPPH, aircraft may vacate at an earlier exit without ATC approval. Preferred exits for RWY 06 are not published due infrequent use.
+
 ## Jandakot (YPJT)
 ### Airspace
 JT ADC is responsible for the Class D airspace in the JT CTR `SFC` to `A015`.
