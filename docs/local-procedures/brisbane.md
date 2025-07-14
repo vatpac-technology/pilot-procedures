@@ -1,14 +1,9 @@
 ---
-<<<<<<< HEAD
-  title: Brisbane, QLD (WIP)
-=======
   title: Brisbane, QLD (TODO)
->>>>>>> e30813e2bcd52285cfbef8ae0948e6c032a21982
 ---
 
 --8<-- "includes/abbreviations.md"
 
-<<<<<<< HEAD
 ## Aerodomes
 ### Brisbane (YBBN)
 #### Standard Taxi Routes
@@ -53,22 +48,19 @@ Archerfield is a Class D aerodrome with CTR from `SFC` to `A015`.
 
 #### Maneuvering Area
 - Where you require clearance (apron area, maneuvering area)
-- custom image
 - 2 main helicopters, (north / central) inside maneuvering area clearance to become airborne is required, anywhere else = report airborne / on ground
 
 #### Taxi Procedures
 - runup bays, H outbound J inbound, cross 04L, 04R
-Aircraft 
-
 
 !!! note "Format"
     "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Aircraft Type, Callsign</span>, <span class='placeholder'>POB</span>, <span class='placeholder'>ATIS</span>,
     <span class='placeholder'>Location</span>, <span class='placeholder'>Intentions</span> "
 
 !!! example
-    **BHK**: "Archer Ground, Archer BHK, Duel, received Delta, at Eastern Apron, request taxi for eastern departure"  
-    **AF SMC**: "BHK, Archer Ground, taxi Echo, Bravo, cross runway 04R, 04L, to the 10L runup bay, report runups complete"    
-    **BHK**: "Taxi Echo, Bravo, cross runway 04R, 04L, to the 10L runup bay, report runups complete"  
+    **STATION**: "xx"  
+    **ATC**: "xx"    
+    **STATION**: "xx"  
 
 !!! warning
     In some simulator scenery holding point **B6** is incorrect or entirely missing, when assigned holding point **B6**, immediately confirm you can accept it. If not, advise the controller straight away.
@@ -163,30 +155,5 @@ There are 3 designated helicopter training areas which can be used for training 
 
 All circuits are to be flown at `A010`.
 
-- tip: for more information refer to Radio Telephony
-
 ### VFR Procedures
 #### Brisbane City Scenic
-
-!!! phraseology
-    **CALLSIGN**: "ATC, CALLSIGN"  
-    **ATC**: "CALLSIGN, ATC"  
-    **CALLSIGN**: ", CALLSIGN"  
-
-#### Univat Route
-=======
-## Aerodromes
-### Brisbane (YBBN)
-- SMC splits
-- Heli ops
-- Preferred exits from Aerodrome Efficiency Procedures
-
-### Gold Coast (YBCG)
-- VFR route
-
-### Sunshine Coast (YBSU)
-
-### Archerfield (YBAF)
-- Helicopter training areas
-- Inbound/outbound procedures
->>>>>>> e30813e2bcd52285cfbef8ae0948e6c032a21982
