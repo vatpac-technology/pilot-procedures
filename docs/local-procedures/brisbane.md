@@ -8,6 +8,7 @@
 ### Brisbane (YBBN)
 - SMC splits
 - Heli ops
+- Preferred exits from Aerodrome Efficiency Procedures
 
 ### Gold Coast (YBCG)
 - VFR route
