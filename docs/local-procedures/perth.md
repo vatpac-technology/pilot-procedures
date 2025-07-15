@@ -18,17 +18,20 @@ IFR aircraft should expect to be issued with a SID as per below:
 | All | All | OPEGA | OPEGA SID |
 | All | All | SOLUS | SOLUS SID |
 | All | Jets | AMANA | AMANA SID |
-| All | Jets | AVNEX | AVNEX SID |
+| All | Jets | AVNEX | AVNEX SID, or<br>EKEPO SID |
 | All | Jets | HECTO | HECTO SID |
 | All | Jets | MEMUP | MEMUP SID |
 | All | Jets | MUBID | MUBID SID |
 | All | Jets | YNRV | RAVENSTHORPE SID |
-| All | Non-Jets | OTLED | OTLED SID |
+| All | Non-Jets | OTLED | OTLED SID, or<br>EKEPO SID |
 | All | Non-Jets | REPOK | REPOK SID |
 | RWY 03 & 06 | Non-Jets | LENVU | LENVU SID |
 | RWY 21 & 24 | Non-Jets | PUMRY | PUMRY SID |
 
-All other aircraft shall expect the **PH (RADAR) SID**.
+All other aircraft shall expect to be *rerouted* via the most appropriate SID terminus, or assigned the **PH (RADAR) SID**.
+
+!!! note
+    Reroutes are common for Non-Jet aircraft tracking to the east, planned via PUMRY. With RWY 03 and 06 as the duty runway, pilots can expect to be rerouted via LENVU and assigned the LENVU SID.
 
 ### Arrivals
 An ILS is available to RWY 03, RWY 21, and RWY 24. RNP and VOR approaches are available to all runways. An RNP(AR) approach is available to RWY 03.
