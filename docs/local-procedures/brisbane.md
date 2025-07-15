@@ -4,10 +4,10 @@
 
 --8<-- "includes/abbreviations.md"
 
-## Aerodomes
-### Brisbane (YBBN)
-#### Standard Taxi Routes
 
+## Brisbane (YBBN)
+### Taxiing
+#### Standard Taxi Routes
 Standard taxi routes exist to simplify issued taxi instructions. Unless explicit instructions are received, the following taxiways should be used in the directions indicated below:
 
 | Taxiway | Direction of Travel |
@@ -26,8 +26,7 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
     SMC may provide instructions which contradict these standard taxi routes. Ensure you comply with any issued taxi instruction at all times.
 
 #### SMC Frequency Change
-
-There are three SMC positions at Brisbane, all with different jurisdiction. Aircraft can be expect to hold short of predetermined taxiways. Domestic aircraft should independently transfer to the next SMC controller autonomously, while international aircraft may expect an explicit frequency change from the current SMC.
+Three SMC positions exist at Brisbane, all with different jurisdiction. Aircraft shall expect to hold short of predetermined taxiways. Domestic aircraft should independently transfer to the next SMC controller autonomously, while international aircraft may expect an explicit frequency change from the current SMC.
 
 #### Preferred Runway Exits
 The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
@@ -39,80 +38,103 @@ The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilo
 | RWY 19R | Turboprop Prop <br> Jet <br> Heavy | T7 <br> T9 <br> T11 |
 | RWY 01L | Turboprop Prop <br> Jet <br> Heavy | T8 <br> T6 <br> T4 |
 
-#### Helicopter Operations
+### Departures
+VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
+
+IFR aircraft should expect to be issued with a SID as per below:
+
+| Aircraft Type | Runway | First Waypoint | SID |
+| --- | --- | --- | --- |
+| Jets | All | BIXAD | BIXAD SID |
+| Jets | RWY 01R or 19L | SANEG | SANEG SID |
+| Jets | RWY 01R or 19L | SCOTT | SCOTT SID |
+| Jets | RWY 01R or 19L | GUMKI | GUMKI SID |
+| Jets | RWY 01R, 19L, or 19R | WACKO | WACKO SID |
+
+All other aircraft shall expect the **BN (RADAR) SID**.
+
+### Arrivals
+
+An ILS, RNP, and RNP(AR) is available for all runways. 
+
+IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
+
+| Runway | Approach |
+| --- | --- |
+| RWY 19L | ILS |
+| RWY 01R | ILS |
+| RWY 19R | ILS |
+| RWY 01L | ILS |
+
+### Helicopter Operations
 - Clearance requirements from ATS
 - VMC Inbound & Outbound waypoints based on direction of flight
 - Expectation of requirement to report airborne/on the ground, not issued a takeoff/landing clearance (unless using H2)
 
-### Gold Coast (YBCG)
-#### Airspace
-Gold Coast is a Class C aerodome with CTR from `SFC` to `A015`.
+## Gold Coast (YBCG)
+### Airspace
+CG ADC is responsible for the Class C Airspace within the CG CTR `SFC` to `A015`.
 
-### Sunshine Coast (YBSU)
-#### Airspace
-Sunshine Coast is a procedural Class D aerodrome with CTR from `SFC` to `A035`.
+## Sunshine Coast (YBSU)
+### Airspace
+SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`.
 
-### Archerfield (YBAF)
-#### Airspace
-Archerfield is a Class D aerodrome with CTR from `SFC` to `A015`.
+## Archerfield (YBAF)
+### Airspace
+AF ADC is responsible for the Class D airspace in the AF CTR `SFC` to `A015`.
 
-#### Maneuvering Area
-- Where you require clearance (apron area, maneuvering area)
-- 2 main helicopters, (north / central) inside maneuvering area clearance to become airborne is required, anywhere else = report airborne / on ground
+When Archerfield ADC North is online, responsibility for the **Runway**, **Circuit**, and **Airspace** is divided between the two ADC controllers.
 
-#### Taxi Procedures
-- runup bays, H outbound J inbound, cross 04L, 04R
+ADC South takes responsibility for the South/East Runway, Circuit and Airspace (Runway **10R**, **28L**, **04R**, **22L**).
 
-!!! note "Format"
-    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Aircraft Type, Callsign</span>, <span class='placeholder'>POB</span>, <span class='placeholder'>ATIS</span>,
-    <span class='placeholder'>Location</span>, <span class='placeholder'>Intentions</span> "
+ADC North takes responsibility for the North/West Runway, Circuit and Airspace (Runway **10L**, **28R**, **04L**, **22R**).
 
-!!! example
-    **STATION**: "xx"  
-    **ATC**: "xx"    
-    **STATION**: "xx"  
+### Taxiing
+
+The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. 
+All aircraft require a clearance to cross RWY 04L & 04R on taxiway B.
+
+!!! phraselogy
+    **BHK**: "Archer Ground, Archer BHK, Dual, received F, at Eastern Apron, request taxi for southern departure"    
+    **AF SMC**: "BHK, Archer Ground, report approaching taxiway E"  
+    **BHK**: "Report approaching E, BHK"        
+
+    **BHK**: "BHK, approaching E"  
+    **AF SMC**: "BHK, taxi E, B, cross runway 04R, 04L, holding point B6, runway 10L"   
+    **BHK**: "Taxi E, B, cross runway 04R, 04L, holding point B6, runway 10L, BHK"   
+
+!!! tip
+    The YBAF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/archerfield-manoeuvring-area-map).
 
 !!! warning
-    In some simulator scenery holding point **B6** is incorrect or entirely missing, when assigned holding point **B6**, immediately confirm you can accept it. If not, advise the controller straight away.
+    In some simulator scenery holding point **B6** is incorrect or entirely missing. If your scenery does not support this holding point, you must inform **AF SMC** when requesting taxi when RWY 10L is in use. 
 
-#### Outbond Procedures
+### Departures
 
-| Planned Departure Tracks | "Intentions"   | Tracking Requirement | 
-| ---------------      | ---------      | ----------           | 
-| BTN 310 & 019 DEG    | Northern Departure | Track via WTBG | 
-| BTN 020 & 099 DEG    | Eastern <br> Departure  | Track via Gateway Motorway and Pacific Motorway Intersection<br>*(Not available when Rwy 22 active unless departing into Class C)* | 
-| BTN 100 & 204 DEG    | Southern Departure | Track 135 until clear of the zone |
-| BTN 205 & 309 DEG    | Western Departure  | Track between 220 & 309 until clear of the zone<br>*(Acft must nominate outbound DEP track with TAXI call)* |
-| Other                |                    | As approved by ATC
+All VFR departures shall depart the AF CTR at `A10`.
 
-- track xxx degrees
-- depart the zone at 1000
-- no frequency change required once leaving CTR
+- track xxx degrees / outbound procedures
 
-!!! note "Format"
-    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Ready</span>, <span class='placeholder'>Runway</span>,
-     <span class='placeholder'>Intentions</span> "  
+!!! note 
+    Aircraft departing the zone into Class G airspace should transfer to area frequency/advisory frequency upon leaving the zone. No explicit frequency transfer will be given to these aircraft.
 
-!!! example
-    **R8489**: "Archer Tower, R8489, ready, runway 10R, for eastern departure"  
+!!! phraselogy
+    **R8489**: "Archer Tower, R8489, holding point A7, runway 10R, for eastern departure, ready"  
     **AF ADC**: "R8489, Archer Tower, runway 10R, cleared for takeoff"      
     **R8489**: "Runway 10R, cleared for takeoff, R8489"  
 
 
-#### Inbound Procedures
+### Arrivals
 - inbound reporting points, alt, etc
 - circuit join / alt / report point instructions
 - phraselogy example, (cleared visual approach for 10L via TAR, etc)
 
-!!! note "Format"
-    "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign, Aircraft Type</span>, <span class='placeholder'>Location</span>, <span class='placeholder'>Altitude</span>, <span class='placeholder'>ATIS</span>, <span class='placeholder'>Intentions</span> "  
-
 !!! example
-    **YQB**: "Archer Tower, YQB, Cirrus, Target, A015, recieved Bravo, inbound fullstop"  
-    **AF ADC**: "YQB, Archer Tower, join downwind, runway 10L, maintain A015"      
-    **YQB**: "Join downwind, runway 10L, maintain A015, YQB"  
+    **YQF**: "Archer Tower, YQF, Cirrus, TAR, A015, recieved Bravo, inbound fullstop"  
+    **AF ADC**: "YQF, Archer Tower, join downwind, runway 10L, maintain A015"      
+    **YQF**: "Join downwind, runway 10L, maintain A015, YQF"  
 
-#### Helicopter Operations
+### Helicopter Operations
 
 Archerfield has three helipads located around the aerodrome:
 
@@ -149,10 +171,12 @@ There are 3 designated helicopter training areas which can be used for training 
 
 ##### Departures
 
+###### Uni Departure
+
 ##### Arrivals
 
 
-#### Circuits
+### Circuits
 
 | Runway | Day  | Night |
 | ----------------| --------- | ---------- |
