@@ -5,6 +5,9 @@
 --8<-- "includes/abbreviations.md"
 
 ## Perth (YPPH)
+### Taxiing
+Two SMC positions exist which may sometimes be activated online. Everything west of RWY 03/21 is administered by SMC West, everything east of the runway is administered by SMC East.
+
 ### Departures
 Depending on the active runway mode, the departure runway assigned to an aircraft may be dependent on the planned route.
 
@@ -12,23 +15,26 @@ VFR aircraft should expect to depart via a visual departure, on track to their f
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
 | All | All | OLMAM | OLMAM SID |
 | All | All | OPEGA | OPEGA SID |
 | All | All | SOLUS | SOLUS SID |
-| All | Jets | AMANA | AMANA SID |
-| All | Jets | AVNEX | AVNEX SID |
-| All | Jets | HECTO | HECTO SID |
-| All | Jets | MEMUP | MEMUP SID |
-| All | Jets | MUBID | MUBID SID |
-| All | Jets | YNRV | RAVENSTHORPE SID |
-| All | Non-Jets | OTLED | OTLED SID |
-| All | Non-Jets | REPOK | REPOK SID |
-| RWY 03 & 06 | Non-Jets | LENVU | LENVU SID |
-| RWY 21 & 24 | Non-Jets | PUMRY | PUMRY SID |
+| Jets | All | AMANA | AMANA SID |
+| Jets | All | AVNEX | AVNEX SID, or<br>EKEPO SID |
+| Jets | All | HECTO | HECTO SID |
+| Jets | All | MEMUP | MEMUP SID |
+| Jets | All | MUBID | MUBID SID |
+| Jets | All | YNRV | RAVENSTHORPE SID |
+| Non-Jets | All | OTLED | OTLED SID, or<br>EKEPO SID |
+| Non-Jets | All | REPOK | REPOK SID |
+| Non-Jets | RWY 03 & 06 | LENVU | LENVU SID |
+| Non-Jets | RWY 21 & 24 | PUMRY | PUMRY SID |
 
-All other aircraft shall expect the **PH (RADAR) SID**.
+All other aircraft shall expect to be *rerouted* via the most appropriate SID terminus, or assigned the **PH (RADAR) SID**.
+
+!!! note
+    Reroutes are common for Non-Jet aircraft tracking to the east, planned via PUMRY. With RWY 03 and 06 as the duty runway, pilots can expect to be rerouted via LENVU and assigned the LENVU SID.
 
 ### Arrivals
 An ILS is available to RWY 03, RWY 21, and RWY 24. RNP and VOR approaches are available to all runways. An RNP(AR) approach is available to RWY 03.
@@ -45,9 +51,6 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 The RWY 21 ILS is available from both straight in and from the DME arc. Advise ATS if you are not confident flying the arc.
 
 During periods of good weather, aircraft may be cleared via the Victor STAR for a visual approach, to reduce their track miles.
-
-### Taxiing
-Two SMC positions exist which may sometimes be activated online. Everything west of RWY 03/21 is administered by SMC West, everything east of the runway is administered by SMC East.
 
 ### Preferred Runway Exits
 The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
@@ -72,6 +75,12 @@ When Jandakot ADC (Circuit) is online, responsibility for the **Runway**, **Circ
 ADC West takes responsibility for the North-West Runway, Circuit and Airspace (Runway **06L/24R**), and the entire **JT CTR** at `A015`.
 
 ADC (Circuit) takes responsibility for the South-East Runway, Circuit and Airspace (Runway **06R/24L**) at or below `A010`.
+
+### Taxiing
+The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
+
+!!! tip
+    The YPJT Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/jandakot-manoeuvring-area-map).
 
 ### Departures
 VFR aircraft shall generally depart the zone on an extended circuit leg at `A010`, except for those tracking via FREM.
@@ -114,12 +123,6 @@ STARs are available to segregate YPJT arrivals and YPPH traffic. Pilots may be c
 RNP approaches are available to RWY 06L, 24R, and 30. VOR and NDB approaches are available to the circling area.
 
 By day VMC, pilots should expect to arrive in accordance with [VFR Arrivals](#arrivals_1).
-
-### Taxiing
-The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
-
-!!! tip
-    The YPJT Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/jandakot-manoeuvring-area-map).
 
 ## Scenic Flights
 VFR aircraft may plan to conduct scenic flights within CTA in the PH TMA. A number of VFR routes exist to facilitate this, including:

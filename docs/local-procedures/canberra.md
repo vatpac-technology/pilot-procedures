@@ -5,21 +5,27 @@
 --8<-- "includes/abbreviations.md"
 
 ## Canberra (YSCB)
+### Taxiing
+The taxiway layout at YSCB has changed over the years, with taxiway **B** now extending full length along RWY 17/35. If your scenery does not feature this taxiway structure, you must inform **CB SMC** when requesting taxi to runway 17 from the civil aprons.
+
+!!! phraseology
+    **QJE1501**: "Canberra Ground, QJE1501, received F, request taxi, require to cross runway 17 at D due scenery limitations"
+    
 ### Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Aircraft Type | First Waypoint | SID |
-| --- | --- | --- |
-| Jets | AVBEG | AVBEG SID |
-| Jets | CULIN | CULIN SID |
-| Jets | HOWLY | HOWLY SID |
-| Jets | NONUP | NONUP SID |
-| Jets | TANTA | TANTA SID |
-| Jets | WG | WG SID |
-| Non-Jets | AKMIR | AKMIR SID |
-| Non-Jets | DUBUS | DUBUS SID |
+| Aircraft Type | Runway | First Waypoint | SID |
+| --- | --- | --- | --- |
+| Jets | All | AVBEG | AVBEG SID |
+| Jets | All | CULIN | CULIN SID |
+| Jets | All | HOWLY | HOWLY SID |
+| Jets | All | NONUP | NONUP SID |
+| Jets | All | TANTA | TANTA SID |
+| Jets | All | WG | WG SID |
+| Non-Jets | All | AKMIR | AKMIR SID |
+| Non-Jets | All | DUBUS | DUBUS SID |
 
 All other aircraft shall expect the **CB (RADAR) SID**.
 
@@ -35,12 +41,6 @@ IFR aircraft can generally expect to be processed via a STAR (or for RWY 30, dir
 | 35 | ILS or RNP(AR) |
 
 Light VFR aircraft may be processed to RWY 12 for a visual approach.
-
-### Taxiing
-The taxiway layout at YSCB has changed over the years, with taxiway **B** now extending full length along RWY 17/35. If your scenery does not feature this taxiway structure, you must inform **CB SMC** when requesting taxi to runway 17 from the civil aprons.
-
-!!! phraseology
-    **QJE1501**: "Canberra Ground, QJE1501, received F, request taxi, require to cross runway 17 at D due scenery limitations"
 
 ## Helicopter Operations
 Southcare Helicopter Base (YXSB), Calvary Hospital, and Canberra Hospital are all located inside the Canberra CTR. A clearance must be obtained from **CB ADC** prior to becoming airborne from these locations. Helicopters may be instructed to report sighting and maintain own separation with aircraft operating to/from YSCB.

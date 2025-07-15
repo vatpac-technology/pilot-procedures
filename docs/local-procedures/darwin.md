@@ -10,16 +10,16 @@ VFR aircraft should expect to depart via a published [VFR Route](#vfr-routes). P
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
-| Any | Jets | HELLI | HELLI SID |
-| Any | Jets | JULIE | JULIE SID |
-| Any | Jets | LAKUP | LAKUP SID |
-| Any | Jets | OCTOB | OCTOB SID |
-| Any | Jets | RUPEG | RUPEG SID |
-| Any | Non-Jets | OLTAS | OLTAS SID |
-| Any | Non-Jets | RUSKA | RUSKA SID |
-| Any | Non-Jets | VANDI | VANDI SID |
+| Jets | All | HELLI | HELLI SID |
+| Jets | All | JULIE | JULIE SID |
+| Jets | All | LAKUP | LAKUP SID |
+| Jets | All | OCTOB | OCTOB SID |
+| Jets | All | RUPEG | RUPEG SID |
+| Non-Jets | All | OLTAS | OLTAS SID |
+| Non-Jets | All | RUSKA | RUSKA SID |
+| Non-Jets | All | VANDI | VANDI SID |
 
 All other aircraft shall expect the **DN (RADAR) SID**.
 
@@ -54,6 +54,8 @@ LAHSO is the independent operation of two crossing runways for arrivals and depa
 The **active** aircraft is the landing aircraft issued with a hold short instruction, prohibiting them from rolling out on their assigned runway beyond the intersection with the crossing runway.
 
 The **passive** aircraft is the landing or departing aircraft which has full use of their assigned runway.
+
+YPDN operates LAHSO using **RWY 29** as the passive runway and **RWY 36** as the active runway.
 
 #### Pilot Requirements
 All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATS must be informed no later than 120nm from the destination aerodrome.
