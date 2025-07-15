@@ -55,6 +55,8 @@ The **active** aircraft is the landing aircraft issued with a hold short instruc
 
 The **passive** aircraft is the landing or departing aircraft which has full use of their assigned runway.
 
+YPDN operates LAHSO using **RWY 29** as the passive runway and **RWY 36** as the active runway.
+
 #### Pilot Requirements
 All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATS must be informed no later than 120nm from the destination aerodrome.
 
