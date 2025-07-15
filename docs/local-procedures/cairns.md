@@ -10,11 +10,11 @@ VFR aircraft should expect to depart via a visual departure, on track to their f
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
-| RWY 15 | Jets | AKROM | AKROM SID |
-| RWY 15 | Non-Jets | NONUM | NONUM SID |
-| RWY 33 | Jets | Any | EAZEE SID, Radar Transition |
+| Jets | RWY 15 | AKROM | AKROM SID |
+| Jets | RWY 33 | Any | EAZEE SID, Radar Transition |
+| Non-Jets | RWY 15 | NONUM | NONUM SID |
 
 All other aircraft shall expect the **CS (RADAR) SID**.
 

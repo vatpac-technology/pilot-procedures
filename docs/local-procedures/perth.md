@@ -15,21 +15,21 @@ VFR aircraft should expect to depart via a visual departure, on track to their f
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
 | All | All | OLMAM | OLMAM SID |
 | All | All | OPEGA | OPEGA SID |
 | All | All | SOLUS | SOLUS SID |
-| All | Jets | AMANA | AMANA SID |
-| All | Jets | AVNEX | AVNEX SID, or<br>EKEPO SID |
-| All | Jets | HECTO | HECTO SID |
-| All | Jets | MEMUP | MEMUP SID |
-| All | Jets | MUBID | MUBID SID |
-| All | Jets | YNRV | RAVENSTHORPE SID |
-| All | Non-Jets | OTLED | OTLED SID, or<br>EKEPO SID |
-| All | Non-Jets | REPOK | REPOK SID |
-| RWY 03 & 06 | Non-Jets | LENVU | LENVU SID |
-| RWY 21 & 24 | Non-Jets | PUMRY | PUMRY SID |
+| Jets | All | AMANA | AMANA SID |
+| Jets | All | AVNEX | AVNEX SID, or<br>EKEPO SID |
+| Jets | All | HECTO | HECTO SID |
+| Jets | All | MEMUP | MEMUP SID |
+| Jets | All | MUBID | MUBID SID |
+| Jets | All | YNRV | RAVENSTHORPE SID |
+| Non-Jets | All | OTLED | OTLED SID, or<br>EKEPO SID |
+| Non-Jets | All | REPOK | REPOK SID |
+| Non-Jets | RWY 03 & 06 | LENVU | LENVU SID |
+| Non-Jets | RWY 21 & 24 | PUMRY | PUMRY SID |
 
 All other aircraft shall expect to be *rerouted* via the most appropriate SID terminus, or assigned the **PH (RADAR) SID**.
 

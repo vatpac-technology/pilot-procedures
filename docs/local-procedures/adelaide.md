@@ -16,14 +16,14 @@ VFR aircraft should expect to depart via a visual departure, on track to their f
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
-| RWY 05 or 23 | Jets | AREPA | AREPA SID |
-| RWY 05 or 23 | Jets | AVDEN | AVDEN SID |
-| RWY 05 or 23 | Jets | BENDO | BENDO SID |
-| RWY 05 or 23 | Jets | GILES | GILES SID |
-| RWY 05 or 23 | Jets | UPROT | UPROT SID |
-| RWY 05 | Jets | ORBUN | ORBUN SID |
+| Jets | RWY 05 or 23 | AREPA | AREPA SID |
+| Jets | RWY 05 or 23 | AVDEN | AVDEN SID |
+| Jets | RWY 05 or 23 | BENDO | BENDO SID |
+| Jets | RWY 05 or 23 | GILES | GILES SID |
+| Jets | RWY 05 or 23 | UPROT | UPROT SID |
+| Jets | RWY 05 | ORBUN | ORBUN SID |
 
 Jet aircraft departing from RWY 05 or 23 not planned via a waypoint above can expect to be *rerouted* in accordance with the table above. All other aircraft shall expect the **AD (RADAR) SID**.
 

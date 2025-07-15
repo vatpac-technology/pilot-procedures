@@ -16,16 +16,16 @@ VFR aircraft should expect to depart via a visual departure, on track to their f
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Aircraft Type | First Waypoint | SID |
-| --- | --- | --- |
-| Jets | AVBEG | AVBEG SID |
-| Jets | CULIN | CULIN SID |
-| Jets | HOWLY | HOWLY SID |
-| Jets | NONUP | NONUP SID |
-| Jets | TANTA | TANTA SID |
-| Jets | WG | WG SID |
-| Non-Jets | AKMIR | AKMIR SID |
-| Non-Jets | DUBUS | DUBUS SID |
+| Aircraft Type | Runway | First Waypoint | SID |
+| --- | --- | --- | --- |
+| Jets | All | AVBEG | AVBEG SID |
+| Jets | All | CULIN | CULIN SID |
+| Jets | All | HOWLY | HOWLY SID |
+| Jets | All | NONUP | NONUP SID |
+| Jets | All | TANTA | TANTA SID |
+| Jets | All | WG | WG SID |
+| Non-Jets | All | AKMIR | AKMIR SID |
+| Non-Jets | All | DUBUS | DUBUS SID |
 
 All other aircraft shall expect the **CB (RADAR) SID**.
 

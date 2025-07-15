@@ -30,17 +30,17 @@ VFR aircraft should expect to depart via a visual departure, on track to their f
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
-| Any | Jets | CORRS | CORRS SID |
-| Any | Jets | CRENA | CRENA SID |
-| Any | Jets | DOSEL | DOSEL SID |
-| Any | Jets | ESDIG | ESDIG SID |
-| Any | Jets | KEPPA | KEPPA SID |
-| Any | Jets | MNG | MNG SID |
-| Any | Jets | NONIX | NONIX SID |
-| Any | Jets | PEDNI | PEDNI SID |
-| Any | Jets | SUNTI | SUNTI SID |
+| Jets | All | CORRS | CORRS SID |
+| Jets | All | CRENA | CRENA SID |
+| Jets | All | DOSEL | DOSEL SID |
+| Jets | All | ESDIG | ESDIG SID |
+| Jets | All | KEPPA | KEPPA SID |
+| Jets | All | MNG | MNG SID |
+| Jets | All | NONIX | NONIX SID |
+| Jets | All | PEDNI | PEDNI SID |
+| Jets | All | SUNTI | SUNTI SID |
 
 All other aircraft shall expect the **ML (RADAR) SID**.
 

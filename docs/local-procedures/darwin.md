@@ -10,16 +10,16 @@ VFR aircraft should expect to depart via a published [VFR Route](#vfr-routes). P
 
 IFR aircraft should expect to be issued with a SID as per below:
 
-| Runway | Aircraft Type | First Waypoint | SID |
+| Aircraft Type | Runway | First Waypoint | SID |
 | --- | --- | --- | --- |
-| Any | Jets | HELLI | HELLI SID |
-| Any | Jets | JULIE | JULIE SID |
-| Any | Jets | LAKUP | LAKUP SID |
-| Any | Jets | OCTOB | OCTOB SID |
-| Any | Jets | RUPEG | RUPEG SID |
-| Any | Non-Jets | OLTAS | OLTAS SID |
-| Any | Non-Jets | RUSKA | RUSKA SID |
-| Any | Non-Jets | VANDI | VANDI SID |
+| Jets | All | HELLI | HELLI SID |
+| Jets | All | JULIE | JULIE SID |
+| Jets | All | LAKUP | LAKUP SID |
+| Jets | All | OCTOB | OCTOB SID |
+| Jets | All | RUPEG | RUPEG SID |
+| Non-Jets | All | OLTAS | OLTAS SID |
+| Non-Jets | All | RUSKA | RUSKA SID |
+| Non-Jets | All | VANDI | VANDI SID |
 
 All other aircraft shall expect the **DN (RADAR) SID**.
 
