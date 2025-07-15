@@ -5,6 +5,9 @@
 --8<-- "includes/abbreviations.md"
 
 ## Perth (YPPH)
+### Taxiing
+Two SMC positions exist which may sometimes be activated online. Everything west of RWY 03/21 is administered by SMC West, everything east of the runway is administered by SMC East.
+
 ### Departures
 Depending on the active runway mode, the departure runway assigned to an aircraft may be dependent on the planned route.
 
@@ -49,9 +52,6 @@ The RWY 21 ILS is available from both straight in and from the DME arc. Advise A
 
 During periods of good weather, aircraft may be cleared via the Victor STAR for a visual approach, to reduce their track miles.
 
-### Taxiing
-Two SMC positions exist which may sometimes be activated online. Everything west of RWY 03/21 is administered by SMC West, everything east of the runway is administered by SMC East.
-
 ### Preferred Runway Exits
 The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
 
@@ -75,6 +75,12 @@ When Jandakot ADC (Circuit) is online, responsibility for the **Runway**, **Circ
 ADC West takes responsibility for the North-West Runway, Circuit and Airspace (Runway **06L/24R**), and the entire **JT CTR** at `A015`.
 
 ADC (Circuit) takes responsibility for the South-East Runway, Circuit and Airspace (Runway **06R/24L**) at or below `A010`.
+
+### Taxiing
+The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
+
+!!! tip
+    The YPJT Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/jandakot-manoeuvring-area-map).
 
 ### Departures
 VFR aircraft shall generally depart the zone on an extended circuit leg at `A010`, except for those tracking via FREM.
@@ -117,12 +123,6 @@ STARs are available to segregate YPJT arrivals and YPPH traffic. Pilots may be c
 RNP approaches are available to RWY 06L, 24R, and 30. VOR and NDB approaches are available to the circling area.
 
 By day VMC, pilots should expect to arrive in accordance with [VFR Arrivals](#arrivals_1).
-
-### Taxiing
-The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
-
-!!! tip
-    The YPJT Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/jandakot-manoeuvring-area-map).
 
 ## Scenic Flights
 VFR aircraft may plan to conduct scenic flights within CTA in the PH TMA. A number of VFR routes exist to facilitate this, including:

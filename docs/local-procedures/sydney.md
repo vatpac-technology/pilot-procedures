@@ -4,16 +4,19 @@
 
 --8<-- "includes/abbreviations.md"
 
-## Sydney Airport Procedures
-### Standard Taxi Routes
+## Sydney (YSSY)
+### Taxiing
+#### Standard Taxi Routes
 - Description and SOPs diagram
 
-### Preferred Runway Exits
-- Description and reference to Airport Efficiency Procedures
-
-### Runway 16L/34R Procedures
+#### Runway 16L/34R Procedures
 - Transfer to Tower turning onto B10 (directed or self initiated)
 - No taxi instructions issued after landing 34R to get yourself onto Lima
+
+### Departures
+### Arrivals
+### Preferred Runway Exits
+- Description and reference to Airport Efficiency Procedures
 
 ### Sydney Director
 - What to say to Director
@@ -27,12 +30,53 @@
 - Advice to use ILS
 - Missed approach
 
-### VFR Helicopter Routes
+### Helicopter Operations
 - Clearance requirements from ATS
 - Definition of each route
 - Bondi 5 procedure
 - Expectation of being processed via a different inbound route when approaching from CAPS or MRBR due YSSY runway config and traffic requirements
 - Expectation of requirement to report airborne/on the ground, not issued a takeoff/landing clearance (unless using H1)
+
+## Bankstown (YSBK)
+### Airspace
+- Airspace description
+- Dual ADC description
+
+### Taxiing
+- manoeuvring area
+
+### Departures
+- VFR procedures and altitudes
+
+### Arrivals
+- VFR procedures and altitudes
+
+### IFR Operations
+- SID and clearance requirements
+- RNP approach
+- Little margin with SY CTR during missed approach
+
+## Camden (YSCN)
+### Airspace
+- Airspace description
+
+### Taxiing
+- manoeuvring area
+
+### Departures
+- VFR procedures and altitudes
+
+### Arrivals
+- VFR procedures and altitudes
+
+### IFR Operations
+- Traffic statement but no CTA clearance provided on ground for departures
+- Commencing RNP from OCTA and requiring clearance from CN ADC to enter CTR
+
+## Richmond (YSRI)
+### Departures
+### Arrivals
+### Tower Closed Procedures
 
 ## VFR Scenic Flights
 ### Harbour Scenic Flights
@@ -62,12 +106,3 @@
 ### Helicopter Coded Clearances
 - Clearance requirements from ATS
 - Definition of clearances (e.g. Manly Sector, South Harbour Sector)
-
-## Class D RNP Approaches
-### YSCN RNP Approach
-- Traffic statement by SY CTR
-- Clearance by CN TWR
-
-### YSBK RNP Approach
-- Clearance to leave/reenter by SY CTR
-- Go around note with minimal buffer to SY CTA

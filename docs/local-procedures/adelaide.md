@@ -5,6 +5,12 @@
 --8<-- "includes/abbreviations.md"
 
 ## Adelaide (YPAD)
+### Taxiing
+Where an aircraft will be taxiing via multiple taxiways of the same lettering (e.g. A6, then A5, then A4, etc), they will generally be referred to by the letter only.
+
+!!! example
+    An aircraft taxiing from the terminal to RWY 05 could be instructed to taxi "via Alpha, cross runway 30, Foxtrot, to holding point Foxtrot Six runway 05".
+    
 ### Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
@@ -35,17 +41,19 @@ Where instrument approaches are required, the following approaches are generally
 | 23 | ILS |
 | 30 | RNP |
 
-### Taxiing
-Where an aircraft will be taxiing via multiple taxiways of the same lettering (e.g. A6, then A5, then A4, etc), they will generally be referred to by the letter only.
-
-!!! example
-    An aircraft taxiing from the terminal to RWY 05 could be instructed to taxi "via Alpha, cross runway 30, Foxtrot, to holding point Foxtrot Six runway 05".
-
 ## Parafield (YPPF)
 ### Airspace
 PF ADC is responsible for the Class D airspace in the PF CTR `SFC` to `A015`.
 
 When ADC West is online, the airspace is divided down the middle of the two active extended runway centerlines.
+
+### Taxiing
+The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
+
+!!! tip
+    The YPPF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/parafield-manoeuvring-area-map).
+
+The undershoots of RWY 26L & 26R on taxiway B require a clearance to cross.
 
 ### Departures
 VFR aircraft shall depart the zone via the SUB or SKI departure.
@@ -82,14 +90,6 @@ By day VMC, pilots may request a visual departure.
 An RNP & NDB approach is available to RWY 21R. A VOR approach is available to the circling area.
 
 By day VMC, pilots should expect to arrive in accordance with [VFR Arrivals](#arrivals_1).
-
-### Taxiing
-The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
-
-!!! tip
-    The YPPF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/parafield-manoeuvring-area-map).
-
-The undershoots of RWY 26L & 26R on taxiway B require a clearance to cross.
 
 ## VFR Operations
 ### Coastal Flights
