@@ -29,6 +29,16 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
 
 There are three SMC positions at Brisbane, all with different jurisdiction. Aircraft can be expect to hold short of predetermined taxiways. Domestic aircraft should independently transfer to the next SMC controller autonomously, while international aircraft may expect an explicit frequency change from the current SMC.
 
+#### Preferred Runway Exits
+The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
+
+| Runway | Aircraft Type | Preferred Exits |
+| --- | --- | --- |
+| RWY 19L | Turboprop Prop, Jet <br> Jet, Heavy | A6 <br> A7 |
+| RWY 01R | Turboprop Prop, Jet <br> Jet, Heavy | A4S <br> A4 <br> A3 |
+| RWY 19R | Turboprop Prop <br> Jet <br> Heavy | T7 <br> T9 <br> T11 |
+| RWY 01L | Turboprop Prop <br> Jet <br> Heavy | T8 <br> T6 <br> T4 |
+
 #### Helicopter Operations
 - Clearance requirements from ATS
 - VMC Inbound & Outbound waypoints based on direction of flight
@@ -66,6 +76,15 @@ Archerfield is a Class D aerodrome with CTR from `SFC` to `A015`.
     In some simulator scenery holding point **B6** is incorrect or entirely missing, when assigned holding point **B6**, immediately confirm you can accept it. If not, advise the controller straight away.
 
 #### Outbond Procedures
+
+| Planned Departure Tracks | "Intentions"   | Tracking Requirement | 
+| ---------------      | ---------      | ----------           | 
+| BTN 310 & 019 DEG    | Northern Departure | Track via WTBG | 
+| BTN 020 & 099 DEG    | Eastern <br> Departure  | Track via Gateway Motorway and Pacific Motorway Intersection<br>*(Not available when Rwy 22 active unless departing into Class C)* | 
+| BTN 100 & 204 DEG    | Southern Departure | Track 135 until clear of the zone |
+| BTN 205 & 309 DEG    | Western Departure  | Track between 220 & 309 until clear of the zone<br>*(Acft must nominate outbound DEP track with TAXI call)* |
+| Other                |                    | As approved by ATC
+
 - track xxx degrees
 - depart the zone at 1000
 - no frequency change required once leaving CTR
@@ -75,17 +94,10 @@ Archerfield is a Class D aerodrome with CTR from `SFC` to `A015`.
      <span class='placeholder'>Intentions</span> "  
 
 !!! example
-    **R8489**: "Archer Tower, R8489, ready, runway 10L, for eastern departure"  
-    **AF ADC**: "R8489, Archer Tower, runway 10L, cleared for takeoff"      
-    **R8489**: "Runway 10L, cleared for takeoff, R8489"  
+    **R8489**: "Archer Tower, R8489, ready, runway 10R, for eastern departure"  
+    **AF ADC**: "R8489, Archer Tower, runway 10R, cleared for takeoff"      
+    **R8489**: "Runway 10R, cleared for takeoff, R8489"  
 
-| Planned Departure Tracks | "Intentions"   | Tracking Requirement | 
-| ---------------      | ---------      | ----------           | 
-| BTN 310 & 019 DEG    | Northern Departure | Track via WTBG | 
-| BTN 020 & 099 DEG    | Eastern <br> Departure  | Track via Gateway Motorway and Pacific Motorway Intersection<br>*(Not available when Rwy 22 active unless departing into Class C)* | 
-| BTN 100 & 204 DEG    | Southern Departure | Track 135 until clear of the zone |
-| BTN 205 & 309 DEG    | Western Departure  | Track between 220 & 309 until clear of the zone<br>*(Acft must nominate outbound DEP track with TAXI call)* |
-| Other                |                    | As approved by ATC
 
 #### Inbound Procedures
 - inbound reporting points, alt, etc
