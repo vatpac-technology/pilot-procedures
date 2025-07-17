@@ -279,3 +279,7 @@
 *[ETA]: Estimated Time of Arrival
 *[FCP]: False Cape
 *[MLT]: Marino Light House
+*[UQLD]: University of Queensland
+*[HLS]: Helicopter Landing Site
+*[BLHS]: Bald Hills
+*[MBHM]: Manly Boat Harbour
