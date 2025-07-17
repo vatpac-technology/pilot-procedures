@@ -67,15 +67,67 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 | RWY 01L | ILS |
 
 ### Helicopter Operations
-- Clearance requirements from ATS
-- VMC Inbound & Outbound waypoints based on direction of flight
-- Expectation of requirement to report airborne/on the ground, not issued a takeoff/landing clearance (unless using H2)
+#### Waypoints
 
-## Gold Coast (YBCG)
+In VMC, all helicopters shall expect to be processed via two visual waypoints (outlined below) positioned north and south of the field. Where VMC does not exist, IFR helicopters will conform to fixed wing ops and expect to be processed via the BN (RADAR) SID from an appropriate runway.
+
+| Direction of Flight  | Inbound/Outbound Tracking Point |
+| ------------------ | -------------- |
+| North      | BLHS   |
+| South      | MBHM   |
+| East      | MBHM   |
+| West      | BLHS   |
+
+!!! phraseology
+    **RSCU533:** "Brisbane Delivery, helicopter RSCU533, MEDEVAC, for YXHE, request clearance"  
+    **BN ACD:** "RSCU533, Brisbane Delivery, cleared to YXHE via amended BLHS, YXHE, climb A025, squawk 1256, departure frequency 124.7"  
+    **RSCU533:** "Cleared to YXHE via amended BLHS, YXHE, climb A025, squawk 1256, departures 124.7, RSCU533"
+
+#### Departures
+
+Both taxiways **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance from BN ADC. Helicopters departing on other surfaces outside the maneuvering areas will be instructed to *"report airborne"*. 
+
+!!! phraseology
+    **RSCU533:** "Brisbane Tower, helicopter RSCU533, Taxiway H2 ready"  
+    **BN ADC:** "RSCU533, Brisbane Tower, Taxiway H2 cleared for takeoff"  
+    **RSCU533:** "Taxiway H2 cleared for takeoff, RSCU533"
+ 
+    **BN ADC:** "RSCU533, contact departures"  
+    **RSCU533:** "Departures, RSCU533"
+
+
+#### Arrivals
+
+Helicopters arriving to YBBN during VMC shall expect to be cleared by via the [appropriate inbound waypoint](#waypoints), with that waypoint issued as the clearance limit. 
+
+Depending on the current traffic situation, pilots may expect an instruction to hold and/or maintain own separation with any arriving or departing aircraft, If holding is required prior to arrival, helicopters shall be instructed to hold at the following positions:
+
+| Inbound Via | Holding Position |
+| ----------- | ---------------- |
+| BLHS        | Brisbane Entertainment Centre *(3nm northwest of runway 01L/19R)* |
+| MBHM        | MBHM             |
+
+!!! phraseology 
+    **X6G**: "Brisbane Tower, helicopter X6G, for Taxiway F4"  
+    **BN ADC**: "X6G, Brisbane Tower, cancel clearance limit, track to and hold at the Brisbane Entertainment Centre, maintain A010"  
+    **X6G**: "Cancel clearance limit, track to and hold at the Brisbane Entertainment Centre, maintain A010, X6G"
+
+    **BN ADC**: "X6G, report sighting, and able to maintain own separation with, a Qantas 737, 4nm final runway 19R"  
+    **X6G**: "Traffic sighted, and we are able to maintain own separation. X6G"  
+    **BN ADC**: "X6G, cancel hold, pass behind the 737, maintain own separation, caution wake turbulence, cleared visual approach Taxiway F4"  
+    **X6G**: "Cancel hold, pass behind the 737, maintain own separation, cleared visual approach Taxiway F4, X6G"
+
+Both taxiway **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance by BN ADC. Helicopters landing on other surfaces outside the maneuvering areas will be instructed to *"report on the ground"* so the controller knows when they you no longer active in their airspace.
+
+!!! phraseology
+    **BN ADC:** "X6G, Taxiway F4, cleared to land"  
+    **X6G:** "Taxiway F4, cleared to land, X6G"
+
+## Gold Coast (YBCG) TODO
 ### Airspace
 CG ADC is responsible for the Class C Airspace within the CG CTR `SFC` to `A015`.
 
-## Sunshine Coast (YBSU)
+## Sunshine Coast (YBSU) TODO
 ### Airspace
 SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`.
 
