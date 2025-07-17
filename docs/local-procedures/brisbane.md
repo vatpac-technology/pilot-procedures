@@ -123,7 +123,7 @@ Both taxiway **H2** and **F4** are inside the maneuvering area and treated like 
     **BN ADC:** "X6G, Taxiway F4, cleared to land"  
     **X6G:** "Taxiway F4, cleared to land, X6G"
 
-## Gold Coast (YBCG) TODO
+## Gold Coast (YBCG)
 ### Airspace
 CG ADC is responsible for the Class C Airspace within the CG CTR `SFC` to `A015`.
 
@@ -159,7 +159,7 @@ Circuits are conducted at `A010`.
 | 17 | Left | 
 | 35 | Right    |
 
-## Sunshine Coast (YBSU) TODO
+## Sunshine Coast (YBSU)
 ### Airspace
 SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`.
 
