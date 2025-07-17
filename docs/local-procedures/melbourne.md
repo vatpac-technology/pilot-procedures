@@ -1,5 +1,5 @@
 ---
-  title: Melbourne, VIC (TODO)
+  title: Melbourne, VIC
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -212,16 +212,148 @@ Circuit operations are conducted parallel to the duty runway and inside the fixe
 #### Night Circuits
 Night operations must comply with fixed wing operations.
 
-## Essendon (YMEN) (TODO)
-### Departures
-### Arrivals
-### Tower Closed Procedures
-### Sunbury Corridor
+## Essendon (YMEN)
+### Airspace
+EN ADC is responsible for the Class C airspace to the southeast of YMEN from `SFC` to `A020`.
 
-## Avalon (YMAV) (TODO)
 ### Departures
+VFR aircraft shall generally depart the zone on an extended circuit leg.
+
+IFR aircraft shall generally expect a visual departure during VMC, otherwise the **EN (RADAR) SID**.
+
+#### Start Approval
+Start approval is required for:
+
+- Departures to YMML
+- Departures to YMMB and YMAV planned above `A020`
+
 ### Arrivals
+VFR aircraft from Class G airspace should track via the following reporting points at `A015`:
+
+| Inbound Direction | Reporting Point |
+| --- | --- |
+| North | KAO |
+| Northeast | YYN |
+| East | DNS |
+| Southeast | APL |
+| South | SNP |
+| Southwest | WES |
+
+IFR aircraft will generally transit the ML CTA and will likely be processed via the IAF for the most relevant instrument approach, or during VMC:
+
+| Arrival Runway | Arrival Gate |
+| --- | --- |
+| 08 | 5nm Final |
+| 17 | 5nm Final |
+| 26 | MOSVO |
+| 35 | MOSVO |
+
 ### Tower Closed Procedures
+The ML Class C airspace surrounding YMEN extends to `SFC`. Airways clearances are required for all operations, however with the Tower closed, no takeoff or landing clearances will be issued. 
+
+#### Outbound
+Departing aircraft must request airways clearance and engine start approval while on the bay and ML TCU will provide current weather conditions, expected runway for departure, and clearance.
+
+!!! phraseology
+    **FDK**: "Melbourne Approach, FDK, YMEN for YSHT, request clearance and engine start"  
+    **ML TCU**: "FDK, Melbourne Approach, wind 290 degrees 4 knots, QNH 1017, cleared to YSHT via MNG, flight planned route, visual departure, climb to A040, squawk 4423, expect runway 35"  
+    **FDK**: "QNH 1017, cleared to YSHT via MNG, flight planned route, visual departure, climb to A040, squawk 4423, FDK"  
+    **ML TCU**: "FDK, start approved, report taxiing for runway 35"  
+    **FDK**: "Start approved, FDK"
+
+Report taxiing for the runway to receive traffic information.
+
+!!! phraseology
+    **FDK**: "FDK, taxiing runway 35"  
+    **ML TCU**: "FDK, traffic is CBN, a Cherokee, 5nm final runway 35, report at the holding point for departure instructions"  
+    **FDK**: "Copy CBN, wilco, FDK"
+
+Expect departure instructions at the holding point.
+
+!!! phraseology
+    **FDK**: "FDK, ready runway 35"  
+    **ML TCU**: "FDK, hold at the holding point, short delay due inbound aircraft"  
+    **FDK**: "Hold at the holding point, FDK"  
+
+    **ML TCU**: "FDK, make right turn, report airborne"  
+    **FDK**: "Make right turn, FDK"
+
+#### Inbound
+Inbound aircraft will be cleared for the relevant instrument/visual approach and instructed to report clear of the runway. It is important that you report as soon as you vacate the runway, as ML TCU will be segregating other aircraft from your possible missed approach path. Any delay may result in delays for other pilots.
+
+!!! phraseology
+    **ML TCU:** "SH490, cleared ILS Runway 26 approach, traffic taxiing for the holding point is UJA, an Aero Commander, report clear of the runway"  
+    **SH490:** "Cleared ILS Runway 26, copy UJA, SH490"  
+
+    **SH490:** "SH490, clear of the runway, Essendon, cancel SARWATCH"  
+    **ML TCU:** "SH490, Essendon SARWATCH terminated"
+
+As the aerdrome surface is uncontrolled with the Tower closed, you may taxi to your desired parking position without instruction from ML TCU.
+
+### Sunbury Corridor
+A VFR route exists to allow helicopters to transit from YMEN to the northwest under day VMC. Pilots should track in accordance with the table below:
+
+| Direction | Tracking Points |
+| --- | --- |
+| Northwest | `YMML PWLC SWT` |
+| Southeast | `SWT PWLC YMML` |
+
+!!! note
+    Pilots must track over the intersection of RWY 16 & RWY 27 at YMML.
+
+Clearances are required for transit. Expect to receive a requirement to sight and maintain own separation with aircraft operating at YMML.
+
+## Avalon (YMAV)
+### Departures
+VFR aircraft should expect to depart via a visual departure, on track to their first tracking point or via an extended leg of the circuit.
+
+IFR aircraft should expect to be issued with a SID as per below:
+
+| Aircraft Type | Runway | First Waypoint | SID |
+| --- | --- | --- | --- |
+| All | All | ML | JUSTY SID |
+
+Aircraft planned to the northeast via a waypoint other than ML can expect to be *rerouted* via ML and cleared via the JUSTY SID. All other aircraft shall expect the **AV (RADAR) SID**.
+
+### Arrivals
+An ILS is available to RWY 18. RNP and VOR approaches are available to both runways. An RNP(AR) approach is available to RWY 36.
+
+IFR aircraft can generally expect to be processed via the JAYBI STAR, or direct to the IAF, terminating with the following approach:
+
+| Runway | Approach |
+| --- | --- |
+| 18 | ILS |
+| 36 | RNP(AR) or RNP if unable |
+
+### Tower Closed Procedures
+When AV ADC is closed, the AV CTR is reclassified as Class G from `SFC` to `A007`. Class E airspace begins at `A007`.
+
+#### Outbound
+Departing aircraft will require an airways clearance on the ground, due to the low level of CTA. Aircraft should report taxiing to the TCU controller, who will issue a squawk code and traffic statement. These aircraft should be instructed to report at the holding point, where airways clearance will be issued.
+
+!!! phraseology
+    **AM318**: "Melbourne Approach, AM318, King Air, POB 2, IFR, taxiing YMAV runway 18 for YMEN"  
+    **ML TCU**: "AM318, Melbourne Approach, squawk 3542, no reported IFR traffic, report ready at the holding point for airways clearance"  
+    **AM318**: "Squawk 3542, wilco, AM318"  
+    
+    **AM318**: "AM318, ready runway 18"  
+    **ML TCU**: "AM318, cleared to YMEN direct. Enter controlled airspace on the AV5 departure, climb via SID to A040"  
+    **AM318**: "Cleared to YMEN direct. Enter controlled airspace on the AV5 departure, climb via SID to A040, AM318"  
+    **ML TCU**: "AM318, assigned heading left 020, report airborne"  
+    **AM318**: "Assigned left 020, wilco, AM318"
+
+#### Inbound
+Due to the low level of CTA above Avalon, aircraft conducting approaches will commence the approach inside controlled airspace and leave CTA on descent. If the aircraft goes around, they will re-enter controlled airspace.
+
+!!! note
+    A clearance to conduct an instrument approach constitutes a clearance to carry out the published missed approach, including re-entering CTA.
+
+!!! phraseology
+    **ML TCU:** "JST607, leave controlled airspace descending via the ILS Runway 18 approach, no reported IFR traffic, report clear of the runway"  
+    **JST607:** "Leave controlled airspace descending via the ILS Runway 18 approach, JST607"  
+
+    **JST607:** "JST607, clear of the runway, Avalon, cancel SARWATCH"  
+    **ML TCU:** "JST607, Avalon SARWATCH terminated"
 
 ## Scenic Flights
 ### Melbourne Coastal Route
