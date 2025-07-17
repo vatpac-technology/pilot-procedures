@@ -146,7 +146,7 @@ ADC North takes responsibility for the North/West Runway, Circuit and Airspace (
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. 
 All aircraft require a clearance to cross RWY 04L & 04R on taxiway B.
 
-!!! phraselogy
+!!! phraseology
     **BHK**: "Archer Ground, Archer BHK, Dual, received F, at Eastern Apron, request taxi for southern departure"    
     **AF SMC**: "BHK, Archer Ground, report approaching taxiway E"  
     **BHK**: "Report approaching E, BHK"        
@@ -170,7 +170,7 @@ All VFR departures shall depart the AF CTR at `A10`.
 !!! note 
     Aircraft departing the zone into Class G airspace should transfer to area frequency/advisory frequency upon leaving the zone. No explicit frequency transfer will be given to these aircraft.
 
-!!! phraselogy
+!!! phraseology
     **R8489**: "Archer Tower, R8489, holding point A7, runway 10R, for eastern departure, ready"  
     **AF ADC**: "R8489, Archer Tower, runway 10R, cleared for takeoff"      
     **R8489**: "Runway 10R, cleared for takeoff, R8489"  
@@ -181,7 +181,7 @@ All VFR departures shall depart the AF CTR at `A10`.
 - circuit join / alt / report point instructions
 - phraselogy example, (cleared visual approach for 10L via TAR, etc)
 
-!!! example
+!!! phraseology
     **YQF**: "Archer Tower, YQF, Cirrus, TAR, A015, recieved Bravo, inbound fullstop"  
     **AF ADC**: "YQF, Archer Tower, join downwind, runway 10L, maintain A015"      
     **YQF**: "Join downwind, runway 10L, maintain A015, YQF"  
