@@ -14,6 +14,7 @@
 - No taxi instructions issued after landing 34R to get yourself onto Lima
 
 ### Departures
+- Intersection departures
 ### Arrivals
 ### Preferred Runway Exits
 - Description and reference to Airport Efficiency Procedures
@@ -29,6 +30,7 @@
 - Expectation of traffic information if within 1nm
 - Advice to use ILS
 - Missed approach
+- What "Do Not Pass Through Centreline" means :)
 
 ### Helicopter Operations
 - Clearance requirements from ATS
@@ -36,6 +38,12 @@
 - Bondi 5 procedure
 - Expectation of being processed via a different inbound route when approaching from CAPS or MRBR due YSSY runway config and traffic requirements
 - Expectation of requirement to report airborne/on the ground, not issued a takeoff/landing clearance (unless using H1)
+
+- CAPS and MRBR inbound clearance from Tower rather than Approach/Departures
+- Sydney heli lanes such as north shore lane
+- How to transition from Outbound route to OCTA... eg what to do/say on Ersineville 5 outbound when you get to DHH
+- IFR helis should expect to be processed like fixed wing acft inbound and outbound
+
 
 ## Bankstown (YSBK)
 ### Airspace
