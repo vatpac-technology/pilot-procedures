@@ -163,6 +163,13 @@ Circuits are conducted at `A010`.
 ### Airspace
 SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`.
 
+### Departures
+
+### Arrivals
+
+### Runway Configuration
+
+
 ## Archerfield (YBAF)
 ### Airspace
 AF ADC is responsible for the Class D airspace in the AF CTR `SFC` to `A015`.
