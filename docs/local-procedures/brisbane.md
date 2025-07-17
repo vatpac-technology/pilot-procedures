@@ -127,6 +127,38 @@ Both taxiway **H2** and **F4** are inside the maneuvering area and treated like 
 ### Airspace
 CG ADC is responsible for the Class C Airspace within the CG CTR `SFC` to `A015`.
 
+### Departures
+
+### Arrivals
+
+### VFR Procedures
+
+#### Arrivals
+
+##### From the North
+
+##### From the North
+
+#### Low-Level Coastal Flights
+
+#### Western VFR Route
+
+### Helicopter Operations
+
+#### Arrivals
+
+#### Departures
+
+### Circuits
+Circuits are conducted at `A010`.  
+
+| Runway               | Direction       |
+| ------------------ | -------------- |
+| 14 | Left  |
+| 32 | Right  |
+| 17 | Left | 
+| 35 | Right    |
+
 ## Sunshine Coast (YBSU) TODO
 ### Airspace
 SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`.
