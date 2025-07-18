@@ -283,3 +283,11 @@
 *[HLS]: Helicopter Landing Site
 *[BLHS]: Bald Hills
 *[MBHM]: Manly Boat Harbour
+*[NEN]: Nerang
+*[STOT]: Stotts Island
+*[HASS]: Hastings Point
+*[CIS]: Cook Island
+*[DNGR]: Point Danger
+*[BLGH]: Burleigh Heads
+*[ROTC]: Robina Town Centre
+*[CGD]: Cudgen Headland
