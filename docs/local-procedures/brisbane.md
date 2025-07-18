@@ -1,5 +1,5 @@
 ---
-  title: Brisbane, QLD (TODO)
+  title: Brisbane, QLD
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -245,7 +245,7 @@ The Western VFR Route begins at NEN and tracks inland, terminating at Burringbar
     **CG ADC:** "WCS, control services terminated, frequency change approved"   
     **WCS:** "Frequency change approved, WCS" 
 
-    Aircraft then should transfer to area frequency/advisory frequency.
+    Aircraft should then transfer to area frequency/advisory frequency.
 
 !!! tip
     You can find details of the Western VFR Route on the [Gold Coast VTC](https://www.airservicesaustralia.com/aip/aip.asp){target=new}.
@@ -390,7 +390,7 @@ Aircraft shall confirm departure intentions to AF ADC on initial contact. All VF
 
 Aircraft shall track via any designated VFR inbound reporting point at `A015`, thence contact AF ADC for clearance. Aircraft inbound via TVT may be instructed to report overhead CBRG, or via PKR, report overhead Logan Motorway. All Aircraft can expect to be instructed to join the circuit.
 
-| VFR Waypoint  | Direction of Flight |
+| VFR Waypoint  | Inbound Direction |
 | ------------------ | -------------- |
 | TVT     | North  |
 | PKR     | South  |
@@ -524,4 +524,4 @@ Pilots shall report once clear of CTA.
     **BN TCU**: "FHK, identification and control service terminated, frequency change approved"  
     **FHK**: "Frequency change approved, FHK"
 
-Aircraft then should transfer to area frequency/advisory frequency.
+Aircraft should then transfer to area frequency/advisory frequency.
