@@ -493,3 +493,35 @@ All circuits are to be flown at `A010`.
 
 ### VFR Procedures
 #### Brisbane City Scenic
+
+Helicopters conducting scenic flights around the city require access to the Brisbane CTA to operate. These flights typically involve low-level operations inside controlled airspace and in proximity to landmarks within the city area.
+
+Aircraft must track via Class G airspace to UQLD and contact BN TCU prior to reaching UQLD requesting airways clearance. If a clearance cannot be given immediately, aircraft may be instructed to remain clear of Class C airspace.
+
+!!! phraseology 
+    **FHK**: "Departures, helicopter FHK, 2 miles south UQLD `A010`, for city scenic, request airways clearance"  
+    **BN TCU**: "FHK, Departures, squawk 1562, remain outside Class C airspace"  
+    **FHK**: "Squawk 1562, remain OCTA, FHK"  
+
+    **BN TCU**: "FHK, identified, cleared to enter controlled airspace remaining west of SBD, not above `A010`, Brisbane QNH 1026"  
+    **FHK**: "Cleared to enter controlled airspace remaining west of SBD, not above `A010`, QNH 1026, FHK"
+
+Due to the close proximity to YBBN, aircraft may be instructed to maintain visual separation with arriving or departing aircraft.
+
+!!! phraseology 
+    **BN TCU**: "FHK, report sighting an Embraer E190 departing runway 19R, through `A008` on climb."  
+    **FHK**: Traffic in sight, FHK"  
+    **BN TCU**: "FHK, maintain own seperation with the E190"  
+    **FHK**: "Maintain own seperation, FHK"  
+
+    **BN TCU**: "QFA1864, traffic is a helicopter operating over the CBD not above `A010`, maintaining own separation with you"  
+    **QFA1864:** "QFA1864"
+
+Pilots shall report once clear of CTA.
+
+!!! phraseology 
+    **FHK**: "FHK, excited the zone"  
+    **BN TCU**: "FHK, identification and control service terminated, frequency change approved"  
+    **FHK**: "Frequency change approved, FHK"
+
+Aircraft then should transfer to area frequency/advisory frequency.
