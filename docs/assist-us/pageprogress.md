@@ -19,4 +19,3 @@ Use this page to track each page/section as you work on it. This will avoid mult
 
 ## Other Tasks
 - Consider indenting subheadings like SOPs
-- Consider amending the branding colour to differentiate from the SOPs
