@@ -165,7 +165,27 @@ SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`
 
 ### Departures
 
+VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
+
+IFR aircraft should expect to be issued with a SID as per below:
+
+| Aircraft Type | Runway | First Waypoint | SID |
+| --- | --- | --- | --- |
+| Jets | All | MOOLO | MOOLO SID |
+| Jets | All | TAPET | TAPET SID |
+
+All other aircraft shall expect a visual departure.
+
 ### Arrivals
+
+An RNP, and RNP(AR) is available for all runways.
+
+IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
+
+| Runway | Approach |
+| --- | --- |
+| RWY 13 | RNP(AR) or RNP if unable |
+| RWY 31 | RNP |
 
 ### Runway Configuration
 
