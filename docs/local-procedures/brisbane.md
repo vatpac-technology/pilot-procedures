@@ -169,6 +169,8 @@ SU ADC is responsible for the Class D Airspace within the SU CTR `SFC` to `A035`
 
 ### Runway Configuration
 
+The runway layout at YBSU has changed over the years. Pilots with old simulators/scenery may not have the newer Runway 13/31 config (replacing the old 18/36 config). If your scenery does not feature this updated runway configuration, you must inform ATC, who will try to facilitate your flight as best as possible.
+
 
 ## Archerfield (YBAF)
 ### Airspace
