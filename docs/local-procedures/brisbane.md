@@ -491,8 +491,8 @@ The circuit direction changes depending on time of day and runway being used.
 
 All circuits are to be flown at `A010`.
 
-### VFR Procedures
-#### Brisbane City Scenic
+## Scenic Flights
+### Brisbane City Scenic
 
 Helicopters conducting scenic flights around the city require access to the Brisbane CTA to operate. These flights typically involve low-level operations inside controlled airspace and in proximity to landmarks within the city area.
 
