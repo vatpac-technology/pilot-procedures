@@ -33,10 +33,10 @@ The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilo
 
 | Runway | Aircraft Type | Preferred Exits |
 | --- | --- | --- |
-| RWY 19L | Turboprop Prop, Jet <br> Jet, Heavy | A6 <br> A7 |
-| RWY 01R | Turboprop Prop, Jet <br> Jet, Heavy | A4S <br> A4 <br> A3 |
-| RWY 19R | Turboprop Prop <br> Jet <br> Heavy | T7 <br> T9 <br> T11 |
-| RWY 01L | Turboprop Prop <br> Jet <br> Heavy | T8 <br> T6 <br> T4 |
+| RWY 01L | Turboprop<br>Jet<br>Heavy Jet | T8<br>T6<br>T4 |
+| RWY 01R | Turboprop, Jet<br>Heavy Jet | A4S<br>A4 or A3 |
+| RWY 19L | Turboprop, Jet<br>Heavy Jet | A6<br>A7 |
+| RWY 19R | Turboprop<br>Jet<br>Heavy Jet | T7<br>T9 <br>T11 |
 
 ### Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
@@ -55,16 +55,16 @@ All other aircraft shall expect the **BN (RADAR) SID**.
 
 ### Arrivals
 
-An ILS, RNP, and RNP(AR) is available for all runways. 
+ILS, RNP, and RNP(AR) approaches are available to all runways. 
 
 IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
 
 | Runway | Approach |
 | --- | --- |
-| RWY 19L | ILS |
-| RWY 01R | ILS |
-| RWY 19R | ILS |
 | RWY 01L | ILS |
+| RWY 01R | ILS |
+| RWY 19L | ILS or RNP(AR) |
+| RWY 19R | ILS |
 
 ### Helicopter Operations
 #### Waypoints
@@ -145,7 +145,7 @@ A start clearance is required for aircraft planned to YBBN.
 
 ### Arrivals
 
-An ILS is available to RWY 14. RNP, RNP(AR), and VOR approaches are available to all runways. RWY 17 & RWY 35 does not have any associated instrument approaches.
+An ILS is available to RWY 14. RNP, RNP(AR), and VOR approaches are available to RWY 14 & RWY 32. RWY 17 & RWY 35 do not have any associated instrument approaches.
 
 IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
 
@@ -154,7 +154,19 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 | RWY 14 | RNP(AR) or RNP if unable |
 | RWY 32 | RNP |
 
+IFR aircraft from the north can generally expect tracking `BN Y177 IDRIL CG2SA/CG2NC`.
+
 Light VFR aircraft may be processed to RWY 17 for a visual approach.
+
+### Circuits    
+Circuits are conducted at `A010`.  
+
+| Runway               | Direction       |
+| ------------------ | -------------- |
+| 14 | Left  |
+| 32 | Right  |
+| 17 | Left | 
+| 35 | Right    |
 
 ### VFR Procedures
 
@@ -162,7 +174,7 @@ Light VFR aircraft may be processed to RWY 17 for a visual approach.
 
 ##### From the North
 
-Aircraft approaching from the north shall contact CG ADC at Q1 or ROT for clearance. Aircraft may expect clearance to track coastal southbound, thence instructions to join the circuit.
+Aircraft approaching from the north shall contact CG ADC at Q1 or ROTC for clearance. Aircraft may expect clearance to track coastal southbound, thence instructions to join the circuit.
 
 !!! phraseology
     **OMU:** "Gold Coast Tower, Cessna 172 OMU, abeam Q1, recieved F, inbound, request clearance"  
@@ -252,7 +264,7 @@ The Western VFR Route begins at NEN and tracks inland, terminating at Burringbar
 
 ### Helicopter Operations
 
-Local helicopter operations are conducted on the Western Grass which is the area contained by blue gable markers north of the VOR and west of the runway intersection. This is marked on the aerodrome chart as “HELO OPS”. The HLS is located between the GA Apron and Taxiway Golf. Circuits from the Western Grass are to be made in the same direction as the duty runway.
+Local helicopter operations are conducted on the Western Grass which is the area contained by blue gable markers north of the VOR and west of the runway intersection. This is marked on the aerodrome chart as 'HELO OPS'. The HLS is located between the GA Apron and Taxiway Golf. Circuits from the Western Grass are to be made in the same direction as the duty runway.
 
 #### Hospital Helipads
 
@@ -291,16 +303,6 @@ Both hospital helipads are outside the maneuvering area and do not require a tak
 
     **CG ADC:** "RSCU588, Cleared to YBBN via STOT, flight planned route. Not above A015, report airborne"  
     **RSCU588:** "Cleared to YBBN via STOT, flight planned route. Not above A015, wilco, RSCU588"  
-
-### Circuits    
-Circuits are conducted at `A010`.  
-
-| Runway               | Direction       |
-| ------------------ | -------------- |
-| 14 | Left  |
-| 32 | Right  |
-| 17 | Left | 
-| 35 | Right    |
 
 ## Sunshine Coast (YBSU)
 ### Airspace
