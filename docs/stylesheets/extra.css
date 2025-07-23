@@ -14,6 +14,9 @@
     --md-typeset-link: rgb(104, 148, 230);
     --md-typeset-link-hover: #448aff;
     --md-typeset-a-color: rgb(104, 148, 230);
+
+    /*--header-background-colour: #147914; (Green) */
+    --header-background-colour: #911e1e;
     --hotline: #fff820a1;
     --coldline: #35b9ff66;
     --placeholder: #cf6400;
@@ -31,6 +34,9 @@
     --md-typeset-link: rgb(104, 148, 230);
     --md-typeset-link-hover: #448aff;
     --md-typeset-a-color: rgb(104, 148, 230);
+
+    /*--header-background-colour: #004b28; (Green) */
+    --header-background-colour: #5f021b;
     --hotline: #b7b10291;
     --coldline: #16aeff6e;
     --placeholder: #ff7b00;

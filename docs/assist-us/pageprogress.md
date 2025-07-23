@@ -13,10 +13,7 @@ Use this page to track each page/section as you work on it. This will avoid mult
 | Navigation | | **Complete** | |
 | Flight Planning | | **Complete** | |
 | Meteorology | | **Complete** | |
-| Local Procedures | | To Do | |
-| Local Procedures | Sydney | *Planned* | Nikola Z - 1569950 |
-| Local Procedures | Brisbane | *Planned* | Charlie - 1713821 |
+| Local Procedures | Sydney | *In Progress* | Nikola Z - 1569950 |
 
 ## Other Tasks
 - Consider indenting subheadings like SOPs
-- Consider amending the branding colour to differentiate from the SOPs
