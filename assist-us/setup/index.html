@@ -15,7 +15,7 @@
     
     
       
-        <title>Setting Up - VATPAC Pilot Procedures</title>
+        <title>1 - Setting Up - VATPAC Pilot Procedures</title>
       
     
     
@@ -125,7 +125,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Setting Up
+              1 - Setting Up
             
           </span>
         </div>
@@ -1382,62 +1382,6 @@
               
   
   
-  
-    <li class="md-nav__item">
-      <a href="../best-practices/" class="md-nav__link">
-        Best Practices
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../buildingblocks/" class="md-nav__link">
-        Building Blocks
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../changes/" class="md-nav__link">
-        Making your Changes
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../pageprogress/" class="md-nav__link">
-        Page Progress
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
     
   
   
@@ -1448,12 +1392,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          Setting Up
+          1 - Setting Up
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Setting Up
+        1 - Setting Up
       </a>
       
         
@@ -1505,15 +1449,15 @@
   
 </li>
         
-      </ul>
-    </nav>
+          <li class="md-nav__item">
+  <a href="#bad-git-executable" class="md-nav__link">
+    Bad git Executable
+  </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#using-mkdocs" class="md-nav__link">
-    Using MkDocs
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1532,8 +1476,64 @@
   
   
     <li class="md-nav__item">
+      <a href="../buildingblocks/" class="md-nav__link">
+        2 - Building Blocks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../tips/" class="md-nav__link">
-        Working with MkDocs
+        3 - Working with MkDocs
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../best-practices/" class="md-nav__link">
+        4 - Best Practices
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../changes/" class="md-nav__link">
+        5 - Making your Changes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pageprogress/" class="md-nav__link">
+        Page Progress
       </a>
     </li>
   
@@ -1606,15 +1606,15 @@
   
 </li>
         
-      </ul>
-    </nav>
+          <li class="md-nav__item">
+  <a href="#bad-git-executable" class="md-nav__link">
+    Bad git Executable
+  </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#using-mkdocs" class="md-nav__link">
-    Using MkDocs
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1631,7 +1631,7 @@
               
                 
 
-  <h1>Setting Up</h1>
+  <h1>1 - Setting Up</h1>
 
 <p>We'll kick off by setting up your local development environment. </p>
 <div class="admonition important">
@@ -1647,10 +1647,11 @@
 </li>
 <li>A GitHub account, and a local Git environment - <a href="https://docs.github.com/en/get-started/quickstart" target="blank">GitHub Quickstart Guide</a>.</li>
 <li>Python - <a href="https://www.python.org/downloads/" target="blank">Install Python</a></li>
+<li>git - <a href="https://git-scm.com/" target="blank">Download git</a></li>
 </ul>
 <h2 id="lets-get-cracking">Lets get cracking!</h2>
 <ul>
-<li>Fork and Clone the <a href="https://github.com/vatpac-technology/sops" target="new">:fontawesome-brands-github:{: .github } -  <strong><abbr title="Standard Operating Procedures">SOPs</abbr> Project</strong></a> - <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo" target="new">Guide</a>.</li>
+<li>Fork and clone the <a href="https://github.com/vatpac-technology/pilot-procedures" target="new"><strong>Pilot Procedures Project</strong></a> - <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo" target="new">Guide</a>.</li>
 <li>Install the following Python packages: <code>mkdocs-material, mkdocs-git-revision-date-localized-plugin, mkdocs-awesome-pages-plugin</code> and <code>mkdocs-redirects</code>.</li>
 </ul>
 <div class="admonition info">
@@ -1683,21 +1684,32 @@ OR
 </div>
 <p>Python is recognised but some scripts have been installed beyond the scope of the software.  Update your Windows <em>PATH</em> variable to include the path indicated in the error.  </p>
 <p>Follow the steps <a href="https://www.educative.io/answers/how-to-add-python-to-path-variable-in-windows" target="new">here</a> to update your Windows PATH variable. Restart VS Code before continuing.</p>
-<h2 id="using-mkdocs">Using MkDocs</h2>
-<p>MkDocs is the underlying tool that we use for our <abbr title="Standard Operating Procedures">SOPs</abbr>. It takes in Markdown files, and converts them to a static website on each save, which is then pumped into your browser upon an automatic reload.</p>
-<p>We can also run <code>mkdocs build</code> to build a export the core HTML/CSS/JS that can be uploaded via FTP to the web.</p>
-<div class="admonition info">
-<p class="admonition-title">Info</p>
-<p>You won't need to run the <code>mkdocs build</code> command. This is automatically run as a part of the GitHub deployment workflow. <strong>If you do run this command</strong>, please make sure you delete the <code>site</code> folder that is generated in your base directory before committing your code.</p>
+<h3 id="bad-git-executable">Bad git Executable</h3>
+<p>When running <code>mkdocs serve</code> without first installing git, the following error may be received:</p>
+<div class="admonition example">
+<p>Traceback (most recent call last):
+File "C:\Users\username\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\git__init__.py", line 296, in &lt;module&gt; refresh()<br />
+<sub>~</sub><sub>~</sub>~<ins><br />
+File "C:\Users\username\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\git__init__.py", line 287, in refresh<br />
+    if not Git.refresh(path=path):<br />
+<sub>~</sub><sub>~</sub><sub>~</sub>~~<sup>^</sup><sup>^</sup><sup>^</sup></ins><br />
+File "C:\Users\username\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\git\cmd.py", line 860, in refresh<br />
+    raise ImportError(err)<br />
+ImportError: Bad git executable.<br />
+The git executable must be specified in one of the following ways:<br />
+    - be included in your $PATH<br />
+    - be set via $GIT_PYTHON_GIT_EXECUTABLE<br />
+    - explicitly set via git.refresh(&lt;full-path-to-git-executable&gt;)<br />
+All git commands will error until this is rectified.</p>
 </div>
-<p>Sometimes MkDocs wont like your changes, and may escape from the running <code>serve</code> instance. This is usually as a result of a broken <code>.pages</code> file. Just undo your changes and try again. </p>
+<p>Install <a href="https://git-scm.com/" target="blank">git</a> to rectify the error.</p>
 
   <hr>
 <div class="md-source-file">
   <small>
     
       Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 10, 2023 06:49:35 UTC">September 10, 2023</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 27, 2025 03:54:06 UTC">July 27, 2025</span>
       
     
   </small>
@@ -1720,7 +1732,7 @@ OR
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../pageprogress/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Page Progress" rel="prev">
+        <a href="../" class="md-footer__link md-footer__link--prev" aria-label="Previous: Overview" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -1729,20 +1741,20 @@ OR
               <span class="md-footer__direction">
                 Previous
               </span>
-              Page Progress
+              Overview
             </div>
           </div>
         </a>
       
       
         
-        <a href="../tips/" class="md-footer__link md-footer__link--next" aria-label="Next: Working with MkDocs" rel="next">
+        <a href="../buildingblocks/" class="md-footer__link md-footer__link--next" aria-label="Next: 2 - Building Blocks" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Working with MkDocs
+              2 - Building Blocks
             </div>
           </div>
           <div class="md-footer__button md-icon">
