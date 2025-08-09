@@ -9,8 +9,6 @@
 #### Standard Taxi Routes
 Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and provide a streamlined movement of aircraft.
 
-Standard Taxi Routes only exist on the Eastern side of the airport. Unless ATC explicity prefixes your taxi routes with "Non-Standard" or issues alternative instructions, the following taxi routes shall be followed.
-
 | Taxiway | Direction of Travel |
 | ------- | ------------------- |
 | Bravo | Northbound |
@@ -18,27 +16,31 @@ Standard Taxi Routes only exist on the Eastern side of the airport. Unless ATC e
 | Bravo 10 | Eastbound (except holding point for 34L) |
 | Lima | Westbound |
 
-Sydney also utilises Standard Domestic Taxi Routes that differ between Arrivals and Departures.
+<figure markdown>
+![Caption](img/yssy_taxi_routes.png){ width="400" }
+    <figcaption>Sydney Standard Taxi Routes</figcaption>
+</figure>
 
-Arriving aircraft must follow the Standard Domestic Taxi Routes to their bay, unless explicitly directed by ATC.
+!!! warning "Important"
+    SMC may provide instructions which contradict these standard taxi routes. Ensure you comply with any issued taxi instruction at all times.
 
-**All Runway Crossings Require a Specific Clearance.**
+    Regardless of the taxi route used, all runway crossings require a specific clearance.
 
-For detailed information on the Standard Domestic Taxi Routes, refer to Jeppesen Chart 10-6 and 10-6A, or Airservices DAP Chart "STANDARD DOMESTIC TAXI ROUTES - ARRIVALS" and "DEPARTURES".
-
-- taxi diagram needs to be added
-- could consider adding a note about jeppesen charts being on navigraph, + a link to the ASA DAP charts for the dom taxi routes? i'm happy to make it all into a table as well, if it's worth it
+Additional standard taxi routes exist into and out of some domestic aprons, details of which can be found on the STANDARD TAXI ROUTES - DEPARTURES and ARRIVALS charts.
 
 #### Runway 16L/34R Procedures
-RWY 16L/34R is controlled by a separate tower position (SY-E_TWR) which covers the duties of both SMC and TWR east of taxiway C and south of B10. Taxiway Tango is under the jurisdiction of this tower position.
+RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the duties of both SMC and ADC east of taxiway C and south of B10. Taxiway Tango is under the jurisdiction of this ADC position.
 
-In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall change to the tower frequency when turning onto taxiway B10.
+In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall contact ADC when turning onto taxiway B10.
 
-If taxiing to RWY 34R, be mindful of the instruction to hold short of taxiway Sierra.
+Standard taxi routes exist for aircraft to utilise after landing on RWY 16L/34R, which should be performed without prompting by ADC.
 
-Aircraft landing RWY 34R and vacating at taxiway T2 are to taxi via U and U1 unless otherwise advised by ATC.
+| Landing Runway | Route |
+| --- | --- |
+| RWY 16L | T, then L |
+| RWY 34R | T2, U, U1, L, or<br>T, L |
 
-All arriving aircraft are to remain on the TWR frequency after landing until West of Taxiway S, then contact SMC on 121.7. International aircraft must await for an explicit frequency transfer.
+Remain on the TWR frequency until west of Taxiway S, then contact SMC on 121.7. International aircraft will be issued with an explicit frequency transfer.
 
 !!! note  
     Domestic aircraft will not receive explicit instructions to contact SMC after landing. Change to the appropriate SMC frequency automatically.
