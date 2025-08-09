@@ -30,13 +30,13 @@ For detailed information on the Standard Domestic Taxi Routes, refer to Jeppesen
 - could consider adding a note about jeppesen charts being on navigraph, + a link to the ASA DAP charts for the dom taxi routes? i'm happy to make it all into a table as well, if it's worth it
 
 #### Runway 16L/34R Procedures
-Runway 16L/34R is controlled by a separate tower position (SY-E_TWR) which covers the duties of both SMC and TWR east of taxiway C and south of B10. Taxiway Tango is under the jurisdiction of this tower position.
+RWY 16L/34R is controlled by a separate tower position (SY-E_TWR) which covers the duties of both SMC and TWR east of taxiway C and south of B10. Taxiway Tango is under the jurisdiction of this tower position.
 
-In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to Runway 16L/34R, domestic aircraft shall change to the tower frequency when turning onto taxiway B10.
+In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall change to the tower frequency when turning onto taxiway B10.
 
-If taxiing to Runway 34R, be mindful of the instruction to hold short of taxiway Sierra.
+If taxiing to RWY 34R, be mindful of the instruction to hold short of taxiway Sierra.
 
-Aircraft landing Runway 34R and vacating at taxiway T2 are to taxi via U and U1 unless otherwise advised by ATC.
+Aircraft landing RWY 34R and vacating at taxiway T2 are to taxi via U and U1 unless otherwise advised by ATC.
 
 All arriving aircraft are to remain on the TWR frequency after landing until West of Taxiway S, then contact SMC on 121.7. International aircraft must await for an explicit frequency transfer.
 
@@ -102,12 +102,12 @@ All IFR Jet aircraft should expect a SID in correlation with their assigned runw
 !!! note 2  
     The ABBEY3 SID will only be assigned during SODPROPS. During regular operations, jet departures via WOL using RWY 16L should expect KEVIN7 with a RADAR transition.
 
-ATC may nominate Runway 16L for all jet departures via WOL instead of an ad-hoc basis. This will be informed via ATIS as "DOMESTIC JET DEPARTURES VIA WOL EXPECT RWY 16L".
+ATC may nominate RWY 16L for all jet departures via WOL instead of an ad-hoc basis. This will be informed via ATIS as "DOMESTIC JET DEPARTURES VIA WOL EXPECT RWY 16L".
 
 #### Runway 34L Intersection Departures
-Intersection departures on Runway 34L are approved for NON-JET aircraft from all taxiways South of B10 (including B10).
+Intersection departures on RWY 34L are approved for NON-JET aircraft from all taxiways South of B10 (including B10).
 
-Jet aircraft are not permitted intersection departures when using Runway 34L. For VATSIM purposes, ATC may omit this requirement.
+Jet aircraft are not permitted intersection departures when using RWY 34L. For VATSIM purposes, ATC may omit this requirement.
 
 #### Pushback Towbar Disconnect Points
 While seldom used at Sydney, ATC may instruct aircraft to push and tow forward to a specific towbar disconnect point.
@@ -197,7 +197,7 @@ Pilots must manage their speed on the base leg to ensure they do not overshoot t
 When being cleared for an IVA at night, ATC will issue an additional instruction in your approach clearance. This instruction provides a minimum altitude to descend to until established on either the ILS/GLS glidepath or the PAPIs.
 
 !!! phraseology  
-    **SY-D_APP**: "Ambulance 282, Turn right heading 330, join final, from that heading cleared Independent Visual Approach Runway 34R, not below 1500 until established on the PAPI."  
+    **SY-D_APP**: "Ambulance 282, Turn right heading 330, join final, from that heading cleared Independent Visual Approach RWY 34R, not below 1500 until established on the PAPI."  
 
 Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS alert accordingly.
 
@@ -277,7 +277,7 @@ The table below shows which frequency to contact for a takeoff clearance **when 
 For detailed route structures and operating requirements, refer to *ERSA FAC YSSY*.
 
 #### BONDI 5 Coded Clearances
-The BONDI 5 coded clearance is designed principally for single engine helicopters. Delays may occur when Runway 07 is in use for departure, or when Runway 25 is in use for arrivals. The route is not available in either direction when PRM approaches are in use in the Runway 16 direction. In addition to the ATC frequency, pilots should maintain a listening watch on 120.8 for information on traffic operating on the VICTOR ONE (V1) route.
+The BONDI 5 coded clearance is designed principally for single engine helicopters. Delays may occur when RWY 07 is in use for departure, or when RWY 25 is in use for arrivals. The route is not available in either direction when PRM approaches are in use in the RWY 16 direction. In addition to the ATC frequency, pilots should maintain a listening watch on 120.8 for information on traffic operating on the VICTOR ONE (V1) route.
 
 Helicopters will be identified and then cleared for the BONDI 5 NORTHBOUND or SOUTHBOUND. Traffic information will be provided on any other helicopters operating on the route or for any other aircraft in the area (e.g. aircraft in the V1).
 
@@ -333,7 +333,7 @@ Start approval is required for all flights intending to operate in the circuit a
 
 !!! phraseology  
     **WKM**: "Camden Ground, Citabria WKM, at the fuel bowser, received information Echo, request start up and taxi for circuits."  
-    **CN SMC**: "WKM, Camden Ground, start up approved, taxi to holding point E, Runway 24."
+    **CN SMC**: "WKM, Camden Ground, start approved, taxi to holding point E, Runway 24."
 
 Aircraft above 5700kg MTOW must only use TWY D between RWY 06/24 and TWY F.
 
@@ -347,14 +347,14 @@ Departures shall advise their intentions with their ready call.
     OR  
     **VMS**: "Tower, VMS, holding point Echo, Runway 24, ready for crosswind departure."
 
-All departing aircraft shall depart and climb to 1300ft.
+All departing aircraft shall depart and climb to `A013`.
 
 Tower will often issue "Depart on climb" instructions to aircraft leaving the CTR. This gives the pilot permission to leave the CN CTR on climb vertically as well as laterally.
 
 VFR aircraft departing into Class G airspace depart the CTR on an extended leg of the circuit. Clearance for VFR aircraft to operate in the CN CTR and VFR aircraft departing into Class G will be issued on CN TWR frequency.
 
-Left hand circuits are required for powered aircraft operating Runway 06 and Runway 10.  
-Right hand circuits are required for powered aircraft operating Runway 24 and Runway 28.
+Left hand circuits are required for powered aircraft operating RWY 06 and RWY 10.  
+Right hand circuits are required for powered aircraft operating RWY 24 and RWY 28.
 
 All aircraft departing the CTR into Class G airspace are to change to an appropriate SY TCU frequency when leaving the CTR. Specific transfer instructions will not be issued to VFR aircraft.
 
