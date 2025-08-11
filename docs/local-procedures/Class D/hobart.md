@@ -1,5 +1,5 @@
 ---
-  title: Hobart, TAS
+  title: Hobart (YMHB)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -26,7 +26,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 
 All other aircraft shall expect to be *rerouted* in accordance with the table above, or assigned a **visual departure**.
 
-During low traffic periods, an [IFR departure via other methods](../navigation/ifrdepartures.md#other-departure-methods) may be available on pilot request to facilitate tracking to a position not serviced by a SID. At other times, pilots can expect to be rerouted and issued a SID, then cleared in accordance with their filed route once above the MSA.
+During low traffic periods, an [IFR departure via other methods](../../navigation/ifrdepartures.md#other-departure-methods) may be available on pilot request to facilitate tracking to a position not serviced by a SID. At other times, pilots can expect to be rerouted and issued a SID, then cleared in accordance with their filed route once above the MSA.
 
 ### Arrivals
 An ILS is available to RWY 12 only. RNP, RNP(AR) & VOR approaches are available to both runways.

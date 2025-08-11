@@ -1,11 +1,10 @@
 ---
-  title: Cairns, QLD
+  title: Cairns (YBCS)
 ---
 
 --8<-- "includes/abbreviations.md"
 
-## Cairns (YBCS)
-### Departures
+## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -21,8 +20,8 @@ All other aircraft shall expect the **CS (RADAR) SID**.
 !!! note
     IFR non-jet aircraft may request a visual departure from ACD by day VMC.
 
-### Arrivals
-#### Instrument Approaches
+## Arrivals
+### Instrument Approaches
 An ILS is available to RWY 15. A LOC is available to RWY 33. RNP(AR) approaches are available to both runways.
 
 IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
@@ -32,7 +31,7 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 | 15 | ILS |
 | 33 | RNP(AR) or LOC if unable |
 
-#### Visual Approaches
+### Visual Approaches
 By day VMC, IFR aircraft may be processed via the Creek Corridor to RWY 15 or via a circuit join to RWY 33.
 
 The Creek Corridor is generally accessed from a Victor STAR. Details can be found on the **Noise Abatement Procedure Page 2** DAP chart. 

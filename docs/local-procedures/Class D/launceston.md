@@ -1,5 +1,5 @@
 ---
-  title: Launceston, TAS
+  title: Launceston (YMLT)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -11,8 +11,7 @@ When LT ADC is closed, LTA or HUO may choose to either extend top down to YMLT, 
 
 **HBA** may choose to extend to cover **LTA**.
 
-## Launceston (YMLT)
-### Departures
+## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point. A number of VFR reporting points exist to facilitate inbound and outbound tracking.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -40,7 +39,7 @@ All other aircraft shall expect to be *rerouted* in accordance with the table ab
 
 By day VMC, pilots may request or be assigned a **visual departure**.
 
-### Arrivals
+## Arrivals
 An ILS is available to RWY 32L only. RNP & VOR approaches are available to both runways.
 
 IFR aircraft can generally expect to be processed via a visual approach where suitable, otherwise to be rerouted to the IAF for the RNP approach.
@@ -52,5 +51,5 @@ Aircraft from the north for RWY 32L can expect amended tracking in accordance wi
 | IRSOM | NODAS MLTSC |
 | NUNPA | ELREL MLTSA |
 
-#### MSA
+### MSA
 The VOR and ILS approach to RWY 32L commence from either overhead the VOR or from a straight in position. The straight in IAF has a commencement altitude *below* the MSA. Pilots can expect a clearance to descend not below the DME steps to reach the IAF, then in accordance with the assigned approach. Pilots cleared in this manner must reference the **DME OR GNSS ARRIVAL** chart until they are established on the assigned approach.

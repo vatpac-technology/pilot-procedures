@@ -1,14 +1,13 @@
 ---
-  title: Sydney, NSW (TODO)
+  title: Sydney (YSSY) (TODO)
 ---
 
 --8<-- "includes/abbreviations.md"
 
-## Sydney (YSSY)
-### Taxiing
+## Taxiing
 Two SMC positions exist which may sometimes be activated online. Everything west of RWY 16R is administered by SMC West, everything east of the runway is administered by SMC East.
 
-#### Standard Taxi Routes
+### Standard Taxi Routes
 Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and provide a streamlined movement of aircraft. Except where other explicit taxi instructions are given, pilots shall follow the routes described below.
 
 !!! warning "Important"
@@ -24,7 +23,7 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and pr
 | **L** | Westbound |
 
 <figure markdown>
-![Caption](img/yssy_taxi_routes.png){ width="400" }
+![Caption](../img/yssy_taxi_routes.png){ width="400" }
     <figcaption>Sydney Standard Taxi Routes</figcaption>
 </figure>
 
@@ -63,7 +62,7 @@ Additional standard taxi routes exist into and out of some domestic aprons.
     | **DOM2 - A330 aircraft (Bays 39, 45)** | 16R<br>16L<br>34L<br>34R | DOM2, G, B<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | G<br>G, C, B10<br>G, C, B10<br>G, C, L, A, A6<br>G, C, B10, S, T, T6 |
 
-#### Runway 16L/34R Procedures
+### Runway 16L/34R Procedures
 RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the duties of both SMC and ADC east of taxiway C and south of B10.
 
 In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall contact ADC when turning onto taxiway B10.
@@ -75,8 +74,8 @@ Inbound aircraft must remain on the tower frequency until west of Taxiway S, the
 !!! warning "Important"  
     When taxiing westbound on TWY L, all aircraft must hold short of TWY C until in receipt of onwards taxi instructions from SMC.
 
-### Departures
-#### Departure Runway
+## Departures
+### Departure Runway
 During PROPS, pilots can expect to be assigned a departure runway in accordance with the table below.
 
 | Aircraft tracking | Runway  |
@@ -95,7 +94,7 @@ Jet departures to the south may be assigned RWY 16L/34L ad-hoc for traffic manag
 !!! note 
     Aircraft which operationally require a different to that listed above must notify ATC at Clearance Delivery stage.
 
-#### Departure Procedures
+### Departure Procedures
 VFR aircraft should expect a visual departure, on track to their first waypoint.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -122,16 +121,16 @@ All other aircraft shall expect the **SY (RADAR) SID**.
 !!! note  
     ATC may issue IFR jet departures the SY (RADAR) SID for traffic management or weather purposes.
 
-#### Runway 34L Intersection Departures
+### Runway 34L Intersection Departures
 Due to noise-abatement rules, intersection departures are only available for **Non-Jet** aircraft. However, at pilot request, ATS *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
 
-#### Pushback Towbar Disconnect Points
+### Pushback Towbar Disconnect Points
 Towbar disconnect points may be used occassionally to expedite traffic flow and provide separation assurance between aircraft operating on the apron.
 
 !!! warning "Important"
     Third-party simulator plugins may be necessary to customise your pushback and utilise a published disconnect point. For that reason, they are **not** used by default. However, ATC may ask whether you are capable of towing to a disconnect point and provide the instruction where it would benefit the flow of traffic.
 
-### Arrivals
+## Arrivals
 ILS, GLS, and RNP approaches are available to all runways. During VMC, [Independent Visual Approaches](#independent-visual-approaches-ivas) are utilised to each set of parallel runways.
 
 IFR aircraft shall be processed via a STAR terminating with vectors to final, excluding the MARLN STAR to RWY 25 and BOREE PAPA STAR to RWY 16R, which terminate at their appropriate IAF.
@@ -140,8 +139,8 @@ ATS will process arrivals via a visual approach (or IVA) during VMC or an ILS ap
 
 The BOREE PAPA STAR is only used during ILS PRM operations.
 
-### Preferred Runway Exits
-The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for aircraft to vacate at. To ensure minimum runway occupancy time and support optimum spacing on final, whenever operational conditions permit, pilots should plan to vacate via the exit taxiways specified in the table below:
+## Preferred Runway Exits
+The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for aircraft to vacate at. To ensure minimum runway occupancy time and support optimum spacing on final, whenever operational conditions permit, pilots should plan to vacate via the exit taxiways specified in the table below:
 
 | RWY | Aircraft Type | Preferred TWY Exits |
 | --- | ------------- | ------------------- |
@@ -155,7 +154,7 @@ The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for airc
 !!! note  
     Non-Jet aircraft preferring to vacate north of TWY B7 must advise ADC prior to receiving a landing clearance.
 
-### Sydney Director
+## Sydney Director
 Sydney Director (SY-D_APP & SY-DE_APP) are unique positions responsible for providing vectors to final for inbound aircraft.
 
 On first contact with Director (or as soon as you become visual otherwise), you must report your assigned runway in sight. Aircraft already established on the localiser/final approach course may instead report when visual.
@@ -173,16 +172,16 @@ The airspace that director owns is very small and often heavily congested. It is
 
 In the event of radio congestion on the base leg, **do not pass through your assigned runway centreline**. Commence the turn to enable intercept of the final approach course for the runway assigned, then track the extended centreline of that runway. If pilots do not receive a handoff to tower by 4nm from the threshold, you may switch to the ADC frequency.
 
-### STAR Route Discontinuities
+## STAR Route Discontinuities
 Most STARs terminate with radar vectors from ATS and will generally produce a route discontinuity in the flight management system. **Do not delete the route discontinuity**, as doing so may cause the aircraft to bypass TESAT or track in appropriately.
 
 !!! warning "Important"  
     Some aircraft FMCs may insert a discontinuity after BOOGI, NASHO, or JAKLN. In most cases, these waypoints are followed by a point titled *(VECTORS)*. If your FMC generates a discontinuity instead of a VECTORS waypoint, do not delete the discontinuity. They will function the same.
 
-### Independent Visual Approaches (IVAs)
-Independent Visual Approaches allow two aircraft on adjacent finals to conduct [visual approaches](../navigation/vsa.md) without any secondary separation standard in place, greatly increasing the capacity of the parallel runways during PROPS. Depending on the meteorological conditions, IVAs can be initiated from a circuit or from an instrument approach once the pilot is visual.
+## Independent Visual Approaches (IVAs)
+Independent Visual Approaches allow two aircraft on adjacent finals to conduct [visual approaches](../../navigation/vsa.md) without any secondary separation standard in place, greatly increasing the capacity of the parallel runways during PROPS. Depending on the meteorological conditions, IVAs can be initiated from a circuit or from an instrument approach once the pilot is visual.
 
-#### Requirements
+### Requirements
 To fly the IVA, pilots must report their assigned runway in sight to ATC. If established on the LOC/FAC, pilots may report visual instead.
 
 !!! note  
@@ -196,16 +195,16 @@ Pilots must manage their speed on the base leg to ensure they do not overshoot t
 
 Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS alert accordingly.
 
-#### IVAs at Night
+### IVAs at Night
 When being cleared for an IVA at night, ATC will issue an additional instruction in your approach clearance. This instruction provides a minimum altitude to descend to until established on either the ILS/GLS glidepath or the PAPI.
 
 !!! phraseology  
     **SY-D_APP**: "Ambulance 282, turn right heading 330, join final runway 34R, from that heading cleared Independent Visual Approach, not below 1500 until established on the PAPI."  
 
-#### Missed Approach
+### Missed Approach
 In the event of a missed approach, you must fly the published missed approach in accordance with the published instrument approach chart for your assigned runway, unless otherwise directed by ATC.
 
-### Helicopter Operations
+## Helicopter Operations
 Helicopter procedures at Sydney are promulgated using coded designators and clearances for routes regularly flown by helicopters operating in SY terminal airspace.
 
 The routes are identified by geographical designators and a direction which must be used in all radio communication. Clearance via a route authorises a pilot to fly the route at the altitudes specified. Clearances are used for all flights both inbound and outbound from YSSY, or within designated geographical areas within the control zone. If landing at YSSY, a frequency transfer and clearance limit are specified. ATC may amend the alitutes as required.
@@ -217,7 +216,7 @@ When operating via GEORGES RIVER 5, and not landing or departing YSBK, pilots mu
 
 Departing and arriving helicopters will not receive a takeoff or landing clearance unless operating on H1. Instead, you will be asked to "report airborne/on the ground".
 
-#### Helicopter Inbound Procedures
+### Inbound Procedures
 Procedures promulgated in *AIP ENR 1.1* for operations within helicopter access corridors apply.
 
 Arriving helicopters shall contact ATC approximately 5 minutes before the prescribed entry gate and advise intentions. For the following designated routes, pilots must contact Sydney Centre (SRI) (or an appropriate terminal control frequency if SRI is offline):
@@ -246,7 +245,7 @@ Arriving helicopters shall contact ATC approximately 5 minutes before the prescr
 
 For helicopters tracking via CAPS or MRBR, pilots should anticipate processing via a different inbound route due to YSSY runway configuration and traffic or sequencing requirements.
 
-#### Helicopter Outbound Procedures
+### Outbound Procedures
 Procedures promulgated in *AIP ENR 1.1* for operations within helicopter access corridors apply.
 
 Helicopters departing YSSY shall contact ACD, advise intentions, and request clearance for all designated routes.
@@ -263,7 +262,7 @@ The table below shows which frequency to contact for a takeoff clearance **when 
 
 For detailed route structures and operating requirements, refer to *ERSA FAC YSSY*.
 
-#### BONDI 5 Coded Clearances
+### BONDI 5 Coded Clearances
 The BONDI 5 coded clearance is designed principally for single engine helicopters. Delays may occur when RWY 07 is in use for departure, or when RWY 25 is in use for arrivals. The route is not available in either direction when PRM approaches are in use in the RWY 16 direction. In addition to the ATC frequency, pilots should maintain a listening watch on 120.8 for information on traffic operating on the VICTOR ONE (V1) route.
 
 Helicopters will be identified and then cleared for the BONDI 5 NORTHBOUND or SOUTHBOUND. Traffic information will be provided on any other helicopters operating on the route or for any other aircraft in the area (e.g. aircraft in the V1).
@@ -281,178 +280,6 @@ If ATC believes you are likely to request a clearance via one of Sydney's helico
     **SY TCU**: "XVZ, clear of controlled airspace. Identification and control services terminated, squawk 1200, frequency change approved."  
 
 - add image detailing copter routes from ATC SOPs unless we want to make a different one
-
-## Bankstown (YSBK)
-### Airspace
-- Airspace description
-- Dual ADC description
-
-### Taxiing
-- manoeuvring area
-
-### Departures
-- VFR procedures and altitudes
-
-### Arrivals
-- VFR procedures and altitudes
-
-### IFR Operations
-- SID and clearance requirements
-- RNP approach
-- Little margin with SY CTR during missed approach
-
-## Camden (YSCN)
-### Airspace
-CN ADC is responsible for the Class D airspace within the Camden CTR (Defined as 2nm radius YSCN) from SFC to 2000ft.
-
-Outside tower hours, airspace reverts to Class G. CTAF procedures apply.
-
-### Taxiing
-Refer to the diagram for the manoeuvring, apron, and movement areas.  
-
-The runup bays are located within the manoeuvring area and therefore require taxi clearance.
-
-Aircraft are expected to use the runup bays, therefore no explicit taxi clearance or onwards clearance is required from the runup bays.
-
-On first contact with CN SMC, advise aircraft position and departure intentions.
-
-Start approval is required for all flights intending to operate in the circuit area.
-
-!!! phraseology  
-    **WKM**: "Camden Ground, Citabria WKM, at the fuel bowser, received information Echo, request start up and taxi for circuits."  
-    **CN SMC**: "WKM, Camden Ground, start approved, taxi to holding point E, Runway 24."
-
-Aircraft above 5700kg MTOW must only use TWY D between RWY 06/24 and TWY F.
-
-- attach CASA diagram of aerodrome movement area maps (will provide when i can figure out how to add images)
-
-### Departures
-Departures shall advise their intentions with their ready call. 
-
-!!! phraseology
-    **WKM**: "Camden Tower, WKM, holding point Echo, Ready Runway 24, circuits."  
-    OR  
-    **VMS**: "Tower, VMS, holding point Echo, Runway 24, ready for crosswind departure."
-
-All departing aircraft shall depart and climb to `A013`.
-
-Tower will often issue "Depart on climb" instructions to aircraft leaving the CTR. This gives the pilot permission to leave the CN CTR on climb vertically as well as laterally.
-
-VFR aircraft departing into Class G airspace depart the CTR on an extended leg of the circuit. Clearance for VFR aircraft to operate in the CN CTR and VFR aircraft departing into Class G will be issued on CN ADC frequency.
-
-Left hand circuits are required for powered aircraft operating RWY 06 and RWY 10.  
-Right hand circuits are required for powered aircraft operating RWY 24 and RWY 28.
-
-All aircraft departing the CTR into Class G airspace are to change to an appropriate SY TCU frequency when leaving the CTR. Specific transfer instructions will not be issued to VFR aircraft.
-
-Aircraft, other than gliders and tugs, must not infringe the glider circuit below 2300ft.
-
-### Arrivals
-Arriving VFR aircraft should track via and report at BRY, MYF, MEG, PIC, or THK.
-
-Arriving aircraft shall enter the circuit descending to or maintaining 1800ft.
-
-When arriving via a VFR inbound point, pilots should expect the following circuit instructions:
-
-| VFR Inbound Point | RWY 06 | RWY 24 |
-| ----------------- | ------ | ------ |
-| BRY | "Join downwind RWY 06, maintain 1800ft, report 2NM" | "Join final RWY 24, maintain 1800ft, report Oran Park (ONPK)" |
-| MYF | "Join base RWY 06, maintain 1800ft, report 2NM" | "Join base RWY 24, maintain 1800ft, report 2NM" |
-| MEG | "Overfly Camden to join mid-field crosswind RWY 06, maintain 1800ft, report overhead" | "Overfly Camden to join mid-field crosswind RWY 24, maintain 1800ft, report overhead" |
-| PIC | "Overfly Camden to join mid-field crosswind RWY 06, maintain 1800ft, report overhead" | "Overfly Camden to join mid-field crosswind RWY 24, maintain 1800ft, report overhead" |
-| THK | "Join final RWY 06, maintain 1800ft, report 3NM" | "Join downwind RWY 24, maintain 1800ft, report 2NM" |
-
-ATC may omit the requirement to maintain 1800ft if pilots report inbound for a full stop and instead clear the pilot for a visual approach.
-
-ATC may also omit the instruction if the circuit is not busy and a pilot reports inbound for touch and goes.
-
-!!! phraseology  
-    **MWY**: "Camden Tower, Citabria MWY, inbound via MYF, descending 1800, received Golf, for a full stop."  
-    **CN ADC**: "MWY, Camden Tower, join base for Runway 24, maintain 1800, report 2 miles."  
-    **MWY**: "Join base Runway 24, maintain 1800, report 2 miles, MWY."  
-    **MWY**:, "MWY, 2 miles."  
-    **CN ADC**: "MWY, cleared visual approach."
-
-!!! phraseology  
-    **RRW**: "Camden Tower, Citabria RRW, inbound via MEG, 1800, received Golf, for circuits."  
-    **CN ADC**: "RRW, Camden Tower, overfly to join mid-field crosswind runway 24, report overhead."  
-    **RRW**: "Join mid-field crosswind and report overhead, RRW."  
-    **RRW**: "RRW, overhead, touch and go."  
-    **CN ADC**: "RRW, cleared touch and go."
-
-### Glider Operations
-Glider aircraft and their towplanes will utilise two independent grass glider runways on the Southwestern side of the aerodrome. Both glider runways are parallel to either main runway.
-
-Right hand circuits are required for gliders and tugs operating on glider strips 06 and 10. 
-
-Simultaneous operations from both parallel glider strips. **Contra circuits are in use at all times. There is no dead side with contra circuits.**
-
-Glider and tug circuits are flown to the South or Southeast, other aircraft circuits to the North or Northwest.
-
-Outside the lateral limits of CN CTR, gliders operate throughout the surrounding and overlying Class G airspace.
-
-ATC responsibilities to aircraft engaged in gliding activity are limited to passing relevant traffic information after the intention to land has been notified.  
-The normal requirements on entry to the CTR do not apply to gliders. Gliders must report entering the CTR and downwind.
-
-!!! warning "Caution"
-    Gliders landing on glider strip 28 cross RWY 28 threshold.  
-    Aircraft operating on RWY 10 are not visible to aircraft departing glider strip 06.  
-    Aircraft on RWY 24 and on final for RWY 24 are not visible to aircraft on RWY 28.  
-    Aircraft on RWY 28 and on final for RWY 28 are not visible to aircraft on RWY 24.  
-    When RWY 06 or 24 in use, gliders and tailwheels may require strips 10 or 28 due to crosswind component.  
-    Helicopters may conduct low level operations in the Southwest corner of the aerodrome.
-
-### Helicopter Operations
-Helicopter altitude is 1000ft on CN QNH HJ; 1300ft CN QNH HN.  
-During HJ, helicopters must use the helicopter circuit which is established inside the fixed wing circuit.  
-During HN, helicopters must conform to the fixed wing circuit.
-
-### IFR Operations & Instrument Approaches
-During tower hours, IFR aircraft will receive an airways clearance from CN SMC or ADC.
-
-The only instrument approach at YSCN is the RNP-W approach. This approach commences OCTA and enters the CN CTR.
-
-SY TCU **will not** clear aircraft for the approach and will transfer aircraft to CN ADC at SCNWI. CN ADC shall issue airways clearance on first contact in accordance with the table below:
-
-| Scenario | Clearance |
-| -------- | --------- |
-| Aircraft is visual and circuit traffic exists | "Cleared RNP-W approach, not below 1800ft" |
-| Aircraft not visual or no circuit traffic | "Cleared RNP-W approach, Runway 06/24" |
-
-## Richmond (YSRI)
-### Airspace
-When RI ADC is active, Restricted Areas R469, R470, and R494 are automatically activated.
-
-RI ADC administers the R470 restricted area when active from SFC to 1500ft. ST TCU (SDN) administers it from 1500ft to 4500ft.
-
-### VFR Procedures
-All VFR aircraft inbound, outbound, or transiting the field maintain 1500ft.
-
-Aircraft transiting the RIC CTR track via the northbound or southbound VFR route.  
-Aircraft transiting northbound contact RI ADC at NPBR for clearance. Aircraft transiting southbound contact RI ADC at KRMD for clearance.
-
-Further details of the transit route are found in the *ERSA FAC YSRI* and *Sydney VTC*.
-
-#### Training Areas
-There are three training areas located within R470, used for both civil and military operations.
-
-| Name | Identifier | Vertical Limits |
-| ---- | ---------- | --------------- |
-| Londonderry Training Area | LDD TA | ``SFC - A015`` |
-| Northern Training Area | NTA TA | ``SFC - A060`` |
-| Southern Training Area | STA TA | ``SFC - A040`` |
-
-#### Circuit Operations
-The YSRI circuit area is defined as within 6nm of the YSRI ARP. An aircraft operating in the circuit will be issued a clearance to operate not above 1500ft. Both runways fly a left hand circuit.
-
-### Departures
-IFR aircraft planned via ANKUB, KADOM, or MUDGI may be assigned the SID that terminates at the appropriate waypoint. Aircraft that are not planned via these points, are flying VFR, or are negative RNAV, may be assigned a visual departure.
-
-### Arrivals
-
-### Tower Closed Procedures
-
-- complete YSRI arrivals and tower closed procs
 
 ## VFR Scenic Flights
 ### Harbour Scenic Flights
@@ -524,14 +351,6 @@ All operations in Victor 1 North must be conducted between 500ft and 1000ft. Ope
 South Head is the northern limit of **Victor 1 South** and pilots should ensure that their aircraft remains clear of Class C airspace when transiting from **Victor 1 North** to **Victor 1 South**. Ensure that you reach 500ft before passing South Head southbound.
 
 - possibly change 120.8 freq requirement? not sure if we'll be including this freq with the CTAF introduction nor if we support its use currently.
-
-### Bankstown Lane of Entry
-- Tracking details and changing altitude requirements (due overlying CTA)
-- Broadcast requirements
-
-### Richmond Lane of Entry
-- Flight planning advice
-- Clearance requirements from ATS
 
 ### R405 (Sydney Harbour) Airspace
 R405 is established for use by seaplanes and helicopters with MTOW not above 2,500kg or that adhere to specific noise standards.
