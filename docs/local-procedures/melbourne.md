@@ -48,7 +48,7 @@ All other aircraft shall expect the **ML (RADAR) SID**.
     With RWY 27 nominated as the duty departure runway, aircraft requiring the use of RWY 16 for the west or north should expect to be issued with the ISPEG SID.
 
 #### Pushback Disconnect Points
-Towbar disconnect points are used to expedite traffic flow and provide separation assurance between aircraft operating on the apron.
+Towbar disconnect points may be used occassionally to expedite traffic flow and provide separation assurance between aircraft operating on the apron.
 
 !!! warning "Important"
     Third-party simulator plugins may be necessary to customise your pushback and utilise a published disconnect point. For that reason, they are **not** used by default. However, ATC may ask whether you are capable of towing to a disconnect point and provide the instruction where it would benefit the flow of traffic.
