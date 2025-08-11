@@ -7,49 +7,74 @@
 ## Sydney (YSSY)
 ### Taxiing
 #### Standard Taxi Routes
-Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and provide a streamlined movement of aircraft.
-
-| Taxiway | Direction of Travel |
-| ------- | ------------------- |
-| Bravo | Northbound |
-| Charlie | Southbound |
-| Bravo 10 | Eastbound (except holding point for 34L) |
-| Lima | Westbound |
-
-<figure markdown>
-![Caption](img/yssy_taxi_routes.png){ width="400" }
-    <figcaption>Sydney Standard Taxi Routes</figcaption>
-</figure>
+Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and provide a streamlined movement of aircraft. Except where other explicit taxi instructions are given, pilots shall follow the routes described below.
 
 !!! warning "Important"
     SMC may provide instructions which contradict these standard taxi routes. Ensure you comply with any issued taxi instruction at all times.
 
     Regardless of the taxi route used, all runway crossings require a specific clearance.
 
-Additional standard taxi routes exist into and out of some domestic aprons, details of which can be found on the STANDARD TAXI ROUTES - DEPARTURES and ARRIVALS charts.
+| Taxiway | Direction of Travel |
+| ------- | ------------------- |
+| **B** | Northbound |
+| **C** | Southbound |
+| **B10** | Eastbound (except holding point for 34L) |
+| **L** | Westbound |
 
-#### Runway 16L/34R Procedures
-RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the duties of both SMC and ADC east of taxiway C and south of B10. Taxiway Tango is under the jurisdiction of this ADC position.
+<figure markdown>
+![Caption](img/yssy_taxi_routes.png){ width="400" }
+    <figcaption>Sydney Standard Taxi Routes</figcaption>
+</figure>
 
-In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall contact ADC when turning onto taxiway B10.
-
-Standard taxi routes exist for aircraft to utilise after landing on RWY 16L/34R, which should be performed without prompting by ADC.
+[Arrivals on RWY 16L/34R](#runway-16l34r-procedures) shall follow standard taxi routes when vacating the runway.
 
 | Landing Runway | Route |
 | --- | --- |
-| RWY 16L | T, then L |
-| RWY 34R | T2, U, U1, L, or<br>T, L |
+| **RWY 16L** | T, L |
+| **RWY 34R** | T2, U, U1, L, or<br>U1, L |
 
-Remain on the TWR frequency until west of Taxiway S, then contact SMC on 121.7. International aircraft will be issued with an explicit frequency transfer.
+Additional standard taxi routes exist into and out of some domestic aprons.
 
-!!! note  
-    Domestic aircraft will not receive explicit instructions to contact SMC after landing. Change to the appropriate SMC frequency automatically.
+=== "Arrivals"
+
+    | Parking Position | Route |
+    | --- | --- |
+    | **B1 Apron** | B |
+    | **DOM1 & DOM1A** | B, B2 |
+    | **Taxiway C (Bays 11-14)** | B, C1 |
+    | **Taxiway C (Bays 16-19)** | B, F |
+    | **Taxiway C (Bays 49, 53, 55)** | B, B3 |
+    | **Taxiway C (Bays 57, 59)** | B, B4 |
+    | **DOM2 (All bays except below)** | B, B4, C2 |
+    | **DOM2 (Bays 43, 45A)** | B, B4 |
+    | **DOM2 - A330 aircraft (Bays 39, 45)** | B, G, DOM2 |
+    | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | B, G |
+    
+=== "Departures"
+
+    | Parking Position | Departure Runway | Route |
+    | --- | --- | --- |
+    | **B1 Apron** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | B1<br>B1, C, B10<br>B1, C, B10<br>B1, C, L, A, A6<br>B1, C, B10, S, T, T6 |
+    | **DOM1, DOM1A & Taxiway C Bays** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | As Directed by ATC<br>C, B10<br>C, B10<br>C, L, A, A6<br>C, B10, S, T, T6 |
+    | **DOM2 (All bays except below)** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | C2, B4<br>DOM2, C, B10<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
+    | **DOM2 (Bays 43, 45A)** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | B4<br>DOM2, C, B10<br>DOM2, C, B10<br>DOm2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
+    | **DOM2 - A330 aircraft (Bays 39, 45)** | 16R<br>16L<br>34L<br>34R | DOM2, G, B<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
+    | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | G<br>G, C, B10<br>G, C, B10<br>G, C, L, A, A6<br>G, C, B10, S, T, T6 |
+
+#### Runway 16L/34R Procedures
+RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the duties of both SMC and ADC east of taxiway C and south of B10.
+
+In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall contact ADC when turning onto taxiway B10.
+
+[Standard taxi routes](#standard-taxi-routes) exist for aircraft to utilise after landing on RWY 16L/34R, which should be performed without prompting by ADC.
+
+Inbound aircraft must remain on the TWR frequency until west of Taxiway S, then contact SMC on 121.7. International aircraft will be issued with an explicit frequency transfer.
 
 !!! warning "Important"  
-    When taxiing westbound on TWY L, be aware of the mandatory holding point before the TWY C intersection. Do not proceed without further taxi instructions.
+    When taxiing westbound on TWY L, all aircraft must hold short of TWY C until in receipt of onwards taxi instructions from SMC.
 
 ### Departures
-During normal operations, pilots can expect to be assigned the runways in the table below that coincide with their rough direction of travel.
+During PROPS, pilots can expect to be assigned a departure runway in accordance with the table below.
 
 | Runway | Departure Conditions |
 | ------ | -------------------- |
@@ -58,16 +83,12 @@ During normal operations, pilots can expect to be assigned the runways in the ta
 | RWY 34L | Departures the W, NW, and non-jets to the S, and departures from the INTL terminal |
 | RWY 34R | Departures to the N and E, and jet departures to the S |
 
-!!! note 1  
-    Aircraft which operationally require RWY 16R/34L or RWY 07/25 must notify ATC at Clearance Delivery stage.
+!!! note 
+    Aircraft which operationally require RWY 16R/34L or RWY 07/25 must notify ATC at Clearance Delivery stage. Aircraft up to and including A330/B787/B772 may request RWY 16L/34R at Clearance Delivery stage.
 
-!!! note 2  
-    Departing aircraft up to and including A330/B787/B772 may request or be offered departure from RWY 16L/34R at Clearance Delivery stage.
+Jet departures to the south may be assigned RWY 16L ad-hoc for traffic management purposes.
 
-!!! note 3  
-    Jet departures to the South may be assigned RWY 16L ad-hoc for traffic management purposes.
-
-VFR aircraft should expect a visual departure, on track to their first waypoint or VRP.
+VFR aircraft should expect a visual departure, on track to their first waypoint.
 
 **All Non-Jet IFR aircraft should expect the SY3 Radar departure**, and will generally depart on a Standard Assignable Heading as per the table below.
 
