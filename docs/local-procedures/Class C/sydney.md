@@ -1,5 +1,5 @@
 ---
-  title: Sydney (YSSY) (TODO)
+  title: Sydney (YSSY)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -205,21 +205,27 @@ When being cleared for an IVA at night, ATC will issue an additional instruction
 In the event of a missed approach, you must fly the published missed approach in accordance with the published instrument approach chart for your assigned runway, unless otherwise directed by ATC.
 
 ## Helicopter Operations
-Helicopter procedures at Sydney are promulgated using coded designators and clearances for routes regularly flown by helicopters operating in SY terminal airspace.
+Helicopter routes exist using coded clearances for routes regularly flown by helicopters operating in Sydney terminal airspace.
 
-The routes are identified by geographical designators and a direction which must be used in all radio communication. Clearance via a route authorises a pilot to fly the route at the altitudes specified. Clearances are used for all flights both inbound and outbound from YSSY, or within designated geographical areas within the control zone. If landing at YSSY, a frequency transfer and clearance limit are specified. ATC may amend the alitutes as required.
+<figure markdown>
+![Sydney Helicopter Routes](../img/yssy_heli_routes.png){ width="700" }
+    <figcaption>Sydney Helicopter Routes</figcaption>
+</figure>
 
-!!! note  
-    If the instruction "MAINTAIN..." is included, the descent clearance included within the designated clearance is cancelled.
+The routes are identified by geographical designators and a direction which must be used in all radio communication. Pilots cleared via a coded clearance must comply with all altitudes, clearance limits, and frequency transfer points specified in the route. ATC may amend the altitudes as required.
 
-When operating via GEORGES RIVER 5, and not landing or departing YSBK, pilots must contact BK ADC 132.8 when tracking within 3NM of the BK CTR.
+Details of each coded clearance are available in the `YSSY ERSA FAC`. Pilots **must** study this document to review the lateral and vertical requirements of each coded clearance.
 
-Departing and arriving helicopters will not receive a takeoff or landing clearance unless operating on H1. Instead, you will be asked to "report airborne/on the ground".
+### YSSY Heliport
+The heliport at YSSY (excluding H1) is **outside the manoeuvring area**. No takeoff or landing clearances will be issued, instead pilots will be instructed to *"report airborne/on the ground"*. Pilots operating to/from H1 require an explicit takeoff or landing clearance.
+
+When RWY 07 or 25 is in use, the heliport is managed by **ADC West - 120.5**. During all other runway modes, **ADC East - 124.7** (if online) manages the heliport.
 
 ### Inbound Procedures
-Procedures promulgated in *AIP ENR 1.1* for operations within helicopter access corridors apply.
+Arriving helicopters shall contact ATC approximately 5 minutes before the prescribed entry gate and advise intentions.
 
-Arriving helicopters shall contact ATC approximately 5 minutes before the prescribed entry gate and advise intentions. For the following designated routes, pilots must contact Sydney Centre (SRI) (or an appropriate terminal control frequency if SRI is offline):
+#### TCU Routes
+For the following designated routes, pilots must contact **SRI**, or the most appropriate terminal controller if SRI is not online.
 
 | Route | Direction |
 |---------|---------------------|
@@ -231,178 +237,189 @@ Arriving helicopters shall contact ATC approximately 5 minutes before the prescr
 | MAROUBRA 5 | INBOUND |
 
 !!! phraseology  
-    **XWY**: "Sydney Departures, helicopter XWY, 1000ft, received Delta, request Harbour Bridge 5 Inbound."  
-    **SY TCU**: "XWY, squawk 0552."  
-    **SY TCU**: "XWY, identified, cleared Harbour Bridge 5 Inbound."  
-    **XWY**: "Cleared Harbour Bridge 5 Inbound, XWY."  
+    **XWY**: "Sydney Departures, helicopter XWY, Long Reef, 1000ft, received Delta, request Harbour Bridge 5 Inbound"  
+    **SY TCU**: "XWY, squawk 0552, remain outside controlled airspace"  
+    **XWY**: "Squawk 0552, remain outside controlled airspace, XWY"  
 
-!!! note 1  
-    Contact ADC at the frequency transfer point, unless advised otherwise.
+    **SY TCU**: "XWY, identified, cleared Harbour Bridge 5 Inbound"  
+    **XWY**: "Cleared Harbour Bridge 5 Inbound, XWY"  
 
-!!! note 2  
-    For CAPE BANKS 5 INBOUND, pilots must contact ADC 124.7 (or 120.5 if East ADC is not operating) for airways clearance.  
-    For WANDA 5 INBOUND, pilots must contact ADC 120.5 for airways clearance.
+!!! note
+    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATS, unless advised otherwise.
+
+#### ADC Routes
+For the following routes, pilots must contact **SY ADC** directly.
+
+| Route | Direction | FREQUENCY |
+| --- | --- | --- |
+| CAPE BANKS 5 | INBOUND | ADC East - 124.7 *(if online)*, otherwise ADC West - 120.5 |
+| WANDA 5 | INBOUND | ADC West - 120.5 |
 
 For helicopters tracking via CAPS or MRBR, pilots should anticipate processing via a different inbound route due to YSSY runway configuration and traffic or sequencing requirements.
 
 ### Outbound Procedures
-Procedures promulgated in *AIP ENR 1.1* for operations within helicopter access corridors apply.
-
-Helicopters departing YSSY shall contact ACD, advise intentions, and request clearance for all designated routes.
+Helicopters departing YSSY shall contact **SY ACD** for airways clearance for all designated routes.
 
 !!! warning "Important"
     Receipt of a clearance **does not** constitute a takeoff clearance.
 
-The table below shows which frequency to contact for a takeoff clearance **when departing from the heliport**.
+!!! phraseology
+    **YOE:** "Sydney Delivery, helicopter YOE, for the Harbour Bridge 5 outbound, request clearance"  
+    **SY ACD:** "YOE, Delivery, cleared Harbour Bridge 5 outbound, squawk 0215, departure frequency 123.0"  
+    **YOE:** "Cleared Harbour Bridge 5 outbound, squawk 0215, departure frequency 123.0, YOE"
 
-| Frequency | Route |
-| --------- | ----- |
-| ADC 120.5 | ROSEHILL 5 OUTBOUND<br>WANDA 5 OUTBOUND<br>GEORGES RIVER 5 OUTBOUND<br> |
-| ADC 124.7 | ERSKINEVILLE 5 OUTBOUND<br>HARBOUR BRIDGE 5 OUTBOUND<br>BARRACKS 5 OUTBOUND<br>MAROUBRA 5 OUTBOUND<br>CAPE BANKS 5 OUTBOUND |
+Pilots may choose to depart from their company parking helipad or transit to H1 or H2, depending on the departure path and meteorological conditions. Approval must be sought to transit to these helipads.
 
-For detailed route structures and operating requirements, refer to *ERSA FAC YSSY*.
+!!! phraseology
+    **YOE:** "Sydney Tower, helicopter YOE, Hotel 7, request reposition Hotel 1"  
+    **SY ADC:** "YOE, reposition approved"  
+    **YOE:** "Reposition approved, YOE"
 
-### BONDI 5 Coded Clearances
-The BONDI 5 coded clearance is designed principally for single engine helicopters. Delays may occur when RWY 07 is in use for departure, or when RWY 25 is in use for arrivals. The route is not available in either direction when PRM approaches are in use in the RWY 16 direction. In addition to the ATC frequency, pilots should maintain a listening watch on 120.8 for information on traffic operating on the VICTOR ONE (V1) route.
+When ready for takeoff, contact the relevant ADC position as per below.
 
-Helicopters will be identified and then cleared for the BONDI 5 NORTHBOUND or SOUTHBOUND. Traffic information will be provided on any other helicopters operating on the route or for any other aircraft in the area (e.g. aircraft in the V1).
+!!! phraseology
+    **HWD:** "Sydney Tower, helicopter HWD, Hotel 7, for the Harbour Bridge 5 outbound, ready"  
+    **SY ADC:** "HWD, Sydney Tower, report airborne"  
+    **HWD:** "HWD"  
+     
+    **HWD:** "HWD, airborne"  
+    **SY ADC:** "HWD, contact departures"  
+    **HWD:** "Departures, HWD"
 
-!!! phraseology  
-    **XVZ**: "Sydney Approach, helicopter XVZ, Jibbon Point, 500ft, received Whiskey, request BONDI 5 Northbound."  
-    **SY TCU**: "XVZ, Sydney Approach, squawk 0451."  
-    **SY TCU**: "XVZ, identified, cleared BONDI 5 Northbound, Sydney QNH 1024."
-
-Once you leave CTA (Long Bay Headland for Southbound, Sydney Heads for Northbound), ATC will cancel your control and identification services.
-
-If ATC believes you are likely to request a clearance via one of Sydney's helicopter routes, you may be instructed to continue squawking your assigned code.
-
-!!! phraseology  
-    **SY TCU**: "XVZ, clear of controlled airspace. Identification and control services terminated, squawk 1200, frequency change approved."  
-
-- add image detailing copter routes from ATC SOPs unless we want to make a different one
+!!! note
+    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATS, unless advised otherwise.
 
 ## VFR Scenic Flights
 ### Harbour Scenic Flights
-The airspace above Sydney Harbour is Class C and availability of an airways clearance to enter it will depend on traffic levels, controller workload, and VMC. 
+Coded clearances exist to allow pilots to conduct scenic flights in the Class C airspace over Sydney Harbour. Clearances are available subject to YSSY traffic and controller workload.
 
-Pilots should submit a flightplan beforehand to minimise delays.
+<figure markdown>
+![Sydney Harbour Scenic Flights](../img/sy_harbourbridge_vatsys.png){ width="600" }
+    <figcaption>Sydney Harbour Scenic Flights</figcaption>
+</figure>
 
-You may be cleared for one of two standard scenic flight routes, 'Harbour Scenic ONE', or 'Harbour Scenic TWO', which are described below.  
-Both routes are flown at 1500ft on SY Local QNH, which is available through the SY ATIS.
+Expanded details and diagrams are available in the `YSSY ERSA FAC` and *Sydney General Flying Guide* (produced by Airservices Australia).
+
+!!! tip
+    Pilots should submit a [flightplan](../../flight-planning/flightplansubmission.md) advising of their intention to conduct a Harbour Scenic, to minimise delays.
 
 !!! warning "Important"
-    VFR flights do not receive a separation service in Class C airspace. Pilots must maintain their own separation with other aircraft operating in R405 and flying the Harbour Scenic.  
-    ATC will provide basic traffic information.
+    VFR aircraft are not separated from other VFR aircraft in Class C airspace. Pilots must maintain their own separation with other aircraft operating in the vicinity. ATC will provide basic traffic information on these aircraft.
 
 #### Airways Clearance Requests
-Track via Class G airspace to Long Reef. Contact Sydney Centre 124.55 (or an appropriate ATC frequency) prior to reaching Long Reef and request a 'Harbour Scenic'.  
+Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate TCU frequency) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
+
 Pilots must remain in Class G airspace until in receipt of a clearance.
 
-**Harbour Scenic One**  
-At 1500ft, track Long Reef direct to the Harbour Bridge.  
-Remain east of the Harbour Bridge and commence a left turn, remaining north of the Opera House.  
-Conduct 2 left orbits, remaining east of the Harbour Bridge, north of the Opera House, and west of Garden Island.  
+#### Harbour Scenic One
+Maintain `A015`. 
+
+Track LRF direct to HBB. Remain east of HBB and commence a left turn, remaining north of the Opera House. 
+
+Conduct 2 left orbits, remaining east of HBB, north of the Opera House, and west of Garden Island.  
+
 On completion of the second orbit, track via North Head to Manly Beach. From Manly Beach track east of the coast to Long Reef. Report passing Manly northbound.
 
-**Harbour Scenic Two**  
-At 1500ft, track Long Reef direct to Chatswood CBD.  
-Conduct 2 left orbits, remaining east of the Chatswood CBD and west of the Roseville Bridge.  
+#### Harbour Scenic Two 
+Maintain `A015`.
+
+Track LRF direct to CHAT. Conduct 2 left orbits, remaining east of CHAT and west of RVB.  
+
 On completion of the second orbit, track to Manly Beach. Report passing Manly northbound.
 
-#### Entry into V1 South Following a Harbour Scenic
-Pilots may request descent into **Victor 1 South** approaching Manly Beach.  
-Subject to traffic, and when established east of the coast, you may be cleared to leave the control area on descent.  
-Report to ATC leaving 1500ft then broadcast your position and intentions on 120.8.  
+#### Descent into Victor One
+Pilots may request descent into [Victor One South](#victor-one) approaching Manly Beach. Subject to traffic, and when established east of the coast, you may be cleared to leave CTA on descent. Report to ATC leaving `A015` then broadcast your position and intentions on the advisory frequency.  
 
 !!! warning "Important"
     In aircraft with a single radio you will need approval to leave the ATC frequency to make this broadcast.
 
-You must reach 500ft before passing South Head southbound.  
-Report to ATC when established at 500ft in **Victor 1 South**.
-
-Expanded details and diagrams are available in the *Sydney General Flying Guide*.  
-
-- not sure if SRI is the frequency to list under airways clearance or not. realistically it'd be terminal to assign the appropriate frequency, but we could substitute that with SRI?
-- diagrams potentially?
+You must reach `A005` before passing South Head southbound. Report to ATC when established at `A005` in Victor One South.
 
 ### Victor One
-Transit of the Sydney area is available via a VFR Coastal Route within the Class G airspace east of the Sydney CTR and CTA. The route comprises **Victor 1 NORTH** and **Victor 1 SOUTH** which are differentiated by the lower limits of the overlying Class C airspace and by their tracking requirements.  
-The Coastal Route is depicted on the SY VTC and Sydney General Flying Guide (SGFG). It may be flown in either direction, however operations are restricted to VMC by day only.
+A designated [lane of entry](../../airspace/lanesofentry.md) exists along the coastline between JIBN and LRF, allowing aircraft to transit below the Class C steps. The route comprises **Victor One NORTH** and **Victor One SOUTH** which are differentiated by the lower limits of the overlying Class C airspace and by their tracking requirements.  
 
-Pilots are required to use SY Local QNH, available on the SY ATIS. If transponder equipped, squawk code 1200 with ALT.  
-The carriage and use of radio is mandatory to fly the V1.  
-Operations along the Coastal Route share a common VHF frequency (120.8) with helicopter and floatplane operations in R405A and R405B along Sydney Harbour.
+Victor One is depicted on the Sydney VTC and Sydney General Flying Guide, with details published in the `YSSY ERSA FAC`. It may be flown in either direction.
 
-Pilots should broadcast joining the Coastal Route, stating position and intentions. Pilots of opposite direction aircraft should respond with position and intentions.  
-Landing lights and strobe lights should be activated and pilots should be alerted for opposite direction traffic.  
-If possible, keep opposite direction traffic on your left.
+Pilots should broadcast joining the Coastal Route, stating position and intentions. Pilots of opposite direction aircraft should respond with position and intentions.
 
-**Victor 1 South** extends East of the coast between the South East of Sydney Harbour and Jibbon Point (the Southern Headland of Port Hacking) and includes three coastal HLS at Wanda Beach, Cape Baily and Cape Banks.  
-Pilots are required to maintain an altitude of exactly 500ft on Sydney Local QNH when operating in this airspace.  
-Pilots must contain their aircraft in Class G airspace and remain clear of the SY CTR.  
-To avoid the SY CTR, you must NOT Coastal Fly the Sydney Southern beaches between Ben Buckler (the Northern headland of Bondi Beach), and fly East in a straight line between the Eastern most point of Cape Banks and the lighthouse on Cape Solander (the North and South heads of Botany Bay).  
-Some helicopters may have been cleared to coastal fly between Bondi and Maroubra and may not continuously monitor the CTAF.
+#### Victor One South
+**Victor 1 South** extends east of the coast between SYHD and JIBN and includes three coastal HLS at Wanda Beach, Cape Baily and Cape Banks. Pilots are required to maintain an altitude of exactly `A005` on Sydney Local QNH.
 
-The CTA lower limit south of Jibbon Point and East of the coast is 1000ft. North of Jibbon Point, the lower limit is 500ft.
+To avoid entering the SY CTR, pilots **must not** coastal fly between Ben Buckler (the Northern headland of Bondi Beach) and Long Bay Headland.
 
-**Victor 1 North** extends east of the coast between Dee Why (12DME SY) and the South Head of Sydney Harbour and has a maximum altitude of 1000ft on SY Local QNH.  
-All operations in Victor 1 North must be conducted between 500ft and 1000ft. Operations below 1000ft must remain over water at all times.
+#### Victor One North
+**Victor 1 North** extends east of the coast between SYHD and LRF and has a maximum altitude of `A010` on Sydney Local QNH. All operations in Victor 1 North must be conducted between `A005` and `A010`. Operations below `A010` must remain over water at all times.
 
-South Head is the northern limit of **Victor 1 South** and pilots should ensure that their aircraft remains clear of Class C airspace when transiting from **Victor 1 North** to **Victor 1 South**. Ensure that you reach 500ft before passing South Head southbound.
+Aircraft tracking southbound must ensure that they reach `A005` before passing SYHD and entering [Victor One South](#victor-one-south).
 
-- possibly change 120.8 freq requirement? not sure if we'll be including this freq with the CTAF introduction nor if we support its use currently.
+### R405 (Sydney Harbour)
+R405 is a block of [restricted airspace](../../airspace/sua.md) established for use by seaplanes and helicopters with MTOW not above 2,500kg or that adhere to specific noise standards. No clearance is required to enter the airspace.
 
-### R405 (Sydney Harbour) Airspace
-R405 is established for use by seaplanes and helicopters with MTOW not above 2,500kg or that adhere to specific noise standards.
+R405A extends from RYB to HBB bordered by the southern bank of the Parramatta River, from `SFC` to `A005`. R405B extends from HBB to the coastline bordered by the southern bank of Sydney Harbour, from `SFC` to `A010`.
 
-All aircraft operating in R405 are to squawk 1200. 
+!!! warning "Important"
+    Aircraft must not climb above `A005` in R405A or `A010` in R405B without an airways clearance from SY TCU.
 
-Helicopter transit and access lanes are established within R405A and B, details of which are provided below. Helicopter operations within R405A and B must be confined to the helicopter lanes, and seaplanes must be confined to transit lanes, for operations other than climb or descent to landing sites immediately adjacent to the lanes.
+    Seaplanes operate at low levels in R405B. Aircraft may be operating in the Class C airspace immediately above R405.
 
-Military helicopters above 2,500kg MTOW may transit R405B East of Fort Denison over water, not above 1000ft on SY QNH for access to military establishments within R405.
+Aircraft are to broadcast intentions entering and leaving R405 on the advisory frequency.
 
-Seaplanes may operate in R405 A and B as follows:  
-over water at all times;  
-within R405A not above 500ft on SY QNH;  
-within R405B not above 1000ft on SY QNH;  
-not use any helicopter access lane.
+Transit from Victor One to R405B is only available through Sydney Heads. Transit over land is not permitted.
 
-Aircraft are to broadcast intentions entering and leaving R405 on frequency 120.8. This frequency is not monitored by ATC.
+#### Helicopter Transit and Access Lanes
+Transit and access lanes exist to allow the transit of aircraft into/out of R405. The altitude specified for each lane must be maintained during lane transit.  
 
-Entry and departure into R405B from and to the east must be made over water via Sydney Heads. Transit from V1 overland into R405B is not permitted.
+Pilots shall keep to the right when flying along a helicopter lane. All helicopter routes shall be flown on Sydney local QNH.
 
-#### Helicopter Transit and Access Lane Procedures
-The altitude specified for each lane shall be maintained during lane transit.  
-Pilots shall keep to the right when flying along a helicopter lane.  
-All helicopter routes shall be flown on SY local QNH.
-
-For further information regarding helicopter lanes, refer *ERSA FAC YSSY*. The table below gives an outline of the lane routing.
+Details of each lane (and some diagrams) are available in `YSSY ERSA FAC`. The table below gives an outline of the lane routing.
 
 | Access Lane | Routing | Altitudes |
 | ----------- | ------- | --------- |
-| Harbour Lane | Follow Parramatta River from Silverwater to Ryde Road Bridge, Gladesville Bridge, the Southern Pylon of Sydney Harbour Bridge, abeam Bradley's Head, abeam Middle Head, Sydney Heads and thence coastal to Long Reef. The lane is over water. | Not below ``A007`` on QNH from Silverwater to Ryde Road Bridge; ``A005`` on QNH between Ryde Road Bridge and the Harbour Bridge; ``A010`` on QNH between the Harbour Bridge and Middle Head, climb and descent to be conducted East of the Harbour Bridge. Not above ``A010`` on QNH, over water, between abeam Middle Head and Long Reef. |
-| Lane Cover River Lane | Access Lane from Gladesville Bridge to Pennant Hills via Northern Suburbs Cemetary, follows the Lane Cove River Valley to Pennant Hills. | ``A005`` on QNH between Gladesville Bridge and Delhi Rd; ``A007`` on QNH between Delhi Rd and Pennant Hills. |
-| North Shore Lane | Access Lane for the HLS near the Royal North Shore Hospital/Channel 9/Channel 2 is shown on the diagram. | ``A010`` on QNH. |
-
-- same as V1 procs, not sure what our stance is on 120.8 and if we should subsitute it with 122.8 or not.
-- add helicopter transit & access lane proc diagrams from ERSA or other source (if it exists).
+| Harbour Lane | Follow Parramatta River from Silverwater to Ryde Road Bridge, Gladesville Bridge, the Southern Pylon of Sydney Harbour Bridge, abeam Bradley's Head, abeam Middle Head, Sydney Heads and thence coastal to Long Reef. The lane is over water. | Not below `A007` on QNH from Silverwater to Ryde Road Bridge; `A005` on QNH between Ryde Road Bridge and the Harbour Bridge; `A010` on QNH between the Harbour Bridge and Middle Head, climb and descent to be conducted East of the Harbour Bridge. Not above `A010` on QNH, over water, between abeam Middle Head and Long Reef. |
+| Lane Cover River Lane | Access Lane from Gladesville Bridge to Pennant Hills via Northern Suburbs Cemetary, follows the Lane Cove River Valley to Pennant Hills. | `A005` on QNH between Gladesville Bridge and Delhi Rd; `A007` on QNH between Delhi Rd and Pennant Hills. |
+| North Shore Lane | Access Lane for the HLS near the Royal North Shore Hospital/Channel 9/Channel 2 is shown on the diagram in `YSSY ERSA FAC`. | `A010` on QNH. |
 
 ### Helicopter Coded Clearances
-#### Terminal Airspace Sector Coded Clearances
+#### BONDI 5
+The BONDI 5 coded clearance allows helicopters to transit the SY CTR and coastal fly between Ben Buckler (northern headland of Bondi Beach) and Long Bay Headland. Details of the route are available in `YSSY ERSA FAC`.
+
+Delays may occur when RWY 07 is in use for departure or when RWY 25 is in use for arrivals. The route is not available in either direction when ILS PRM approaches are in use in the RWY 16 direction. 
+
+!!! note
+    The route operates in close proximity to [Victor One](#victor-one). Helicopters should maintain a listening watch on the advisory frequency to ascertain any relevant conflicting traffic operating in the vicinity.
+
+Helicopters will be identified and then cleared for the BONDI 5 NORTHBOUND or SOUTHBOUND. Traffic information will be provided on any other helicopters operating on the route or for any other aircraft in the area (e.g. aircraft in Victor One).
+
+!!! phraseology  
+    **XVZ**: "Sydney Approach, helicopter XVZ, Jibbon Point, 500ft, received Whiskey, request BONDI 5 Northbound"  
+    **SY TCU**: "XVZ, Sydney Approach, squawk 0451, remain outside controlled airspace"  
+    **XVZ**: "Squawk 0451, remain outside controlled airspace, XVZ"  
+
+    **SY TCU**: "XVZ, identified, cleared BONDI 5 Northbound, QNH 1024"  
+    **XVZ**: "Cleared BONDI 5 Northbound, QNH 1024, XVZ"
+
+Helicopters must maintain `A005` when operating south of Ben Buckler. North of Ben Buckler, helicopters must maintain not above `A010`.
+
+Once you leave CTA (Long Bay Headland southbound, SYHD northbound), ATC will cancel your control and identification services.
+
+!!! phraseology  
+    **SY TCU**: "XVZ, clear of controlled airspace. Identification and control services terminated, squawk 1200, frequency change approved."  
+
+#### Terminal Airspace Sectors
 To reduce frequency congestion, several commonly used geographically defined areas are designated with lateral and vertical limits and provided upon request via a coded clearance to a helicopter.
 
 | Sector Name | Lateral Limits | Vertical Limits |
 | ----------- | -------------- | --------------- |
-| City East | Bounded by Rushcutters Bay, Sydney Cricket Ground, Sydney Harbour Bridge South Pylon, Fort Denison, Clark Island, Rushcutters Bay | Not above ``A020`` |
-| CBD | Bounded by Rushcutters Bay, Sydney Cricket Ground, Cleveland Street, Regent Street, George Street, Sydney Harbour Bridge South Pylon, Fort Denison, Clark Island, Rushcutters Bay | Not above ``A020`` |
-| North Harbour | The area northeast of a line St Ives Showground, Roseville Bridge, Sydney Harbour Bridge North Pylon then via the northern shore of Sydney Harbour to Middle Head, then Manly | Not above ``A015`` |
-| Northern Beaches | The area east of a line Long Reef, Spit Bridge, Sydney Harbour Bridge North Pylon then via the northern shores of Sydney Harbour to Middle Head then Manly | Not above ``A015`` |
-| South Harbour | The area bounded by lines joining Sydney Harbour Bridge North Pylon, Sydney Harbour Bridge South Pylon, then via the southern shoreline of Sydney Harbour to South Head then Manly to Middle Head, then via the northern shoreline of Sydney Harbour to Sydney Harbour Bridge North Pylon | Not above ``A015`` |
-| Manly | The area North of line South Head to Middle Head to the Spit Bridge, East of a line Spit Bridge to intersection Pittwater and Warringah Roads to Curl Curl Beach, Coastal Southbound to South Head | Not above ``A015`` |
+| City East | Bounded by Rushcutters Bay, Sydney Cricket Ground, Sydney Harbour Bridge South Pylon, Fort Denison, Clark Island, Rushcutters Bay | Not above `A020` |
+| CBD | Bounded by Rushcutters Bay, Sydney Cricket Ground, Cleveland Street, Regent Street, George Street, Sydney Harbour Bridge South Pylon, Fort Denison, Clark Island, Rushcutters Bay | Not above `A020` |
+| North Harbour | The area northeast of a line St Ives Showground, Roseville Bridge, Sydney Harbour Bridge North Pylon then via the northern shore of Sydney Harbour to Middle Head, then Manly | Not above `A015` |
+| Northern Beaches | The area east of a line Long Reef, Spit Bridge, Sydney Harbour Bridge North Pylon then via the northern shores of Sydney Harbour to Middle Head then Manly | Not above `A015` |
+| South Harbour | The area bounded by lines joining Sydney Harbour Bridge North Pylon, Sydney Harbour Bridge South Pylon, then via the southern shoreline of Sydney Harbour to South Head then Manly to Middle Head, then via the northern shoreline of Sydney Harbour to Sydney Harbour Bridge North Pylon | Not above `A015` |
+| Manly | The area North of line South Head to Middle Head to the Spit Bridge, East of a line Spit Bridge to intersection Pittwater and Warringah Roads to Curl Curl Beach, Coastal Southbound to South Head | Not above `A015` |
 
-Helicopters intending on entering one of the sectors should call departures with their request.
+Helicopters intending to operate in one of the sectors must request clearance from the most appropriate TCU controller.
 
 !!! phraseology  
-    **X3V**: "Departures, helicopter X3V, passing 800ft on the Harbour Bridge 5 Outbound, request South Harbour Sector."
-    **SY DEP**: "X3V, Departures, identified, onwards clearance South Harbour Sector."
+    **X3V**: "Departures, helicopter X3V, passing 800ft on the Harbour Bridge 5 Outbound, request South Harbour Sector."  
+    **SY DEP**: "X3V, Departures, identified, onwards clearance South Harbour Sector."  
     **X3V**: "Onwards clearance South Harbour Sector, X3V."

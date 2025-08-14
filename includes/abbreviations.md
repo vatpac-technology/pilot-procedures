@@ -291,3 +291,10 @@
 *[BLGH]: Burleigh Heads
 *[ROTC]: Robina Town Centre
 *[CGD]: Cudgen Headland
+*[LRF]: Long Reef
+*[HBB]: Harbour Bridge
+*[CHAT]: Chatswood
+*[RVB]: Roseville Bridge
+*[RYB]: Ryde Bridge
+*[JIBN]: Jibbon Point
+*[SYHD]: Sydney Heads
