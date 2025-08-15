@@ -5,7 +5,10 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airspace
-SU ADC is responsible for the Class D Airspace within the SU CTR and surrounding Class D airspace from `SFC` to `A035`.
+SU ADC is responsible for the Class D Airspace within the SU CTR and surrounding Class D airspace from `SFC` to `A045`.
+
+### Tower Closed Procedures
+When SU ADC is offline, the Class D airspace reverts to Class G. CTAF procedures apply. The Class C airspace from `A045` and above remains active and is administered by INL.
 
 ## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.

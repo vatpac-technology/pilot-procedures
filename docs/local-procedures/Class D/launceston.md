@@ -7,6 +7,7 @@
 ## Terminal Airspace
 **LT ADC** is responsible for the Class D airspace within the LT CTR from `SFC` to `A015`. **LTA** is responsible for the airspace within a 30nm radius of the LT VOR from `SFC` to `F245` (excluding LT ADC's jurisdiction).
 
+### Tower Closed Procedures
 When LT ADC is closed, LTA or HUO may choose to either extend top down to YMLT, or reclassify the Class C & D airspace from `SFC` to `A085` as Class G. Check for a Zulu ATIS to confirm the airspace arrangement.
 
 **HBA** may choose to extend to cover **LTA**.

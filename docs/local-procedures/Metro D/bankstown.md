@@ -8,6 +8,9 @@
 - Airspace description
 - Dual ADC description
 
+### Tower Closed Procedures
+When BK ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
+
 ## Taxiing
 - manoeuvring area
 

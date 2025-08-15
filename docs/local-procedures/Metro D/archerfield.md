@@ -13,6 +13,9 @@ ADC South takes responsibility for the South/East Runway, Circuit and Airspace (
 
 ADC North takes responsibility for the North/West Runway, Circuit and Airspace (Runway **10L**, **28R**, **04L**, **22R**).
 
+### Tower Closed Procedures
+When AF ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
+
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. All aircraft require a clearance to cross RWY 04L & 04R on taxiway B.
 

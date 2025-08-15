@@ -5,9 +5,10 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airspace
-CN ADC is responsible for the Class D airspace within the Camden CTR (Defined as 2nm radius YSCN) from SFC to 2000ft.
+**CN ADC** is responsible for the Class D airspace within the Camden CTR from `SFC` to `A020`.
 
-Outside tower hours, airspace reverts to Class G. CTAF procedures apply.
+### Tower Closed Procedures
+When CN ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.

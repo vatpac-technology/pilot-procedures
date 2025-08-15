@@ -13,6 +13,9 @@ ADC West takes responsibility for the North-West Runway, Circuit and Airspace (R
 
 ADC (Circuit) takes responsibility for the South-East Runway, Circuit and Airspace (Runway **06R/24L**) at or below `A010`.
 
+### Tower Closed Procedures
+When JT ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
+
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
 

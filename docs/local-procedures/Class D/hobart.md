@@ -7,6 +7,7 @@
 ## Terminal Airspace
 **HB ADC** is responsible for the Class D airspace within the HB CTR from `SFC` to `A015` to the north of the runway centreline and `SFC` to `A025` to the south. **HBA** is responsible for the airspace within a 35nm radius of TASUM (and a portion of the airspace to the north) from `SFC` to `F245` (excluding HB ADC's jurisdiction).
 
+### Tower Closed Proceedures
 When HB ADC is closed, HBA or HUO may choose to either extend top down to YMHB, or reclassify the Class C & D airspace from `SFC` to `A085` as Class G. Check for a Zulu ATIS to confirm the airspace arrangement.
 
 **LTA** may choose to extend to cover **HBA**.

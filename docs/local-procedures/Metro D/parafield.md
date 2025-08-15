@@ -9,6 +9,9 @@ PF ADC is responsible for the Class D airspace in the PF CTR `SFC` to `A015`.
 
 When ADC West is online, the airspace is divided down the middle of the two active extended runway centerlines.
 
+### Tower Closed Procedures
+When PF ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
+
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
 

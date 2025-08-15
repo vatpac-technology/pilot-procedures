@@ -13,6 +13,9 @@ When Moorabbin ADC West is online, responsibility for the Runway, Circuit, and A
 
 **ADC West** takes responsibility for the West Runway, Circuit and Airspace (Runway 17R/35L and 13R/31L).
 
+### Tower Closed Procedures
+When MB ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
+
 ## Taxiing
 The runup bays are outside the manoeuvring area, so no taxi instructions are required for initial taxi.
 
