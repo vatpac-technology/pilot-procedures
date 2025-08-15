@@ -17,6 +17,9 @@ When BK ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 ## Departures
 - VFR procedures and altitudes
 
+### Start Approval
+- circuits
+
 ## Arrivals
 - VFR procedures and altitudes
 

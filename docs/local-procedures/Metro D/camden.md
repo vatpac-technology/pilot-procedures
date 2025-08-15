@@ -19,15 +19,6 @@ The apron & grass parking areas are outside the manoeuvring area. The runup bays
 Aircraft above 5700kg MTOW must only use TWY D between RWY 06/24 and TWY F.
 
 ## Departures
-### Start Approval
-Start approval is required for all flights intending to operate in the circuit area.
-
-!!! phraseology  
-    **WKM**: "Camden Ground, Citabria WKM, at the fuel bowser, received information Echo, request engine start"  
-    **CN SMC**: "WKM, Camden Ground, start approved"  
-    **WKM**: "Start approved, WKM"
-
-### Outbound Procedures
 Aircraft shall advise their intentions with their ready call.
 
 All departing aircraft shall depart via an extended leg of the circuit and climb to `A013`.
@@ -44,6 +35,14 @@ Aircraft may request to leave the CTR on climb into the Class G airspace above.
     **WKM**: "Camden Tower, Citabria WKM, upwind departure, ready, request depart on climb"  
     **CN ADC**: "WKM, depart on climb, runway 24, cleared for takeoff"  
     **WKM**: "Depart on climb, runway 24, cleared for takeoff, WKM"
+    
+### Start Approval
+Start approval is required for all flights intending to operate in the circuit area.
+
+!!! phraseology  
+    **WKM**: "Camden Ground, Citabria WKM, at the fuel bowser, received information Echo, request engine start"  
+    **CN SMC**: "WKM, Camden Ground, start approved"  
+    **WKM**: "Start approved, WKM"
 
 ## Arrivals
 Arriving VFR aircraft should track via and report at BRY, MYF, MEG, PIC, or THK, at `A018`.
