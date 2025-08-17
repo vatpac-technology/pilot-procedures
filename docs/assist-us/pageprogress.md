@@ -17,5 +17,4 @@ Use this page to track each page/section as you work on it. This will avoid mult
 
 ## Other Tasks
 - Consider indenting subheadings like SOPs
-- Standardise altitude display (some are A020 some are `A020`) - should be `A020`
 - Consider adding other Class D aerodromes

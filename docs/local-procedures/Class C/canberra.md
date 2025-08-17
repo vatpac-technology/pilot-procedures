@@ -48,8 +48,8 @@ Southcare Helicopter Base (YXSB), Calvary Hospital, and Canberra Hospital are al
     **RSCU209**: "Canberra Tower, helicopter RSCU209, on the pad at Canberra Hospital, for Bankstown, received Juliet, ready"  
     **CB ADC**: "RSCU209, Canberra Tower, report sighting a Jetstar A320 on a 3nm final runway 35 and advise able to maintain own separation with that aircraft"  
     **RSCU209**: "Traffic sighted and affirm, RSCU209"  
-    **CB ADC**: "RSCU209, pass behind the A320, maintain own separation, caution wake turbulence, cleared to Bankstown via AKMIR, flight planned route, climb to A090, squawk 3762"  
-    **RSCU209**: "Cleared to Bankstown via AKMIR flight planned route, climb to A090, squawk 3762, pass behind the A320 and maintain own separation, RSCU209"
+    **CB ADC**: "RSCU209, pass behind the A320, maintain own separation, caution wake turbulence, cleared to Bankstown via AKMIR, flight planned route, climb to `A090`, squawk 3762"  
+    **RSCU209**: "Cleared to Bankstown via AKMIR flight planned route, climb to `A090`, squawk 3762, pass behind the A320 and maintain own separation, RSCU209"
 
 Inbound helicopters should make contact with **CB TCU** before entering CTA for airways clearance.
 
@@ -65,5 +65,5 @@ Pilots should file the applicable tracking points in their flight plan **route**
 
 !!! phraseology
     **YVZ**: "Canberra Ground, YVZ, request City Route Charlie One"  
-    **CB SMC**: "YVZ, cleared City Route Charlie One, climb to A040, squawk 0361, departure frequency 124.5"  
-    **YVZ**: "Cleared City Route Charlie One, climb to A040, squawk 0361, departure frequency 124.5, YVZ"
+    **CB SMC**: "YVZ, cleared City Route Charlie One, climb to `A040`, squawk 0361, departure frequency 124.5"  
+    **YVZ**: "Cleared City Route Charlie One, climb to `A040`, squawk 0361, departure frequency 124.5, YVZ"

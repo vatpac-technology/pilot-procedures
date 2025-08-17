@@ -52,8 +52,8 @@ Aircraft approaching from the north shall contact CG ADC at Q1 or ROTC for clear
 
 !!! phraseology
     **OMU:** "Gold Coast Tower, Cessna 172 OMU, abeam Q1, recieved F, inbound, request clearance"  
-    **CG ADC:** "OMU, Gold Coast Tower, cleared overwater southbound, not above A015"  
-    **OMU:** "Cleared overwater southbound, not above A015, OMU"
+    **CG ADC:** "OMU, Gold Coast Tower, cleared overwater southbound, not above `A015`"  
+    **OMU:** "Cleared overwater southbound, not above `A015`, OMU"
 
     **CG ADC:** "OMU, track for final runway 14, cleared visual approach"  
     **OMU:** "Track for final runway 14, cleared visual approach, OMU"
@@ -74,16 +74,16 @@ Depending on the current traffic situation, pilots may expect a clearance via RO
 Aircraft approaching from the south shall contact CG ADC approaching HASS for clearance. Aircraft may expect to be instructed to join the circuit for the duty runway.
 
 !!! phraseology
-    **FTQ:** "Gold Coast Tower, Cherokee FTQ, HASS, A015, inbound, received H, request clearance"  
+    **FTQ:** "Gold Coast Tower, Cherokee FTQ, HASS, `A015`, inbound, received H, request clearance"  
     **CG ADC:** "FTQ, Gold Coast Tower, join final runway 32, cleared visual approach"  
     **FTQ:** "Join final runway 32, cleared visual approach, FTQ"
 
 Depending on the current traffic situation and duty runway, pilots may be instructed to remain OCTA and report again at CGD (for runway 32), or to track northbound overwater with a clearance limit of CIS (for runway 14).
 
 !!! phraseology
-    **JCZ:** "Gold Coast Tower, Cessna 172 JCZ, HASS, A015, inbound, received M, request clearance"  
-    **CG ADC:** "JCZ, Gold Coast Tower, cleared overwater northbound, not above A015, clearance limit CIS"  
-    **JCZ:** "Cleared overwater northbound, not above A015, clearance limit CIS, JCZ"
+    **JCZ:** "Gold Coast Tower, Cessna 172 JCZ, HASS, `A015`, inbound, received M, request clearance"  
+    **CG ADC:** "JCZ, Gold Coast Tower, cleared overwater northbound, not above `A015`, clearance limit CIS"  
+    **JCZ:** "Cleared overwater northbound, not above `A015`, clearance limit CIS, JCZ"
 
     **CG ADC:** "JCZ, cancel clearance limit, track coastal northbound, report DNGR"  
     **JCZ:** "Cancel clearance limit, track coastal northbound, JCZ"  
@@ -93,7 +93,7 @@ Depending on the current traffic situation and duty runway, pilots may be instru
     **JCZ:** "Join left base runway 14, cleared visual approach, JCZ" 
 
 !!! phraseology
-    **LKU:** "Gold Coast Tower, Cherokee LKU, HASS, A015, inbound, received B, request clearance"  
+    **LKU:** "Gold Coast Tower, Cherokee LKU, HASS, `A015`, inbound, received B, request clearance"  
     **CG ADC:** "LKU, Gold Coast Tower, remain outside Class C airspace, report again at CGD"  
     **LKU:** "Remain outside Class C airspace, LKU"  
 
@@ -111,16 +111,16 @@ Surf Lifesaving Patrol and Scenic Tour operations conducting low-level coastal f
 
 !!! phraseology
     **LIFE46:** "Gold Coast Tower, helicopter LIFE46, Q1, 3 POB, for low level coastal operations, received G, request clearance"  
-    **CG ADC:** "LIFE46, Gold Coast Tower, cleared overwater southbound, not above A002"  
-    **LIFE46:** "Cleared overwater southbound, not above A002, LIFE46"
+    **CG ADC:** "LIFE46, Gold Coast Tower, cleared overwater southbound, not above `A002`"  
+    **LIFE46:** "Cleared overwater southbound, not above `A002`, LIFE46"
 
 ### Western VFR Route
-The Western VFR Route begins at NEN and tracks inland, terminating at Burringbar. It should generally be flown at A015 (higher levels will require clearance). This route serves as an alternative route for aircraft wishing to transit through Gold Coast CTR.
+The Western VFR Route begins at NEN and tracks inland, terminating at Burringbar. It should generally be flown at `A015` (higher levels will require clearance). This route serves as an alternative route for aircraft wishing to transit through Gold Coast CTR.
 
 !!! phraseology
-    **WCS:** "Gold Coast Tower, helicopter WCS, NEN, A015, for Western VFR Route, received F, request clearance"  
-    **CG ADC:** "WCS, Gold Coast Tower, cleared Western VFR Route, not above A015, QNH 1013"  
-    **WCS:** "Cleared Western VFR Route, not above A015, QNH 1013, WCS"  
+    **WCS:** "Gold Coast Tower, helicopter WCS, NEN, `A015`, for Western VFR Route, received F, request clearance"  
+    **CG ADC:** "WCS, Gold Coast Tower, cleared Western VFR Route, not above `A015`, QNH 1013"  
+    **WCS:** "Cleared Western VFR Route, not above `A015`, QNH 1013, WCS"  
 
     Pilots shall report once clear of CTA.
 
@@ -149,8 +149,8 @@ Helicopters inbound shall contact CG ADC. Depending on the current traffic situa
 
 !!! phraseology
     **WP1:** "Gold Coast Tower, helicopter WP1, 6 miles south, inbound YXTV, received G"  
-    **CG ADC:** "WP1, Gold Coast Tower, cleared to YXTV direct, not above A015"  
-    **WP1:** "Cleared to YXTV direct, not above A015, WP1"  
+    **CG ADC:** "WP1, Gold Coast Tower, cleared to YXTV direct, not above `A015`"  
+    **WP1:** "Cleared to YXTV direct, not above `A015`, WP1"  
 
 Both hospital helipads are outside the maneuvering area and do not require a landing clearance from CG ADC. Helicopters arriving to these helipads will be instructed to "report on the ground" so the controller knows when aircraft are no longer active in their airspace.
 
@@ -168,8 +168,8 @@ Both hospital helipads are outside the maneuvering area and do not require a tak
     **CG ADC:** "RSCU588, Gold Coast Tower, remain on the ground, expect clearance in 3 minutes due traffic"  
     **RSCU588:** "Remain on the ground, RSCU588"
 
-    **CG ADC:** "RSCU588, Cleared to YBBN via STOT, flight planned route. Not above A015, report airborne"  
-    **RSCU588:** "Cleared to YBBN via STOT, flight planned route. Not above A015, wilco, RSCU588"  
+    **CG ADC:** "RSCU588, Cleared to YBBN via STOT, flight planned route. Not above `A015`, report airborne"  
+    **RSCU588:** "Cleared to YBBN via STOT, flight planned route. Not above `A015`, wilco, RSCU588"  
 
 Helicopters conducting scenic flights around the city require access to the Brisbane CTA to operate. These flights typically involve low-level operations inside controlled airspace and in proximity to landmarks within the city area.
 

@@ -55,8 +55,8 @@ All IFR aircraft can expect to be assigned a **visual departure** or one of Hoba
 
 !!! phraseology
     **NDR**: "Hobart Ground, NDR, for Devonport, request clearance"  
-    **HB SMC**: "NDR, cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to A045, squawk 4432"  
-    **NDR**: "Cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to A045, squawk 4432, NDR"
+    **HB SMC**: "NDR, cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to `A045`, squawk 4432"  
+    **NDR**: "Cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to `A045`, squawk 4432, NDR"
 
 When ready to taxi and prior to leaving the apron, aircraft must contact **HB ADC**, advising intended runway for departure and receipt of YMHB ATIS, to obtain traffic information.
 
@@ -89,8 +89,8 @@ A landing clearance will not be given. Pilots can expect to receive traffic info
 
 !!! phraseology
     *KLR is a VFR Cherokee who is tracking inbound on the Victor East VFR route.*  
-    **HB ADC:** "KLR, enter the control zone tracking via the Victor East, A015, clearance limit Sorell"  
-    **KLR:** "Enter control zone tracking via the Victor East, A015, clearance limit Sorell, KLR"  
+    **HB ADC:** "KLR, enter the control zone tracking via the Victor East, `A015`, clearance limit Sorell"  
+    **KLR:** "Enter control zone tracking via the Victor East, `A015`, clearance limit Sorell, KLR"  
 
     **KLR:** "KLR, approaching Sorell"  
     **HB ADC:** "KLR, join base runway 12, cleared visual approach, no reported traffic, report clear of the runway"  
@@ -112,5 +112,5 @@ VFR aircraft inbound to and outbound from both YMHB and YCBG should plan via the
 | West      |  BOWB to Risdon Vale thence Cambridge township   |  Risdon Vale thence BOWB | 
 
 !!! phraseology
-    **NDR:** "Hobart Tower, NDR, CPA, A015, on the Victor Northwest, received Romeo, request clearance"  
-    **HB ADC:** "NDR, enter the CTR tracking via the Victor Northwest at A015."
+    **NDR:** "Hobart Tower, NDR, CPA, `A015`, on the Victor Northwest, received Romeo, request clearance"  
+    **HB ADC:** "NDR, enter the CTR tracking via the Victor Northwest at `A015`."

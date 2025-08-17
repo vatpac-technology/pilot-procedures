@@ -37,8 +37,8 @@ Departing aircraft will require an airways clearance on the ground, due to the l
     **AM318**: "Squawk 3542, wilco, AM318"  
     
     **AM318**: "AM318, ready runway 18"  
-    **ML TCU**: "AM318, cleared to YMEN direct. Enter controlled airspace on the AV5 departure, climb via SID to A040"  
-    **AM318**: "Cleared to YMEN direct. Enter controlled airspace on the AV5 departure, climb via SID to A040, AM318"  
+    **ML TCU**: "AM318, cleared to YMEN direct. Enter controlled airspace on the AV5 departure, climb via SID to `A040`"  
+    **AM318**: "Cleared to YMEN direct. Enter controlled airspace on the AV5 departure, climb via SID to `A040`, AM318"  
     **ML TCU**: "AM318, assigned heading left 020, report airborne"  
     **AM318**: "Assigned left 020, wilco, AM318"
 

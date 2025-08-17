@@ -29,8 +29,8 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
     **QLK101D**: "Squawk 1202, wilco, QLK101D"  
 
     **QLK101D**: "QLK101D, lined up"  
-    **INL**: "QLK101D, cleared to YSSY via SORTI, flight planned route, climb to F120"  
-    **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to F120, QLK101D"
+    **INL**: "QLK101D, cleared to YSSY via SORTI, flight planned route, climb to `F120`"  
+    **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to `F120`, QLK101D"
 
 #### Poor Radio Reception
 Where poor radio reception precludes establishing contact with ATS on the ground, report airborne to commence your SARWATCH service.
@@ -43,8 +43,8 @@ After establishing contact, [report your departure](enroute.md#departure).
 !!! example
     **IBU**: "Melbourne Centre, IBU, airborne YMRY"  
     **WOL**: "IBU, squawk 3277, no reported IFR traffic"  
-    **IBU**: "Squawk 3277, departed YMRY 44, tracking 340, climbing to A080, estimating ATGOD at 12, IBU"  
-    **WOL**: "IBU, no reported IFR traffic for climb to A080, area QNH 1009"  
+    **IBU**: "Squawk 3277, departed YMRY 44, tracking 340, climbing to `A080`, estimating ATGOD at 12, IBU"  
+    **WOL**: "IBU, no reported IFR traffic for climb to `A080`, area QNH 1009"  
     **IBU**: "Area QNH 1009, IBU"
 
 ### Arrival
@@ -78,6 +78,6 @@ It is recommended that you make a broadcast in the following situations:
 - When clear of all runways after landing
 
 !!! example
-    "YMBA traffic, Cessna 172 UWA, 10nm north of the field, passing A036 on descent, inbound, estimating the circuit area at 44, YMBA"
+    "YMBA traffic, Cessna 172 UWA, 10nm north of the field, passing `A036` on descent, inbound, estimating the circuit area at 44, YMBA"
 
 Pilots should reply to any received broadcast with their own position and intentions (and any other relevant information) where they deem potential for conflict.

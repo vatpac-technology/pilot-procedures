@@ -29,7 +29,7 @@ An urgency call should be made when an aircraft requires urgent assistance but t
     "Pan Pan, <span class='optional'>[Pan Pan, Pan Pan]</span>, <span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Nature of Emergency</span>, <span class='placeholder'>Intentions</span>, <span class='optional'>[<span class='placeholder'>Position, Level, Heading</span>]</span>, <span class='optional'>[<span class='placeholder'>Any Other Useful Info</span>]</span>"
 
 !!! example
-    **JST430**: "Pan Pan, Melbourne Centre, JST430, engine failure, descending to F210, 178 POB"  
+    **JST430**: "Pan Pan, Melbourne Centre, JST430, engine failure, descending to `F210`, 178 POB"  
     **ML CTR**: "JST430, roger Pan"
 
 ## Distress Call (Mayday)
@@ -40,7 +40,7 @@ A distress call should be made when an aircraft requires urgent assistance and t
 
 !!! example
     **VOZ881**: "Mayday Mayday Mayday, Adelaide Approach, VOZ881, engine fire, require immediate return to Adelaide, 144 POB"  
-    **AD APP**: "VOZ881, roger Mayday, turn right heading 360, stop climb at A040"
+    **AD APP**: "VOZ881, roger Mayday, turn right heading 360, stop climb at `A040`"
 
 ## Fuel Emergencies
 See [Fuel Planning](../flight-planning/fuelplanning.md#inflight-fuel-emergencies) for descriptions of each fuel emergency.

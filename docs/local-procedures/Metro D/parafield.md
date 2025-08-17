@@ -25,10 +25,10 @@ VFR aircraft shall depart the zone via the SUB or SKI departure.
 
 | Departure Runway | SUB Departure | SKI Departure |
 | -- | -- | -- |
-| RWY 03R | From upwind, track direct to SUB, climb to A015. | From left crosswind, track south of Bolivar Strobe to SKI, climb to A010. |
-| RWY 08L | From left crosswind, track direct to SUB, climb to A010. Once north of PF, climb to A015. | From left downwind, track south of Bolivar Strobe to SKI, climb to A010. |
-| RWY 21R | From left downwind, track direct to SUB, climb to A010. Once east of PF, climb to A015. | From right crosswind, track south of Bolivar Strobe to SKI, climb to A010. |
-| RWY 26R | From right crosswind, track direct to SUB, climb to A010. Once north of PF, climb to A015. | From upwind, track south of Bolivar Strobe to SKI, climb to A010. |
+| RWY 03R | From upwind, track direct to SUB, climb to `A015`. | From left crosswind, track south of Bolivar Strobe to SKI, climb to `A010`. |
+| RWY 08L | From left crosswind, track direct to SUB, climb to `A010`. Once north of PF, climb to `A015`. | From left downwind, track south of Bolivar Strobe to SKI, climb to `A010`. |
+| RWY 21R | From left downwind, track direct to SUB, climb to `A010`. Once east of PF, climb to `A015`. | From right crosswind, track south of Bolivar Strobe to SKI, climb to `A010`. |
+| RWY 26R | From right crosswind, track direct to SUB, climb to `A010`. Once north of PF, climb to `A015`. | From upwind, track south of Bolivar Strobe to SKI, climb to `A010`. |
 
 Pilots must advise ADC of intended departure procedure on first contact.
 

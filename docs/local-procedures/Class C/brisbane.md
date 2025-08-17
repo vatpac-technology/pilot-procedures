@@ -78,8 +78,8 @@ In VMC, all helicopters shall expect to be processed via two visual waypoints (o
 
 !!! phraseology
     **RSCU533:** "Brisbane Delivery, helicopter RSCU533, MEDEVAC, for YXHE, request clearance"  
-    **BN ACD:** "RSCU533, Brisbane Delivery, cleared to YXHE via amended BLHS, YXHE, climb A025, squawk 1256, departure frequency 124.7"  
-    **RSCU533:** "Cleared to YXHE via amended BLHS, YXHE, climb A025, squawk 1256, departures 124.7, RSCU533"
+    **BN ACD:** "RSCU533, Brisbane Delivery, cleared to YXHE via amended BLHS, YXHE, climb to `A025`, squawk 1256, departure frequency 124.7"  
+    **RSCU533:** "Cleared to YXHE via amended BLHS, YXHE, climb to `A025`, squawk 1256, departures 124.7, RSCU533"
 
 #### Departures
 
@@ -107,8 +107,8 @@ Depending on the current traffic situation, pilots may expect an instruction to 
 
 !!! phraseology 
     **X6G**: "Brisbane Tower, helicopter X6G, for Taxiway F4"  
-    **BN ADC**: "X6G, Brisbane Tower, cancel clearance limit, track to and hold at the Brisbane Entertainment Centre, maintain A010"  
-    **X6G**: "Cancel clearance limit, track to and hold at the Brisbane Entertainment Centre, maintain A010, X6G"
+    **BN ADC**: "X6G, Brisbane Tower, cancel clearance limit, track to and hold at the Brisbane Entertainment Centre, maintain `A010`"  
+    **X6G**: "Cancel clearance limit, track to and hold at the Brisbane Entertainment Centre, maintain `A010`, X6G"
 
     **BN ADC**: "X6G, report sighting, and able to maintain own separation with, a Qantas 737, 4nm final runway 19R"  
     **X6G**: "Traffic sighted, and we are able to maintain own separation. X6G"  

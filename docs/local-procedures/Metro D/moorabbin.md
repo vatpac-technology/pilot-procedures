@@ -57,7 +57,7 @@ Pilots should expect circuit joinining instructions in accordance with the table
 | BAW         | *Base* or *Oblique Base* **13R** | *Base* or *Oblique Downwind* **17R** | *Oblique Downwind* **31L**         | *Base* **35L**                    |
 
 !!! phraseology
-    **EWZ**: "Moorabbin Tower, EWZ, C172, CARR, A015, inbound in receipt of P"  
+    **EWZ**: "Moorabbin Tower, EWZ, C172, CARR, `A015`, inbound in receipt of P"  
     **MB ADC**: "EWZ, Moorabbin Tower, join downwind Runway 17R"  
     **EWZ**: "Join downwind Runway 17R, EWZ"  
 

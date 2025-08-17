@@ -76,17 +76,17 @@ VFR aircraft may plan to conduct scenic flights within CTA in the PH TMA. A numb
 Aircraft wishing to conduct a scenic flight over the Perth CBD should expect to be cleared via the Victor 65 route.
 
 !!! phraseology
-    **VH-CYF:** "Perth Approach, CYF, Cessna 172, overhead FREM, A015, received Bravo, request Victor 65"  
+    **VH-CYF:** "Perth Approach, CYF, Cessna 172, overhead FREM, `A015`, received Bravo, request Victor 65"  
     **PHA:** "CYF, squawk 0542, remain clear of class C airspace"  
     **VH-CYF:** "Squawk 0542, remain OCTA, CYF"  
 
     *When clearance (reference traffic into/out of YPPH) is available:*  
-    **PHA:** "CYF, cleared Victor 65, maintain A015, QNH 1012"  
-    **VH-CYF:** "Cleared Victor 65, maintain A015, QNH 1012, CYF"
+    **PHA:** "CYF, cleared Victor 65, maintain `A015`, QNH 1012"  
+    **VH-CYF:** "Cleared Victor 65, maintain `A015`, QNH 1012, CYF"
 
 ## Terminal Airspace
-Unlike other TMAs, the southern portion of the Perth TMA features a large cutout, with a CTA lower level of F125. Aircraft departing to or arriving from the south should expect to be cleared in accordance with the change in airspace.
+Unlike other TMAs, the southern portion of the Perth TMA features a large cutout, with a CTA lower level of `F125`. Aircraft departing to or arriving from the south should expect to be cleared in accordance with the change in airspace.
 
 !!! phraseology
-    **PHD**: "RXA2125, leave and re-enter controlled airspace on climb to F180, no reported IFR traffic"  
-    **RXA2125**: "Leave and re-enter controlled airspace on climb to F180, RXA2125"
+    **PHD**: "RXA2125, leave and re-enter controlled airspace on climb to `F180`, no reported IFR traffic"  
+    **RXA2125**: "Leave and re-enter controlled airspace on climb to `F180`, RXA2125"

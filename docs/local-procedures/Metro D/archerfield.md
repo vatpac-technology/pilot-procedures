@@ -69,9 +69,9 @@ Aircraft shall track via any designated VFR inbound reporting point at `A015`, t
     Caution must be exercised when tracking from PKR inbound YBAF, as Greenbank Firing Range restricted area (R627) is located a short distance to the west.
 
 !!! phraseology
-    **YQF**: "Archer Tower, YQF, Cirrus, TAR, A015, recieved Bravo, inbound fullstop"  
-    **AF ADC**: "YQF, Archer Tower, join downwind, runway 10L, maintain A015"      
-    **YQF**: "Join downwind, runway 10L, maintain A015, YQF"  
+    **YQF**: "Archer Tower, YQF, Cirrus, TAR, `A015`, recieved Bravo, inbound fullstop"  
+    **AF ADC**: "YQF, Archer Tower, join downwind, runway 10L, maintain `A015`"      
+    **YQF**: "Join downwind, runway 10L, maintain `A015`, YQF"  
   
     **AF ADC**: "YQF, cleared visual approach"      
     **YQF**: "Cleared visual approach, YQF"  
@@ -129,7 +129,7 @@ Departures with intended entry into BN CTR northbound shall depart the zone via 
 Helicopters enter the zone from any of the designated inbound reporting points. Pilots shall nominate their desired HLS on first contact with AF ADC. If necessary, helicopters may expect to be instructed to overfly the runway complex not below `A005` for a short circuit to the designated HLS.
 
 !!! phraseology 
-    **82Y:** "Archer Tower, helicopter 82Y, UQLD A010, recieved Foxtrot, inbound northern pad"  
+    **82Y:** "Archer Tower, helicopter 82Y, UQLD, `A010`, recieved Foxtrot, inbound northern pad"  
     **AF ADC:** "82Y, Archer Tower, track direct northen pad, report 1 mile"  
     **82Y:** "Track direct northern pad, 82Y"  
 

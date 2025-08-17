@@ -47,8 +47,8 @@ Departing aircraft must request airways clearance and engine start approval whil
 
 !!! phraseology
     **FDK**: "Melbourne Approach, FDK, YMEN for YSHT, request clearance and engine start"  
-    **ML TCU**: "FDK, Melbourne Approach, wind 290 degrees 4 knots, QNH 1017, cleared to YSHT via MNG, flight planned route, visual departure, climb to A040, squawk 4423, expect runway 35"  
-    **FDK**: "QNH 1017, cleared to YSHT via MNG, flight planned route, visual departure, climb to A040, squawk 4423, FDK"  
+    **ML TCU**: "FDK, Melbourne Approach, wind 290 degrees 4 knots, QNH 1017, cleared to YSHT via MNG, flight planned route, visual departure, climb to `A040`, squawk 4423, expect runway 35"  
+    **FDK**: "QNH 1017, cleared to YSHT via MNG, flight planned route, visual departure, climb to `A040`, squawk 4423, FDK"  
     **ML TCU**: "FDK, start approved, report taxiing for runway 35"  
     **FDK**: "Start approved, FDK"
 
@@ -100,9 +100,9 @@ Visual orbits of the CBD in the overlying Class C airspace are available on requ
 Pilots can expect a clearance at `A015` by day or `A022` by night.
 
 !!! phraseology
-    **VCY**: "Essendon Tower, VCY, Cessna 152, 2nm south of WMS, A015, received Lima, request one left-hand city orbit"  
-    **EN ADC**: "VCY, Essendon Tower, cleared one left-hand orbit, maintain A015, report clear of the zone" 
-    **VCY**: "Cleared one left-hand orbit, maintain A015, VCY"  
+    **VCY**: "Essendon Tower, VCY, Cessna 152, 2nm south of WMS, `A015`, received Lima, request one left-hand city orbit"  
+    **EN ADC**: "VCY, Essendon Tower, cleared one left-hand orbit, maintain `A015`, report clear of the zone" 
+    **VCY**: "Cleared one left-hand orbit, maintain `A015`, VCY"  
 
     *Once clear of the Class C CTR*  
     **VCY**: "VCY, clear of the zone"  

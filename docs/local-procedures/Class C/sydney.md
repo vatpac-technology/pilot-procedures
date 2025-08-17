@@ -165,8 +165,9 @@ On first contact with Director (or as soon as you become visual otherwise), you 
 Director will generally issue pilots with an estimate of their track miles remaining to aid in descent planning. This distance is from the current aircraft position to the assigned runway threshold. In most cases, this number will range from around 20 to 35 nautical miles. 
 
 !!! phraseology  
-    **VOZ853**: "Director, Velocity 853, descending A060, Runway 34L in sight."  
-    **SY-D_APP**: "Velocity 853, Director, descend to A030, 25 miles to run."
+    **VOZ853**: "Director, Velocity 853, descending `A060`, Runway 34L in sight."  
+    **SY-D_APP**: "Velocity 853, Director, descend to `A030`, 25 miles to run."  
+    **VOZ853**: "Descend to `A030`, VOZ853"
 
 The airspace that director owns is very small and often heavily congested. It is imperative that pilots fly their assigned instruction without delay. Pilots will be issued vectors to final, speed restrictions, and altitude instructions that must be flown accurately and as soon as you receive them.
 

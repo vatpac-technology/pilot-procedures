@@ -62,8 +62,8 @@ When arriving via a VFR inbound point, pilots should expect the following circui
 
 | VFR Approach Point | RWY 29  | RWY 11 |
 | ----------------| --------- | ---------- |
-| PSP    | *"Join right downwind runway 29R, maintain A015"*, then when abeam RWYs 11 threshold or clear of departing traffic, *"Cleared visual approach"*       | *"Join final runway 11L, report 3nm"*        |
-| TWRN   | *"Join crosswind runway 29R, maintain A015"*, then when abeam RWYs 11 threshold or clear of departing traffic, *"Cleared visual approach"* | *"Join final runway 11L, report at Warwick Farm"*  |
+| PSP    | *"Join right downwind runway 29R, maintain `A015`"*, then when abeam RWYs 11 threshold or clear of departing traffic, *"Cleared visual approach"*       | *"Join final runway 11L, report 3nm"*        |
+| TWRN   | *"Join crosswind runway 29R, maintain `A015`"*, then when abeam RWYs 11 threshold or clear of departing traffic, *"Cleared visual approach"* | *"Join final runway 11L, report at Warwick Farm"*  |
 
 !!! note
     Aircraft joining final in the RWY 11 direction are not assigned a level and are expected to commence a visual approach in accordance with the tracking instructions issued by ADC. Aircraft should enter the control zone at `A010` to avoid outbound aircraft maintaining `A015`. 
@@ -107,7 +107,7 @@ Helicopters should track inbound at `A007` via one of the normal inbound points 
 | Inbound Point | RWY 11 | RWY 29 |
 | ----------------| --------- | ---------- |
 | PSP | *"Report CWST"*, then <br>*"Join base main pad"* | *"Report CNTH"*, then <br>*"Join base main pad"* |
-| TWRN | *"Report CSTH, A005"*, then <br>*"Overfly midfield at A005, join downwind main pad"* | *"Report CSTH, A005"*, then <br>*"Overfly midfield at A005, join downwind main pad"* |
+| TWRN | *"Report CSTH, `A005`"*, then <br>*"Overfly midfield at `A005`, join downwind main pad"* | *"Report CSTH, `A005`"*, then <br>*"Overfly midfield at `A005`, join downwind main pad"* |
 | *Olympic Park* | *"Report CWST"*, then <br>*"Join base main pad"* | *"Report CNTH"*, then <br>*"Join base main pad"* |
 
 !!! note

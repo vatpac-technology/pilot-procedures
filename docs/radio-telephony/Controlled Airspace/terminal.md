@@ -12,7 +12,7 @@ On first contact with a terminal controller (generally 'Approach' or 'Departures
     "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Cleared Level</span>, <span class='optional'>[Visual]</span>, received <span class='placeholder'>ATIS Code</span>"
 
 !!! example
-    "Sydney Approach, QFA426, descending to A090, received Delta"
+    "Sydney Approach, QFA426, descending to `A090`, received Delta"
 
 On first contact with a terminal controller, **outbound** aircraft must report their passing level, assigned level, and assigned heading/departure instructions (if applicable).
 
@@ -20,7 +20,7 @@ On first contact with a terminal controller, **outbound** aircraft must report t
     "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='optional'>[<span class='placeholder'>Departure Instructions</span>]</span>, passing <span class='placeholder'>Passing Level</span>, climbing to <span class='placeholder'>Assigned Level</span>"
 
 !!! example
-    "Melbourne Departures, QLK78D, turning right heading 320, passing A023, climbing to A050"
+    "Melbourne Departures, QLK78D, turning right heading 320, passing `A023`, climbing to `A050`"
 
 ### SIDs/STARs
 Aircraft on a SID/STAR will generally be given climb/descent instructions using *'climb via SID to (Level)'* and *'descend via STAR to (Level)'* phraseology. Pilots must readback the instruction exactly as it is issued. Once all height/speed restrictions have been passed, controllers may use traditional climb/descent phraseology.
@@ -29,7 +29,7 @@ Aircraft on a SID/STAR will generally be given climb/descent instructions using 
     If an aircraft is cleared via a SID or STAR and the controller issues a climb or descent without the *'climb via SID'* or '*descend via STAR'* phraseology, this does **not** cancel any applicable SID/STAR restrictions. Pilots must continue to comply with all speed, level, and lateral tracking restrictions on the procedure.
 
 !!! example
-    "JST881, climb via SID to F280"
+    "JST881, climb via SID to `F280`"
 
 #### Cancelling Restrictions
 Where a controller wishes to cancel the published altitude restrictions on a SID/STAR, they will use the following format.
@@ -95,7 +95,7 @@ On first contact with a procedural approach unit (e.g. procedural towers), repor
     "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, <span class='placeholder'>Distance</span> miles <span class='placeholder'>Aerodrome Name</span>, <span class='placeholder'>GNSS Track/VOR Radial</span>, <span class='placeholder'>Assigned Level</span>, <span class='optional'>\[Visual]</span>, <span class='placeholder'>ATIS Code</span>"
 
 !!! example
-    "YCFS Tower, RXA6416, 32 miles Coffs Harbour on the 189 radial, descending to A080, visual, received Oscar"
+    "YCFS Tower, RXA6416, 32 miles Coffs Harbour on the 189 radial, descending to `A080`, visual, received Oscar"
 
 ### Departure Report
 Once established on your outbound track (or in compliance with your assigned departure procedure), report your departure to the tower controller.
@@ -104,9 +104,9 @@ Once established on your outbound track (or in compliance with your assigned dep
     "<span class='placeholder'>Callsign</span>, tracking <span class='optional'>[<span class='placeholder'>Outbound Track</span> or via <span class='placeholder'>SID</span>]</span>, climbing to <span class='placeholder'>Assigned Level</span>"
 
 !!! example
-    "RXA6417, tracking 203, climbing to A070"  
+    "RXA6417, tracking 203, climbing to `A070`"  
 
-    "XEB, tracking via the DUGGI ONE departure, climbing to A070"
+    "XEB, tracking via the DUGGI ONE departure, climbing to `A070`"
 
 ### Approaches
 There is no difference in phraseology used to clear an aircraft for an approach in Class C or Class D airspace, however due to airspace and surveillance coverage constraints, the controller may issue additional report requirements and/or clear aircraft to leave and re-enter CTA on descent prior to commencing the approach.

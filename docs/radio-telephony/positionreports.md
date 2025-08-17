@@ -12,5 +12,5 @@ When **not identified**, pilots must provide position reports to update ATC on t
 !!! example
     **QTR17G**: "QTR17G, Position"  
     **Brisbane Radio**: "QTR17G"  
-    **QTR17G**: "QTR17G, position MIKEG time 17, F370, estimating OMKIN time 05, DADLU Next"  
+    **QTR17G**: "QTR17G, position MIKEG time 17, `F370`, estimating OMKIN time 05, DADLU Next"  
     **Brisbane Radio**: "QTR17G"  
