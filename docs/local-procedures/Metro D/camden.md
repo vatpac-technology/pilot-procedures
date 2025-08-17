@@ -40,7 +40,7 @@ Aircraft may request to leave the CTR on climb into the Class G airspace above.
 Start approval is required for all flights intending to operate in the circuit area.
 
 !!! phraseology  
-    **WKM**: "Camden Ground, Citabria WKM, at the fuel bowser, received information Echo, request engine start"  
+    **WKM**: "Camden Ground, Citabria WKM, for circuits, received Echo, request engine start"  
     **CN SMC**: "WKM, Camden Ground, start approved"  
     **WKM**: "Start approved, WKM"
 
