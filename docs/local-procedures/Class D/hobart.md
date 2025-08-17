@@ -1,5 +1,5 @@
 ---
-  title: Hobart, TAS
+  title: Hobart (YMHB)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -7,6 +7,7 @@
 ## Terminal Airspace
 **HB ADC** is responsible for the Class D airspace within the HB CTR from `SFC` to `A015` to the north of the runway centreline and `SFC` to `A025` to the south. **HBA** is responsible for the airspace within a 35nm radius of TASUM (and a portion of the airspace to the north) from `SFC` to `F245` (excluding HB ADC's jurisdiction).
 
+### Tower Closed Proceedures
 When HB ADC is closed, HBA or HUO may choose to either extend top down to YMHB, or reclassify the Class C & D airspace from `SFC` to `A085` as Class G. Check for a Zulu ATIS to confirm the airspace arrangement.
 
 **LTA** may choose to extend to cover **HBA**.
@@ -26,7 +27,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 
 All other aircraft shall expect to be *rerouted* in accordance with the table above, or assigned a **visual departure**.
 
-During low traffic periods, an [IFR departure via other methods](../navigation/ifrdepartures.md#other-departure-methods) may be available on pilot request to facilitate tracking to a position not serviced by a SID. At other times, pilots can expect to be rerouted and issued a SID, then cleared in accordance with their filed route once above the MSA.
+During low traffic periods, an [IFR departure via other methods](../../navigation/ifrdepartures.md#other-departure-methods) may be available on pilot request to facilitate tracking to a position not serviced by a SID. At other times, pilots can expect to be rerouted and issued a SID, then cleared in accordance with their filed route once above the MSA.
 
 ### Arrivals
 An ILS is available to RWY 12 only. RNP, RNP(AR) & VOR approaches are available to both runways.

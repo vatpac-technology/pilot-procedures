@@ -1,11 +1,10 @@
 ---
-  title: Darwin, NT
+  title: Darwin (YPDN)
 ---
 
 --8<-- "includes/abbreviations.md"
 
-## Darwin (YPDN)
-### Departures
+## Departures
 VFR aircraft should expect to depart via a published [VFR Route](#vfr-routes). Pilots who have not planned via a VFR route can expect to be rerouted via one.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -23,7 +22,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 
 All other aircraft shall expect the **DN (RADAR) SID**.
 
-### Arrivals
+## Arrivals
 An ILS is available to RWY 29. RNP approaches are available to RWY 11, RWY 29, and RWY 36. RNP(AR) approaches are available to RWY 11 and RWY 29.
 
 IFR aircraft can generally expect to be processed via a STAR (or direct to the IAF) terminating with the following approach:
@@ -35,7 +34,7 @@ IFR aircraft can generally expect to be processed via a STAR (or direct to the I
 | 29 | ILS or RNP(AR) |
 | 36 | RNP |
 
-### Circuit Operations
+## Circuit Operations
 The circuit altitude varies with aircraft type.
 
 | Aircraft | Altitude |
@@ -45,10 +44,10 @@ The circuit altitude varies with aircraft type.
 | Non-Jet | `A010` |
 | Helicopter | `A010` |
 
-### VFR Routes
+## VFR Routes
 Details of each VFR route are found on the Darwin VTC. VFR pilots should plan via one of the routes when inbound to or outbound from YPDN, unless tracking outbound/inbound between the 225 and 359 radials. In these situations, pilots should plan direct to/from YPDN.
 
-### LAHSO
+## LAHSO
 LAHSO is the independent operation of two crossing runways for arrivals and departures. It is a complicated procedure which is rarely used, but occassionally run during VATPAC's busiest events featuring YPDN. Strict pilot requirements apply during LAHSO.
 
 The **active** aircraft is the landing aircraft issued with a hold short instruction, prohibiting them from rolling out on their assigned runway beyond the intersection with the crossing runway.
@@ -57,7 +56,7 @@ The **passive** aircraft is the landing or departing aircraft which has full use
 
 YPDN operates LAHSO using **RWY 29** as the passive runway and **RWY 36** as the active runway.
 
-#### Pilot Requirements
+### Pilot Requirements
 All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATS must be informed no later than 120nm from the destination aerodrome.
 
 !!! phraseology

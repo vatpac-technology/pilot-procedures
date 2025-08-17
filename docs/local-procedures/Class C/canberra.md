@@ -1,17 +1,16 @@
 ---
-  title: Canberra, ACT
+  title: Canberra (YSCB)
 ---
 
 --8<-- "includes/abbreviations.md"
 
-## Canberra (YSCB)
-### Taxiing
+## Taxiing
 The taxiway layout at YSCB has changed over the years, with taxiway **B** now extending full length along RWY 17/35. If your scenery does not feature this taxiway structure, you must inform **CB SMC** when requesting taxi to runway 17 from the civil aprons.
 
 !!! phraseology
     **QJE1501**: "Canberra Ground, QJE1501, received F, request taxi, require to cross runway 17 at D due scenery limitations"
     
-### Departures
+## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -29,7 +28,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 
 All other aircraft shall expect the **CB (RADAR) SID**.
 
-### Arrivals
+## Arrivals
 An ILS is available to RWY 35 only. RWY 12 does **not** have any associated instrument approaches. RNP approaches are available to RWY 30 & RWY 35. RNP(AR) approaches are available to RWY 17 & RWY 35.
 
 IFR aircraft can generally expect to be processed via a STAR (or for RWY 30, direct to the IAF) terminating with the following approach:
