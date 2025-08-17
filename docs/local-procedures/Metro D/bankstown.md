@@ -1,5 +1,5 @@
 ---
-  title: Bankstown (YSBK) (TODO)
+  title: Bankstown (YSBK)
 ---
 
 --8<-- "includes/abbreviations.md"
