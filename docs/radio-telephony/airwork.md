@@ -13,15 +13,15 @@ It is generally easiest to nominate an area of operations with both a lateral an
     "<span class='placeholder'>Callsign</span> will be conducting airwork within a <span class='placeholder'>Distance</span> radius of <span class='placeholder'>Position</span>, <span class='placeholder'>Altitude Block</span>, ops normal <span class='placeholder'>Time</span>"
 
 !!! example
-    **CYF**: "CYF will be conducting airwork within a 20nm radius of YBTH, SFC to A070, ops normal 45"  
+    **CYF**: "CYF will be conducting airwork within a 20nm radius of YBTH, SFC to `A070`, ops normal 45"  
     **GUN**: "CYF, copy ops normal 45, no reported IFR traffic"
 
 In CTA, a clearance must be obtained prior to conducting airwork.
 
 !!! example
-    **OIT**: "OIT request airwork within a 5nm radius of PEGSU between A080 and A100 for the next 15 minutes"  
-    **SAS**: "OIT, cleared to operate within a 5nm radius of PEGSU, A080 to A100"  
-    **OIT**: "Cleared to operate within a 5nm radius of PEGSU, A080 to A100, OIT"
+    **OIT**: "OIT request airwork within a 5nm radius of PEGSU between `A080` and `A100` for the next 15 minutes"  
+    **SAS**: "OIT, cleared to operate within a 5nm radius of PEGSU, `A080` to `A100`"  
+    **OIT**: "Cleared to operate within a 5nm radius of PEGSU, `A080` to `A100`, OIT"
 
 ## Practice Instrument Approaches
 The area of operations definition above is generally sufficient for conducting practice instrument approaches OCTA. In CTA, it is generally easier for ATC if you can provide more detail about the intended approach.
@@ -38,11 +38,11 @@ The area of operations definition above is generally sufficient for conducting p
 When discontinuing an instrument approach, you must follow the published missed approach. If alternate tracking would be more desirable when conducting the missed approach, this should be communicated to ATS prior to commencing the approach.
 
 !!! example
-    **UNF**: "UNF, from the minima, request a visual left turn to YSBK at A015"  
+    **UNF**: "UNF, from the minima, request a visual left turn to YSBK at `A015`"  
     **SAS**: "UNF, I will advise"  
 
-    **SAS**: "UNF, onwards clearance, from the minima, make left turn direct to YSBK, climb to A015 visual"  
-    **UNF**: "From the minima, make left turn direct to YSBK, climb to A015 visual, UNF"
+    **SAS**: "UNF, onwards clearance, from the minima, make left turn direct to YSBK, climb to `A015` visual"  
+    **UNF**: "From the minima, make left turn direct to YSBK, climb to `A015` visual, UNF"
 
 ## Flight Plan Remarks
 See [Flight Plan Submission](../flight-planning/flightplansubmission.md#airwork-and-planned-delays) for details on how to notify ATC of any intent to conduct airwork through your flight plan remarks.

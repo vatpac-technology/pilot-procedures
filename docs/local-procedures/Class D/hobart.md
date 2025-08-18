@@ -1,5 +1,5 @@
 ---
-  title: Hobart, TAS
+  title: Hobart (YMHB)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -7,6 +7,7 @@
 ## Terminal Airspace
 **HB ADC** is responsible for the Class D airspace within the HB CTR from `SFC` to `A015` to the north of the runway centreline and `SFC` to `A025` to the south. **HBA** is responsible for the airspace within a 35nm radius of TASUM (and a portion of the airspace to the north) from `SFC` to `F245` (excluding HB ADC's jurisdiction).
 
+### Tower Closed Proceedures
 When HB ADC is closed, HBA or HUO may choose to either extend top down to YMHB, or reclassify the Class C & D airspace from `SFC` to `A085` as Class G. Check for a Zulu ATIS to confirm the airspace arrangement.
 
 **LTA** may choose to extend to cover **HBA**.
@@ -26,7 +27,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 
 All other aircraft shall expect to be *rerouted* in accordance with the table above, or assigned a **visual departure**.
 
-During low traffic periods, an [IFR departure via other methods](../navigation/ifrdepartures.md#other-departure-methods) may be available on pilot request to facilitate tracking to a position not serviced by a SID. At other times, pilots can expect to be rerouted and issued a SID, then cleared in accordance with their filed route once above the MSA.
+During low traffic periods, an [IFR departure via other methods](../../navigation/ifrdepartures.md#other-departure-methods) may be available on pilot request to facilitate tracking to a position not serviced by a SID. At other times, pilots can expect to be rerouted and issued a SID, then cleared in accordance with their filed route once above the MSA.
 
 ### Arrivals
 An ILS is available to RWY 12 only. RNP, RNP(AR) & VOR approaches are available to both runways.
@@ -54,8 +55,8 @@ All IFR aircraft can expect to be assigned a **visual departure** or one of Hoba
 
 !!! phraseology
     **NDR**: "Hobart Ground, NDR, for Devonport, request clearance"  
-    **HB SMC**: "NDR, cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to A045, squawk 4432"  
-    **NDR**: "Cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to A045, squawk 4432, NDR"
+    **HB SMC**: "NDR, cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to `A045`, squawk 4432"  
+    **NDR**: "Cleared to Devonport via KANLI flight plan route, KANLI3 departure, climb via SID to `A045`, squawk 4432, NDR"
 
 When ready to taxi and prior to leaving the apron, aircraft must contact **HB ADC**, advising intended runway for departure and receipt of YMHB ATIS, to obtain traffic information.
 
@@ -88,8 +89,8 @@ A landing clearance will not be given. Pilots can expect to receive traffic info
 
 !!! phraseology
     *KLR is a VFR Cherokee who is tracking inbound on the Victor East VFR route.*  
-    **HB ADC:** "KLR, enter the control zone tracking via the Victor East, A015, clearance limit Sorell"  
-    **KLR:** "Enter control zone tracking via the Victor East, A015, clearance limit Sorell, KLR"  
+    **HB ADC:** "KLR, enter the control zone tracking via the Victor East, `A015`, clearance limit Sorell"  
+    **KLR:** "Enter control zone tracking via the Victor East, `A015`, clearance limit Sorell, KLR"  
 
     **KLR:** "KLR, approaching Sorell"  
     **HB ADC:** "KLR, join base runway 12, cleared visual approach, no reported traffic, report clear of the runway"  
@@ -111,5 +112,5 @@ VFR aircraft inbound to and outbound from both YMHB and YCBG should plan via the
 | West      |  BOWB to Risdon Vale thence Cambridge township   |  Risdon Vale thence BOWB | 
 
 !!! phraseology
-    **NDR:** "Hobart Tower, NDR, CPA, A015, on the Victor Northwest, received Romeo, request clearance"  
-    **HB ADC:** "NDR, enter the CTR tracking via the Victor Northwest at A015."
+    **NDR:** "Hobart Tower, NDR, CPA, `A015`, on the Victor Northwest, received Romeo, request clearance"  
+    **HB ADC:** "NDR, enter the CTR tracking via the Victor Northwest at `A015`."

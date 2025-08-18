@@ -18,14 +18,14 @@ The appropriate call depends on whether you expect to be identified or not. If i
     "<span class='placeholder'>Callsign</span>, <span class='placeholder'>Position</span>, passing <span class='placeholder'>Current Level</span>, climbing to <span class='placeholder'>Requested Level</span>, estimating <span class='placeholder'>First Waypoint</span> at <span class='placeholder'>ETA</span>"  
 
 !!! example 
-    "QLK101D, 3nm southwest of Coffs Harbour, passing A043, climbing to F180, estimating SORTI at 43"
+    "QLK101D, 3nm southwest of Coffs Harbour, passing `A043`, climbing to `F180`, estimating SORTI at 43"
 
 #### Not Identified
 !!! note "Format" 
     "<span class='placeholder'>Callsign</span>, departed <span class='placeholder'>Location</span> <span class='placeholder'>Time of Departure</span>, tracking <span class='placeholder'>Outbound Track</span>, climbing to <span class='placeholder'>Requested Level</span>, estimating <span class='placeholder'>First Waypoint</span> at <span class='placeholder'>ETA</span>" 
 
 !!! example 
-    "EWQ, departed YQLP 18, tracking 076, climbing to F130, estimating CV at 51"
+    "EWQ, departed YQLP 18, tracking 076, climbing to `F130`, estimating CV at 51"
 
 ### Descent 
 As you approach top of descent, ATC will provide a clearance to leave CTA (if required) and a traffic statement for your arrival, as well as the current area QNH (if cruising above the transition layer).
@@ -55,7 +55,7 @@ If flight following is not available, the controller will advise *"surveillance 
 !!! example
     **VFC**: "Melbourne Centre, Piper Warrior VFC, request flight following"  
     **GUN**: "VFC, squawk 0455, report position and intentions"  
-    **VFC**: "Squawk 0455, currently 15nm southeast of YBTH, A065, tracking for YTEM, VFC"  
+    **VFC**: "Squawk 0455, currently 15nm southeast of YBTH, `A065`, tracking for YTEM, VFC"  
     **GUN**: "VFC, identified, no reported traffic, area QNH 1022"  
     **VFC**: "Area QNH 1022, VFC"
 
@@ -85,5 +85,5 @@ When established outside of controlled airspace, there is no requirement for aut
     **FWC**: "FWC, request traffic direct ARMWD"  
     **ARL**: "FWC, no reported IFR traffic"
 
-    **LKU**: "LKU, request traffic for climb to A060"  
+    **LKU**: "LKU, request traffic for climb to `A060`"  
     **ARL**: "LKU, no reported IFR traffic"

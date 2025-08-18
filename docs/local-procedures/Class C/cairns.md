@@ -1,11 +1,10 @@
 ---
-  title: Cairns, QLD
+  title: Cairns (YBCS)
 ---
 
 --8<-- "includes/abbreviations.md"
 
-## Cairns (YBCS)
-### Departures
+## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -21,8 +20,8 @@ All other aircraft shall expect the **CS (RADAR) SID**.
 !!! note
     IFR non-jet aircraft may request a visual departure from ACD by day VMC.
 
-### Arrivals
-#### Instrument Approaches
+## Arrivals
+### Instrument Approaches
 An ILS is available to RWY 15. A LOC is available to RWY 33. RNP(AR) approaches are available to both runways.
 
 IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
@@ -32,7 +31,7 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 | 15 | ILS |
 | 33 | RNP(AR) or LOC if unable |
 
-#### Visual Approaches
+### Visual Approaches
 By day VMC, IFR aircraft may be processed via the Creek Corridor to RWY 15 or via a circuit join to RWY 33.
 
 The Creek Corridor is generally accessed from a Victor STAR. Details can be found on the **Noise Abatement Procedure Page 2** DAP chart. 
@@ -45,12 +44,12 @@ The Creek Corridor is generally accessed from a Victor STAR. Details can be foun
 By day VMC, aircraft may be processed via a visual right base for RWY 33 (from the north/east) or via a straight in visual approach (from the south/west). Aircraft via a right base can expect to track via the STAR or, if not assigned a suitable STAR, to track via **FCP**. CS TCU will likely assign the aircraft a visual altitude instruction and transfer them to CS ADC, who will issue the visual approach clearance.
 
 !!! phraseology
-    **CS TCU**: "JCI, track for a right base runway 33, descend to A020 visual"  
-    **VH-JCI**: "Track for right base runway 33, descend A020 visual, JCI"  
+    **CS TCU**: "JCI, track for a right base runway 33, descend to `A020` visual"  
+    **VH-JCI**: "Track for right base runway 33, descend `A020` visual, JCI"  
     **CS TCU**: "JCI, contact Cairns Tower on 124.9"  
     **VH-JCI**: "124.9, JCI"  
 
-    **VH-JCI**: "Cairns Tower, JCI, descending to A020 visual"  
+    **VH-JCI**: "Cairns Tower, JCI, descending to `A020` visual"  
     **CS ADC**: "JCI, Cairns Tower, cleared visual approach"  
     **VH-JCI**: "Cleared visual approach, JCI"
 
@@ -61,8 +60,8 @@ Inbound helicopters must establish contact with **CS ADC** and request clearance
 
 !!! phraseology
     **VH-YZM**: "Cairns Tower, helicopter YZM, at The Pier, for Green Island, received F, request cleaerance"  
-    **CS ADC**: "YZM, cleared to Green Island, not above A010, squawk 0455, report airborne"  
-    **VH-YZM**: "Cleared to Green Island, not above A010, squawk 0455, YZM"  
+    **CS ADC**: "YZM, cleared to Green Island, not above `A010`, squawk 0455, report airborne"  
+    **VH-YZM**: "Cleared to Green Island, not above `A010`, squawk 0455, YZM"  
     
     **VH-YZM**: "YZM, airborne"
 
@@ -73,20 +72,20 @@ Aircraft shall enter the area at Green Island, flying in an anti-clockwise flow 
 
 | Aircraft Type | Outbound Altitude | Inbound Altitude |
 | --- | --- | --- |
-| Fixed Wing | A015 to Green Island | A010 from Upolu Cay |
-| Rotary Wing | A005 until 12DME CS, then A010 to Green Island | A005 from Upolu Cay |
+| Fixed Wing | `A015` to Green Island | `A010` from Upolu Cay |
+| Rotary Wing | `A005` until 12DME CS, then `A010` to Green Island | `A005` from Upolu Cay |
 
 ### Return to YBCS
 Aircraft intending to track from Upolu Cay to YBCS shall do so in accordance with [SP11](#reef-flights).
 
-Rotary wing aircraft shall track from Upolu Cay direct to YBCS at A005, remaining OCTA until in receipt of an airways clearance from **CS ADC**.
+Rotary wing aircraft shall track from Upolu Cay direct to YBCS at `A005`, remaining OCTA until in receipt of an airways clearance from **CS ADC**.
 
 Fixed wing aircraft shall track in accordance with the table below:
 
 | YBCS Duty Runway | Tracking from Upolu Cay |
 | --- | --- |
-| RWY 15 | Direct to Yorkeys Knob at A010, then as directed by ATC |
-| RWY 33 | Direct to Gate A (see SP11), then Cape Grafton at A010 |
+| RWY 15 | Direct to Yorkeys Knob at `A010`, then as directed by ATC |
+| RWY 33 | Direct to Gate A (see SP11), then Cape Grafton at `A010` |
  
 ## VFR Corridors
 Details of each corridor are available on the Cairns VTC.

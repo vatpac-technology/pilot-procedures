@@ -232,7 +232,6 @@
 *[CTE]: Cottesloe
 *[PCTY]: Perth City
 *[HKE]: Herdsman Lake
-*[JIBN]: Jibbon Point
 *[CUL]: Cronulla
 *[BTJ]: Brighton Jetty
 *[HNLY]: Henley Jetty
@@ -291,3 +290,13 @@
 *[BLGH]: Burleigh Heads
 *[ROTC]: Robina Town Centre
 *[CGD]: Cudgen Headland
+*[LRF]: Long Reef
+*[HBB]: Harbour Bridge
+*[CHAT]: Chatswood
+*[RVB]: Roseville Bridge
+*[RYB]: Ryde Bridge
+*[JIBN]: Jibbon Point
+*[SYHD]: Sydney Heads
+*[NPBR]: Nepean Bridge
+*[KRMD]: Kurmond
+*[WSFR]: Wisemans Ferry

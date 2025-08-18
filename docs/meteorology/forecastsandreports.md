@@ -26,7 +26,7 @@ TAFs at some major aerodromes include the **TAF3** remark, indicating that they 
 ### Area Forecasts
 A number of visual area forecasts are available, which provide forecast weather conditions in a wider area. These can be used to determine the enroute weather conditions (and any associated limitations) and to provide an appreciation for the weather at aerodromes without a dedicated weather report/forecast.
 
-Area forecasts are generally available on the NAIPS website and include GAF (for use at or below A100) and SIGWX (for use between A100 and F630) products.
+Area forecasts are generally available on the NAIPS website and include GAF (for use at or below `A100`) and SIGWX (for use between `A100` and `F630`) products.
 
 ## Where to Find Them
 METARs and TAFs can be sourced from a number of sources.

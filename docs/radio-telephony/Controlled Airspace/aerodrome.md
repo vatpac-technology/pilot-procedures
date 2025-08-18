@@ -14,13 +14,13 @@ ATC will respond with an airways clearance. During your readback, you should adv
 !!! example
     *QFA421 is an IFR B738*  
     **QFA421**: "Sydney Delivery, QFA421, to YMML, request clearance"  
-    **SY ACD**: "QFA421, cleared to YMML via WOL, flight planned route, runway 16R, GROOK1 departure WOL transition, climb via SID to A050, squawk 3231, departure frequency 129.7"  
-    **QFA421**: "Cleared to YMML via WOL, flight planned route, runway 16R, GROOK1 departure WOL transition, climb via SID to A050, squawk 3231, departure frequency 129.7, bay 3, QFA421"  
+    **SY ACD**: "QFA421, cleared to YMML via WOL, flight planned route, runway 16R, GROOK1 departure WOL transition, climb via SID to `A050`, squawk 3231, departure frequency 129.7"  
+    **QFA421**: "Cleared to YMML via WOL, flight planned route, runway 16R, GROOK1 departure WOL transition, climb via SID to `A050`, squawk 3231, departure frequency 129.7, bay 3, QFA421"  
 
     *TEK is a VFR Cherokee*  
     **TEK**: "Sydney Delivery, TEK, to YCNK, request clearance"  
-    **SY ACD**: "TEK, cleared to YCNK via SYHD, flight planned route, runway 16L, climb to A035, squawk 0542, departure frequency 123.0"  
-    **TEK**: "Cleared to YCNK via SYHD, flight planned route, runway 16L, climb to A035, squawk 0542, departure frequency 123.0, TEK"
+    **SY ACD**: "TEK, cleared to YCNK via SYHD, flight planned route, runway 16L, climb to `A035`, squawk 0542, departure frequency 123.0"  
+    **TEK**: "Cleared to YCNK via SYHD, flight planned route, runway 16L, climb to `A035`, squawk 0542, departure frequency 123.0, TEK"
 
 ### Circuits
 !!! note "Format"
@@ -30,8 +30,8 @@ In response, ATC will issue a clearance to operate in the circuit area, not abov
 
 !!! example
     **LKU**: "Melbourne Delivery, LKU, for circuits, request clearance"  
-    **ML ACD**: "LKU, cleared to operate in the circuit area, not above A020, squawk 0100"  
-    **LKU**: "Cleared to operate in the circuit area, not above A020, squawk 0100, LKU"
+    **ML ACD**: "LKU, cleared to operate in the circuit area, not above `A020`, squawk 0100"  
+    **LKU**: "Cleared to operate in the circuit area, not above `A020`, squawk 0100, LKU"
 
 ### PDCs
 A PDC may be issued over text by a controller to assist with their workload. In Australia, a PDC **must be read back on frequency**.
@@ -145,8 +145,8 @@ After obtaining an airways clearance, ATC will instruct you to *'report airborne
 !!! example
     *RSCU201 is a VFR helicopter at St George Hospital (inside the Sydney CTR)*  
     **RSCU201**: "Sydney Tower, helicopter RSCU201, St George Hospital, for YSBK, received F, ready"  
-    **SY ADC**: "RSCU201, cleared to YSBK direct, climb to A015 visual, squawk 0466, report airborne"  
-    **RSCU201**: "Cleared to YSBK direct, climb to A015 visual, squawk 0466, RSCU201"  
+    **SY ADC**: "RSCU201, cleared to YSBK direct, climb to `A015` visual, squawk 0466, report airborne"  
+    **RSCU201**: "Cleared to YSBK direct, climb to `A015` visual, squawk 0466, RSCU201"  
 
     **RSCU201**: "RSCU201, airborne"
 

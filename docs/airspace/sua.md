@@ -15,7 +15,7 @@ Some SUA is used for pre-planned VSOA activities. These airspace blocks are gene
 The boundary between two classes of airspace takes the form of the *least* restrictive class.
 
 !!! example
-    A restricted area with a vertical definition of `SFC-A085` may be overflown **at** A085, as the aircraft will be deemed to be in the least restrictive class of airspace at that level.
+    A restricted area with a vertical definition of `SFC-A085` may be overflown **at** `A085`, as the aircraft will be deemed to be in the least restrictive class of airspace at that level.
 
 ## Danger Areas
 Danger areas are established to discourage pilots from transiting a hazardous area. Approval is *not* required to enter, however pilots should be aware of the risk in doing so. They are labelled with the **D** prefix (e.g. D556B, which makes up part of the western Sydney training area).
