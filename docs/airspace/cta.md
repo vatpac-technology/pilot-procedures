@@ -185,7 +185,7 @@ As a summary, pilots can expect the following separation standards to be applied
 ### Visual Separation
 In some situations, a separation standard must be maintained between two aircraft, but doing so would result in a delay for one or more pilots. In these situations, ATS may delegate separation responsibility to the pilot, using visual separation.
 
-Visual separation responsibility will only be issued to a pilot when both aircraft are operating at or below A100 and the pilot reports:
+Visual separation responsibility will only be issued to a pilot when both aircraft are operating at or below `A100` and the pilot reports:
 - that they have the other aircraft in sight, and
 - that they can maintain visual separation with the aircraft
 

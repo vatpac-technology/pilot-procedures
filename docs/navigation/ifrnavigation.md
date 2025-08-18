@@ -77,7 +77,7 @@ Pilot Calculated LSALTs are primarily used to allow smaller aircraft to fly lowe
 When referring to an altitude which uses a pilot calculated LSALT, the phrase *'pilot calculated'* should be appended to the level.
 
 !!! example
-    **DFR**: "DFR, climbing to A048 pilot calculated"  
+    **DFR**: "DFR, climbing to `A048` pilot calculated"  
     **BLA**: "DFR, no reported IFR traffic"
 
 ### Visual Below the LSALT
@@ -87,12 +87,12 @@ When visual by day, you may maintain visual separation with the terrain and any 
     You must not accept a visual level unless you have reported visual to ATC and are assured that you can maintain ongoing visual reference to the ground or water.
 
 !!! example
-    **SAS**: "FD203, descend to A015 visual"  
-    **FD203**: "Descend to A015 visual, FD203"
+    **SAS**: "FD203, descend to `A015` visual"  
+    **FD203**: "Descend to `A015` visual, FD203"
 
 ### NVIS Operations
 Pilots may descend below the LSALT when clear of cloud by night, provided they are using NVIS. This is most common with military and special operations aircraft. When referring to an altitude below the LSALT at night where the pilot will maintain visual separation with the terrain & obstacles using NVIS, the phrase *'NVIS'* should be appended to the level.
 
 !!! example
-    **RSCU206**: "RSCU206, descending to A033 NVIS"  
+    **RSCU206**: "RSCU206, descending to `A033` NVIS"  
     **BLA**: "RSCU206, no reported IFR traffic"

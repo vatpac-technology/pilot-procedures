@@ -1,17 +1,16 @@
 ---
-  title: Canberra, ACT
+  title: Canberra (YSCB)
 ---
 
 --8<-- "includes/abbreviations.md"
 
-## Canberra (YSCB)
-### Taxiing
+## Taxiing
 The taxiway layout at YSCB has changed over the years, with taxiway **B** now extending full length along RWY 17/35. If your scenery does not feature this taxiway structure, you must inform **CB SMC** when requesting taxi to runway 17 from the civil aprons.
 
 !!! phraseology
     **QJE1501**: "Canberra Ground, QJE1501, received F, request taxi, require to cross runway 17 at D due scenery limitations"
     
-### Departures
+## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
 IFR aircraft should expect to be issued with a SID as per below:
@@ -29,7 +28,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 
 All other aircraft shall expect the **CB (RADAR) SID**.
 
-### Arrivals
+## Arrivals
 An ILS is available to RWY 35 only. RWY 12 does **not** have any associated instrument approaches. RNP approaches are available to RWY 30 & RWY 35. RNP(AR) approaches are available to RWY 17 & RWY 35.
 
 IFR aircraft can generally expect to be processed via a STAR (or for RWY 30, direct to the IAF) terminating with the following approach:
@@ -49,8 +48,8 @@ Southcare Helicopter Base (YXSB), Calvary Hospital, and Canberra Hospital are al
     **RSCU209**: "Canberra Tower, helicopter RSCU209, on the pad at Canberra Hospital, for Bankstown, received Juliet, ready"  
     **CB ADC**: "RSCU209, Canberra Tower, report sighting a Jetstar A320 on a 3nm final runway 35 and advise able to maintain own separation with that aircraft"  
     **RSCU209**: "Traffic sighted and affirm, RSCU209"  
-    **CB ADC**: "RSCU209, pass behind the A320, maintain own separation, caution wake turbulence, cleared to Bankstown via AKMIR, flight planned route, climb to A090, squawk 3762"  
-    **RSCU209**: "Cleared to Bankstown via AKMIR flight planned route, climb to A090, squawk 3762, pass behind the A320 and maintain own separation, RSCU209"
+    **CB ADC**: "RSCU209, pass behind the A320, maintain own separation, caution wake turbulence, cleared to Bankstown via AKMIR, flight planned route, climb to `A090`, squawk 3762"  
+    **RSCU209**: "Cleared to Bankstown via AKMIR flight planned route, climb to `A090`, squawk 3762, pass behind the A320 and maintain own separation, RSCU209"
 
 Inbound helicopters should make contact with **CB TCU** before entering CTA for airways clearance.
 
@@ -66,5 +65,5 @@ Pilots should file the applicable tracking points in their flight plan **route**
 
 !!! phraseology
     **YVZ**: "Canberra Ground, YVZ, request City Route Charlie One"  
-    **CB SMC**: "YVZ, cleared City Route Charlie One, climb to A040, squawk 0361, departure frequency 124.5"  
-    **YVZ**: "Cleared City Route Charlie One, climb to A040, squawk 0361, departure frequency 124.5, YVZ"
+    **CB SMC**: "YVZ, cleared City Route Charlie One, climb to `A040`, squawk 0361, departure frequency 124.5"  
+    **YVZ**: "Cleared City Route Charlie One, climb to `A040`, squawk 0361, departure frequency 124.5, YVZ"

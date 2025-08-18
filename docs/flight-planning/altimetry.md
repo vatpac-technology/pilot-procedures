@@ -21,10 +21,10 @@ In Australia, the transition altitude is fixed at 10,000ft AMSL. The transition 
 | FL120 | Not available when QNH is below 980 hPa |
 | FL125 | Not available when QNH is below 963 hPa |
 
-As a result, levels up to F125 may not always be available for aircraft to cruise at.
+As a result, levels up to `F125` may not always be available for aircraft to cruise at.
 
 !!! example
-    The area QNH is 991 hPa. As a result, the transition layer extends between A100 and F120, and levels between them are not available for cruising.
+    The area QNH is 991 hPa. As a result, the transition layer extends between `A100` and `F120`, and levels between them are not available for cruising.
 
 ## Area QNH
 Area QNH is a forecast QNH value covering a wide geographical area. A number of area QNH zones are published (visible on the PCA) with forecast QNH values published for each. Where large pressure gradients create varying QNH in a zone, it is subdivided so that the published area QNH value is always no more than 5 hPa difference from neighbouring area QNH or local QNH values.
