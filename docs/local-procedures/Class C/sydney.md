@@ -281,9 +281,9 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
 #### ADC Routes
 For the following routes, pilots must contact **SY ADC** directly.
 
-| Route | Direction | FREQUENCY |
+| Route | Direction | Frequency |
 | --- | --- | --- |
-| CAPE BANKS 5 | INBOUND | ADC East - 124.7 *(if online)*, otherwise ADC West - 120.5 |
+| CAPE BANKS 5 | INBOUND | ADC East - 124.7 *(if online)*,<br>Otherwise ADC West - 120.5 |
 | WANDA 5 | INBOUND | ADC West - 120.5 |
 
 For helicopters tracking via CAPS or MRBR, pilots should anticipate processing via a different inbound route due to YSSY runway configuration and traffic or sequencing requirements.
