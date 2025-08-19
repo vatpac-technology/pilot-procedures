@@ -62,4 +62,7 @@ STARs are available to segregate YPJT arrivals and YPPH traffic. Pilots may be c
 
 RNP approaches are available to RWY 06L, 24R, and 30. VOR and NDB approaches are available to the circling area.
 
+#### Day VMC
 By day VMC, pilots should expect to arrive in accordance with [VFR Arrivals](#arrivals_1).
+
+IFR aircraft tracking via Perth CTA from the north or east will sometimes be recleared via CNB thence direct YPJT and transferred to JT ADC.
