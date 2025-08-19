@@ -165,9 +165,13 @@ Predictable sequencing waypoints allow ATS to increase an aircraft's track miles
     <figcaption>Predictable Sequencing Waypoints on the **Q29** Airway<br><small>E.g. Tracking ANLID to DOVEX to BULLA adds 2 min</small></figcaption>
 </figure>
 
-Details of each set of waypoints are contained in [Local Procedures](../../local-procedures/).
+!!! tip
+    Details of each set of waypoints are contained in [Local Procedures](../../local-procedures/).
 
-New
+In response to an instruction to track via a new sequencing waypoint, pilots must promptly enter the waypoint into their flight management system and track in accordance with the ATS instruction.
+
+!!! warning "Important"
+    Some instructions will require pilots to track **from their present position** while others will require tracking **from a nominated waypoint**. Ensure you operate in accordance with the provided instruction and query the controller if you need clarification.
 
 #### Waypoint Crossing Times
 In the real world, delays which don't necessitate holding will generally be absorbed by issuing a waypoint crossing time to a pilot. The pilot will then adjust their own speed to cross the waypoint at the given time. This practice is rare online but is gaining popularity as more pilots become familiar with the procedure. Pilots in receipt of a waypoint crossing time must cross the fix at up to **0 seconds late** and **30 seconds early**.
