@@ -76,7 +76,7 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 
 With RWY 34 in use, aircraft from the northeast may be cleared via the Victor STAR for a visual approach. Refer to the relevant chart and be aware of the tight turn from base to final. Careful planning and speed control is necessary to avoid overshooting final.
 
-## Preferred Runway Exits
+### Preferred Runway Exits
 The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
 
 | Runway | Aircraft Type | Preferred Exits |

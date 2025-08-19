@@ -27,16 +27,6 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
 #### SMC Frequency Change
 Three SMC positions exist at Brisbane, all with different jurisdiction. Aircraft shall expect to hold short of predetermined taxiways. Domestic aircraft should independently transfer to the next SMC controller autonomously, while international aircraft may expect an explicit frequency change from the current SMC.
 
-#### Preferred Runway Exits
-The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
-
-| Runway | Aircraft Type | Preferred Exits |
-| --- | --- | --- |
-| RWY 01L | Turboprop<br>Jet<br>Heavy Jet | T8<br>T6<br>T4 |
-| RWY 01R | Turboprop, Jet<br>Heavy Jet | A4S<br>A4 or A3 |
-| RWY 19L | Turboprop, Jet<br>Heavy Jet | A6<br>A7 |
-| RWY 19R | Turboprop<br>Jet<br>Heavy Jet | T7<br>T9 <br>T11 |
-
 ## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
@@ -63,6 +53,16 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 | RWY 01R | ILS |
 | RWY 19L | ILS or RNP(AR) |
 | RWY 19R | ILS |
+
+### Preferred Runway Exits
+The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilots to vacate at. This ensures a predictable, efficient movement of aircraft on the aerodrome and should be abided by where possible. Where a preferred exit is not assured, pilots must inform ADC.
+
+| Runway | Aircraft Type | Preferred Exits |
+| --- | --- | --- |
+| RWY 01L | Turboprop<br>Jet<br>Heavy Jet | T8<br>T6<br>T4 |
+| RWY 01R | Turboprop, Jet<br>Heavy Jet | A4S<br>A4 or A3 |
+| RWY 19L | Turboprop, Jet<br>Heavy Jet | A6<br>A7 |
+| RWY 19R | Turboprop<br>Jet<br>Heavy Jet | T7<br>T9 <br>T11 |
 
 ### Helicopter Operations
 #### Waypoints

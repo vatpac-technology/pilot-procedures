@@ -139,7 +139,7 @@ ATS will process arrivals via a visual approach (or IVA) during VMC or an ILS ap
 
 The BOREE PAPA STAR is only used during ILS PRM operations.
 
-## Preferred Runway Exits
+### Preferred Runway Exits
 The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for aircraft to vacate at. To ensure minimum runway occupancy time and support optimum spacing on final, whenever operational conditions permit, pilots should plan to vacate via the exit taxiways specified in the table below:
 
 | RWY | Aircraft Type | Preferred TWY Exits |
@@ -153,6 +153,21 @@ The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for ai
 
 !!! note  
     Non-Jet aircraft preferring to vacate north of TWY B7 must advise ADC prior to receiving a landing clearance.
+
+### Rerouting
+Some aircraft from the north or west may be rerouted via the adjacent STAR for traffic management. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+
+| Inbound Direction | Amended STAR | Possible Routing |
+| --- | --- | --- |
+| North | BOREE STAR | DCT BOREE, *or*<br>DCT SADLO BOREE |
+| North | MEPIL STAR | DCT YAKKA MEPIL |
+| West | ODALE STAR | DCT MAKKA AKMIR ODALE, *or*<br>DCT AKMIR WELSH ODALE |
+| West | RIVET STAR | DCT RIVET, *or*<br>DCT TARAL RIVET |
+
+### Predictable Sequencing Waypoints
+ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **N774** and **M636**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+
+| 
 
 ## Sydney Director
 Sydney Director (SY-D_APP & SY-DE_APP) are unique positions responsible for providing vectors to final for inbound aircraft.
