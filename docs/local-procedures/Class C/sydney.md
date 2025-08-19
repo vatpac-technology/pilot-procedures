@@ -167,7 +167,22 @@ Some aircraft from the north or west may be rerouted via the adjacent STAR for t
 ### Predictable Sequencing Waypoints
 ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **N774** and **M636**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
 
-| 
+=== "N774"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | NONID | HARIZ/PORUV | RIKNI | 2 |
+    | NONID | AVKIR/ISNET | RIKNI | 4 |
+    | NONID | IDAGO/OVMAT | RIKNI | 6 |
+    | NONID | ADLIV/FLEMO | RIKNI | 8 |
+    | NONID | UDISI/OPEXA | RIKNI | 10 |
+
+=== "M636"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | PLUGA | OLNOT | RIKNI | 2 |
+    | PLUGA | ADBOK | RIKNI | 4 | 
+    | PLUGA | PEBTU | RIKNI | 6 |
+    | PLUGA | GORTA | RIKNI | 8 | 
 
 ## Sydney Director
 Sydney Director (SY-D_APP & SY-DE_APP) are unique positions responsible for providing vectors to final for inbound aircraft.

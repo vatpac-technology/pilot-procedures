@@ -157,6 +157,16 @@ Some airliner avionics will allow pilots to adjust the required time of departur
 
 Note that this calculation assumes that each turn will be conducted at rate 1 (and therefore take 1 min to complete a 180° turn). If this is not the case, the calculation should be adjusted to compensate.
 
+#### Predictable Sequencing Waypoints
+Predictable sequencing waypoints allow ATS to increase an aircraft's track miles to achieve a necessary delay, whilst providing pilots with a known distance to run (unlike during vectors where the track miles remaining are generally unknown). This helps pilots plan more predictable, profile-driven descents.
+
+<figure markdown>
+![Caption](./img/predictablesequencingwaypoints.png){ width="600" }
+    <figcaption>Predictable Sequencing Waypoints on the **Q29** Airway<br><small>E.g. Tracking ANLID to DOVEX to BULLA adds 2 min</small></figcaption>
+</figure>
+
+Details of each set of waypoints are contained in [Local Procedures](../../local-procedures/).
+
 #### Waypoint Crossing Times
 In the real world, delays which don't necessitate holding will generally be absorbed by issuing a waypoint crossing time to a pilot. The pilot will then adjust their own speed to cross the waypoint at the given time. This practice is rare online but is gaining popularity as more pilots become familiar with the procedure. Pilots in receipt of a waypoint crossing time must cross the fix at up to **0 seconds late** and **30 seconds early**.
 

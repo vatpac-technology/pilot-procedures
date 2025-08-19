@@ -64,9 +64,44 @@ The AIRPORT EFFICIENCY PROCEDURES chart dictates preferred runway exits for pilo
 | RWY 19L | Turboprop, Jet<br>Heavy Jet | A6<br>A7 |
 | RWY 19R | Turboprop<br>Jet<br>Heavy Jet | T7<br>T9 <br>T11 |
 
-### Helicopter Operations
-#### Waypoints
+### Rerouting
+Some aircraft from the north, south, or west may be rerouted via the adjacent STAR for traffic management. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
 
+| Inbound Direction | Amended STAR | Possible Routing |
+| --- | --- | --- |
+| North | MORBI STAR | DCT MORBI |
+| North | SMOKA STAR | DCT SMOKA |
+| South/West | ENLIP STAR | DCT ENLIP |
+| West | BLAKA STAR | DCT BLAKA |
+
+### Predictable Sequencing Waypoints
+ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **H66** and **H252**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+
+=== "H66"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | ADKEK | GUTBI | WHITI | 2 |
+    | ADKEK | ISDAG | WHITI | 3 |
+    | ADKEK | RULGU | WHITI | 5 |
+    | ADKEK | DOVIP | WHITI | 7 |
+    | ADKEK | URBAM | WHITI | 9 |
+    | ADKEK | ESMIS | WHITI | 11 |
+    | ADKEK | UBKEM | WHITI | 13 |
+
+=== "H252"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | RULGU | DOVIP | OMKAK  | 1 |
+    | RULGU | ISDAG | OMKAK  | 2 |
+    | RULGU | URBAM | OMKAK  | 3 |
+    | RULGU | GUTBI | OMKAK | 4 |
+    | RULGU | ESMIS | OMKAK | 5 |
+    | RULGU | UBKEM | OMKAK | 7 |
+    | RULGU | ADKEK | OMKAK | 8 |
+    | RULGU | OTBOL | OMKAK | 11 |
+
+## Helicopter Operations
+### Waypoints
 In VMC, all helicopters shall expect to be processed via two visual waypoints (outlined below) positioned north and south of the field. Where VMC does not exist, IFR helicopters will conform to fixed wing ops and expect to be processed via the BN (RADAR) SID from an appropriate runway.
 
 | Direction of Flight  | Inbound/Outbound Tracking Point |
@@ -81,8 +116,7 @@ In VMC, all helicopters shall expect to be processed via two visual waypoints (o
     **BN ACD:** "RSCU533, Brisbane Delivery, cleared to YXHE via amended BLHS, YXHE, climb to `A025`, squawk 1256, departure frequency 124.7"  
     **RSCU533:** "Cleared to YXHE via amended BLHS, YXHE, climb to `A025`, squawk 1256, departures 124.7, RSCU533"
 
-#### Departures
-
+### Departures
 Both taxiways **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance from BN ADC. Helicopters departing on other surfaces outside the maneuvering areas will be instructed to *"report airborne"*. 
 
 !!! phraseology
@@ -94,8 +128,7 @@ Both taxiways **H2** and **F4** are inside the maneuvering area and treated like
     **RSCU533:** "Departures, RSCU533"
 
 
-#### Arrivals
-
+### Arrivals
 Helicopters arriving to YBBN during VMC shall expect to be cleared by via the [appropriate inbound waypoint](#waypoints), with that waypoint issued as the clearance limit. 
 
 Depending on the current traffic situation, pilots may expect an instruction to hold and/or maintain own separation with any arriving or departing aircraft, If holding is required prior to arrival, helicopters will be instructed to hold at the following positions:
@@ -123,7 +156,6 @@ Both taxiway **H2** and **F4** are inside the maneuvering area and treated like 
 
 ## Scenic Flights
 ### Brisbane City Scenic
-
 Helicopters conducting scenic flights around the city require access to the Brisbane CTA to operate. These flights typically involve low-level operations inside controlled airspace and in proximity to landmarks within the city area.
 
 Aircraft must track via Class G airspace to UQLD and contact BN TCU prior to reaching UQLD requesting airways clearance. If a clearance cannot be given immediately, aircraft may be instructed to remain clear of Class C airspace.

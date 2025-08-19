@@ -65,6 +65,59 @@ The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for pi
 !!! note
     At YPPH, aircraft may vacate at an earlier exit without ATC approval. Preferred exits for RWY 06 are not published due infrequent use.
 
+### Predictable Sequencing Waypoints
+ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q10**, **Q32**, **Q27**, **Q41**, and **Z38**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+=== "Q10"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | URGEX | TEKUD | MALUP | +1 |
+    | URGEX | BEMPI | MALUP | +2 |
+    | URGEX | AGTOD | MALUP | +3 |
+    | URGEX | DUKOR | MALUP | +4 |
+    | URGEX | IPGER | MALUP | +5 |
+    | URGEX | TODOS | MALUP | +7 |
+    | URGEX | IVPIL | MALUP | +9 |
+ 
+=== "Q27"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | IVPIL | URGEX | MALUP | +6 |
+    | IVPIL | TEKUD | MALUP | +5 |
+    | IVPIL | BEMPI | MALUP | +4 |
+    | IVPIL | AGTOD | MALUP | +3 |
+    | IVPIL | DUKOR | MALUP | +2 |
+    | IVPIL | IPGER | MALUP | +2 |
+    | IVPIL | TODOS | MALUP | +1 |
+ 
+=== "Q32"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | TEKUD | URGEX | MALUP | +1 |
+    | TEKUD | BEMPI | MALUP | +1 |
+    | TEKUD | AGTOD | MALUP | +2 |
+    | TEKUD | DUKOR | MALUP | +3 |
+    | TEKUD | IPGER | MALUP | +4 |
+    | TEKUD | TODOS | MALUP | +6 |
+    | TEKUD | IVPIL | MALUP | +8 |
+ 
+=== "Q41"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | NALAR | URGEX | MALUP | +2 |
+    | NALAR | TEKUD | MALUP | +3 |
+    | NALAR | BEMPI | MALUP | +4 |
+    | NALAR | AGTOD | MALUP | +5 |
+    | NALAR | DUKOR | MALUP | +6 |
+    | NALAR | IPGER | MALUP | +7 |
+    | NALAR | TODOS | MALUP | +9 |
+    | NALAR | IVPIL | MALUP | +11 |
+ 
+=== "Z38"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | BUNGL | IGROB | MALUP | 4 |
+    | BUNGL | KINAB | MALUP | 7 |
+
 ## Scenic Flights
 VFR aircraft may plan to conduct scenic flights within CTA in the PH TMA. A number of VFR routes exist to facilitate this, including:
 

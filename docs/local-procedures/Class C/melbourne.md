@@ -86,6 +86,52 @@ The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for pi
 | RWY 27 | All<br>Heavy | N<br>M |
 | RWY 34 | All | F, otherwise E or C |
 
+### Rerouting
+Some aircraft from the northeast may be rerouted direct to the IAF for the RNP-M approach to RWY 16 for traffic management. Aircraft inbound from the south may be processed via the PORTS STAR in lieu of the RAZZI STAR.
+
+### Predictable Sequencing Waypoints
+ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q29**, **Q346**, **Q35**, **H215**, **P753**, **L508**, and **M625**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+
+=== "Q29"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | ANLID | DOVEX | BULLA | 2 |
+    | ANLID | TOPUL | BULLA | 4 |
+    | ANLID | UNSIG | BULLA | 6 |
+    | ANLID | NILEV | BULLA | 8 | 
+
+=== "Q346"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | UPNAP | IGPEB | DORSU | 1 |
+    | UPNAP | ONOPO | DORSU | 3 |
+    | UPNAP | URGUL | DORSU | 5 |
+    | UPNAP | IBOVU | DORSU | 7 | 
+
+=== "Q35"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | IGMIL | IGPEB | DORSU | 2 |
+    | IGMIL | ONOPO | DORSU | 4 |
+    | IGMIL | URGUL | DORSU | 6 |
+    | IGMIL | IBOVU | DORSU | 8 |
+
+=== "M625"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | ELNIV | OTGUN | RAZZI | 2 |
+    | ELNIV | OSEMI | RAZZI | 4 |
+    | ELNIV | UGITO | RAZZI | 6 |
+    | ELNIV | SEBLU | RAZZI | 8 | 
+
+=== "H215"
+    | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
+    | ---------------- | ------------ | -------------- | --------------- |
+    | AKTAM | SEBLU | RAZZI | 2 |
+    | AKTAM | UGITO | RAZZI | 4 |
+    | AKTAM | OSEMI | RAZZI | 6 |
+    | AKTAM | OTGUN | RAZZI | 8 |
+
 ## LAHSO
 LAHSO is the independent operation of two crossing runways for arrivals and departures. It is a complicated procedure which is rarely used, but occassionally run during VATPAC's busiest events featuring YMML. Strict pilot requirements apply during LAHSO.
 
