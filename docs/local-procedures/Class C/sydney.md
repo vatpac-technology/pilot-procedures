@@ -184,7 +184,13 @@ ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predict
     | PLUGA | PEBTU | RIKNI | 6 |
     | PLUGA | GORTA | RIKNI | 8 | 
 
-## Sydney Director
+### STAR Route Discontinuities
+Most STARs terminate with radar vectors from ATS and will generally produce a route discontinuity in the flight management system. **Do not delete the route discontinuity**, as doing so may cause the aircraft to bypass TESAT or track in appropriately.
+
+!!! warning "Important"  
+    Some aircraft FMCs may insert a discontinuity after BOOGI, NASHO, or JAKLN. In most cases, these waypoints are followed by a point titled *(VECTORS)*. If your FMC generates a discontinuity instead of a VECTORS waypoint, do not delete the discontinuity. They will function the same.
+
+### Sydney Director
 Sydney Director (SY-D_APP & SY-DE_APP) are unique positions responsible for providing vectors to final for inbound aircraft.
 
 On first contact with Director (or as soon as you become visual otherwise), you must report your assigned runway in sight. Aircraft already established on the localiser/final approach course may instead report when visual.
@@ -203,16 +209,10 @@ The airspace that director owns is very small and often heavily congested. It is
 
 In the event of radio congestion on the base leg, **do not pass through your assigned runway centreline**. Commence the turn to enable intercept of the final approach course for the runway assigned, then track the extended centreline of that runway. If pilots do not receive a handoff to tower by 4nm from the threshold, you may switch to the ADC frequency.
 
-## STAR Route Discontinuities
-Most STARs terminate with radar vectors from ATS and will generally produce a route discontinuity in the flight management system. **Do not delete the route discontinuity**, as doing so may cause the aircraft to bypass TESAT or track in appropriately.
-
-!!! warning "Important"  
-    Some aircraft FMCs may insert a discontinuity after BOOGI, NASHO, or JAKLN. In most cases, these waypoints are followed by a point titled *(VECTORS)*. If your FMC generates a discontinuity instead of a VECTORS waypoint, do not delete the discontinuity. They will function the same.
-
-## Independent Visual Approaches (IVAs)
+### Independent Visual Approaches (IVAs)
 Independent Visual Approaches allow two aircraft on adjacent finals to conduct [visual approaches](../../navigation/vsa.md) without any secondary separation standard in place, greatly increasing the capacity of the parallel runways during PROPS. Depending on the meteorological conditions, IVAs can be initiated from a circuit or from an instrument approach once the pilot is visual.
 
-### Requirements
+#### Requirements
 To fly the IVA, pilots must report their assigned runway in sight to ATC. If established on the LOC/FAC, pilots may report visual instead.
 
 !!! note  
@@ -226,13 +226,13 @@ Pilots must manage their speed on the base leg to ensure they do not overshoot t
 
 Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS alert accordingly.
 
-### IVAs at Night
+#### IVAs at Night
 When being cleared for an IVA at night, ATC will issue an additional instruction in your approach clearance. This instruction provides a minimum altitude to descend to until established on either the ILS/GLS glidepath or the PAPI.
 
 !!! phraseology  
     **SY-D_APP**: "Ambulance 282, turn right heading 330, join final runway 34R, from that heading cleared Independent Visual Approach, not below 1500 until established on the PAPI."  
 
-### Missed Approach
+#### Missed Approach
 In the event of a missed approach, you must fly the published missed approach in accordance with the published instrument approach chart for your assigned runway, unless otherwise directed by ATC.
 
 ## Helicopter Operations
