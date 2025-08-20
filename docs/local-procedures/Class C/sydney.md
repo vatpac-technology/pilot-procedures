@@ -121,6 +121,32 @@ All other aircraft shall expect the **SY (RADAR) SID**.
 !!! note  
     ATC may issue IFR jet departures the SY (RADAR) SID for traffic management or weather purposes.
 
+### Pushback/Taxi on Coordinator
+Sydney Coordinator is a dedicated position unique to Sydney which handles outbound aircraft during periods of peak traffic, before they are transferred to the SMC frequency.
+
+When the ATIS includes `WHEN READY FOR PUSH BACK OR TAXI CTC COORDINATOR 127.6`, all pilots must contact Coordinator when ready for pushback or taxi (if no pushback is required).
+
+!!! note
+    Where a separate Coordinator controller is not online, the role *may* be performed by ACD (the ATIS will be updated as appropriate).
+
+!!! phraseology
+    **VOZ543:** "Sydney Delivery, VOZ543, bay 32, request pushback"  
+    **SY COORD:** "VOZ543, estimated delay 10 minutes, remain this frequency."  
+    **VOZ543**: "Remain this frequency, VOZ543"  
+
+When instructed, pilots must switch to SMC and **monitor** the frequency. **Do not contact SMC**, they will call you.
+
+!!! phraseology
+    **SY COORD**: "VOZ543, standby for ground, 121.7"  
+    **VOZ543**: "Standby for ground, 121.7, VOZ543"  
+
+    *Pilot switches to 121.7 and <strong>waits for the controller to contact them</strong>.*
+
+    **SY SMC**: "VOZ543, pushback approved"  
+    **VOZ543**: "Pushback approved, VOZ543"
+
+There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time (over 10 min) has passed since the frequency transfer and no contact has been made by the controller.
+
 ### Runway 34L Intersection Departures
 Due to noise-abatement rules, intersection departures are only available for **Non-Jet** aircraft. However, at pilot request, ATS *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
 

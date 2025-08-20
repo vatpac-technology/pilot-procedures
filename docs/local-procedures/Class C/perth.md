@@ -35,6 +35,29 @@ All other aircraft shall expect to be *rerouted* via the most appropriate SID te
 !!! note
     Reroutes are common for Non-Jet aircraft tracking to the east, planned via PUMRY. With RWY 03 and 06 as the duty runway, pilots can expect to be rerouted via LENVU and assigned the LENVU SID.
 
+### Pushback/Taxi on ACD
+Dring periods of peak traffic, special procedures are activated requiring pilots to contact ACD, who assesses the current aerodrome traffic levels, before they are transferred to the SMC frequency.
+
+When the ATIS includes `ALL DEPARTURES MUST REQUEST PUSH BACK ON 118.85`, all pilots must contact ACD when ready for pushback or taxi (if no pushback is required).
+
+!!! phraseology
+    **NWK1622:** "Brisbane Delivery, NWK1622, bay 32, request pushback"  
+    **PH ACD:** "NWK1622, estimated delay 10 minutes, remain this frequency."  
+    **NWK1622**: "Remain this frequency, NWK1622"  
+
+When instructed, pilots must switch to SMC and **monitor** the frequency. **Do not contact SMC**, they will call you.
+
+!!! phraseology
+    **PH ACD**: "NWK1622, standby for ground, 121.7"  
+    **NWK1622**: "Standby for ground, 121.7, NWK1622"  
+
+    *Pilot switches to 121.7 and <strong>waits for the controller to contact them</strong>.*
+
+    **PH SMC**: "NWK1622, pushback approved"  
+    **NWK1622**: "Pushback approved, NWK1622"
+
+There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time (over 10 min) has passed since the frequency transfer and no contact has been made by the controller.
+
 ## Arrivals
 An ILS is available to RWY 03, RWY 21, and RWY 24. RNP and VOR approaches are available to all runways. An RNP(AR) approach is available to RWY 03.
 
