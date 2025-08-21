@@ -256,7 +256,7 @@ Other aircraft will be operating on the adjacent approach, and ATC will provide 
 When being cleared for an IVA at night, ATC will issue an additional instruction in your approach clearance. This instruction provides a minimum altitude to descend to until established on either the ILS/GLS glidepath or the PAPI.
 
 !!! phraseology  
-    **SY-D_APP**: "Ambulance 282, turn right heading 330, join final runway 34R, from that heading cleared Independent Visual Approach, not below 1500 until established on the PAPI."  
+    **SY-D_APP**: "AM282, turn right heading 305, join final runway 34R, from that heading cleared Independent Visual Approach, not below `A015` until established on the PAPI."  
 
 #### Missed Approach
 In the event of a missed approach, you must fly the published missed approach in accordance with the published instrument approach chart for your assigned runway, unless otherwise directed by ATC.
