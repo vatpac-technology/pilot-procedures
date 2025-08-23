@@ -4,6 +4,9 @@
 
 --8<-- "includes/abbreviations.md"
 
+!!! warning "Important"
+    The [VATSIM Code of Conduct](../airspace/vatsimoperations.md#restricted-activities) labels *'flying escort missions'* as a restricted activity. Civilian formation flying is permitted provided it does not contradict the Code of Conduct or Special Operations Policy.
+
 ## Flight Plan Submission
 A single flight plan should be submitted for the formation, with the formation callsign as the listed callsign. 
 

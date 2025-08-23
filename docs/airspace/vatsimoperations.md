@@ -9,6 +9,30 @@ VATSIM strives to replicate the real world aviation environment as closely as po
 
 Pilots should reference real world documents and charts but be prepared for some inconsistencies and discrepancies to exist. The procedures detailed on this site (particularly the [Local Procedures](../local-procedures/)) have been designed to compliment VATPAC's ATC SOPs.
 
+## VATSIM Code of Conduct
+A number of policies govern how users of the VATSIM network must conduct themselves. Pilots should be aware of the [Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct){target=new}, which outlines the minimum pilot competency level, connection requirements, and other important information.
+
+!!! warning
+    Failure to comply with the Code of Conduct will result in network supervisors taking action against your account, which may include suspension or deletion.
+
+### Restricted Activities
+As per the VATSIM Special Operations Policy (available through the Code of Conduct), the following activities are restricted on the VATSIM network. They may only be performed by pilots who are a member of, and flying an operation representing, an approved Virtual Sepcial Operations Association.
+
+- Conducting joint training exercises with other approved VSOAs
+- War games
+- Air to air refuelling
+- Carrier operations
+- Flying low level military routes
+- Flying escort missions
+- Executing air combat manoeuvres
+- Interception/scramble of other aircraft
+- Having access to special use airspace
+- Search and Rescue Operations
+- Firefighting Operations
+- Launch and Recovery of Space Vehicles
+- Air Displays (Flying Displays, Races)
+- Fly unmanned aerial vehicles, e.g. Global Hawk
+
 ## Radio Communication
 As per the VATSIM Code of Conduct, pilots operating OCTA (or without any ATC online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In practice, this translates to making all CTAF radio calls on the advisory frequency.
 
