@@ -60,7 +60,7 @@ Major aerodromes have published airport efficiency procedures which provide guid
 !!! example
     Any aircraft landing on **runway 34L** at YSSY with the intention of parking at the **domestic terminal** should plan to vacate at **taxiway B9**.
 
-Airport efficiency procedures are published in dedicated DAP charts of the same title.
+Airport efficiency procedures are published in dedicated DAP charts of the same title and replicated in [Local Procedures](../local-procedures/).
 
 ### Class C
 Major controlled aerodromes are surrounded by Class C airspace. An airways clearance is required for all operations into, out of, and in the vicinity of a Class C aerodrome.
