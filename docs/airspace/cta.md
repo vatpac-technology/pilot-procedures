@@ -125,6 +125,11 @@ If you are instructed to reduce to **minimum speed** or increase to **maximum sp
     **GUN**: "ANZ19, reduce to minimum speed"  
     **ANZ19**: "Reduce to minimum speeed, ANZ19"
 
+!!! note
+    *'Minimum/maximum speed'* is not a fixed speed. Pilots are expected to fly as fast or slow as possible, considering aircraft configuration, environmental factors, operational requirements/considerations, and other factors. As an aircraft climbs or descends, pilots are expected to adjust their speed to continue complying with the instruction.
+
+    E.g. an aircraft instructed to *"maintain maximum speed to the field"* is expected to fly as fast as the pilot is comfortable and to reduce speed as needed to configure for landing, while maintaining the best forward speed throughout.
+
 Controllers may issue speed control for a particular phase of flight.
 
 !!! example
