@@ -46,7 +46,7 @@ For charts with **grey, shaded minima boxes**, the quoted minima altitude should
 
 <figure markdown>
 ![Merimbula Alternate Minima (example only, not for operational use)](img/ymerminima.png){ width="700" }
-    <figcaption>Shaded minima boxes at YMER (example only, not for operational use)</figcaption>
+    <figcaption>Shaded minima boxes at YMER<br><small>(example only, not for operational use)</small></figcaption>
 </figure>
 
 Where both actual QNH and forecast QNH are *not* available, pilots can use **area QNH** to set their altimeters for the approach. In this case, a correction of **50ft** must be **added** to the shaded boxes (or 150ft added to unshaded boxes).
