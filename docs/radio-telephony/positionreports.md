@@ -14,3 +14,5 @@ When **not identified**, pilots must provide position reports to update ATC on t
     **Brisbane Radio**: "QTR17G"  
     **QTR17G**: "QTR17G, position MIKEG time 17, `F370`, estimating OMKIN time 05, DADLU Next"  
     **Brisbane Radio**: "QTR17G"  
+
+Pilots can use the VATPAC [Position Report Tool](https://vatpac.org/tools/position-report){target=new} to help generate a formatted position report based on their current flight parameters.
