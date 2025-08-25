@@ -62,6 +62,11 @@ Major aerodromes have published airport efficiency procedures which provide guid
 
 Airport efficiency procedures are published in dedicated DAP charts of the same title and replicated in [Local Procedures](../local-procedures/).
 
+!!! warning "Important"
+    After vacating a runway, particularly via a rapid exit, **do not stop**. Keep taxiing forward and contact SMC for taxi instructions.
+
+    A common mistake new pilots make is vacating the runway, stopping, then spending a few minutes preparing for taxi. This blocks that runway exit and can cause following aircraft to occupy the runway for extended periods of time.
+
 ### Class C
 Major controlled aerodromes are surrounded by Class C airspace. An airways clearance is required for all operations into, out of, and in the vicinity of a Class C aerodrome.
 
