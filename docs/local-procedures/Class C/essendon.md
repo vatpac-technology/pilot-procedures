@@ -28,7 +28,7 @@ VFR departures from Class G shall be cleared (at not above `A015`) via:
 | South | WES |
 
 !!! Note
-    North and Westbound traffic is usally not allowed to deconflict with YMML Traffic. If possible allow them to track south and follow costal and inbound tracks.
+    North and Westbound traffic is usually not allowed to deconflict with YMML Traffic. If possible allow them to track south and follow coastal and inbound tracks.
 
 VFR aircraft from Class G airspace should track via the following reporting points at `A015`:
 
