@@ -28,6 +28,10 @@ The apron areas are outside the manoeuvring area. The runup bays and all connect
 !!! tip
     The YSBK Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/bankstown-manoeuvring-area-map).
 
+A runway crossing clearance is **not** required when taxiing under the runway undershoots on taxiway B or E.
+
+Aircraft vacating RWY 11C/29C must **hold short** of any adjacent runway and remain on **ADC** frequency, who will issue explicit runway crossing instructions.
+
 ## Departures
 VFR aircraft shall depart the CTR on an extended leg of the circuit at the following altitude.
 
