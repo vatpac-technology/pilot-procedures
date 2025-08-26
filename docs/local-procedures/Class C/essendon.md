@@ -18,7 +18,7 @@ Start approval is required for:
 - Departures to YMML
 - Departures to YMMB and YMAV planned above `A020`
 
-## Arrivals
+## VFR Departures and Arrivals
 VFR departures from Class G shall be cleared (at not above `A015`) via:
 
 | Direction | VFR Outbound Point |
