@@ -17,6 +17,7 @@
 *[FSS]: Flight Service Station
 *[FREQ]: Frequency
 *[AIP]: Aeronautical Information Publication
+*[ERSA]: Enroute Supplement Australia
 *[PRM]: Precision Runway Monitoring
 *[SODPROPS]: Simultaneous Opposite Direction Parallel Runway Operations
 *[PROPS]: Parallel Runway Operations

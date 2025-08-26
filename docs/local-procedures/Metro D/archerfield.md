@@ -17,7 +17,9 @@ ADC North takes responsibility for the North/West Runway, Circuit and Airspace (
 When AF ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 
 ## Taxiing
-The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. All aircraft require a clearance to cross RWY 04L & 04R on taxiway B.
+The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. All aircraft require a clearance to cross RWY 04L & 04R on taxiway B and RWY 10L on A8/B8. 
+
+Aircraft may taxi past the undershoot of RWY 28R on the southern apron without clearance, provided the pilot is satisfied that no risk of collision exists. 
 
 !!! tip
     The YBAF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/archerfield-manoeuvring-area-map).
@@ -26,10 +28,10 @@ The apron areas are outside the manoeuvring area. The runup bays and all connect
     In some simulator scenery holding point **B6** is incorrect or entirely missing. If your scenery does not support this holding point, you must inform **AF SMC** when requesting taxi when RWY 10L is in use. 
 
 ## Departures
-| Planned Departure Tracks | "Intentions"   | Tracking Requirement | 
+| Planned Departure Tracks | Departure   | Tracking Requirement | 
 | ---------------      | ---------      | ----------           | 
 | BTN 310 & 019 DEG    | Northern Departure | Track via WTBG | 
-| BTN 020 & 099 DEG    | Eastern <br> Departure  | Track via Gateway Motorway and Pacific Motorway Intersection<br>*(Not available when RWY 22 is active, unless departing into Class C)* | 
+| BTN 020 & 099 DEG    | Eastern Departure  | Track via Gateway Motorway and Pacific Motorway Intersection<br>*(Not available when RWY 22 is active, unless departing into Class C)* | 
 | BTN 100 & 204 DEG    | Southern Departure | Track 135 until clear of the zone |
 | BTN 205 & 309 DEG    | Western Departure  | Track between 220 & 309 until clear of the zone<br>*(Aircraft must nominate outbound departure track with taxi call)* |
 | Other                |                    | As approved by ATC
