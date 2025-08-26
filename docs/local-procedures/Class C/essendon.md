@@ -19,6 +19,17 @@ Start approval is required for:
 - Departures to YMMB and YMAV planned above `A020`
 
 ## Arrivals
+VFR departures from Class G shall be cleared (at not above `A015`) via:
+
+| Direction | VFR Outbound Point |
+|----------| ------------------------ |
+| East  | DSN |
+| South East  | FWO |
+| South | WES |
+
+!!! Note
+    North and Westbound traffic is usally not allowed to deconflict with YMML Traffic. If possible allow them to track south and follow costal and inbound tracks.
+
 VFR aircraft from Class G airspace should track via the following reporting points at `A015`:
 
 | Inbound Direction | Reporting Point |
