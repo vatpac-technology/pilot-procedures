@@ -1,9 +1,10 @@
 nav:
     - Home: index.md
+    - Getting Started: getting-started
     - Local Procedures: local-procedures
+    - Flight Planning: flight-planning
     - Airspace: airspace
     - Radio Telephony: radio-telephony
-    - Flight Planning: flight-planning
     - Navigation: navigation
     - Meteorology: meteorology
     - Assist Us: assist-us

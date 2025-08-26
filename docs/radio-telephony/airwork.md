@@ -23,6 +23,9 @@ In CTA, a clearance must be obtained prior to conducting airwork.
     **SAS**: "OIT, cleared to operate within a 5nm radius of PEGSU, `A080` to `A100`"  
     **OIT**: "Cleared to operate within a 5nm radius of PEGSU, `A080` to `A100`, OIT"
 
+!!! warning "Important"
+    Certain types of airwork, including search and rescue, firefighting, and other emergency operations are restricted under the [VATSIM Code of Conduct](../airspace/vatsimoperations.md#restricted-activities).
+
 ## Practice Instrument Approaches
 The area of operations definition above is generally sufficient for conducting practice instrument approaches OCTA. In CTA, it is generally easier for ATC if you can provide more detail about the intended approach.
 

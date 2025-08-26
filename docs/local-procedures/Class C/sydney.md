@@ -27,7 +27,7 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and pr
     <figcaption>Sydney Standard Taxi Routes</figcaption>
 </figure>
 
-[Arrivals on RWY 16L/34R](#runway-16l34r-procedures) shall follow standard taxi routes when vacating the runway.
+[Arrivals on RWY 16L/34R](#runway-16l34r-procedures) shall follow standard taxi routes when vacating the runway. These taxi routes **should be performed without prompting** by ADC.
 
 | Landing Runway | Route |
 | --- | --- |
@@ -67,7 +67,7 @@ RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the
 
 In line with Australian radio-telephony procedures, only international aircraft will receive an explicit transfer from SMC to ADC, and vice versa. When taxiing to RWY 16L/34R, domestic aircraft shall contact ADC when turning onto taxiway B10.
 
-[Standard taxi routes](#standard-taxi-routes) exist for aircraft to utilise after landing on RWY 16L/34R, which should be performed without prompting by ADC.
+[Standard taxi routes](#standard-taxi-routes) exist for aircraft to utilise after landing on RWY 16L/34R, **which should be performed without prompting** by ADC.
 
 Inbound aircraft must remain on the tower frequency until west of Taxiway S, then contact SMC on 121.7. International aircraft will be issued with an explicit frequency transfer.
 
@@ -92,7 +92,7 @@ During PROPS, pilots can expect to be assigned a departure runway in accordance 
 Jet departures to the south may be assigned RWY 16L/34L ad-hoc for traffic management purposes. ATC may nominate RWY 16L for all jet departures via WOL instead on an ad-hoc basis. This will be informed via ATIS as "DOMESTIC JET DEPARTURES VIA WOL EXPECT RWY 16L".
 
 !!! note 
-    Aircraft which operationally require a different to that listed above must notify ATC at Clearance Delivery stage.
+    Aircraft which operationally require a different runway to that listed above must notify ATC at Clearance Delivery stage.
 
 ### Departure Procedures
 VFR aircraft should expect a visual departure, on track to their first waypoint.

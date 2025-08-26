@@ -60,7 +60,12 @@ Major aerodromes have published airport efficiency procedures which provide guid
 !!! example
     Any aircraft landing on **runway 34L** at YSSY with the intention of parking at the **domestic terminal** should plan to vacate at **taxiway B9**.
 
-Airport efficiency procedures are published in dedicated DAP charts of the same title.
+Airport efficiency procedures are published in dedicated DAP charts of the same title and replicated in [Local Procedures](../local-procedures/).
+
+!!! warning "Important"
+    After vacating a runway, particularly via a rapid exit, **do not stop**. Keep taxiing forward and contact SMC for taxi instructions.
+
+    A common mistake new pilots make is vacating the runway, stopping, then spending a few minutes preparing for taxi. This blocks that runway exit and can cause following aircraft to occupy the runway for extended periods of time.
 
 ### Class C
 Major controlled aerodromes are surrounded by Class C airspace. An airways clearance is required for all operations into, out of, and in the vicinity of a Class C aerodrome.
@@ -124,6 +129,11 @@ If you are instructed to reduce to **minimum speed** or increase to **maximum sp
 !!! phraseology
     **GUN**: "ANZ19, reduce to minimum speed"  
     **ANZ19**: "Reduce to minimum speeed, ANZ19"
+
+!!! note
+    *'Minimum/maximum speed'* is not a fixed speed. Pilots are expected to fly as fast or slow as possible, considering aircraft configuration, environmental factors, operational requirements/considerations, and other factors. As an aircraft climbs or descends, pilots are expected to adjust their speed to continue complying with the instruction.
+
+    E.g. an aircraft instructed to *"maintain maximum speed to the field"* is expected to fly as fast as the pilot is comfortable and to reduce speed as needed to configure for landing, while maintaining the best forward speed throughout.
 
 Controllers may issue speed control for a particular phase of flight.
 

@@ -36,7 +36,7 @@ VFR aircraft from Class G airspace should track via the following reporting poin
 | --- | --- |
 | North | KAO |
 | Northeast | YYN |
-| East | DNS |
+| East | DSN |
 | Southeast | APL |
 | South | SNP |
 | Southwest | WES |
