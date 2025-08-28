@@ -291,7 +291,7 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
 | MAROUBRA 5 | INBOUND |
 
 !!! phraseology  
-    **XWY**: "Sydney Departures, helicopter XWY, Long Reef, A010, received Delta, request Harbour Bridge 5 Inbound"  
+    **XWY**: "Sydney Departures, helicopter XWY, Long Reef, `A010`, received Delta, request Harbour Bridge 5 Inbound"  
     **SY TCU**: "XWY, squawk 0552, remain outside controlled airspace"  
     **XWY**: "Squawk 0552, remain outside controlled airspace, XWY"  
 
@@ -445,7 +445,7 @@ Delays may occur when RWY 07 is in use for departure or when RWY 25 is in use fo
 Helicopters will be identified and then cleared for the BONDI 5 NORTHBOUND or SOUTHBOUND. Traffic information will be provided on any other helicopters operating on the route or for any other aircraft in the area (e.g. aircraft in Victor One).
 
 !!! phraseology  
-    **XVZ**: "Sydney Approach, helicopter XVZ, Jibbon Point, A005, received Whiskey, request BONDI 5 Northbound"  
+    **XVZ**: "Sydney Approach, helicopter XVZ, Jibbon Point, `A005`, received Whiskey, request BONDI 5 Northbound"  
     **SY TCU**: "XVZ, Sydney Approach, squawk 0451, remain outside controlled airspace"  
     **XVZ**: "Squawk 0451, remain outside controlled airspace, XVZ"  
 
@@ -474,6 +474,6 @@ To reduce frequency congestion, several commonly used geographically defined are
 Helicopters intending to operate in one of the sectors must request clearance from the most appropriate TCU controller.
 
 !!! phraseology  
-    **X3V**: "Departures, helicopter X3V, passing A008 on the Harbour Bridge 5 Outbound, request South Harbour Sector."  
+    **X3V**: "Departures, helicopter X3V, passing `A008` on the Harbour Bridge 5 Outbound, request South Harbour Sector."  
     **SY DEP**: "X3V, Departures, identified, cleared South Harbour Sector."  
     **X3V**: "Cleared South Harbour Sector, X3V."
