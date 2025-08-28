@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## Taxiing
-There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC east controls east of RWY 34L/16R.
+There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC East controls east of RWY 34L/16R.
 
 ### Standard Taxi Routes
 Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and streamline traffic flow. Except where other explicit taxi instructions are issued, pilots should follow the routes described below.
