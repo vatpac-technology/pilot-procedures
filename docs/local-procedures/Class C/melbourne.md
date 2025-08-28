@@ -47,7 +47,7 @@ All other aircraft shall expect the **ML (RADAR) SID**.
     With RWY 27 nominated as the duty departure runway, aircraft requiring the use of RWY 16 for the west or north should expect to be issued with the ISPEG SID.
 
 ### Pushback/Taxi on ACD
-Dring periods of high traffic, pilots may be required contact ACD for pushback. ACD will assess aerodrome congestion and sequence departing aircraft before transferring them to SMC. Delays should be expected.
+During periods of high traffic, pilots may be required contact ACD for pushback. ACD will assess aerodrome congestion and sequence departing aircraft before transferring them to SMC. Delays should be expected.
 
 When the ATIS includes `ALL DEPARTURES MUST REQUEST PUSH BACK ON 127.2`, all pilots must contact ACD when ready for pushback or taxi (if no pushback is required).
 
