@@ -8,7 +8,16 @@
 EN ADC is responsible for the Class C airspace to the southeast of YMEN from `SFC` to `A020`.
 
 ## Departures
-VFR aircraft shall generally depart the zone on an extended circuit leg.
+VFR departures to Class G should plan to depart the zone tracking via the following positions, at `A015`.
+
+| Direction | VFR Outbound Point |
+|----------| ------------------------ |
+| East  | DSN |
+| South East  | FWO |
+| South | WES |
+
+!!! Note
+    Departures to the north and west are generally not permitted due to traffic in and out of YMML.
 
 IFR aircraft shall generally expect a visual departure during VMC, otherwise the **EN (RADAR) SID**.
 
