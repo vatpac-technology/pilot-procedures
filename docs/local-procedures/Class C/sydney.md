@@ -217,7 +217,7 @@ ATC can only clear you for an IVA when one of the below conditions has been met:
 Therefore, if it important to report 'runway in sight' or 'visual' as soon as possible during IVAs.
 
 !!! tip
-    If Director is not online, Approach will carry out the functions of the position.
+    If Director is not online, Approach will carry out the functions of the position. Report your assigned runway in sight as soon as possible.
 
 Director will generally issue pilots with an estimate of their track miles remaining to aid in descent planning. This distance is from the current aircraft position to the assigned runway threshold.
 
