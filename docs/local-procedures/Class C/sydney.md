@@ -475,5 +475,5 @@ Helicopters intending to operate in one of the sectors must request clearance fr
 
 !!! phraseology  
     **X3V**: "Departures, helicopter X3V, passing `A008` on the Harbour Bridge 5 Outbound, request South Harbour Sector."  
-    **SY DEP**: "X3V, Departures, identified, cleared South Harbour Sector."  
-    **X3V**: "Cleared South Harbour Sector, X3V."
+    **SY DEP**: "X3V, Departures, identified, onwards clearance South Harbour Sector."  
+    **X3V**: "Onwards clearance South Harbour Sector, X3V."
