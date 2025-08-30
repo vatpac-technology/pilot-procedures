@@ -247,7 +247,7 @@ Ensure you do not pass through your assigned runway centreline, even if you don'
 
 Pilots must manage their speed on the base leg to ensure they do not overshoot the centreline. ATC approach speeds apply, and can be found on the relevant instrument approach chart.
 
-Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS resolution advisory accordingly, however TCAS traffic advisories are expected and do not require pilot action.
+Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS resolution advisory accordingly.
 
 #### IVAs at Night
 When being cleared for an IVA at night, ATC will issue an additional instruction in your approach clearance. This instruction provides a minimum altitude until established on either the ILS/GLS glidepath or the PAPI.
