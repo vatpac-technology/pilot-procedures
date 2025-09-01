@@ -228,9 +228,12 @@ Director will generally issue pilots with an estimate of their track miles remai
 
 Director's airspace is very small and often heavily congested. It is imperative that pilots execute instructions without delay.
 
-In the event of radio congestion on the base leg, **do not pass through your assigned runway centreline**. Commence the turn to join final autonomously, then track the extended centreline of your assigned runway.
-
 If you do not receive a handoff to tower by 4nm from the threshold, you may switch to the ADC frequency.
+
+### Parallel Runway Operations
+During PROPS, aircraft operate to both parallel runways in either independent or dependent modes. It is vital that pilots do not drift toward the adjacent final.
+
+In the event of radio congestion on the base leg, **do not pass through your assigned runway centreline**. Commence the turn to join final autonomously, then track the extended centreline of your assigned runway.
 
 ### Independent Visual Approaches (IVAs)
 Independent Visual Approaches allow two aircraft on adjacent finals to conduct [visual approaches](../../navigation/vsa.md) without any secondary separation standards in place, greatly increasing the arrival capacity of the aerodrome during PROPS. Depending on the meteorological conditions, IVAs can be initiated from a circuit or from an instrument approach once the pilot is visual.
