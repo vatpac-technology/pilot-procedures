@@ -206,7 +206,7 @@ Most STARs terminate with radar vectors from ATC and will generally produce a ro
     Some aircraft FMCs may insert a discontinuity after BOOGI, NASHO, or JAKLN. In most cases, these waypoints are followed by a point titled *(VECTORS)*. If your FMC generates a discontinuity instead of a VECTORS waypoint, do not delete the discontinuity. They will function the same.
 
 ### Sydney Director
-Sydney Director (SY-D_APP & SY-DE_APP) is a unique position responsible for providing vectors to final for inbound aircraft.
+The Sydney Director positions (SY-D_APP & SY-DE_APP) are responsible for providing vectors to final for inbound aircraft.
 
 On first contact with Director, you should report "RUNWAY XX IN SIGHT" if you can see your assigned runway, or "VISUAL" if you can see the ground/water. 
 
