@@ -4,6 +4,17 @@
 
 --8<-- "includes/abbreviations.md"
 
+## Departures
+The preferred runway is **Runway 14L** for departures, however aircraft lighter than 23,000kg MTOW can take **Runway 14R**.
+
+### Departure Procedures
+IFR Aircraft should plan via **GUNKI**, **LOTGU**, **NUPTA**, **ODOGA**, **RUVKI**, **STARF**, **TOMOM** or **UNSAM** to recieve a procedural sid.
+
+## Arrivals
+
+
+
+
 
 ## VFR Operations
 ### Departure/Arrival Gates
