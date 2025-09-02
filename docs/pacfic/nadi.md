@@ -34,7 +34,7 @@ Due to the surrounding mountainous terrain, the following restrictions are to be
 Aircraft should report at the standard VFR Departure/Arrival Gates.
 
 <figure markdown>
-![NFFN VFR Departure/Arrival Gates](/img/nffn_vfr.png){ width="500" }
+![NFFN VFR Departure/Arrival Gates](../pacfic/img/nffn_vfr.png){ width="500" }
   <figcaption>NFFN VFR Departure/Arrival Gates</figcaption>
 </figure>
 
