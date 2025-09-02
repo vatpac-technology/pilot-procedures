@@ -20,7 +20,7 @@ IFR Aircraft should expect to depart via **TUTRI**, **KABAR**, **BIDNA**, **LATI
 The preferred runway for arrivals is **Runway 02** Most international aircraft will require runway 02/20 in most conditions, although medium category aircraft and below can take runway 09/27 in favourable conditions. 
 
 ### Arrival Procedures
-IFR aircraft arriving via runway 20 should expect to not recieve a star and fly in via MI NDB.
+IFR aircraft arriving via runway 20 should expect to not recieve a star and fly in via MI NDB. Runway 02 is highly prefreed due to its ILS approach.
 
 ## Night Operational Restrictions
 Due to the surrounding mountainous terrain, the following restrictions are to be applied at night:
