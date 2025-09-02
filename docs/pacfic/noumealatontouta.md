@@ -4,3 +4,17 @@
 
 --8<-- "includes/abbreviations.md"
 
+## Taxxing Restrictions
+
+
+## Runway Modes
+
+
+## Departures
+
+
+
+## Arrivals
+
+
+## Vfr Operations
