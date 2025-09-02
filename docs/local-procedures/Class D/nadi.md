@@ -29,5 +29,35 @@ Due to the surrounding mountainous terrain, the following restrictions are to be
 - **Runway 09** is not available for departures.
 - **Runway 27** is not available for arrivals.
 
+## VFR Operations
+### Departure/Arrival Gates
+Aircraft should report at the standard VFR Departure/Arrival Gates.
+
+<figure markdown>
+![NFFN VFR Departure/Arrival Gates](../img/nffn_vfr.png){ width="500" }
+  <figcaption>NFFN VFR Departure/Arrival Gates</figcaption>
+</figure>
+
+| Direction from NFFN | Name | Dep/Arr |
+| ------------------- | ---- | ------- |
+| North | Vitogo | Both |
+| North | Bekana Island | Both |
+| Northeast | Gap | Both |
+| Northeast | Highland | Both |
+| Southeast | Vunamoli | Both |
+| Southwest | Nabila | Both |
+| West | Kadavulailai Island | Both |
+| West | Beachcomber | Both |
+| Northwest | Tivua Island | Both |
+
+### VFR Transit lanes
+VFR transit lanes are established to allow aircraft to transit through the NFFN CTR, by day.
+
+| VFR Route Name | Description | Altitude |
+| ------ | ------- | ------ |
+| FJV1 Turtle | Seaplane Base-Abeam Kadavulailai Island, then along CTR boundary to Nabila-Yakuilau-Nadi River Mouth, then along coast back to Seaplane Base | `SFC` to `A005` |
+| FJV2 Victor | NFFN-Lololomo Beach-Vitogo | `A050` to `A015` |
+| FJV4 Kadavulailai Helicopter Lane | Heliport-The Bridge-ABM Labone Island-Kadavulailai Island | `SFC` to `A005` |
+| FJV5 Tivua Helicopter Lane | Heliport-The Bridge-ABN Labone Island-ABM Viseisei Village-ABM Vuda Marina-Tivua Island | `SFC` to `A005` |
 
 
