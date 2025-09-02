@@ -26,7 +26,7 @@ IFR aircraft should plan to arrive **Runway14L/32R** due to its ILS and RNAV cap
 Aircraft should report at the standard VFR Departure/Arrival Gates.
 
 <figure markdown>
-![AYPY VFR Departure/Arrival Gates](../img/aypy_vfr.png){ width="500" }
+![AYPY VFR Departure/Arrival Gates](/img/aypy_vfr.png){ width="500" }
   <figcaption>AYPY VFR Departure/Arrival Gates</figcaption>
 </figure>
 
