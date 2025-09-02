@@ -15,9 +15,13 @@ VFR departures to Class G should plan to depart the zone tracking via the follow
 | East  | DSN |
 | South East  | FWO |
 | South | WES |
+| North^ | CGB |
+| North East^ | EPPG |
+| West^ | ROK |
+| North West^ | [Sunbury Corridor](#sunbury-corridor) |
 
 !!! Note
-    Departures to the north and west are generally not permitted due to traffic in and out of YMML.
+    ^ Departures to the north and west are generally not permitted due to traffic in and out of YMML. Pilots should plan an alternate route departing to the south or east to prepare for situations where a clearance is not available.
 
 IFR aircraft shall generally expect a visual departure during VMC, otherwise the **EN (RADAR) SID**.
 
