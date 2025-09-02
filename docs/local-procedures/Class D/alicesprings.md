@@ -9,7 +9,7 @@
 Alice Springs has 10 VFR routes that follow prominent geographic features and highways. These established routes begin at various reporting points, providing entry to the CIRA. VFR Routes 8 and 9 provide separation from R215 Pine Gap.
 
 <figure markdown>
-![YBAS VFR Routes](img/YBAS_VFR_ROUTES.png){ width="650" }
+![YBAS VFR Routes](../img/YBAS_VFR_ROUTES.png){ width="650" }
   <figcaption>YBAS VFR Routes</figcaption>
 </figure>
 
