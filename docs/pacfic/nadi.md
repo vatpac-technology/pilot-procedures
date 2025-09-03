@@ -7,7 +7,7 @@
 ## Taxiing Restrictions
 Category D aircraft cannot use **Taxiway B** south of Taxiway G is restricted to Code C aircraft. **Taxiway H** is restricted to aircraft no larger than a AT72.
 
-## Departues
+## Departures
 The preferred runway for departures is **Runway 20**. Most international aircraft will require runway 02/20 in most conditions, although medium category aircraft and below can take runway 27 in favourable conditions. 
 
 ### Departure Procedures
