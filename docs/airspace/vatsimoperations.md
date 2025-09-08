@@ -16,7 +16,7 @@ A number of policies govern how users of the VATSIM network must conduct themsel
     Failure to comply with the Code of Conduct will result in network supervisors taking action against your account, which may include suspension or deletion.
 
 ### Restricted Activities
-As per the VATSIM [Special Operations Policy](https://vatsim.net/docs/policy/special-operations){target=new}, the following activities are restricted on the VATSIM network. They may only be performed by pilots who are a member of, and flying an operation representing, an approved Virtual Sepcial Operations Association.
+As per the VATSIM [Special Operations Policy](https://vatsim.net/docs/policy/special-operations){target=new}, the following activities are restricted on the VATSIM network. They may only be performed by pilots who are a member of, and flying an operation representing, an approved Virtual Special Operations Association.
 
 - Conducting joint training exercises with other approved VSOAs
 - War games
