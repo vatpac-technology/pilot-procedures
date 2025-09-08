@@ -79,6 +79,6 @@ Each controller has a short remark, called a Controller ATIS, associated with th
 </figure>
 
 !!! warning "Important"
-    Some older mapping tools **do not** display extended sectors correctly (or at all). Pilots are *strongly* encouraged to use VATSIM Radar or the VATPAC Map to ensure they have the most up-to-date information at hand, and can comply with their obligations under the VATSIM Code of Conduct at all times.
+    Some older mapping tools **do not** display extended sectors correctly (or at all). Pilots are *strongly* encouraged to use [VATSIM Radar](https://vatsim-radar.com/){target=new} or the [VATPAC Map](https://vatpac.org/){target=new} to ensure they have the most up-to-date information at hand, and can comply with their obligations under the VATSIM Code of Conduct at all times.
 
 The sector extension principle is unique to only a handful of divisions worldwide and can be a source of confusion for new or foreign pilots. Expect to be instructed to contact a controller on a frequency which isn't displayed in your pilot client. The use of mapping tools as discussed above can help alleviate this confusion by providing a visual indication of the extend of a controller's jurisdiction.
