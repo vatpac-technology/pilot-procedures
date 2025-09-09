@@ -6,7 +6,7 @@
 
 ## Airspace
 <figure markdown>
-![KA ADC Airspace](){ width="700" }
+![KA ADC Airspace](../img/ypka_airspace.png){ width="700" }
   <figcaption>KA ADC Airspace</figcaption>
 </figure>
 
