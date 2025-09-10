@@ -4,9 +4,8 @@
 
 --8<-- "includes/abbreviations.md"
 
-## Taxxing Restrictions
+## Taxiing
 **Taxiways B** and **C** are over a kilometre away from both runway thresholds. Category A and B aircraft, as well B738s and A320s, are permitted to turnaround on the runway at any intermediate point. Other aircraft must backtrack the entire length.
-
 
 ## Runway Modes
 Typically reciprocal runway operations occur with **runway 29** departures and **runway 11** arrivals. If weather or traffic levels preclude reciprocal runway operations **Runway 11** shall be used for arrivals and departures, **except** when:
@@ -26,7 +25,7 @@ Aircraft should expect the ILS for **runway 11** and RNP for **runway 12**
 Aircraft arriving via the **VPT** for Runway 29 will perform an **ILS** or **VOR** approach for Runway 11 before breaking right to follow the prescribed visual track.
 
 <figure markdown>
-![Runway 29 VPT (approx)](img/nwww_29_circling.png){ width="700" }
+![Runway 29 VPT (approx)](../img/nwww_29_circling.png){ width="700" }
 </figure>
 
 ## VFR Operations
@@ -60,5 +59,5 @@ VFR aircraft will report inbound at a VFR reporting point. NWWW ADC shall instru
 At night, VFR aircraft are prohibited from performing a visual approach when arriving from the north, between **LTO VOR** radials 290° to 128°.
 
 <figure markdown>
-![Prohibited Night VFR Approach Area](img/nwww_vfr_night.png){ width="600" }
+![Prohibited Night VFR Approach Area](../img/nwww_vfr_night.png){ width="600" }
 </figure>
