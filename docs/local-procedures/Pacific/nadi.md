@@ -4,30 +4,46 @@
 
 --8<-- "includes/abbreviations.md"
 
-## Taxiing Restrictions
-Category D aircraft cannot use **Taxiway B** south of Taxiway G is restricted to Code C aircraft. **Taxiway H** is restricted to aircraft no larger than a AT72.
+## Airspace
+**NFFN ADC** is responsible for the Class D airspace from `SFC` to `A025` within a 10nm radius.
+
+## Taxiing
+**NFFN ADC** is responsible for Taxiway C, D, and F, as well as the grass area east of H.
+
+**Taxiway B** south of Taxiway G is restricted to Code C aircraft. **Taxiway H** is restricted to aircraft no larger than AT72.
 
 ## Departures
-The preferred runway for departures is **Runway 20**. Most international aircraft will require runway 02/20 in most conditions, although medium category aircraft and below can take runway 27 in favourable conditions. 
+Due to terrain, the preferred runway for departures is RWY 20. Most international aircraft will require RWY 02/20 in most conditions, although medium category aircraft and below may be assigned RWY 27. 
 
 ### Departure Procedures
-IFR Aircraft should expect to depart via **TUTRI**, **KABAR**, **BIDNA**, **LATIT**, **PACKO**, **MAKSO**, **GODAP**, **LUPLO**, **EXORA**,**NA**, **NAVUA**, **AGTOS**, **BEACH**, **ALBAB**, **TEPEK**, **VIPOB** to recieve a procedural departure. If you wish not to you will typically recieve a **visual** or **radar** departure. 
+VFR aircraft should plan via a [departure gate](#departurearrival-gates).
 
-!!! warning "Important"
-    ATC will assign the type of procedural departure based off current factors.
+IFR aircraft planned via **TUTRI**, **KABAR**, **BIDNA**, **LATIT**, **PACKO**, **MAKSO**, **GODAP**, **LUPLO**, **EXORA**,**NA**, **NAVUA**, **AGTOS**, **BEACH**, **ALBAB**, **TEPEK**, **VIPOB** shall expect to be issued a procedural SID. All other aircraft shall expect a **visual departure** or **radar** SID. 
 
 ## Arrivals
-The preferred runway for arrivals is **Runway 02** Most international aircraft will require runway 02/20 in most conditions, although medium category aircraft and below can take runway 09/27 in favourable conditions. 
+The preferred runway for arrivals is RWY 02. Medium category aircraft and below may be assigned RWY 09/27. 
 
 ### Arrival Procedures
-IFR aircraft arriving via runway 20 should expect to not recieve a star and fly in via MI NDB. Runway 02 is highly prefreed due to its ILS approach.
+An ILS and NDB approach is available to RWY 02. An RNP approach is available to RWY 02 and 09. An RNP(AR) approach is available to RWY 20. A VOR approach is available to the circling area.
+
+VFR aircraft should plan via an [arrival gate](#departurearrival-gates).
 
 ## Night Operational Restrictions
-Due to the surrounding mountainous terrain, the following restrictions are to be applied at night:
+Due to the surrounding mountainous terrain, the following restrictions are applied at night:
 
-- **Runway 20** is only available to aircraft flying the **RNP AR** approach. Visual approaches are not permitted.
-- **Runway 09** is not available for departures.
-- **Runway 27** is not available for arrivals.
+- **RWY 20** is only available to aircraft flying the **RNP AR** approach. Visual approaches are not permitted.
+- **RWY 09** is not available for departures.
+- **RWY 27** is not available for arrivals.
+
+## Helicopter Operations
+VFR helicopters should plan via a [VFR transit lane](#vfr-transit-lanes). IFR helicopters should conform to fixed wing operations and expect a radar departure, or visual departure if conditions allow.
+
+All helipads at NFFN are uncontrolled. Pilots will **not** receive an explicit takeoff or landing clearance. Instead, they will be instructed to *'report airborne'* or *'report on the ground'*.
+
+<figure markdown>
+![NFFN Helipads](../img/nffn_helipads.png){ width="600" }
+  <figcaption>NFFN Helipads</figcaption>
+</figure>
 
 ## VFR Operations
 ### Departure/Arrival Gates
@@ -60,4 +76,7 @@ VFR transit lanes are established to allow aircraft to transit through the NFFN 
 | FJV4 Kadavulailai Helicopter Lane | Heliport-The Bridge-ABM Labone Island-Kadavulailai Island | `SFC` to `A005` |
 | FJV5 Tivua Helicopter Lane | Heliport-The Bridge-ABN Labone Island-ABM Viseisei Village-ABM Vuda Marina-Tivua Island | `SFC` to `A005` |
 
+### Tiliva Training Area
+The Tiliva Training Area is established north of the NFFN CTR, from `A005` to `A040`, and is activated upon pilot request.
 
+Aircraft transiting between the NFFN CTR and the training area should track inbound/outbound via Vitogo.
