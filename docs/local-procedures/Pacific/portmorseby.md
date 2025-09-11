@@ -15,6 +15,14 @@ IFR aircraft planned via **GUNKI**, **LOTGU**, **NUPTA**, **ODOGA**, **RUVKI**, 
 ## Arrivals
 ILS, RNAV and VOR approaches are available to RWY 14L and 32R.
 
+## Helicopter Operations
+There are no controlled helipads at AYPY. Multiple uncontrolled helipads have been established on the apron by private operators.
+
+<figure markdown>
+![AYPY Helipads](../img/aypy_helipads.png){ width="600" }
+  <figcaption>AYPY Helipads</figcaption>
+</figure>
+
 ## VFR Operations
 ### Departure/Arrival Gates
 Aircraft should report at the standard VFR Departure/Arrival Gates.
@@ -48,3 +56,6 @@ Aircraft should report at the standard VFR Departure/Arrival Gates.
 | Romeo | Track H316, remaining at least 1nm east of Rigo Road | Track H136, remaining at least 1nm east of Rigo Road |
 | India | Aroa-GAE-Gorohu-FAI-Tatana Island | Tatana Island-FAI-Gorohu-GAE-Aroa |
 | Sierra | Yule Island-RES-BOH-Porebada-Tatana Island | Tatana Island-Porebada-BOH-RES-Yule Island |
+
+### Daugo Training Area
+The AYD901 (Daugo) Danger Area is established in the southwest quadrant of the AYPY CTR from `SFC` to `A040`. It is used for flight training and practice approaches.
