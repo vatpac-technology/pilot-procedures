@@ -5,24 +5,19 @@
 --8<-- "includes/abbreviations.md"
 
 ## Taxiing
-**Taxiways B** and **C** are over a kilometre away from both runway thresholds. Category A and B aircraft, as well B738s and A320s, are permitted to turnaround on the runway at any intermediate point. Other aircraft must backtrack the entire length.
+Aircraft up to, and including, B738s and A320s are permitted to turnaround on the runway at any intermediate point. Other aircraft must backtrack the entire length.
 
 ## Runway Modes
-Typically reciprocal runway operations occur with **runway 29** departures and **runway 11** arrivals. If weather or traffic levels preclude reciprocal runway operations **Runway 11** shall be used for arrivals and departures, **except** when:
-
-- Tailwind is greather than **10 kts**, or
-- Tailwind is greather than **5 kts** and the runway is **wet**.
-
-In those situations, **Runway 29** shall be used for arrivals and departures.
+Typically reciprocal runway operations occur with **RWY 29** departures and **RWY 11** arrivals. If weather or traffic levels preclude reciprocal runway operations RWY 11 shall be used for arrivals and departures, except where excessive tailwind necessitates the use of RWY 29.
 
 ## Departures
-Aircraft planned via **GOPRA**, **ONIBA**, **TEPAM**, **NISAS**, **POXAK**, **SCUBA**, or **VIRAR** shall be assigned the **Procedural SID** that terminates at the appropriate waypoint. Aircraft departing to the north-east shall be assigned the **Procedural SID** terminating at **LTO VOR**.
+Aircraft planned via **GOPRA**, **ONIBA**, **TEPAM**, **NISAS**, **POXAK**, **SCUBA**, or **VIRAR** should expect to be assigned the **Procedural SID** that terminates at the appropriate waypoint. Aircraft departing to the north-east should expect to be assigned the **Procedural SID** terminating at **LTO VOR**.
 
 ## Arrivals
-Aircraft should expect the ILS for **runway 11** and RNP for **runway 12**
+ILS, RNP, VOR, and NDB approaches are available to RWY 11. An RNP approach is available to RWY 29.
 
 ### Runway 29 VPT
-Aircraft arriving via the **VPT** for Runway 29 will perform an **ILS** or **VOR** approach for Runway 11 before breaking right to follow the prescribed visual track.
+Aircraft arriving via the **VPT** for RWY 29 will perform an **ILS** or **VOR** approach for RWY 11 before breaking right to follow the prescribed visual track.
 
 <figure markdown>
 ![Runway 29 VPT (approx)](../img/nwww_29_circling.png){ width="700" }
@@ -38,7 +33,7 @@ VFR departures should advise their planned departure point and requested alitude
     **FOXYZ:** "Squawk 7001, expect WA exit. Taxi holding point C, Runway 29. FOXYZ"
 
 ### Arrivals
-VFR aircraft will report inbound at a VFR reporting point. NWWW ADC shall instruct aircraft to join the appropriate leg of the aerodrome circuit.
+VFR aircraft should report inbound at a VFR reporting point. NWWW ADC will instruct aircraft to join the appropriate leg of the aerodrome circuit.
 
 ### VFR Reporting Points
 | Code | Name (French) | Name (English) |
