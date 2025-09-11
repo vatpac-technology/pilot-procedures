@@ -4,22 +4,16 @@
 
 --8<-- "includes/abbreviations.md"
 
-## Runway Modes
-The preferred runway is **Runway 14L** for departures and arrivals, however aircraft lighter than 23,000kg MTOW can take **Runway 14R**. When these conditions are not met
+## Runway Restrictions
+RWY 14R/32L is limited to aircraft aircraft lighter than 23,000kg MTOW, available by day only. 
 
-- Tailwind less than **5 kts**; and
-- **By day**; and
-- in **VMC**; and
-- the runway is **dry**.
-
-**Runway32R** shall be used.
-
-
-### Departure Procedures
-IFR Aircraft should plan via **GUNKI**, **LOTGU**, **NUPTA**, **ODOGA**, **RUVKI**, **STARF**, **TOMOM** or **UNSAM** to recieve a procedural sid.
+### Departures
+VFR aircraft should expect a visual departure tracking via a [VFR departure gate](#departurearrival-gates.
+)
+IFR aircraft planned via **GUNKI**, **LOTGU**, **NUPTA**, **ODOGA**, **RUVKI**, **STARF**, **TOMOM** or **UNSAM** should expect the procedural SID terminating at that waypoint.
 
 ## Arrivals
-IFR aircraft should plan to arrive **Runway14L/32R** due to its ILS and RNAV capabilities.
+ILS, RNAV and VOR approaches are available to RWY 14L and 32R.
 
 ## VFR Operations
 ### Departure/Arrival Gates
