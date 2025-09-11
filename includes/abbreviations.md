@@ -306,3 +306,4 @@
 *[EPPG]: Epping
 *[ROK]: Rockbank
 *[FWO]: Freeway Overpass
+*[VPT]: Visual Manoeuvre with Prescribed Track

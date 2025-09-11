@@ -13,9 +13,9 @@ IFR aircraft should expect to be issued with a SID as per below:
 | --- | --- | --- | --- |
 | Jets | All | HELLI | HELLI SID |
 | Jets | All | JULIE | JULIE SID |
-| Jets | All | LAKUP | LAKUP SID |
 | Jets | All | OCTOB | OCTOB SID |
 | Jets | All | RUPEG | RUPEG SID |
+| Non-Jets | All | LAKUP | LAKUP SID |
 | Non-Jets | All | OLTAS | OLTAS SID |
 | Non-Jets | All | RUSKA | RUSKA SID |
 | Non-Jets | All | VANDI | VANDI SID |
