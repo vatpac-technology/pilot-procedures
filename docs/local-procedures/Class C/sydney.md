@@ -36,6 +36,11 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and st
 
 Additional standard taxi routes exist in and out of some domestic aprons.
 
+<figure markdown>
+![YSSY Apron Route](../img/yssy_apron_routes.png){ width="500" }
+  <figcaption>Standard Apron Taxi Routes</figcaption>
+</figure>
+
 === "Arrivals"
 
     | Parking Position | Route |
@@ -48,7 +53,7 @@ Additional standard taxi routes exist in and out of some domestic aprons.
     | **Taxiway C (Bays 57, 59)** | B, B4 |
     | **DOM2 (All bays except below)** | B, B4, C2 |
     | **DOM2 (Bays 43, 45A)** | B, B4 |
-    | **DOM2 - A330 aircraft (Bays 39, 45)** | B, G, DOM2 |
+    | **DOM2 - A330 aircraft (Bays 39, 45) *not pictured*** | B, G, DOM2 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | B, G |
     
 === "Departures"
