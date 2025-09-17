@@ -1,10 +1,10 @@
 # VATPAC Pilot Procedures
 
-The VATPAC Pilot Procedures site is an open-source collaborative project allowing members of the VATPAC community to work together to create high-quality reference-style procedures for pilots.
+The VATPAC Pilot Procedures site is an open-source project designed to provide high-quality, reference-style procedures for pilots. The site aims to mirror the [ATC SOPS](https://sops.vatpac.org/) to enable pilots to operate effectively with VATPAC air traffic controllers.
 
 ## Contributing
 
-Contribution guidelines can be found within the project under [Assist Us](https://vatpac-technology.github.io/pilot-procedures/assist-us/). 
+Contribution guidelines can be found within the project under [Contribute](https://pilots.vatpac.org/assist-us/). 
 
 **Before contributing** you should liaise with the VATPAC ATS Team to ascertain whether that particular procedure is needed. There is a fine-line between enabling a realistic service, and making our procedures easy to navigate and understand.  
 

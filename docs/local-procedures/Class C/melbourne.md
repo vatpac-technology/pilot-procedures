@@ -47,14 +47,13 @@ All other aircraft shall expect the **ML (RADAR) SID**.
     With RWY 27 nominated as the duty departure runway, aircraft requiring the use of RWY 16 for the west or north should expect to be issued with the ISPEG SID.
 
 ### Pushback/Taxi on ACD
-Dring periods of peak traffic, special procedures are activated requiring pilots to contact ACD, who assesses the current aerodrome traffic levels, before they are transferred to the SMC frequency.
+During periods of high traffic, pilots may be required contact ACD for pushback. ACD will assess aerodrome congestion and sequence departing aircraft before transferring them to SMC. Delays should be expected.
 
 When the ATIS includes `ALL DEPARTURES MUST REQUEST PUSH BACK ON 127.2`, all pilots must contact ACD when ready for pushback or taxi (if no pushback is required).
 
 !!! phraseology
-    **JST14:** "Melbourne Delivery, JST14, bay 32, request pushback"  
-    **ML ACD:** "JST14, estimated delay 10 minutes, remain this frequency."  
-    **JST14**: "Remain this frequency, JST14"  
+    **JST14:** "JST14, bay 32, request pushback"  
+    **ML ACD:** "JST14, standby, estimated delay 10 minutes"  
 
 When instructed, pilots must switch to SMC and **monitor** the frequency. **Do not contact SMC**, they will call you.
 
@@ -64,13 +63,13 @@ When instructed, pilots must switch to SMC and **monitor** the frequency. **Do n
 
     *Pilot switches to 121.7 and <strong>waits for the controller to contact them</strong>.*
 
-    **ML SMC**: "JST14, pushback approved"  
+    **ML SMC**: "JST14, Melbourne Ground, pushback approved"  
     **JST14**: "Pushback approved, JST14"
 
-There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time (over 10 min) has passed since the frequency transfer and no contact has been made by the controller.
+There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time has passed since the frequency transfer and no contact has been made by the controller. During busy periods with high frequency congestion, delays may be lengthy.
 
 ### Pushback Disconnect Points
-Towbar disconnect points may be used occassionally to expedite traffic flow and provide separation assurance between aircraft operating on the apron.
+Towbar disconnect points (TDPs) are positions on the aprons and taxiways where a tug may disconnect from an aircraft, completing the pushback. Every bay has a standard TDP, however a different TDP is occassionally assigned by SMC to expedite ground traffic flow.
 
 !!! warning "Important"
     Third-party simulator plugins may be necessary to customise your pushback and utilise a published disconnect point. For that reason, they are **not** used by default. However, ATC may ask whether you are capable of towing to a disconnect point and provide the instruction where it would benefit the flow of traffic.
@@ -86,7 +85,7 @@ Towbar disconnect points may be used occassionally to expedite traffic flow and 
     **QFA728**: "Pushback approved, disconnect point Tango 10, QFA728"
 
 ## Arrivals
-An ILS is available to RWY 16 and RWY 27. RNP and GLS approaches are available to all runways. RNP(AR) approaches are available to RWY 16. VOR approaches are available to RWY 09, RWY 27 and RWY 34.
+An ILS is available for RWY 16 and RWY 27. RNP and GLS approaches are available for all runways. RNP(AR) approaches are available for RWY 16. VOR approaches are available for RWY 09, RWY 27 and RWY 34.
 
 IFR aircraft can generally expect to be processed via a STAR terminating with the following approach:
 
@@ -110,10 +109,17 @@ The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for pi
 | RWY 34 | All | F, otherwise E or C |
 
 ### Rerouting
-Some aircraft from the northeast may be rerouted direct to the IAF for the RNP-M approach to RWY 16 for traffic management. Aircraft inbound from the south may be processed via the PORTS STAR in lieu of the RAZZI STAR.
+Some aircraft from the northeast or south may be rerouted for traffic management. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+
+| Inbound Direction | Amended STAR/Procedure | Possible Routing |
+| --- | --- | --- |
+| Northeast | RWY 16 RNP-M | DCT LUVKA |
+| Northeast | BOYSE STAR | DCT BOYSE, *or*<br>DCT WAZZA BOYSE |
+| Northeast | BOOIN STAR | DCT BOOIN, *or*<br>DCT BULLA BOOIN |
+| South | PORTS STAR | Via cleared route, *or*<br>DCT ONAGI |
 
 ### Predictable Sequencing Waypoints
-ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q29**, **Q346**, **Q35**, **H215**, **P753**, **L508**, and **M625**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+ATC may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q29**, **Q346**, **Q35**, **H215**, **P753**, **L508**, and **M625**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
 
 === "Q29"
     | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
@@ -165,17 +171,17 @@ The **passive** aircraft is the landing or departing aircraft which has full use
 YMML operates LAHSO using **RWY 27** as the passive runway and **RWY 34** as the active runway.
 
 ### Pilot Requirements
-All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATS must be informed no later than 120nm from the destination aerodrome.
+All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATC must be informed no later than 120nm from the destination aerodrome.
 
 !!! phraseology
     **VOZ852**: "VOZ852, negative active LAHSO"  
     **BLA**: "VOZ852"
 
-Other pilots who wish to participate must notify ATS no later than 200nm from the destination aerodrome.
+Other pilots who wish to participate must notify ATC no later than 200nm from the destination aerodrome.
 
 !!! phraseology
-    **ANZ1984**: "Brisbane Centre, ANZ1984, maintaining FL360, LAHSO approved"  
-    **BLA**: "ANZ1984, Brisbane Centre"
+    **ANZ1984**: "Melbourne Centre, ANZ1984, maintaining F360, LAHSO approved"  
+    **BLA**: "ANZ1984, Melbourne Centre"
 
 Pilots who are unable to participate actively will be sequenced as a passive aircraft. Pilots who are unable to participate at all will be sequenced for an independent approach.
 

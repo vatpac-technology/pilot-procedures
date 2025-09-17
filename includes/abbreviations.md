@@ -302,3 +302,8 @@
 *[KRMD]: Kurmond
 *[WSFR]: Wisemans Ferry
 *[DCT]: Direct To
+*[CGB]: Craigieburn Overpass
+*[EPPG]: Epping
+*[ROK]: Rockbank
+*[FWO]: Freeway Overpass
+*[VPT]: Visual Manoeuvre with Prescribed Track

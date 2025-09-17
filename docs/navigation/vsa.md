@@ -51,3 +51,17 @@ If ATS instruct you to **track for** a particular leg of the circuit, you should
 
 !!! phraseology
     *"AM231, track for base runway 32, cleared visual approach."*
+
+### Go Arounds
+If an aircraft is required to go around from a visual approach, they should:
+
+- Maintain runway track (unless obstacles prohibit climb straight ahead, in which case a turn may be made)
+- Commence climb
+- Await further instructions from ATS
+
+Aircraft which have been cleared for an [instrument approach](./iaps.md), have become visual, and then are required to go around, must track via the published missed approach on the instrument approach chart.
+
+At some locations, [local procedures](../../local-procedures/) dictate pre-defined missed approach procedures for visual approaches.
+
+!!! example
+    At [YSSY](../local-procedures/Class%20C/sydney.md#missed-approach), aircraft cleared via an Independent Visual Approach who are required to go around must track via the published missed approach of the ILS or GLS approach to their assigned runway.
