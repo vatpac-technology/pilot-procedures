@@ -90,9 +90,9 @@ Class D aerodromes include a portion of Class D airspace managed by ADC. Aircraf
     **AI9**: "Coffs Tower, Diamond AI9, NHS, A025, inbound, received C"  
     **CFS ADC**: "AI9, Coffs Tower"
     
-    *YPH is a VFR DA40, reporting inbound to YCFS from the north. ADC has instructed them to standby, so they must **not** enter CTA, as this does not establish complete two-way communications.*  
+    *YPH is a VFR DA40, reporting inbound to YCFS from the north. ADC has not referenced their callsign and has instructed them to standby, so they must **not** enter CTA, as this does not establish two-way communications.*  
     **YPH**: "Coffs Tower, Diamond YPH, WGG, A015, inbound, received C"  
-    **CFS ADC**: "YPH, Coffs Tower, standby"
+    **CFS ADC**: "Aircraft calling Coffs Tower, standby"
 
 #### Metro D
 Metro D aerodromes are small Class D aerodromes situated in busy terminal areas. They generally feature a small CTR with a limited lateral and vertical definition, and no overlying Class D CTA. Instead, they often sit directly below or adjacent to Class C CTA.
