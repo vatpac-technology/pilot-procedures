@@ -62,7 +62,7 @@ Additional standard taxi routes exist in and out of the domestic aprons.
     | **Taxiway C (Bays 57, 59)** | B, B4 |
     | **DOM2 (All bays except below)** | B, B4, C2 |
     | **DOM2 (Bays 43, 45A)** | B, B4 |
-    | **DOM2 - A330 aircraft (Bays 39, 45)** | B, G, DOM2 |
+    | **DOM2 - A330 aircraft (Bays 39, 45) <em>not pictured</em>** | B, G, DOM2 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | B, G |
 
     !!! example
