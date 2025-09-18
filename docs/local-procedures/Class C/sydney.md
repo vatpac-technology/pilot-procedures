@@ -7,13 +7,21 @@
 ## Taxiing
 There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC East controls east of RWY 34L/16R.
 
+ADC East (when online) controls the taxiways surrounding RWY 16L/34R east of Taxiway **C**. See [Runway 16L/34R](#runway-16l34r-procedures) for details.
+
 ### Standard Taxi Routes
 Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and streamline traffic flow. Except where other explicit taxi instructions are issued, pilots should follow the routes described below.
 
 !!! warning "Important"
-    SMC may issue instructions that differ from these standard taxi routes. Do not follow the standard routes if you are instructed otherwise.
+    SMC may issue instructions that differ from these standard taxi routes. Always comply with SMC's instructions.
 
     All runway crossings require a specific clearance, even if standard taxi routes are used.
+
+#### General Flow
+<figure markdown>
+![Caption](../img/yssy_taxi_routes.png){ width="400" }
+    <figcaption>Sydney Standard Taxi Routes</figcaption>
+</figure>
 
 | Taxiway | Direction of Travel |
 | ------- | ------------------- |
@@ -22,11 +30,6 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and st
 | **B10** | Eastbound (except holding point for 34L) |
 | **L** | Westbound |
 
-<figure markdown>
-![Caption](../img/yssy_taxi_routes.png){ width="400" }
-    <figcaption>Sydney Standard Taxi Routes</figcaption>
-</figure>
-
 [Arrivals on RWY 16L/34R](#runway-16l34r-procedures) shall follow standard taxi routes when vacating the runway. These taxi routes **should be performed without prompting** by ADC.
 
 | Landing Runway | Route |
@@ -34,9 +37,15 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and st
 | **RWY 16L** | T, L |
 | **RWY 34R** | T2, U, U1, L, or<br>U1, L |
 
-Additional standard taxi routes exist in and out of some domestic aprons.
+#### Domestic Aprons
+Additional standard taxi routes exist in and out of the domestic aprons.
 
 === "Arrivals"
+
+    <figure markdown>
+	![YSSY Apron Route](../img/yssy_apron_routes_arrivals.png){ width="500" }
+	    <figcaption>Standard Apron Taxi Routes (Arrivals)</figcaption>
+	</figure>
 
     | Parking Position | Route |
     | --- | --- |
@@ -50,8 +59,16 @@ Additional standard taxi routes exist in and out of some domestic aprons.
     | **DOM2 (Bays 43, 45A)** | B, B4 |
     | **DOM2 - A330 aircraft (Bays 39, 45)** | B, G, DOM2 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | B, G |
+
+    !!! example
+        If an aircraft vacates runway 34L for bay 52 and is instructed to *'cross runway 25, taxi to the bay'*, they would be expected to taxi via **B**, **B4**, and **C2**.
     
 === "Departures"
+
+	<figure markdown>
+	![YSSY Apron Route](../img/yssy_apron_routes_departures.png){ width="500" }
+	  <figcaption>Standard Apron Taxi Routes (Departures)</figcaption>
+	</figure>
 
     | Parking Position | Departure Runway | Route |
     | --- | --- | --- |
@@ -61,6 +78,9 @@ Additional standard taxi routes exist in and out of some domestic aprons.
     | **DOM2 (Bays 43, 45A)** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | B4<br>DOM2, C, B10<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
     | **DOM2 - A330 aircraft (Bays 39, 45)** | 16R<br>16L<br>34L<br>34R | DOM2, G, B<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | G<br>G, C, B10<br>G, C, B10<br>G, C, L, A, A6<br>G, C, B10, S, T, T6 |
+
+    !!! example
+        If a jet aircraft from bay 6 for departure from runway 34L is instructed to *'cross runway 25, hold short runway 34L'*, they would be expected to taxi via **C** and **L**.
 
 ### Runway 16L/34R Procedures
 RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the duties of both SMC and ADC east of taxiway C and south of B10.
