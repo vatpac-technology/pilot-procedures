@@ -17,7 +17,10 @@ All radio format examples follow a consistent convention to maximise clarity acr
 ## General Radio Tips
 The key to a successful flight is often the smaller details, one of which being efficient, timely use of the radio. Pilots should strive to keep their radio calls as clear, concise, and standardised as possible.
 
-At any one time, there may be over a dozen aircraft on frequency. If every pilot takes an *extra 5 seconds* to pass their message, that's an *entire minute* lost for the controller! Keep things short, clear, and by the book.
+At any one time, there may be over a dozen aircraft on frequency. If every pilot takes an **extra 5 seconds** to pass their message, that's an **entire minute** lost for the controller! Keep things short, clear, and by the book.
+
+!!! tip
+    The best way to keep radio calls concise and clear is to take the time to think about what you want to say **before** you push the PTT. Format the call in your head, wait for an opportunity of radio silence, then transmit your message clearly.
 
 ### Before Transmitting
 It is important that you don't interrupt an ongoing conversation on frequency, which may require a station to transmit their message again, wasting time and preventing others from passing their own messages.
