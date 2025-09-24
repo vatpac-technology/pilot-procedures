@@ -19,7 +19,7 @@ When AF ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. All aircraft require a clearance to cross RWY 04L & 04R on taxiway B and RWY 10L on A8/B8. 
 
-Aircraft may taxi past the undershoot of RWY 28R on the southern apron without clearance, provided the pilot is satisfied that no risk of collision exists. 
+Aircraft may taxi past the undershoot of RWY 28L on the southern apron without clearance, provided the pilot is satisfied that no risk of collision exists. 
 
 !!! tip
     The YBAF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/archerfield-manoeuvring-area-map).
