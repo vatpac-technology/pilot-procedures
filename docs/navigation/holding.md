@@ -10,7 +10,7 @@ Holds are flown where a delay of any kind is required. They can be initiated by 
 ## IFR
 IFR aircraft should generally hold in a predictable, 'race track' pattern. Rate one turns (or 25° bank angle, if less) should be used at either end and the outbound leg timed to comply with the [holding limitations](#holding-limitations) relevant to the holding position and altitude. To become established in the holding pattern, one of three [sector entries](#sector-entries) shall be flown.
 
-Holding information is found on ERC and TAC charts for enroute and terminal holds. Additionally, most instrument approach procedures and some STARs include published holds. Where a published hold is not available or suitable, pilots may hold at any position (with atc approval in CTA), using the most suitable inbound track, turn direction, and altitude.
+Holding information is found on ERC and TAC charts for enroute and terminal holds. Additionally, most instrument approach procedures and some STARs include published holds. Where a published hold is not available or suitable, pilots may hold at any position (with ATC approval in CTA), using the most suitable inbound track, turn direction, and altitude.
 
 ### Holding Limitations
 Airspeed and outbound timing limitations exist to ensure aircraft remain within a designated proximity to the holding fix. This is important to ensure aircraft remain within the surveyed area applicable to the hold.
