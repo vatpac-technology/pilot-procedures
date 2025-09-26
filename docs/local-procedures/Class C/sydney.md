@@ -302,7 +302,7 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
     **XWY**: "Cleared Harbour Bridge 5 Inbound, XWY"  
 
 !!! note
-    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATS, unless advised otherwise.
+    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATC, unless advised otherwise.
 
 #### ADC Routes
 For the following routes, pilots must contact **SY ADC** directly.

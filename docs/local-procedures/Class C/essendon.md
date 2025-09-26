@@ -86,8 +86,8 @@ Expect departure instructions at the holding point.
 Inbound aircraft will be cleared for the relevant instrument/visual approach and instructed to report clear of the runway. It is important that you report as soon as you vacate the runway, as ML TCU will be segregating other aircraft from your possible missed approach path. Any delay may result in delays for other pilots.
 
 !!! phraseology
-    **ML TCU:** "SH490, cleared ILS Runway 26 approach, traffic taxiing for the holding point is UJA, an Aero Commander, report clear of the runway"  
-    **SH490:** "Cleared ILS Runway 26, copy UJA, SH490"  
+    **ML TCU:** "SH490, cleared ILS approach runway 26, traffic taxiing for the holding point is UJA, an Aero Commander, report clear of the runway"  
+    **SH490:** "Cleared ILS approach runway 26, copy UJA, SH490"  
 
     **SH490:** "SH490, clear of the runway, Essendon, cancel SARWATCH"  
     **ML TCU:** "SH490, Essendon SARWATCH terminated"

@@ -70,7 +70,7 @@ IFR aircraft can generally expect to be processed via a STAR terminating with th
 | 21 | ILS |
 | 24 | ILS |
 
-The RWY 21 ILS is available from both straight in and from the DME arc. Advise ATS if you are not confident flying the arc.
+The RWY 21 ILS is available from both straight in and from the DME arc. Advise ATC if you are not confident flying the arc.
 
 During periods of good weather, aircraft may be cleared via the Victor STAR for a visual approach, to reduce their track miles.
 
@@ -89,7 +89,7 @@ The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for pi
     At YPPH, aircraft may vacate at an earlier exit without ATC approval. Preferred exits for RWY 06 are not published due infrequent use.
 
 ### Predictable Sequencing Waypoints
-ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q10**, **Q32**, **Q27**, **Q41**, and **Z38**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+ATC may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q10**, **Q32**, **Q27**, **Q41**, and **Z38**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
 === "Q10"
     | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
     | ---------------- | ------------ | -------------- | --------------- |

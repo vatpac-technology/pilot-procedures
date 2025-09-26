@@ -55,8 +55,8 @@ Aircraft approaching from the north shall contact CG ADC at Q1 or ROTC for clear
     **CG ADC:** "OMU, Gold Coast Tower, cleared overwater southbound, not above `A015`"  
     **OMU:** "Cleared overwater southbound, not above `A015`, OMU"
 
-    **CG ADC:** "OMU, track for final runway 14, cleared visual approach"  
-    **OMU:** "Track for final runway 14, cleared visual approach, OMU"
+    **CG ADC:** "OMU, join final runway 14, cleared visual approach"  
+    **OMU:** "Join final runway 14, cleared visual approach, OMU"
 
 Depending on the current traffic situation, pilots may expect a clearance via ROTC and/or to maintain own separation with any arriving or departing aircraft.
 
@@ -67,8 +67,8 @@ Depending on the current traffic situation, pilots may expect a clearance via RO
 
     **CG ADC:** "BTA, traffic is an A320, 1 mile north of BLGH, report sighting and able to maintain own separation"  
     **BTA:** "Traffic in sight, we're able to maintain own separation, BTA"  
-    **CG ADC:** "BTA, follow the A320, maintain own separation, track for final runway 14, cleared visual approach"  
-    **BTA:** "Follow the A320, maintain own separation, track for final runway 14, cleared visual approach BTA"  
+    **CG ADC:** "BTA, follow the A320, maintain own separation, join final runway 14, cleared visual approach"  
+    **BTA:** "Follow the A320, maintain own separation, join final runway 14, cleared visual approach, BTA"  
 
 #### From the South
 Aircraft approaching from the south shall contact CG ADC approaching HASS for clearance. Aircraft may expect to be instructed to join the circuit for the duty runway.
@@ -81,7 +81,7 @@ Aircraft approaching from the south shall contact CG ADC approaching HASS for cl
 Depending on the current traffic situation and duty runway, pilots may be instructed to remain OCTA and report again at CGD (for runway 32), or to track northbound overwater with a clearance limit of CIS (for runway 14).
 
 !!! phraseology
-    **JCZ:** "Gold Coast Tower, Cessna 172 JCZ, HASS, `A015`, inbound, received M, request clearance"  
+    **JCZ:** "Gold Coast Tower, Cessna 172 JCZ, HASS, `A015`, inbound, received mike, request clearance"  
     **CG ADC:** "JCZ, Gold Coast Tower, cleared overwater northbound, not above `A015`, clearance limit CIS"  
     **JCZ:** "Cleared overwater northbound, not above `A015`, clearance limit CIS, JCZ"
 
@@ -93,7 +93,7 @@ Depending on the current traffic situation and duty runway, pilots may be instru
     **JCZ:** "Join left base runway 14, cleared visual approach, JCZ" 
 
 !!! phraseology
-    **LKU:** "Gold Coast Tower, Cherokee LKU, HASS, `A015`, inbound, received B, request clearance"  
+    **LKU:** "Gold Coast Tower, Cherokee LKU, HASS, `A015`, inbound, received bravo, request clearance"  
     **CG ADC:** "LKU, Gold Coast Tower, remain outside Class C airspace, report again at CGD"  
     **LKU:** "Remain outside Class C airspace, LKU"  
 
@@ -110,7 +110,7 @@ Depending on the current traffic situation and duty runway, pilots may be instru
 Surf Lifesaving Patrol and Scenic Tour operations conducting low-level coastal flights within the CG CTR may expect a clearance overwater in the required direction of travel, not above `A002`.
 
 !!! phraseology
-    **LIFE46:** "Gold Coast Tower, helicopter LIFE46, Q1, 3 POB, for low level coastal operations, received G, request clearance"  
+    **LIFE46:** "Gold Coast Tower, helicopter LIFE46, Q1, 3 POB, for low level coastal operations, received golf, request clearance"  
     **CG ADC:** "LIFE46, Gold Coast Tower, cleared overwater southbound, not above `A002`"  
     **LIFE46:** "Cleared overwater southbound, not above `A002`, LIFE46"
 
@@ -118,7 +118,7 @@ Surf Lifesaving Patrol and Scenic Tour operations conducting low-level coastal f
 The Western VFR Route begins at NEN and tracks inland, terminating at Burringbar. It should generally be flown at `A015` (higher levels will require clearance). This route serves as an alternative route for aircraft wishing to transit through Gold Coast CTR.
 
 !!! phraseology
-    **WCS:** "Gold Coast Tower, helicopter WCS, NEN, `A015`, for Western VFR Route, received F, request clearance"  
+    **WCS:** "Gold Coast Tower, helicopter WCS, NEN, `A015`, for Western VFR Route, received foxtrot, request clearance"  
     **CG ADC:** "WCS, Gold Coast Tower, cleared Western VFR Route, not above `A015`, QNH 1013"  
     **WCS:** "Cleared Western VFR Route, not above `A015`, QNH 1013, WCS"  
 
@@ -148,7 +148,7 @@ Within the Gold Coast CTR, there are two main hospital helipads. Tweed Heads Hos
 Helicopters inbound shall contact CG ADC. Depending on the current traffic situation, pilots may expect an instruction to hold and/or maintain own separation with any arriving or departing aircraft. Helicopters can then expect a visual approach to their inbound hospital.
 
 !!! phraseology
-    **WP1:** "Gold Coast Tower, helicopter WP1, 6 miles south, inbound YXTV, received G"  
+    **WP1:** "Gold Coast Tower, helicopter WP1, 6 miles south, inbound YXTV, received golf"  
     **CG ADC:** "WP1, Gold Coast Tower, cleared to YXTV direct, not above `A015`"  
     **WP1:** "Cleared to YXTV direct, not above `A015`, WP1"  
 
