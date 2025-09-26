@@ -109,7 +109,14 @@ The `AIRPORT EFFICIENCY PROCEDURES` chart dictates preferred runway exits for pi
 | RWY 34 | All | F, otherwise E or C |
 
 ### Rerouting
-Some aircraft from the northeast may be rerouted direct to the IAF for the RNP-M approach to RWY 16 for traffic management. Aircraft inbound from the south may be processed via the PORTS STAR in lieu of the RAZZI STAR.
+Some aircraft from the northeast or south may be rerouted for traffic management. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+
+| Inbound Direction | Amended STAR/Procedure | Possible Routing |
+| --- | --- | --- |
+| Northeast | RWY 16 RNP-M | DCT LUVKA |
+| Northeast | BOYSE STAR | DCT BOYSE, *or*<br>DCT WAZZA BOYSE |
+| Northeast | BOOIN STAR | DCT BOOIN, *or*<br>DCT BULLA BOOIN |
+| South | PORTS STAR | Via cleared route, *or*<br>DCT ONAGI |
 
 ### Predictable Sequencing Waypoints
 ATC may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **Q29**, **Q346**, **Q35**, **H215**, **P753**, **L508**, and **M625**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
