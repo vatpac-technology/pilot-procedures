@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## Taxiing
-There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC east controls east of RWY 34L/16R.
+There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC East controls east of RWY 34L/16R.
 
 ### Standard Taxi Routes
 Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and streamline traffic flow. Except where other explicit taxi instructions are issued, pilots should follow the routes described below.
@@ -217,7 +217,7 @@ ATC can only clear you for an IVA when one of the below conditions has been met:
 Therefore, if it important to report 'runway in sight' or 'visual' as soon as possible during IVAs.
 
 !!! tip
-    If Director is not online, Approach will carry out the functions of the position.
+    If Director is not online, Approach will carry out the functions of the position. Report your assigned runway in sight as soon as possible.
 
 Director will generally issue pilots with an estimate of their track miles remaining to aid in descent planning. This distance is from the current aircraft position to the assigned runway threshold.
 
@@ -228,9 +228,12 @@ Director will generally issue pilots with an estimate of their track miles remai
 
 Director's airspace is very small and often heavily congested. It is imperative that pilots execute instructions without delay.
 
-In the event of radio congestion on the base leg, **do not pass through your assigned runway centreline**. Commence the turn to join final autonomously, then track the extended centreline of your assigned runway.
-
 If you do not receive a handoff to tower by 4nm from the threshold, you may switch to the ADC frequency.
+
+### Parallel Runway Operations
+During PROPS, aircraft operate to both parallel runways in either independent or dependent modes. It is vital that pilots do not drift toward the adjacent final.
+
+In the event of radio congestion on the base leg, **do not pass through your assigned runway centreline**. Commence the turn to join final autonomously, then track the extended centreline of your assigned runway.
 
 ### Independent Visual Approaches (IVAs)
 Independent Visual Approaches allow two aircraft on adjacent finals to conduct [visual approaches](../../navigation/vsa.md) without any secondary separation standards in place, greatly increasing the arrival capacity of the aerodrome during PROPS. Depending on the meteorological conditions, IVAs can be initiated from a circuit or from an instrument approach once the pilot is visual.
@@ -247,7 +250,7 @@ Ensure you do not pass through your assigned runway centreline, even if you don'
 
 Pilots must manage their speed on the base leg to ensure they do not overshoot the centreline. ATC approach speeds apply, and can be found on the relevant instrument approach chart.
 
-Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS resolution advisory accordingly, however TCAS traffic advisories are expected and do not require pilot action.
+Other aircraft will be operating on the adjacent approach, and ATC will provide surveillance or vertical separation until cleared for an IVA. Traffic information will be provided if another aircraft is within 1NM on final. Pilots must respond to any TCAS resolution advisory accordingly.
 
 #### IVAs at Night
 When being cleared for an IVA at night, ATC will issue an additional instruction in your approach clearance. This instruction provides a minimum altitude until established on either the ILS/GLS glidepath or the PAPI.
@@ -291,7 +294,7 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
 | MAROUBRA 5 | INBOUND |
 
 !!! phraseology  
-    **XWY**: "Sydney Departures, helicopter XWY, Long Reef, A010, received Delta, request Harbour Bridge 5 Inbound"  
+    **XWY**: "Sydney Departures, helicopter XWY, Long Reef, `A010`, received Delta, request Harbour Bridge 5 Inbound"  
     **SY TCU**: "XWY, squawk 0552, remain outside controlled airspace"  
     **XWY**: "Squawk 0552, remain outside controlled airspace, XWY"  
 
@@ -445,7 +448,7 @@ Delays may occur when RWY 07 is in use for departure or when RWY 25 is in use fo
 Helicopters will be identified and then cleared for the BONDI 5 NORTHBOUND or SOUTHBOUND. Traffic information will be provided on any other helicopters operating on the route or for any other aircraft in the area (e.g. aircraft in Victor One).
 
 !!! phraseology  
-    **XVZ**: "Sydney Approach, helicopter XVZ, Jibbon Point, A005, received Whiskey, request BONDI 5 Northbound"  
+    **XVZ**: "Sydney Approach, helicopter XVZ, Jibbon Point, `A005`, received Whiskey, request BONDI 5 Northbound"  
     **SY TCU**: "XVZ, Sydney Approach, squawk 0451, remain outside controlled airspace"  
     **XVZ**: "Squawk 0451, remain outside controlled airspace, XVZ"  
 
@@ -474,6 +477,6 @@ To reduce frequency congestion, several commonly used geographically defined are
 Helicopters intending to operate in one of the sectors must request clearance from the most appropriate TCU controller.
 
 !!! phraseology  
-    **X3V**: "Departures, helicopter X3V, passing A008 on the Harbour Bridge 5 Outbound, request South Harbour Sector."  
-    **SY DEP**: "X3V, Departures, identified, cleared South Harbour Sector."  
-    **X3V**: "Cleared South Harbour Sector, X3V."
+    **X3V**: "Departures, helicopter X3V, passing `A008` on the Harbour Bridge 5 Outbound, request South Harbour Sector."  
+    **SY DEP**: "X3V, Departures, identified, onwards clearance South Harbour Sector."  
+    **X3V**: "Onwards clearance South Harbour Sector, X3V."
