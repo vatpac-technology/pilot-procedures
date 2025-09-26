@@ -87,11 +87,11 @@ Class D aerodromes include a portion of Class D airspace managed by ADC. Aircraf
 
 !!! example
     *AI9 is a VFR DA42, reporting inbound to YCFS from the south. The response by ADC establishes two-way communications, so AI9 may enter CTA direct to YCFS at A025.*  
-    **AI9**: "Coffs Tower, Diamond AI9, NHS, `A025`, inbound, received C"  
+    **AI9**: "Coffs Tower, Diamond AI9, NHS, `A025`, inbound, received Charlie"  
     **CFS ADC**: "AI9, Coffs Tower"
     
     *YPH is a VFR DA40, reporting inbound to YCFS from the north. ADC has not referenced their callsign and has instructed them to standby, so they must **not** enter CTA, as this does not establish two-way communications.*  
-    **YPH**: "Coffs Tower, Diamond YPH, WGG, `A015`, inbound, received C"  
+    **YPH**: "Coffs Tower, Diamond YPH, WGG, `A015`, inbound, received Charlie"  
     **CFS ADC**: "Aircraft calling Coffs Tower, standby"
 
 #### Metro D
