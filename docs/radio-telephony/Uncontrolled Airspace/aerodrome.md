@@ -33,7 +33,7 @@ Some aerodromes, particularly those in the capital city terminal areas or proced
     **QLK101D**: "Cleared to YSSY via SORTI, flight planned route, climb to `F120`, QLK101D"
 
 #### Poor Radio Reception
-Where poor radio reception precludes establishing contact with ATS on the ground, report airborne to commence your SARWATCH service.
+Where poor radio reception precludes establishing contact with ATC on the ground, report airborne to commence your SARWATCH service.
 
 !!! note "Format"
     "<span class='placeholder'>ATC Unit</span>, <span class='placeholder'>Callsign</span>, airborne <span class='placeholder'>Location</span>"
