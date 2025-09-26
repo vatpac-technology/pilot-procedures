@@ -45,7 +45,7 @@ By day VMC, aircraft may be processed via a visual right base for RWY 33 (from t
 
 !!! phraseology
     **CS TCU**: "JCI, track for a right base runway 33, descend to `A020` visual"  
-    **VH-JCI**: "Track for right base runway 33, descend `A020` visual, JCI"  
+    **VH-JCI**: "Track for right base runway 33, descend to `A020` visual, JCI"  
     **CS TCU**: "JCI, contact Cairns Tower on 124.9"  
     **VH-JCI**: "124.9, JCI"  
 

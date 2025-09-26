@@ -5,12 +5,12 @@ title: Holding
 --8<-- "includes/abbreviations.md"
 
 ## Background
-Holds are flown where a delay of any kind is required. They can be initiated by ATS as part of sequencing actions inbound to a busy aerodrome, or by the pilot where a delayed arrival is beneficial (poor weather, aircraft malfunction, traffic, etc).
+Holds are flown where a delay of any kind is required. They can be initiated by ATC as part of sequencing actions inbound to a busy aerodrome, or by the pilot where a delayed arrival is beneficial (poor weather, aircraft malfunction, traffic, etc).
 
 ## IFR
 IFR aircraft should generally hold in a predictable, 'race track' pattern. Rate one turns (or 25° bank angle, if less) should be used at either end and the outbound leg timed to comply with the [holding limitations](#holding-limitations) relevant to the holding position and altitude. To become established in the holding pattern, one of three [sector entries](#sector-entries) shall be flown.
 
-Holding information is found on ERC and TAC charts for enroute and terminal holds. Additionally, most instrument approach procedures and some STARs include published holds. Where a published hold is not available or suitable, pilots may hold at any position (with ATS approval in CTA), using the most suitable inbound track, turn direction, and altitude.
+Holding information is found on ERC and TAC charts for enroute and terminal holds. Additionally, most instrument approach procedures and some STARs include published holds. Where a published hold is not available or suitable, pilots may hold at any position (with ATC approval in CTA), using the most suitable inbound track, turn direction, and altitude.
 
 ### Holding Limitations
 Airspeed and outbound timing limitations exist to ensure aircraft remain within a designated proximity to the holding fix. This is important to ensure aircraft remain within the surveyed area applicable to the hold.
@@ -22,7 +22,7 @@ Airspeed and outbound timing limitations exist to ensure aircraft remain within 
 | Above FL200 | 1.5 min | 265 KIAS |
 
 !!! note
-    ATS may cancel the speed restrictions or approve longer outbound legs when operating in CTA.
+    ATC may cancel the speed restrictions or approve longer outbound legs when operating in CTA.
 
 In some holding patterns, a DME limit is defined. A turn to the inbound leg must be commenced no later than this DME distance.
 
