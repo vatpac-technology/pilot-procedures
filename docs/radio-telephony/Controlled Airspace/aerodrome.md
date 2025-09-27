@@ -104,6 +104,11 @@ Helicopters can either ground taxi, air taxi, or air transit around an aerodrome
 | Air Taxi | Transit of a helicopter in ground effect and at less than 20kt |
 | Air Transit | Expeditious transit of a helicopter at or below 100ft AGL and at speeds greater than those during air taxiing |
 
+<figure markdown>
+![Different helicopter aerodrome movements](../img/heli_ops_manoeuvres.png){ width="600" }
+  <figcaption>Different helicopter aerodrome movements</figcaption>
+</figure>
+
 Helicopter pilots should generally nominate which method they would like to use, however air transits may not always be available.
 
 !!! example
