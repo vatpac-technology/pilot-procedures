@@ -22,7 +22,7 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
     With runway 34 in use, taxiway Alpha would be used for aircraft taxiing southbound and taxiway Victor would be used for aircraft taxiing northbound.
 
 !!! warning "Important"
-    SMC may provide instructions which contradict these standard taxi routes. Ensure you comply with any issued taxi instruction at all times.
+    SMC may issue instructions that differ from these standard taxi routes. Always comply with SMC's instructions.
 
 ## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.

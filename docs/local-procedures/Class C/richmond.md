@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airspace
-**RI ADC** administers the R470 restricted area when active from SFC to 1500ft. **SY TCU** administers it from 1500ft to 4500ft.
+**RI ADC** administers the R470 restricted area when active from SFC to `A015`. **SY TCU** administers it from `A015` to `A045`.
 
 ### Tower Closed Procedures
 When **RI ADC** is not online, R470 from `SFC` to `A045` is reclassified as Class G airspace and administered by **SY TCU**. CTAF procedures apply at YSRI.

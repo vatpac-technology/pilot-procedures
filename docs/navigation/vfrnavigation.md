@@ -60,7 +60,7 @@ If you find yourself unfamiliar with your surroundings and are no longer confide
 
 Unlike during normal navigation, scan your surroundings and read from 'ground-to-map', locating each landmark on the map after identifying it outside. By measuring the direction from your aircraft to each landmark, you can triangulate your position on the map.
 
-ATS can use their surveillance equipment (within surveillance coverage) to provide you with position information. If you become lost, request assistance from the most appropriate controller, who will attempt to identify you and provide you with tracking assistance.
+ATC can use their surveillance equipment (within surveillance coverage) to provide you with position information. If you become lost, request assistance from the most appropriate controller, who will attempt to identify you and provide you with tracking assistance.
 
 !!! note
-    If operating in CTA, you must notify ATS as soon as you become aware that you are off track, or if you are no longer confident in your position.
+    If operating in CTA, you must notify ATC as soon as you become aware that you are off track, or if you are no longer confident in your position.
