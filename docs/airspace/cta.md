@@ -67,6 +67,14 @@ Airport efficiency procedures are published in dedicated DAP charts of the same 
 
     A common mistake new pilots make is vacating the runway, stopping, then spending a few minutes preparing for taxi. This blocks that runway exit and can cause following aircraft to occupy the runway for extended periods of time.
 
+### Tactical Pushback Delays
+During busy periods, ATS may implement tactical pushback delays, avoiding significant congestion at the holding point. As part of these procedures, [Standby for Ground](../radio-telephony/Controlled%20Airspace/aerodrome.md#standby-for-ground-procedures) procedures may be enacted.
+
+At their discretion, ATS may decide to implement A-CDM procedures, generating tactical pushback slots and rate-limited takeoff departure windows. Pilots will be informed of their estimated pushback time.
+
+!!! tip
+    When A-CDM procedures are in use, the departure queue can be viewed on the [Ops Dashboard](https://cdm.maxrumsey.xyz/ops){target=new}.
+
 ### Class C
 Major controlled aerodromes are surrounded by Class C airspace. An airways clearance is required for all operations into, out of, and in the vicinity of a Class C aerodrome.
 
