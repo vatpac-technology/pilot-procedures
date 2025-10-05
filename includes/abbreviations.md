@@ -308,3 +308,4 @@
 *[FWO]: Freeway Overpass
 *[VPT]: Visual Manoeuvre with Prescribed Track
 *[ACAS]: Airborne Collision Avoidance System
+*[A-CDM]: Airport Collaborative Decision Making
