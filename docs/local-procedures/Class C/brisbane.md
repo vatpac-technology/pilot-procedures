@@ -49,7 +49,8 @@ When the ATIS includes `ALL DEPARTURES MUST REQUEST PUSH BACK ON 118.85`, all pi
 
 !!! phraseology
     **QFA291:** "Brisbane Delivery, QFA291, bay 32, request pushback"  
-    **BN ACD:** "QFA291, standby, estimated delay 10 minutes"  
+    **BN ACD:** "QFA291, estimated delay 10 minutes, remain this frequency."  
+    **QFA291**: "Remain this frequency, QFA291"
 
 When instructed, pilots must switch to SMC and **monitor** the frequency. **Do not contact SMC**, they will call you.
 
