@@ -5,9 +5,9 @@
 --8<-- "includes/abbreviations.md"
 
 ## Area of Operations
-Pilots of aircraft receiving an identification service OCTA or operating in CTA, must inform ATS prior to conducting airwork.
+Pilots of aircraft receiving an identification service OCTA or operating in CTA, must inform ATC prior to conducting airwork.
 
-It is generally easiest to nominate an area of operations with both a lateral and vertical limit. An ops normal time should be nominated to allow ATS to plan for the duration of your intended airwork.
+It is generally easiest to nominate an area of operations with both a lateral and vertical limit. An ops normal time should be nominated to allow ATC to plan for the duration of your intended airwork.
 
 !!! note "Format"
     "<span class='placeholder'>Callsign</span> will be conducting airwork within a <span class='placeholder'>Distance</span> radius of <span class='placeholder'>Position</span>, <span class='placeholder'>Altitude Block</span>, ops normal <span class='placeholder'>Time</span>"
