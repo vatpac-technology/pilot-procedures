@@ -22,6 +22,14 @@ On first contact with a terminal controller, **outbound** aircraft must report t
 !!! example
     "Melbourne Departures, QLK78D, turning right heading 320, passing `A023`, climbing to `A050`"
 
+#### Heavy/Super Categories
+Aircraft in the Heavy or Super categories must append their callsign with their wake turbulence category during the initial call with each Approach, Departures, and Director controller.
+
+!!! example
+    **QFA12**: "Sydney Approach, SIA213 Super, descending to `A010`, received Golf"
+
+The category is not required during any subsequent call.
+
 ### SIDs/STARs
 Aircraft on a SID/STAR will generally be given climb/descent instructions using *'climb via SID to (Level)'* and *'descend via STAR to (Level)'* phraseology. Pilots must readback the instruction exactly as it is issued. Once all height/speed restrictions have been passed, controllers may use traditional climb/descent phraseology.
 
