@@ -55,7 +55,7 @@ Alice Springs has 10 VFR routes that follow prominent geographic features and hi
 </figure>
 
 !!! phraseology 
-    **SDA**: "Alice Tower, Cirrus SDA, DPW, `A065`, inbound, received J, request clearance"  
+    **SDA**: "Alice Tower, Cirrus SDA, DPW, `A065`, inbound, received Juliet, request clearance"  
     **AS ADC**: "SDA, Alice Tower, cleared to YBAS via VFR Route 5, maintain `A065`"  
     **SDA**: "Cleared to YBAS via VFR Route 5, maintain `A065`, SDA"  
 
