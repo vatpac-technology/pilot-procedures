@@ -155,7 +155,7 @@ Helicopters inbound shall contact CG ADC. Depending on the current traffic situa
     **CG ADC:** "WP1, Gold Coast Tower, cleared to YXTV direct, not above `A015`"  
     **WP1:** "Cleared to YXTV direct, not above `A015`, WP1"  
 
-Both hospital helipads are outside the maneuvering area and do not require a landing clearance from CG ADC. Helicopters arriving to these helipads will be instructed to "report on the ground" so the controller knows when aircraft are no longer active in their airspace.
+Both hospital helipads are outside the manoeuvring area and do not require a landing clearance from CG ADC. Helicopters arriving to these helipads will be instructed to "report on the ground" so the controller knows when aircraft are no longer active in their airspace.
 
 !!! phraseology
     **CG ADC:** "WP1, cleared visual approach YXTV, report on the ground"  
@@ -164,7 +164,7 @@ Both hospital helipads are outside the maneuvering area and do not require a lan
 #### Departures
 Aircraft departing from hospitals within the Gold Coast CTR must obtain clearance prior to becoming airborne. Aircraft will be subject to delays depending on traffic in the Gold Coast CTR.
 
-Both hospital helipads are outside the maneuvering area and do not require a takeoff clearance from CG ADC, however a clearance to become airborne is required. Helicopters departing from these helipads will be instructed to "report airborne".
+Both hospital helipads are outside the manoeuvring area and do not require a takeoff clearance from CG ADC, however a clearance to become airborne is required. Helicopters departing from these helipads will be instructed to "report airborne".
 
 !!! phraseology
     **RSCU588:** "Gold Coast Tower, helicopter RSCU588, YXTV, ready for northen departure"  

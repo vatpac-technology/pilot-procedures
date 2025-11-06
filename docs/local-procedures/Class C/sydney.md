@@ -10,8 +10,8 @@ There are two SMC positions at Sydney. SMC West controls aprons and taxiways wes
 ADC East (when online) controls the taxiways surrounding RWY 16L/34R east of Taxiway **C**. See [Runway 16L/34R](#runway-16l34r-procedures) for details.
 
 <figure markdown>
-![YSSY Maneuvering Area](../img/yssymaown.png){ width="350" }
-  <figcaption>Maneuvering Area</figcaption>
+![YSSY Manoeuvring Area](../img/yssymaown.png){ width="350" }
+  <figcaption>Manoeuvring Area</figcaption>
 </figure>
 
 ### Standard Taxi Routes

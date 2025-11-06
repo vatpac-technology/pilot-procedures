@@ -140,7 +140,7 @@ In VMC, all helicopters shall expect to be processed via two visual waypoints (o
     **RSCU533:** "Cleared to YXHE via amended BLHS, YXHE, climb to `A025`, squawk 1256, departures 124.7, RSCU533"
 
 ### Departures
-Both taxiways **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance from BN ADC. Helicopters departing on other surfaces outside the maneuvering areas will be instructed to *"report airborne"*. 
+Both taxiways **H2** and **F4** are inside the manoeuvring area and treated like a runway, requiring a takeoff and landing clearance from BN ADC. Helicopters departing on other surfaces outside the manoeuvring areas will be instructed to *"report airborne"*. 
 
 !!! phraseology
     **RSCU533:** "Brisbane Tower, helicopter RSCU533, Taxiway H2 ready"  
@@ -171,7 +171,7 @@ Depending on the current traffic situation, pilots may expect an instruction to 
     **BN ADC**: "X6G, cancel hold, pass behind the 737, maintain own separation, caution wake turbulence, cleared visual approach Taxiway F4"  
     **X6G**: "Cancel hold, pass behind the 737, maintain own separation, cleared visual approach Taxiway F4, X6G"
 
-Both taxiway **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance by BN ADC. Helicopters landing on other surfaces outside the maneuvering areas will be instructed to *"report on the ground"* so the controller knows when they you no longer active in their airspace.
+Both taxiway **H2** and **F4** are inside the manoeuvring area and treated like a runway, requiring a takeoff and landing clearance by BN ADC. Helicopters landing on other surfaces outside the manoeuvring areas will be instructed to *"report on the ground"* so the controller knows when they you no longer active in their airspace.
 
 !!! phraseology
     **BN ADC:** "X6G, Taxiway F4, cleared to land"  
