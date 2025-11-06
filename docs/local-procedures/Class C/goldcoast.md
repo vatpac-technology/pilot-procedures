@@ -19,7 +19,10 @@ IFR aircraft should expect to be issued with a SID as per below:
 All other aircraft shall expect the **CG (RADAR) SID**.
 
 ### Start Clearance
-A start clearance is required for aircraft planned to YBBN. 
+A start clearance is required for aircraft planned to YBBN.
+
+### Intersection Departures
+Unless a full-length departure is operationally required, aircraft departing **Runway 32** must use the Taxiway **K** intersection for departure.
 
 ## Arrivals
 An ILS is available to RWY 14. RNP, RNP(AR), and VOR approaches are available to RWY 14 & RWY 32. RWY 17 & RWY 35 do not have any associated instrument approaches.
