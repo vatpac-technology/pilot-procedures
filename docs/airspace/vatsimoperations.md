@@ -34,7 +34,7 @@ As per the VATSIM [Special Operations Policy](https://vatsim.net/docs/policy/spe
 - Fly unmanned aerial vehicles, e.g. Global Hawk
 
 ## Radio Communication
-As per the VATSIM Code of Conduct, pilots operating OCTA (or without any ATC online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In practice, this translates to making all CTAF radio calls on the advisory frequency.
+As per the [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct), pilots operating OCTA (or without any ATC online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In practice, this translates to making all CTAF radio calls on the advisory frequency.
 
 The VATSIM advisory frequency is **122.800**.
 
