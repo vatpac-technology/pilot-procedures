@@ -51,6 +51,14 @@ When reading back a PDC, only the following items must be transmitted by the pil
     **VOZ723**: "GROOK1 departure, WOL transition, squawk 4412, bay 32, VOZ723"  
 
 ## Pushback & Engine Start
+### Heavy/Super Categories
+Aircraft in the Heavy or Super categories must append their callsign with their wake turbulence category during the initial call with each Ground or Tower controller.
+
+!!! example
+    **QFA12**: "Sydney Ground, QFA12 Super, bay 34, request pushback"
+
+The category is not required during any subsequent call.
+
 ### Engine Start
 Authorisation to commence engine start is generally not required, unless advised on the ATIS, the ERSA, or [Local Procedures](../../../local-procedures/).
 
@@ -117,6 +125,14 @@ Helicopter pilots should generally nominate which method they would like to use,
     **HSZ**: "Air taxi to the main pad, HSZ"
   
 ## Takeoff & Landing
+### Heavy/Super Categories
+Aircraft in the Heavy or Super categories must append their callsign with their wake turbulence category during the initial call with each Ground or Tower controller.
+
+!!! example
+    **QFA12**: "Sydney Tower, QFA12 Super, ready"
+
+The category is not required during any subsequent call.
+
 ### Reporting Ready
 After receiving unrestricted taxi instructions to the holding point and after completing all necessary pre-takeoff checks, report 'ready' to ADC.
 
