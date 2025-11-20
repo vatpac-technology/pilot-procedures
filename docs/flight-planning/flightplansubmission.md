@@ -164,7 +164,7 @@ Where an unusual or non-standard callsign has been filed (see [Callsigns](#calls
     **Remarks**: `RTF/COMPASS`
 
 ### Voice Rules
-At the bottom of the VATSIM flight plan form, you are able to select your voice rules. Ensure this is set correctly to minimise disruption to ATS. If necessary, you can update this during your flight by informing ATS.
+At the bottom of the VATSIM flight plan form, you are able to select your voice rules. Ensure this is set correctly to minimise disruption to ATS. If necessary, you can update this during your flight by informing ATS. As per [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct), voice is the preferred method of communication on VATSIM. Account holders should use voice if able to do so but must accommodate the use of text to support those with a disability and are unable to utilize voice. Only unaltered speech is permitted to be transmitted.
 
 | Option | Meaning |
 | --- | --- |
@@ -172,5 +172,5 @@ At the bottom of the VATSIM flight plan form, you are able to select your voice 
 | Text | Not able to send or receive voice communication, text communication required |
 | Receive Only | Able to receive voice but only able to respond via text |
 
-!!! tip
-    Text-only pilots significantly increase a controller's workload, particularly during busy events. Where possible, consider adjusting your speaker setup to allow **Receive Only** status. This doesn't require you to have a microphone but will help reduce the controller's workload dramatically.
+!!! warning "Important"
+    Pilots - Shall be able to, at a minimum, receive voice but may send messages via text (Receive Only). Account holders with a disability who are unable to receive and/or transmit voice, such as due to a hearing disability, may use a lower level of voice capability but may be required to explain the inability to comply with this section to a VATSIM Supervisor upon request.

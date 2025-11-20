@@ -38,6 +38,8 @@ As per the VATSIM Code of Conduct, pilots operating OCTA (or without any ATC onl
 
 The VATSIM advisory frequency is **122.800**.
 
+Voice is the preferred method of communication on VATSIM. Account holders should use voice if able to do so but must accommodate the use of text to support those with a disability and are unable to utilize voice. Only unaltered speech is permitted to be transmitted. Pilots - Shall be able to, at a minimum, receive voice but may send messages via text (Receive Only).
+
 Pilots should be aware of the existence of both voice-capable and text-only pilots, and consider making broadcasts via both voice and text where appropriate.
 
 Some pilots may not be using real-world weather or time of day, so pilots should be alert to aircraft using reciprocal or crossing runways, or flying different approaches, at uncontrolled aerodromes.
