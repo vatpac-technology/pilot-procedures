@@ -164,7 +164,7 @@ Where an unusual or non-standard callsign has been filed (see [Callsigns](#calls
     **Remarks**: `RTF/COMPASS`
 
 ### Voice Rules
-At the bottom of the VATSIM flight plan form, you are able to select your voice rules. Ensure this is set correctly to minimise disruption to ATS. If necessary, you can update this during your flight by informing ATS. As per the [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct), voice is the preferred method of communication on VATSIM. Account holders should use voice if able to do so but must accommodate the use of text to support those with a disability and are unable to utilize voice. Only unaltered speech is permitted to be transmitted.
+At the bottom of the VATSIM flight plan form, you are able to select your voice rules. Ensure this is set correctly to minimise disruption to ATS. If necessary, you can update this during your flight by informing ATS. As per the [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct), voice is the preferred method of communication on VATSIM. Account holders should use voice if able to do so but must accommodate the use of text to support those with a disability who are unable to utilize voice. ```
 
 | Option | Meaning |
 | --- | --- |
