@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## Background
-Visual approaches are the 'default' approach performed by aircraft when they have visual reference with the ground or water. They often provide reduced track miles compared to an instrument approach and may allow ATS to relax some of the separation requirements normally required.
+Visual approaches are the 'default' approach performed by aircraft when they have visual reference with the ground or water. They often provide reduced track miles compared to an instrument approach and may allow ATC to relax some of the separation requirements normally required.
 
 Where an ATIS does not specify an approach type, pilots should prepare for a visual approach and report visual to the terminal controller as soon as practical.
 
@@ -35,19 +35,19 @@ In order to conduct a visual approach by night, the following requirements apply
     - Within 10nm (14nm for RWY 16L/34L at YSSY) of the aerodrome, established not below the glide path with less than full scale localiser deflection
 
 ## Expectations in CTA
-In CTA, ATS will sometimes provide instructions on how to join the circuit from a visual approach.
+In CTA, ATC will sometimes provide instructions on how to join the circuit from a visual approach.
 
 When tracking via a STAR, you must continue to track laterally via the STAR.
 
 !!! phraseology
     *"VOZ882, cleared visual approach via the STAR."*
 
-If ATS instruct you to **join** a particular leg of the circuit, you should remain on track until approaching the circuit area, then join the assigned circuit leg.
+If ATC instruct you to **join** a particular leg of the circuit, you should remain on track until approaching the circuit area, then join the assigned circuit leg.
 
 !!! phraseology
     *"CYF, join left downwind runway 25, cleared visual approach."*
 
-If ATS instruct you to **track for** a particular leg of the circuit, you should immediately track to that leg of the circuit.
+If ATC instruct you to **track for** a particular leg of the circuit, you should immediately track to that leg of the circuit.
 
 !!! phraseology
     *"AM231, track for base runway 32, cleared visual approach."*
@@ -57,7 +57,7 @@ If an aircraft is required to go around from a visual approach, they should:
 
 - Maintain runway track (unless obstacles prohibit climb straight ahead, in which case a turn may be made)
 - Commence climb
-- Await further instructions from ATS
+- Await further instructions from ATC
 
 Aircraft which have been cleared for an [instrument approach](./iaps.md), have become visual, and then are required to go around, must track via the published missed approach on the instrument approach chart.
 

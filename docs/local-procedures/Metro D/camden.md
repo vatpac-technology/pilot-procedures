@@ -51,16 +51,16 @@ When arriving via a VFR inbound point, pilots should expect the following circui
 
 | VFR Inbound Point | RWY 06 | RWY 24 |
 | ----------------- | ------ | ------ |
-| BRY | "Join downwind RWY 06, maintain 1800ft, report 2NM" | "Join final RWY 24, maintain 1800ft, report Oran Park (ONPK)" |
-| MYF | "Join base RWY 06, maintain 1800ft, report 2NM" | "Join base RWY 24, maintain 1800ft, report 2NM" |
-| MEG | "Overfly Camden to join mid-field crosswind RWY 06, maintain 1800ft, report overhead" | "Overfly Camden to join mid-field crosswind RWY 24, maintain 1800ft, report overhead" |
-| PIC | "Overfly Camden to join mid-field crosswind RWY 06, maintain 1800ft, report overhead" | "Overfly Camden to join mid-field crosswind RWY 24, maintain 1800ft, report overhead" |
-| THK | "Join final RWY 06, maintain 1800ft, report 3NM" | "Join downwind RWY 24, maintain 1800ft, report 2NM" |
+| BRY | "Join downwind runway 06, maintain `A018`, report 2 miles" | "Join final runway 24, maintain `A018`, report Oran Park (ONPK)" |
+| MYF | "Join base runway 06, maintain `A018`, report 2 miles" | "Join base runway 24, maintain `A018`, report 2 miles" |
+| MEG | "Overfly Camden to join mid-field crosswind runway 06, maintain `A018`, report overhead" | "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report overhead" |
+| PIC | "Overfly Camden to join mid-field crosswind runway 06, maintain `A018`, report overhead" | "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report overhead" |
+| THK | "Join final runway 06, maintain `A018`, report 3 miles" | "Join downwind runway 24, maintain `A018`, report 2 miles" |
 
 !!! phraseology  
     **MWY**: "Camden Tower, Citabria MWY, MYF, `A018`, inbound, received Golf"  
-    **CN ADC**: "MWY, Camden Tower, join base RWY 24, maintain `A018`, report 2 miles"  
-    **MWY**: "Join base RWY 24, maintain `A018`, MWY"  
+    **CN ADC**: "MWY, Camden Tower, join base runway 24, maintain `A018`, report 2 miles"  
+    **MWY**: "Join base runway 24, maintain `A018`, MWY"  
 
     **MWY**:, "MWY, 2 miles"  
     **CN ADC**: "MWY, cleared visual approach"  

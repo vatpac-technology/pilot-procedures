@@ -71,7 +71,7 @@ Once re-maintaining their assigned level, pilots shall notify ATS.
 !!! note "Format"
     "<span class='placeholder'>Callsign</span>, clear of conflict, <span class='placeholder'>Assigned Level</span> resumed"
 
-During an RA, ATS are not responsible for aircraft separation. If an instruction is received during this time which would put the aircraft in further conflict, pilots must inform ATS that they are unable to comply.
+During an RA, ATC is not responsible for aircraft separation. If an instruction is received during this time which would put the aircraft in further conflict, pilots must inform ATC that they are unable to comply.
 
 !!! note "Format"
     "<span class='placeholder'>Callsign</span>, unable to comply, TCAS RA"
