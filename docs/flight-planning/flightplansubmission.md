@@ -109,10 +109,10 @@ Whatever route you file in your flight plan **must match** what you load into yo
 ### Custom Waypoints
 Custom waypoints can be included in your route by referencing lat/long positions or bearing/distance information from a known waypoint.
 
-Lat/long positions should take the format of: **DDHHCDDHHC**, where:
+Lat/long positions should take the format of: **DDMMCDDMMC**, where:
 
 - **DD** = Degrees
-- **HH** = Hours
+- **MM** = Minutes
 - **C** = Cardinal direction (i.e. N, S, E, W)
 
 !!! example
@@ -125,7 +125,7 @@ Positions can also be expressed with reference to a known position, using the fo
 - **DDD** = Distance from the known waypoint (as a three digit number)
 
 !!! example
-    A position **25nm on the 045 bearing** (northeast) from YSSY would be expressed as **YSSY045025**.
+    A position **25nm on the 045 bearing** (northeast) from **YSSY** would be expressed as **YSSY045025**.
 
 ## Remarks
 ### Airwork and Planned Delays
