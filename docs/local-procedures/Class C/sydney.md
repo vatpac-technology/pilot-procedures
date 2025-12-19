@@ -233,9 +233,10 @@ Most STARs terminate with radar vectors from ATC and will generally produce a ro
 ### Sydney Director
 The Sydney Director positions (SY-D_APP & SY-DE_APP) are responsible for providing vectors to final for inbound aircraft.
 
-On first contact with Director, you should report "RUNWAY XX IN SIGHT" if you can see your assigned runway, or "VISUAL" if you can see the ground/water. 
+On first contact with Director, you should report "*RUNWAY XX IN SIGHT*" if you can see your assigned runway, or "*VISUAL*" if you can see the ground/water. 
 
 ATC can only clear you for an IVA when one of the below conditions has been met:
+
 - you have your assigned runway in sight, or
 - you are already established on the localiser/final approach course and are visual.
 
