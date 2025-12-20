@@ -9,6 +9,8 @@
 *[DGA]: DME or GNSS Arrival
 *[ANR]: Air Navigation Register   
 *[ATS]: Air Traffic Services
+*[ATSU]: Air Traffic Service Unit
+*[ATC]: Air Traffic Control
 *[TMA]: Terminal Maneuvering Area
 *[FIR]: Flight Information Region
 *[SSR]: Secondary Surveillance Radar
@@ -24,7 +26,9 @@
 *[SMC]: Surface Movement Control (Ground Controller)
 *[ADC]: Aerodrome Control (Tower Controller)
 *[TCU]: Terminal Control Unit (Approach Controller)
+*[ACD]: Airways Clearance Delivery (Delivery Controller)
 *[DIR]: Director (Sydney)
+*[COORD]: Coordinator (Sydney)
 *[IVA]: Independent Visual Approach
 *[IAP]: Instrument Approach
 *[CFL]: Cleared Flight Level
@@ -36,7 +40,6 @@
 *[FAC]: Final Approach Course
 *[ILS]: Instrument Landing System
 *[GLS]: GBAS Landing System
-*[ACD]: Airways Clearance Delivery
 *[ATIS]: Automatic Terminal Information Service
 *[AWIS]: Automatic Weather Information Service
 *[NOTAM]: Notice to Airmen

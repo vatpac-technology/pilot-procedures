@@ -8,11 +8,11 @@
 ### Taxi
 Prior to, or during, taxiing at an uncontrolled aerodrome, IFR aircraft should establish [two-way communication](../radio-telephony/Uncontrolled%20Airspace/aerodrome.md#taxi) with ATS. This commences the SARWATCH service.
 
-If unexpected delays prevent a departure within approximately 10 minutes from establishing the SARWATCH service, pilots should inform ATS. In response, ATS may decide to set an Ops Normal Time.
+If unexpected delays prevent a departure within approximately 10 minutes from establishing the SARWATCH service, pilots should inform ATS. In response, ATC may decide to set an Ops Normal Time.
 
 At uncontrolled aerodromes with low overlying CTA, expect to receive an airways clearance prior to departure.
 
-Radio setup is obviously a pilot preference but it is recommended that pilots monitor the ATS frequency on COM1 and the CTAF/Advisory frequency on COM2.
+Radio setup is obviously a pilot preference but it is recommended that pilots monitor the ATC frequency on COM1 and the CTAF/Advisory frequency on COM2.
 
 ### Departure
 After taking off and setting course for your first tracking point, [inform ATC](../radio-telephony/Uncontrolled%20Airspace/enroute.md#departure) of your departure. If you haven't already received an airways clearance, ensure that you stop your climb below the base of CTA.
@@ -29,9 +29,9 @@ When cruising below the [transition layer](../flight-planning/altimetry.md#trans
 When established outside of controlled airspace, there is no requirement for authorisation to change your flightpath. However, you must obtain [traffic information](../radio-telephony/Uncontrolled%20Airspace/enroute.md#enroute-requests) on any change you will shortly commence, to ensure that doing so doesn't cause conflict with other aircraft.
 
 ### Arrival
-Aircraft in CTA must obtain a clearance to leave CTA on descent. Aircraft cruising OCTA should obtain traffic information prior to commencing descent. Pilots must inform ATS prior to altering track to commence an approach or arrival procedure.
+Aircraft in CTA must obtain a clearance to leave CTA on descent. Aircraft cruising OCTA should obtain traffic information prior to commencing descent. Pilots must inform ATC prior to altering track to commence an approach or arrival procedure.
 
-ATS will provide a traffic statement for any conflicting aircraft which may impact the arrival. Pilots should communicate with any conflicting aircraft on the CTAF/Advisory frequency. There is no minimum separation required between aircraft outside controlled airspace, but it is recommended that pilots adjust their flightpath to maintain at least 1,000ft vertically and 5nm horizontally between aircraft. It may be necessary to adjust the aircraft's speed or track to alter the ETA of the aircraft, where the natural ETA conflicts with another aircraft.
+ATC will provide a traffic statement for any conflicting aircraft which may impact the arrival. Pilots should communicate with any conflicting aircraft on the CTAF/Advisory frequency. There is no minimum separation required between aircraft outside controlled airspace, but it is recommended that pilots adjust their flightpath to maintain at least 1,000ft vertically and 5nm horizontally between aircraft. It may be necessary to adjust the aircraft's speed or track to alter the ETA of the aircraft, where the natural ETA conflicts with another aircraft.
 
 Pilots may choose to conduct a visual approach or an [instrument approach](../navigation/iaps.md), depending on the weather conditions, time of day, and traffic situation. After arrival at the destination aerodrome, pilots must [cancel their SARWATCH](../radio-telephony/Uncontrolled%20Airspace/aerodrome.md#arrival), which will close their flight plan and cease all services with ATS. If VHF radio reception is unsuitable on the ground, SARWATCH should be cancelled before VHF coverage is lost. Alternatively, pilots may choose to use text-based communication to cancel the service on the ground.
 

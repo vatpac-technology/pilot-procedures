@@ -58,7 +58,7 @@ See [Custom Waypoints](#custom-waypoints) for details on how to format custom po
     **Remarks**: `DEP/2730S15327E RMK/2730S15327E IS DUSTBOWL STATION`
 
 ## Equipment Codes
-The equipment and transponder codes you file in your flight plan will impact how ATS process your navigation requirements, and control how you appear on their radar scope. **Equipment** codes refer to the navigational equipment your aircraft is equipped with. **Transponder** codes refer to the type of transponder and ADS-B system installed in your aircraft.
+The equipment and transponder codes you file in your flight plan will impact how the ATS provider processes your navigation requirements and how you appear on the ATC radar scope. **Equipment** codes refer to the navigational equipment your aircraft is equipped with. **Transponder** codes refer to the type of transponder and ADS-B system installed in your aircraft.
 
 A full list of equipment codes can be obtained through various online sources (searching for *ICAO* equipment codes - not FAA), with the most commonly used summarised below:
 
@@ -154,7 +154,7 @@ When simulating special operations, you are permitted to file a priority status 
 | `STS/STATE` | Aircraft part of the defence force, military, or customs |
 
 !!! note
-    Under the VATSIM Code of Conduct, no flight may declare itself to have priority over another. Filing a priority status in your flight plan will not result in being prioritised above other aircraft (contrary to the real world), however it may signal ATS to provide track shortening or to facilitate your planned operations.
+    Under the VATSIM Code of Conduct, no flight may declare itself to have priority over another. Filing a priority status in your flight plan will not result in being prioritised above other aircraft (contrary to the real world), however it may signal ATC to provide track shortening or to facilitate your planned operations.
 
 ### Radio Callsign
 Where an unusual or non-standard callsign has been filed (see [Callsigns](#callsigns)), include the full radio callsign in your remarks using the **RTF/<callsign>** format.

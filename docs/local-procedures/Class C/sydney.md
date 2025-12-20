@@ -172,7 +172,7 @@ When instructed, pilots must switch to SMC and **monitor** the frequency. **Do n
 There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time has passed since the frequency transfer and no contact has been made by the controller. During busy periods with high frequency congestion, delays may be lengthy.
 
 ### Runway 34L Intersection Departures
-Due to noise-abatement rules, intersection departures from RWY 34L are only available for **Non-Jet** aircraft. However, at pilot request, ATS *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
+Due to noise-abatement rules, intersection departures from RWY 34L are only available for **Non-Jet** aircraft. However, at pilot request, ATC *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
 
 ## Arrivals
 ILS, GLS, and RNP approaches are available to all runways. During PROPS in VMC, [Independent Visual Approaches](#independent-visual-approaches-ivas) may be utilised. Pilots who wish to conduct a GLS must request that approach on first contact.
@@ -328,7 +328,7 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
     **XWY**: "Cleared Harbour Bridge 5 Inbound, XWY"  
 
 !!! note
-    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATS, unless advised otherwise.
+    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATC, unless advised otherwise.
 
 #### ADC Routes
 For the following routes, pilots must contact **SY ADC** directly.
