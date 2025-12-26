@@ -139,7 +139,7 @@ During training or special operation flights, it may be necessary to conduct air
 !!! example
     A pilot is conducting Search and Rescue operations within a 10nm radius of a position defined as **WG288030**, for 30 min.  
     **Filed Route**: `DCT WG288030 DCT`  
-    **Remarks**: `DLE/WG2880300300 RMK/SAR OPERATIONS WI 10NM OF WG288030`
+    **Remarks**: `DLE/WG2880300030 RMK/SAR OPERATIONS WI 10NM OF WG288030`
 
 ### Priority Status
 When simulating special operations, you are permitted to file a priority status in your remarks using the **STS/<status>** format. This will control how your flight plan is displayed to controllers.
