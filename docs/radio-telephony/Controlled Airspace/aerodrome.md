@@ -51,6 +51,14 @@ When reading back a PDC, only the following items must be transmitted by the pil
     **VOZ723**: "GROOK1 departure, WOL transition, squawk 4412, bay 32, VOZ723"  
 
 ## Pushback & Engine Start
+### Heavy/Super Categories
+Aircraft in the Heavy or Super categories must append their callsign with their wake turbulence category during the initial call with each Ground or Tower controller.
+
+!!! example
+    **QFA12**: "Sydney Ground, QFA12 Super, bay 34, request pushback"
+
+The category is not required during any subsequent call.
+
 ### Engine Start
 Authorisation to commence engine start is generally not required, unless advised on the ATIS, the ERSA, or [Local Procedures](../../../local-procedures/).
 
@@ -104,6 +112,11 @@ Helicopters can either ground taxi, air taxi, or air transit around an aerodrome
 | Air Taxi | Transit of a helicopter in ground effect and at less than 20kt |
 | Air Transit | Expeditious transit of a helicopter at or below 100ft AGL and at speeds greater than those during air taxiing |
 
+<figure markdown>
+![Different helicopter aerodrome movements](../img/heli_ops_manoeuvres.png){ width="600" }
+  <figcaption>Different helicopter aerodrome movements</figcaption>
+</figure>
+
 Helicopter pilots should generally nominate which method they would like to use, however air transits may not always be available.
 
 !!! example
@@ -112,6 +125,14 @@ Helicopter pilots should generally nominate which method they would like to use,
     **HSZ**: "Air taxi to the main pad, HSZ"
   
 ## Takeoff & Landing
+### Heavy/Super Categories
+Aircraft in the Heavy or Super categories must append their callsign with their wake turbulence category during the initial call with each Ground or Tower controller.
+
+!!! example
+    **QFA12**: "Sydney Tower, QFA12 Super, ready"
+
+The category is not required during any subsequent call.
+
 ### Reporting Ready
 After receiving unrestricted taxi instructions to the holding point and after completing all necessary pre-takeoff checks, report 'ready' to ADC.
 

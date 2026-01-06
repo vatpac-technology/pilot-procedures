@@ -52,25 +52,25 @@ VFR aircraft may plan to transit the AD CTR tracking coastal, generally not abov
 Expect to be issued with a clearance limit which will laterally separate you with aircraft operating at YPAD. You must not pass beyond the designated clearance limit until in receipt of an onwards clearance.
 
 !!! phraseology
-    **CEY:** "Adelaide Approach, CEY, Cessna 172, 4nm south of PNL, 1,000ft, received charlie, request coastal northbound"  
+    **CEY:** "Adelaide Approach, CEY, Cessna 172, 4nm south of PNL, `A010`, received charlie, request coastal northbound"  
     **AD TCU:** "CEY, Adelaide Approach, squawk 0542, remain clear of class C airspace"  
     **CEY:** "Squawk 0542, remain OCTA, CEY"   
 
-    **AD TCU:** "CEY, identified, cleared coastal offshore northbound, not above 500ft, clearance limit BTJ"  
-    **CEY:** "Cleared coastal offshore northbound, not above 500ft, clearance limit BTJ, CEY"
+    **AD TCU:** "CEY, identified, cleared coastal offshore northbound, not above `A005`, clearance limit BTJ"  
+    **CEY:** "Cleared coastal offshore northbound, not above `A005`, clearance limit BTJ, CEY"
 
 In the majority of cases, AD TCU will transfer pilots to AD ADC who will manage the transit of the extended runway centreline. Where a delay is required, pilots can expect to be instructed to hold at the clearance limit.
 
 !!! phraseology 
-    **CNY:** "Adelaide Tower, CNY, maintaining not above 500ft"  
+    **CNY:** "Adelaide Tower, CNY, maintaining not above `A005`"  
     **AD ADC:** "CNY, Adelaide Tower, hold at the clearance limit, expect onwards clearance in 5 minutes due inbound traffic"  
     **CNY:** "Hold at the clearance limit, CNY"  
 
 When onwards clearance is available, it will be issued by ADC.
 
 !!! phraseology 
-    **AD ADC:** "CNY, cancel clearance limit, track coastal offshore northbound, not above 500ft"  
-    **CNY:** "Cancel clearance limit, track coastal offshore northbound, not above 500ft, CNY"
+    **AD ADC:** "CNY, cancel clearance limit, track coastal offshore northbound, not above `A005`"  
+    **CNY:** "Cancel clearance limit, track coastal offshore northbound, not above `A005`, CNY"
 
 ### Hope Valley Route
 See [Hope Valley Route](../Metro%20D/parafield.md#hope-valley-route).

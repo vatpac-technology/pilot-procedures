@@ -9,7 +9,7 @@ Thunderstorms pose a major risk to all aircraft, with a high likelihood of heavy
 
 Pilots should ensure they utilise their aircraft's weather radar (if equipped) and avoid sharp, contouring returns by a safe distance (generally 10nm at lower levels, up to 30nm at higher levels). See [Radio Telephony](../radio-telephony/Controlled%20Airspace/enroute.md#route-deviation) for phraseology guidance.
 
-If a thunderstorm is present within 5nm of your intended approach or departure path, you should delay commencing the approach or the takeoff roll. Ensure that you communicate these requirements with ATS as soon as possible, as there are likely significant coordination and separation assurance requirements which will need to be conducted to provide you with a particular clearance.
+If a thunderstorm is present within 5nm of your intended approach or departure path, you should delay commencing the approach or the takeoff roll. Ensure that you communicate these requirements with ATC as soon as possible, as there are likely significant coordination and separation assurance requirements which will need to be conducted to provide you with a particular clearance.
 
 ## Icing
 Different operators and aircraft manufacturers define icing conditions differently, however a common marker is the presence of visibile moisture (rain, cloud, mist, etc) with an OAT of 5°C or below. When ice forms on an aircraft, it can add significant weight (sometimes exceeding the aircraft's MTOW). Ice forming on the wings and other aerofoils can disrupt laminar airflow and cause a large decrease in the amount of lift produced. This effect is extended to propellers and rotor blades, which will see a significant reduction in thrust as a result.

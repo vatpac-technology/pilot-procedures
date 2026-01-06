@@ -12,10 +12,10 @@ A SID is a charted procedure which directs the aircraft along a surveyed path. T
 
 SIDs are generally defined for controlled aerodromes, providing terrain & obstacle clearance, segregated traffic corridors, and airspace containment. They are also available at some uncontrolled aerodromes, providing terrain & obstacle clearance and sometimes providing a path clear of surrounding SUA.
 
-Height and speed restrictions may be present on different procedures to ensure that aircraft remain within the surveyed track. These must be complied with in CTA unless ATS explicitly cancels them.
+Height and speed restrictions may be present on different procedures to ensure that aircraft remain within the surveyed track. These must be complied with in CTA unless ATC explicitly cancels them.
 
 ### Transitions
-At some locations, a single SID procedure can terminate at various positions. In these situations, each terminating waypoint is defined as a *transition*. When ATS issue an airways clearance which includes the use of the SID, the applicable transition will be specified. It is important that the correct transition is selected in your aircraft's FMS/GPS.
+At some locations, a single SID procedure can terminate at various positions. In these situations, each terminating waypoint is defined as a *transition*. When ATC issue an airways clearance which includes the use of the SID, the applicable transition will be specified. It is important that the correct transition is selected in your aircraft's FMS/GPS.
 
 Procedures which terminate at a single waypoint do not specify a transition.
 
@@ -54,7 +54,7 @@ When visual by day, pilots may elect (or be instructed) to depart visually. In t
     **CFS ADC**: "QLK106D, runway 21, cleared for takeoff, make left turn"  
     **QLK106D**: "Runway 21, cleared for takeoff, make left turn, QLK106D"
 
-Pilots should climb to a safe altitude (generally 500ft AGL), then commence a turn as instructed by ATS and **intercept** their outbound track. When operating OCTA, pilots should generally depart via a leg of the standard circuit.
+Pilots should climb to a safe altitude (generally 500ft AGL), then commence a turn as instructed by ATC and **intercept** their outbound track. When operating OCTA, pilots should generally depart via a leg of the standard circuit.
 
 ## Other Departure Methods
 During times where a visual departure is not suitable but no SIDs are published for a particular aerodrome, pilots must depart in an appropriate way to ensure terrain & obstacle clearance.
@@ -63,10 +63,10 @@ During times where a visual departure is not suitable but no SIDs are published 
 Whilst hard to come by on VATSIM, in the real world, some operators publish climb procedures to be used by crew when departing at night or in bad weather. In CTA, a clearance must be obtained to track via these procedures.
 
 !!! tip
-    As ATS do not have access to these company procedures, ensure that you describe how you wish to track in detail, to give controllers a good understanding of your intentions and issue a clearance as such.
+    As ATC does not have access to these company procedures, ensure that you describe how you wish to track in detail, to give controllers a good understanding of your intentions and issue a clearance as such.
 
 ### Climb in the Circling Area
 The [circling area](./iaps.md#circling-areas) is a surveyed area surrounding each usable runway which provides pilots with terrain & obstacle clearance below the MSA. Pilots may elect to circle inside the circling area on climb to the MSA, then depart on track where a visual departure is not suitable.
 
 ### Engine Out Procedures
-Specific engine out departure procedures are available for most runways and used in the real world to ensure terrain & obstacle clearance in the event of an engine failure during the takeoff or departure phase. Pilots may elect to remain on their cleared SID or fly the published single engine procedure, informing ATS as soon as practical. These procedures can often be found alongside your generated takeoff performance data.
+Specific engine out departure procedures are available for most runways and used in the real world to ensure terrain & obstacle clearance in the event of an engine failure during the takeoff or departure phase. Pilots may elect to remain on their cleared SID or fly the published single engine procedure, informing ATC as soon as practical. These procedures can often be found alongside your generated takeoff performance data.
