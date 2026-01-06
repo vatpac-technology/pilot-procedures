@@ -59,7 +59,7 @@ If flight following is not available, the controller will advise *"surveillance 
     **GUN**: "VFC, identified, no reported traffic, area QNH 1022"  
     **VFC**: "Area QNH 1022, VFC"
 
-### Notifying ATS Provider of Changes
+### Notifying ATC of Changes
 Whilst receiving a surveillance service, you must notify ATC prior to changing frequencies or making any change to your track/level. See [Enroute Requests](#enroute-requests) for the phraseology to use.
 
 ### Cancelling the Service
