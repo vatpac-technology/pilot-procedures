@@ -8,8 +8,8 @@
 RWY 14R/32L is limited to aircraft aircraft lighter than 23,000kg MTOW, available by day only. 
 
 ### Departures
-VFR aircraft should expect a visual departure tracking via a [VFR departure gate](#departurearrival-gates.
-)
+VFR aircraft should expect a visual departure tracking via a [VFR departure gate](#departurearrival-gates).  
+
 IFR aircraft planned via **GUNKI**, **LOTGU**, **NUPTA**, **ODOGA**, **RUVKI**, **STARF**, **TOMOM** or **UNSAM** should expect the procedural SID terminating at that waypoint.
 
 ## Arrivals
