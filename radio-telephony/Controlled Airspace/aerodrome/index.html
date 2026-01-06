@@ -4077,30 +4077,30 @@
 <h3 id="route-clearances">Route Clearances</h3>
 <div class="admonition note">
 <p class="admonition-title">Format</p>
-<p>"<span class="placeholder">ATC Unit</span>, <span class="placeholder">Callsign</span>, to <span class="placeholder">Destination</span>, request clearance"</p>
+<p>"<span class="placeholder"><abbr title="Air Traffic Control">ATC</abbr> Unit</span>, <span class="placeholder">Callsign</span>, to <span class="placeholder">Destination</span>, request clearance"</p>
 </div>
-<p>ATC will respond with an airways clearance. During your readback, you should advise them of your parking bay (if known).</p>
+<p><abbr title="Air Traffic Control">ATC</abbr> will respond with an airways clearance. During your readback, you should advise them of your parking bay (if known).</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><em>QFA421 is an <abbr title="Instrument Flight Rules">IFR</abbr> B738</em><br>
 <strong>QFA421</strong>: "Sydney Delivery, QFA421, to YMML, request clearance"<br>
-<strong>SY <abbr title="Airways Clearance Delivery">ACD</abbr></strong>: "QFA421, cleared to YMML via <abbr title="Melbourne (Wollongong) Centre">WOL</abbr>, flight planned route, runway 16R, GROOK1 departure <abbr title="Melbourne (Wollongong) Centre">WOL</abbr> transition, climb via <abbr title="Standard Instrument Departure">SID</abbr> to <code>A050</code>, squawk 3231, departure frequency 129.7"<br>
+<strong>SY <abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr></strong>: "QFA421, cleared to YMML via <abbr title="Melbourne (Wollongong) Centre">WOL</abbr>, flight planned route, runway 16R, GROOK1 departure <abbr title="Melbourne (Wollongong) Centre">WOL</abbr> transition, climb via <abbr title="Standard Instrument Departure">SID</abbr> to <code>A050</code>, squawk 3231, departure frequency 129.7"<br>
 <strong>QFA421</strong>: "Cleared to YMML via <abbr title="Melbourne (Wollongong) Centre">WOL</abbr>, flight planned route, runway 16R, GROOK1 departure <abbr title="Melbourne (Wollongong) Centre">WOL</abbr> transition, climb via <abbr title="Standard Instrument Departure">SID</abbr> to <code>A050</code>, squawk 3231, departure frequency 129.7, bay 3, QFA421"  </p>
 <p><em>TEK is a <abbr title="Visual Flight Rules">VFR</abbr> Cherokee</em><br>
 <strong>TEK</strong>: "Sydney Delivery, TEK, to YCNK, request clearance"<br>
-<strong>SY <abbr title="Airways Clearance Delivery">ACD</abbr></strong>: "TEK, cleared to YCNK via <abbr title="Sydney Heads">SYHD</abbr>, flight planned route, runway 16L, climb to <code>A035</code>, squawk 0542, departure frequency 123.0"<br>
+<strong>SY <abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr></strong>: "TEK, cleared to YCNK via <abbr title="Sydney Heads">SYHD</abbr>, flight planned route, runway 16L, climb to <code>A035</code>, squawk 0542, departure frequency 123.0"<br>
 <strong>TEK</strong>: "Cleared to YCNK via <abbr title="Sydney Heads">SYHD</abbr>, flight planned route, runway 16L, climb to <code>A035</code>, squawk 0542, departure frequency 123.0, TEK"</p>
 </div>
 <h3 id="circuits">Circuits</h3>
 <div class="admonition note">
 <p class="admonition-title">Format</p>
-<p>"<span class="placeholder">ATC Unit</span>, <span class="placeholder">Callsign</span>, for circuits, request clearance"</p>
+<p>"<span class="placeholder"><abbr title="Air Traffic Control">ATC</abbr> Unit</span>, <span class="placeholder">Callsign</span>, for circuits, request clearance"</p>
 </div>
-<p>In response, ATC will issue a clearance to operate in the circuit area, not above an appropriate altitude. A squawk code will not always be issued.</p>
+<p>In response, <abbr title="Air Traffic Control">ATC</abbr> will issue a clearance to operate in the circuit area, not above an appropriate altitude. A squawk code will not always be issued.</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><strong>LKU</strong>: "Melbourne Delivery, LKU, for circuits, request clearance"<br>
-<strong>ML <abbr title="Airways Clearance Delivery">ACD</abbr></strong>: "LKU, cleared to operate in the circuit area, not above <code>A020</code>, squawk 0100"<br>
+<strong>ML <abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr></strong>: "LKU, cleared to operate in the circuit area, not above <code>A020</code>, squawk 0100"<br>
 <strong>LKU</strong>: "Cleared to operate in the circuit area, not above <code>A020</code>, squawk 0100, LKU"</p>
 </div>
 <h3 id="pdcs">PDCs</h3>
@@ -4118,7 +4118,7 @@
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><strong>VOZ723</strong>: "Sydney Delivery, VOZ723, <abbr title="Pre-Departure Clearance">PDC</abbr> readback"<br>
-<strong>SY <abbr title="Airways Clearance Delivery">ACD</abbr></strong>: "VOZ723"<br>
+<strong>SY <abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr></strong>: "VOZ723"<br>
 <strong>VOZ723</strong>: "GROOK1 departure, <abbr title="Melbourne (Wollongong) Centre">WOL</abbr> transition, squawk 4412, bay 32, VOZ723"  </p>
 </div>
 <h2 id="pushback-engine-start">Pushback &amp; Engine Start</h2>
@@ -4133,7 +4133,7 @@
 <p>Authorisation to commence engine start is generally not required, unless advised on the <abbr title="Automatic Terminal Information Service">ATIS</abbr>, the <abbr title="Enroute Supplement Australia">ERSA</abbr>, or <a href="../../../local-procedures/">Local Procedures</a>.</p>
 <div class="admonition note">
 <p class="admonition-title">Format</p>
-<p>"<span class="placeholder">ATC Unit</span>, <span class="placeholder">Callsign</span>, <span class="placeholder">Parking Position</span>, request engine start"</p>
+<p>"<span class="placeholder"><abbr title="Air Traffic Control">ATC</abbr> Unit</span>, <span class="placeholder">Callsign</span>, <span class="placeholder">Parking Position</span>, request engine start"</p>
 </div>
 <h3 id="pushback">Pushback</h3>
 <div class="admonition note">
@@ -4141,13 +4141,13 @@
 <p>"<span class="placeholder">Callsign</span>, <span class="placeholder">Parking Position</span>, request pushback"</p>
 </div>
 <h3 id="standby-for-ground-procedures">Standby for Ground Procedures</h3>
-<p>At certain major aerodromes, <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr> frequency congestion is managed by requiring pilots to request pushback or taxi on a dedicated frequency. This is generally <abbr title="Airways Clearance Delivery">ACD</abbr> or, at Sydney, Coordinator.</p>
+<p>At certain major aerodromes, <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr> frequency congestion is managed by requiring pilots to request pushback or taxi on a dedicated frequency. This is generally <abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr> or, at Sydney, Coordinator.</p>
 <p>Pilots will be notified of these procedures by the inclusion of <code>WHEN READY FOR PUSHBACK OR TAXI, CONTACT [STATION] ON [FREQUENCY]</code> on the <abbr title="Automatic Terminal Information Service">ATIS</abbr>.</p>
-<p>Pilots of aircraft requiring pushback must contact the applicable station when ready to commence push. Pilots of aircraft <strong>not</strong> requiring pushback must contact the station when ready to taxi. Pending controller workload and aerodrome congestion, the pilot will either be instructed to remain on the Coordinator/<abbr title="Airways Clearance Delivery">ACD</abbr> frequency (and informed of any expected delay) or told to <em>'standby for ground'</em>. Pilots must read this instruction back, then switch to the applicable <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr> frequency and <strong>monitor</strong> the frequency. Pilots must <strong>not contact</strong> the controller directly, the controller will initiate contact with the pilot when they are able to.</p>
+<p>Pilots of aircraft requiring pushback must contact the applicable station when ready to commence push. Pilots of aircraft <strong>not</strong> requiring pushback must contact the station when ready to taxi. Pending controller workload and aerodrome congestion, the pilot will either be instructed to remain on the Coordinator/<abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr> frequency (and informed of any expected delay) or told to <em>'standby for ground'</em>. Pilots must read this instruction back, then switch to the applicable <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr> frequency and <strong>monitor</strong> the frequency. Pilots must <strong>not contact</strong> the controller directly, the controller will initiate contact with the pilot when they are able to.</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><strong>VOZ851</strong>: "Sydney Coordinator, VOZ851, bay 33, request pushback"<br>
-<strong>SY COORD</strong>: "VOZ851, standby for ground, 121.7"<br>
+<strong>SY <abbr title="Coordinator (Sydney)">COORD</abbr></strong>: "VOZ851, standby for ground, 121.7"<br>
 <strong>VOZ851</strong>: "Standby for ground, 121.7, VOZ851"  </p>
 <p><em>VOZ851 switches to 121.7 and <strong>waits for the controller to contact them</strong>.</em></p>
 <p><strong>SY <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr></strong>: "VOZ851, pushback approved"<br>
@@ -4159,7 +4159,7 @@
 <p class="admonition-title">Format</p>
 <p>"<span class="placeholder">Callsign</span>, <span class="placeholder"><abbr title="Automatic Terminal Information Service">ATIS</abbr> Code</span>, request taxi, <span class="optional">[<span class="placeholder">Desired Holding Point</span>]</span>"</p>
 </div>
-<p>In response, ATC will provide taxi instructions to the runway or to an intermediate point if required. Where unrestricted taxi to the runway (or your parking bay) is not immediately available, you may receive instructions to hold short of a position or give way to other aircraft.</p>
+<p>In response, <abbr title="Air Traffic Control">ATC</abbr> will provide taxi instructions to the runway or to an intermediate point if required. Where unrestricted taxi to the runway (or your parking bay) is not immediately available, you may receive instructions to hold short of a position or give way to other aircraft.</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><strong>JST512</strong>: "JST512, received F, request taxi, holding point B4 or better"<br>
@@ -4217,24 +4217,24 @@
 <p>After receiving unrestricted taxi instructions to the holding point and after completing all necessary pre-takeoff checks, report 'ready' to <abbr title="Aerodrome Control (Tower Controller)">ADC</abbr>.</p>
 <div class="admonition note">
 <p class="admonition-title">Format</p>
-<p>"<span class="placeholder">ATC Unit</span>, <span class="placeholder">Callsign</span>, ready"</p>
+<p>"<span class="placeholder"><abbr title="Air Traffic Control">ATC</abbr> Unit</span>, <span class="placeholder">Callsign</span>, ready"</p>
 </div>
 <div class="admonition warning">
 <p class="admonition-title">Important</p>
 <p>In Australia, only international aircraft will be explicitly transferred from <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr> to <abbr title="Aerodrome Control (Tower Controller)">ADC</abbr> (and vice versa). Domestic aircraft should switch to the <abbr title="Aerodrome Control (Tower Controller)">ADC</abbr> frequency without direction from <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr> when approaching the instructed holding point and when ready for departure.</p>
 </div>
 <h3 id="takeoff-clearance">Takeoff Clearance</h3>
-<p>ATC may provide departure instructions with a takeoff clearance, including an assigned heading or a turn instruction.</p>
+<p><abbr title="Air Traffic Control">ATC</abbr> may provide departure instructions with a takeoff clearance, including an assigned heading or a turn instruction.</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p>"RXA6166, assigned heading left 230, runway 34L, cleared for takeoff"</p>
 </div>
 <div class="admonition warning">
 <p class="admonition-title">Important</p>
-<p>You must obtain departure instructions prior to commencing your takeoff roll if you have been cleared via a radar <abbr title="Standard Instrument Departure">SID</abbr>. If ATC fails to provide relevant instructions, it is your responsibility to query them.</p>
+<p>You must obtain departure instructions prior to commencing your takeoff roll if you have been cleared via a radar <abbr title="Standard Instrument Departure">SID</abbr>. If <abbr title="Air Traffic Control">ATC</abbr> fails to provide relevant instructions, it is your responsibility to query them.</p>
 </div>
 <h3 id="landing-clearance">Landing Clearance</h3>
-<p>ATC may provide runway vacating instructions, wind information, and/or other relevant information with a landing clearance.</p>
+<p><abbr title="Air Traffic Control">ATC</abbr> may provide runway vacating instructions, wind information, and/or other relevant information with a landing clearance.</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><strong>SY <abbr title="Aerodrome Control (Tower Controller)">ADC</abbr></strong>: "QLK52D, the crossing runway is available to vacate, wind 180 degrees at 18kt, runway 16R, cleared to land"<br>
@@ -4242,7 +4242,7 @@
 </div>
 <h3 id="outside-the-manoeuvring-area">Outside the Manoeuvring Area</h3>
 <p>Helicopters and some light aircraft may operate from areas outside the manoeuvring area, such as hospital helipads or small airstrips inside the <abbr title="Control Zone">CTR</abbr>, or other locations on the aerodrome. A takeoff/landing clearance <strong>will not</strong> be provided in these situations but approval must be sought to become airborne inside the control zone.</p>
-<p>After obtaining an airways clearance, ATC will instruct you to <em>'report airborne'</em> or <em>'report on the ground'</em>.</p>
+<p>After obtaining an airways clearance, <abbr title="Air Traffic Control">ATC</abbr> will instruct you to <em>'report airborne'</em> or <em>'report on the ground'</em>.</p>
 <div class="admonition example">
 <p class="admonition-title">Example</p>
 <p><em>RSCU201 is a <abbr title="Visual Flight Rules">VFR</abbr> helicopter at St George Hospital (inside the Sydney <abbr title="Control Zone">CTR</abbr>)</em><br>
@@ -4267,7 +4267,7 @@
 <p>"LKU, make left circuit, runway 29L, cleared for takeoff"</p>
 </div>
 <h3 id="downwind-report">Downwind report</h3>
-<p>You must report downwind on each circuit, to advise ATC of your intentions.</p>
+<p>You must report downwind on each circuit, to advise <abbr title="Air Traffic Control">ATC</abbr> of your intentions.</p>
 <div class="admonition note">
 <p class="admonition-title">Format</p>
 <p>"<span class="placeholder">Callsign</span>, downwind, <span class="placeholder">Intentions</span>"</p>
