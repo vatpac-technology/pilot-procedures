@@ -11,7 +11,7 @@
 *[ATS]: Air Traffic Services
 *[ATSU]: Air Traffic Service Unit
 *[ATC]: Air Traffic Control
-*[TMA]: Terminal Maneuvering Area
+*[TMA]: Terminal Manoeuvring Area
 *[FIR]: Flight Information Region
 *[SSR]: Secondary Surveillance Radar
 *[LL]: Lower Level
