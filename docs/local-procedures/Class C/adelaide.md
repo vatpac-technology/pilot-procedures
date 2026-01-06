@@ -56,7 +56,7 @@ Expect to be issued with a clearance limit which will laterally separate you wit
     **AD TCU:** "CEY, Adelaide Approach, squawk 0542, remain clear of class C airspace"  
     **CEY:** "Squawk 0542, remain OCTA, CEY"   
 
-    **AD TCU:** "CEY, identified, cleared coastal offshore northbound, not above `A005``, clearance limit BTJ"  
+    **AD TCU:** "CEY, identified, cleared coastal offshore northbound, not above `A005`, clearance limit BTJ"  
     **CEY:** "Cleared coastal offshore northbound, not above `A005`, clearance limit BTJ, CEY"
 
 In the majority of cases, AD TCU will transfer pilots to AD ADC who will manage the transit of the extended runway centreline. Where a delay is required, pilots can expect to be instructed to hold at the clearance limit.
