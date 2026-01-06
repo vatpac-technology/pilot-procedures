@@ -9,7 +9,7 @@ Some airspace is designated for particular agencies or use cases, and other airc
 
 SUA is displayed on most navigation charts, with more details contained in the ERSA SUA section. They are often established to keep aircraft clear of military areas, hazards to flight, or sensitive facilities. In a number of cases, SUA can be temporarily activated, so has little relevance to VATSIM operations. However, pilots may wish to observe the flight planning and navigation requirements associated with them.
 
-Some SUA is used for pre-planned VSOA activities. These airspace blocks are generally released by civil ATS and restrictions may apply to non-participating aircraft, with associated reroutes and delays. Pilots must comply with any ATS instructions and communicate any operationally-relevant items which may impact their flight around or through the SUA.
+Some SUA is used for pre-planned VSOA activities. These airspace blocks are generally released by civil ATS units and restrictions may apply to non-participating aircraft, with associated reroutes and delays. Pilots must comply with any ATC instructions and communicate any operationally-relevant items which may impact their flight around or through the SUA.
 
 ### Airspace Boundaries
 The boundary between two classes of airspace takes the form of the *least* restrictive class.
@@ -36,4 +36,4 @@ Restricted airspace is classified based on three levels of severity, which impac
 ## Military Operating Areas
 Military operating areas are a subset of danger areas which are established to facilitate a range of military operations. They are labelled with the **M** prefix (e.g. M550, which makes up part of the military airspace offshore from YWLM). Inside Australian territory, approval *is* required to enter an MOA.
 
-On VATSIM, MOAs are generally assumed to be deactivated unless being actively used for a military exercise or other purpose. ATS (when online) will generally try to reroute civil aircraft around these activities or will otherwise organise a transit clearance from the station responsible for the airspace.
+On VATSIM, MOAs are generally assumed to be deactivated unless being actively used for a military exercise or other purpose. ATC (when online) will generally try to reroute civil aircraft around these activities or will otherwise organise a transit clearance from the station responsible for the airspace.
