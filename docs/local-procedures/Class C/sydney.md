@@ -7,13 +7,26 @@
 ## Taxiing
 There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC East controls east of RWY 34L/16R.
 
+ADC East (when online) controls the taxiways surrounding RWY 16L/34R east of Taxiway **C**. See [Runway 16L/34R](#runway-16l34r-procedures) for details.
+
+<figure markdown>
+![YSSY Manoeuvring Area](../img/yssymaown.png){ width="350" }
+  <figcaption>Manoeuvring Area</figcaption>
+</figure>
+
 ### Standard Taxi Routes
 Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and streamline traffic flow. Except where other explicit taxi instructions are issued, pilots should follow the routes described below.
 
 !!! warning "Important"
-    SMC may issue instructions that differ from these standard taxi routes. Do not follow the standard routes if you are instructed otherwise.
+    SMC may issue instructions that differ from these standard taxi routes. Always comply with SMC's instructions.
 
     All runway crossings require a specific clearance, even if standard taxi routes are used.
+
+#### General Flow
+<figure markdown>
+![Caption](../img/yssy_taxi_routes.png){ width="400" }
+    <figcaption>Sydney Standard Taxi Routes</figcaption>
+</figure>
 
 | Taxiway | Direction of Travel |
 | ------- | ------------------- |
@@ -22,11 +35,6 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and st
 | **B10** | Eastbound (except holding point for 34L) |
 | **L** | Westbound |
 
-<figure markdown>
-![Caption](../img/yssy_taxi_routes.png){ width="400" }
-    <figcaption>Sydney Standard Taxi Routes</figcaption>
-</figure>
-
 [Arrivals on RWY 16L/34R](#runway-16l34r-procedures) shall follow standard taxi routes when vacating the runway. These taxi routes **should be performed without prompting** by ADC.
 
 | Landing Runway | Route |
@@ -34,9 +42,15 @@ Standard Taxi Routes are utilised at Sydney to simplify taxi instructions and st
 | **RWY 16L** | T, L |
 | **RWY 34R** | T2, U, U1, L, or<br>U1, L |
 
-Additional standard taxi routes exist in and out of some domestic aprons.
+#### Domestic Aprons
+Additional standard taxi routes exist in and out of the domestic aprons.
 
 === "Arrivals"
+
+    <figure markdown>
+	![YSSY Apron Route](../img/yssy_apron_routes_arrivals.png){ width="500" }
+	    <figcaption>Standard Apron Taxi Routes (Arrivals)</figcaption>
+	</figure>
 
     | Parking Position | Route |
     | --- | --- |
@@ -48,10 +62,18 @@ Additional standard taxi routes exist in and out of some domestic aprons.
     | **Taxiway C (Bays 57, 59)** | B, B4 |
     | **DOM2 (All bays except below)** | B, B4, C2 |
     | **DOM2 (Bays 43, 45A)** | B, B4 |
-    | **DOM2 - A330 aircraft (Bays 39, 45)** | B, G, DOM2 |
+    | **DOM2 - A330 aircraft (Bays 39, 45) <em>not pictured</em>** | B, G, DOM2 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | B, G |
+
+    !!! example
+        If an aircraft vacates runway 34L for bay 52 and is instructed to *'cross runway 25, taxi to the bay'*, they would be expected to taxi via **B**, **B4**, and **C2**.
     
 === "Departures"
+
+	<figure markdown>
+	![YSSY Apron Route](../img/yssy_apron_routes_departures.png){ width="500" }
+	  <figcaption>Standard Apron Taxi Routes (Departures)</figcaption>
+	</figure>
 
     | Parking Position | Departure Runway | Route |
     | --- | --- | --- |
@@ -61,6 +83,9 @@ Additional standard taxi routes exist in and out of some domestic aprons.
     | **DOM2 (Bays 43, 45A)** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | B4<br>DOM2, C, B10<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
     | **DOM2 - A330 aircraft (Bays 39, 45)** | 16R<br>16L<br>34L<br>34R | DOM2, G, B<br>DOM2, C, B10<br>DOM2, C, L, A, A6<br>DOM2, C, B10, S, T, T6 |
     | **DOM3, DOM3A, DOM3B, DOM4, DOM5 & DOM6** | 16R<br>16L<br>34L - Prop<br>34L - Jet<br>34R | G<br>G, C, B10<br>G, C, B10<br>G, C, L, A, A6<br>G, C, B10, S, T, T6 |
+
+    !!! example
+        If a jet aircraft from bay 6 for departure from runway 34L is instructed to *'cross runway 25, hold short runway 34L'*, they would be expected to taxi via **C** and **L**.
 
 ### Runway 16L/34R Procedures
 RWY 16L/34R is controlled by a separate ADC position (SY-E_TWR) which covers the duties of both SMC and ADC east of taxiway C and south of B10.
@@ -147,7 +172,7 @@ When instructed, pilots must switch to SMC and **monitor** the frequency. **Do n
 There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time has passed since the frequency transfer and no contact has been made by the controller. During busy periods with high frequency congestion, delays may be lengthy.
 
 ### Runway 34L Intersection Departures
-Due to noise-abatement rules, intersection departures from RWY 34L are only available for **Non-Jet** aircraft. However, at pilot request, ATS *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
+Due to noise-abatement rules, intersection departures from RWY 34L are only available for **Non-Jet** aircraft. However, at pilot request, ATC *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
 
 ## Arrivals
 ILS, GLS, and RNP approaches are available to all runways. During PROPS in VMC, [Independent Visual Approaches](#independent-visual-approaches-ivas) may be utilised. Pilots who wish to conduct a GLS must request that approach on first contact.
@@ -208,9 +233,10 @@ Most STARs terminate with radar vectors from ATC and will generally produce a ro
 ### Sydney Director
 The Sydney Director positions (SY-D_APP & SY-DE_APP) are responsible for providing vectors to final for inbound aircraft.
 
-On first contact with Director, you should report "RUNWAY XX IN SIGHT" if you can see your assigned runway, or "VISUAL" if you can see the ground/water. 
+On first contact with Director, you should report "*RUNWAY XX IN SIGHT*" if you can see your assigned runway, or "*VISUAL*" if you can see the ground/water. 
 
 ATC can only clear you for an IVA when one of the below conditions has been met:
+
 - you have your assigned runway in sight, or
 - you are already established on the localiser/final approach course and are visual.
 
@@ -302,7 +328,7 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
     **XWY**: "Cleared Harbour Bridge 5 Inbound, XWY"  
 
 !!! note
-    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATS, unless advised otherwise.
+    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATC, unless advised otherwise.
 
 #### ADC Routes
 For the following routes, pilots must contact **SY ADC** directly.
@@ -364,7 +390,7 @@ Expanded details and diagrams are available in the `YSSY ERSA FAC` and *Sydney G
     VFR aircraft are not separated from other VFR aircraft in Class C airspace. Pilots must maintain their own separation with other aircraft operating in the vicinity. ATC will provide basic traffic information on these aircraft.
 
 #### Airways Clearance Requests
-Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate TCU frequency) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
+Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate frequency if they are offline) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
 
 Pilots must remain in Class G airspace until in receipt of a clearance.
 

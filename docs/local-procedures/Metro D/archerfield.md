@@ -19,7 +19,7 @@ When AF ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions. All aircraft require a clearance to cross RWY 04L & 04R on taxiway B and RWY 10L on A8/B8. 
 
-Aircraft may taxi past the undershoot of RWY 28R on the southern apron without clearance, provided the pilot is satisfied that no risk of collision exists. 
+Aircraft may taxi past the undershoot of RWY 28L on the southern apron without clearance, provided the pilot is satisfied that no risk of collision exists. 
 
 !!! tip
     The YBAF Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/archerfield-manoeuvring-area-map).
@@ -88,7 +88,7 @@ Archerfield has three helipads located around the aerodrome:
 - The **Queensland Government Air facility** used by rescue helicopters, north of Taxiway B5
 
 !!! note
-    Both the Northern and Central helipads are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance from AF ADC. Helicopters operating on other surfaces outside the maneuvering areas will be instructed to "report airborne" or "report on the ground" so the controllers knows when they are active/no longer active in their airspace.
+    Both the Northern and Central helipads are inside the manoeuvring area and treated like a runway, requiring a takeoff and landing clearance from AF ADC. Helicopters operating on other surfaces outside the manoeuvring areas will be instructed to "report airborne" or "report on the ground" so the controllers knows when they are active/no longer active in their airspace.
 
 #### Training Areas
 There are 3 designated helicopter training areas which can be used for training operations in ground effect and circuits. The active helicopter training area shall be nominated on the ATIS.

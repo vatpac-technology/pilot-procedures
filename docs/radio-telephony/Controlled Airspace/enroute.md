@@ -5,13 +5,15 @@
 --8<-- "includes/abbreviations.md"
 
 ## Frequency Transfers
-After being instructed to contact an adjacent ATC unit, you must report your assigned level.
+After being instructed to contact an adjacent ATC unit, you must report your assigned level and assigned heading (if on a vector).
 
 !!! example
     "Melbourne Centre, QFA773, climbing to `F280`"
 
-!!! note
-    You should not report your *passing* level unless you have not yet been identified and you expect the new controller to have surveillance coverage at your position. The controller will ask you to verify your level in this case, so if in doubt, leave it out!
+!!! tip
+    A common mistake made by new pilots is to report their position, squawk code, or passing level. These items are not required unless specifically requested and can lead to unnecessary frequency congestion.
+    
+    If in doubt, leave it out!
 
 ## STAR Clearance
 When issued a STAR clearance, you must read it back in its entirety, including any assigned runway and level instruction.
@@ -35,7 +37,7 @@ In controlled airspace, you must obtain approval to deviate from your cleared ro
     **RXA6166**: "Cleared up to 10 miles left of route, RXA6166"
 
 !!! note
-    In busy airspace (such as the terminal area), ATS may request that you fly a specific heading rather than a block route offset. In these situations, pilots must request any additional heading changes as deemed necessary and report when the vector is no longer required.
+    In busy airspace (such as the terminal area), ATC may request that you fly a specific heading rather than a block route offset. In these situations, pilots must request any additional heading changes as deemed necessary and report when the vector is no longer required.
 
 ### Change of Level
 Short, straight-forward requests like a change of level do not require a heads up to the controller.
