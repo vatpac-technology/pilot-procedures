@@ -390,7 +390,7 @@ Expanded details and diagrams are available in the `YSSY ERSA FAC` and *Sydney G
     VFR aircraft are not separated from other VFR aircraft in Class C airspace. Pilots must maintain their own separation with other aircraft operating in the vicinity. ATC will provide basic traffic information on these aircraft.
 
 #### Airways Clearance Requests
-Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate TCU frequency) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
+Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate frequency if they are offline) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
 
 Pilots must remain in Class G airspace until in receipt of a clearance.
 
