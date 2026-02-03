@@ -45,7 +45,10 @@ The circuit altitude varies with aircraft type.
 | Helicopter | `A010` |
 
 ## VFR Routes
-Details of each VFR route are found on the Darwin VTC. VFR pilots should plan via one of the routes when inbound to or outbound from YPDN, unless tracking outbound/inbound between the 225 and 359 radials. In these situations, pilots should plan direct to/from YPDN.
+Details of each VFR route are found on the Darwin VTC. VFR pilots should plan via one of the routes when inbound to or outbound from YPDN.
+
+### Marrara Coded Clearance
+VFR aircraft arriving via LPT may be cleared for a visual approach via a **'Marrara Downwind'** clearance. Aircraft that area cleared for a Marrara Downwind must track from LPT towards *Marrara Stadium* before turning to joing a left (Runway 11) or right (Runway 29) downwind.
 
 ## LAHSO
 LAHSO is the independent operation of two crossing runways for arrivals and departures. It is a complicated procedure which is rarely used, but occassionally run during VATPAC's busiest events featuring YPDN. Strict pilot requirements apply during LAHSO.
