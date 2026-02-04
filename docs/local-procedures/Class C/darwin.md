@@ -50,6 +50,35 @@ Details of each VFR route are found on the Darwin VTC. VFR pilots should plan vi
 ### Marrara Coded Clearance
 VFR aircraft arriving via LPT may be cleared for a visual approach via a **'Marrara Downwind'** clearance. Aircraft that area cleared for a Marrara Downwind must track from LPT towards *Marrara Stadium* before turning to joing a left (Runway 11) or right (Runway 29) downwind.
 
+## Helicopter Operations
+VFR helicopters are generally processed via the TALC HEAD Helicopter route. There is both an inbound and outbound route. This route is delivered as a coded clearance designed to separate helicopters from fixed-wing aircraft.  
+
+!!! tip
+    Refer to the YPDN ERSA FAC for details of the coded clearance, including implied altitude restrictions.
+
+### Departures
+DN ACD will issue airways clearance for all helicopters, including those on a helicopter route.
+
+| Route | Waypoints |
+| --- | --- |
+| TALC HEAD OUTBOUND | `WOW TCH` |
+
+!!! phraseology
+    **QRS:** "Darwin Delivery, helicopter QRS, for the Talc Head outbound, request clearance"  
+    **DN ACD:** "QRS, Darwin Delivery, cleared Talc Head outbound, squawk 0215, departure frequency 134.1"  
+    **QRS:** "Cleared Talc Head outbound, squawk 0215, departure frequency 134.1, QRS"
+
+### Arrivals
+VFR helicopters are generally processed via by the TALC HEAD Inbound route.  IFR helicopters should conform to fixed wing ops and expect to be processed via an appropriate runway.
+
+!!! phraseology
+    **QRS:** "Darwin Tower, helicopter QRS, WSM, `A005`, received Tango, request Talc Head Inbound"  
+    **DN ADC:** "QRS, Darwin Tower, cleared Talc Head Inbound, report at WOW."  
+    **QRS:** "Cleared Talc Head Inbound, QRS"  
+
+### Hospital Helipads
+The Darwin CTR contains the helipad at the Royal Darwin Hospital (YXDH). This pad sits outside the manoeuvring area, so no takeoff or landing clearances will be issued. Instead, helicopters will be instructed to report airborne or report on the ground.
+
 ## LAHSO
 LAHSO is the independent operation of two crossing runways for arrivals and departures. It is a complicated procedure which is rarely used, but occassionally run during VATPAC's busiest events featuring YPDN. Strict pilot requirements apply during LAHSO.
 
