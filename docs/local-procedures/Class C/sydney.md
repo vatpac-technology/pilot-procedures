@@ -10,8 +10,8 @@ There are two SMC positions at Sydney. SMC West controls aprons and taxiways wes
 ADC East (when online) controls the taxiways surrounding RWY 16L/34R east of Taxiway **C**. See [Runway 16L/34R](#runway-16l34r-procedures) for details.
 
 <figure markdown>
-![YSSY Maneuvering Area](../img/yssymaown.png){ width="350" }
-  <figcaption>Maneuvering Area</figcaption>
+![YSSY Manoeuvring Area](../img/yssymaown.png){ width="350" }
+  <figcaption>Manoeuvring Area</figcaption>
 </figure>
 
 ### Standard Taxi Routes
@@ -172,7 +172,7 @@ When instructed, pilots must switch to SMC and **monitor** the frequency. **Do n
 There may be a delay on the SMC frequency before the controller contacts you. Pilots should only initiate contact with SMC if a significant amount of time has passed since the frequency transfer and no contact has been made by the controller. During busy periods with high frequency congestion, delays may be lengthy.
 
 ### Runway 34L Intersection Departures
-Due to noise-abatement rules, intersection departures from RWY 34L are only available for **Non-Jet** aircraft. However, at pilot request, ATS *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
+Due to noise-abatement rules, intersection departures from RWY 34L are only available for **Non-Jet** aircraft. However, at pilot request, ATC *may* waive this requirement due to the lack of noise sensitive residents in the virtual world.
 
 ## Arrivals
 ILS, GLS, and RNP approaches are available to all runways. During PROPS in VMC, [Independent Visual Approaches](#independent-visual-approaches-ivas) may be utilised. Pilots who wish to conduct a GLS must request that approach on first contact.
@@ -233,9 +233,10 @@ Most STARs terminate with radar vectors from ATC and will generally produce a ro
 ### Sydney Director
 The Sydney Director positions (SY-D_APP & SY-DE_APP) are responsible for providing vectors to final for inbound aircraft.
 
-On first contact with Director, you should report "RUNWAY XX IN SIGHT" if you can see your assigned runway, or "VISUAL" if you can see the ground/water. 
+On first contact with Director, you should report "*RUNWAY XX IN SIGHT*" if you can see your assigned runway, or "*VISUAL*" if you can see the ground/water. 
 
 ATC can only clear you for an IVA when one of the below conditions has been met:
+
 - you have your assigned runway in sight, or
 - you are already established on the localiser/final approach course and are visual.
 
@@ -327,7 +328,7 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
     **XWY**: "Cleared Harbour Bridge 5 Inbound, XWY"  
 
 !!! note
-    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATS, unless advised otherwise.
+    Where a frequency transfer point is specified, pilots must perform the nominated transfer without prompting from ATC, unless advised otherwise.
 
 #### ADC Routes
 For the following routes, pilots must contact **SY ADC** directly.
@@ -389,7 +390,7 @@ Expanded details and diagrams are available in the `YSSY ERSA FAC` and *Sydney G
     VFR aircraft are not separated from other VFR aircraft in Class C airspace. Pilots must maintain their own separation with other aircraft operating in the vicinity. ATC will provide basic traffic information on these aircraft.
 
 #### Airways Clearance Requests
-Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate TCU frequency) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
+Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate frequency if they are offline) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
 
 Pilots must remain in Class G airspace until in receipt of a clearance.
 

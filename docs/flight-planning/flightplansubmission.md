@@ -58,7 +58,7 @@ See [Custom Waypoints](#custom-waypoints) for details on how to format custom po
     **Remarks**: `DEP/2730S15327E RMK/2730S15327E IS DUSTBOWL STATION`
 
 ## Equipment Codes
-The equipment and transponder codes you file in your flight plan will impact how ATS process your navigation requirements, and control how you appear on their radar scope. **Equipment** codes refer to the navigational equipment your aircraft is equipped with. **Transponder** codes refer to the type of transponder and ADS-B system installed in your aircraft.
+The equipment and transponder codes you file in your flight plan will impact how the ATS provider processes your navigation requirements and how you appear on the ATC radar scope. **Equipment** codes refer to the navigational equipment your aircraft is equipped with. **Transponder** codes refer to the type of transponder and ADS-B system installed in your aircraft.
 
 A full list of equipment codes can be obtained through various online sources (searching for *ICAO* equipment codes - not FAA), with the most commonly used summarised below:
 
@@ -109,10 +109,10 @@ Whatever route you file in your flight plan **must match** what you load into yo
 ### Custom Waypoints
 Custom waypoints can be included in your route by referencing lat/long positions or bearing/distance information from a known waypoint.
 
-Lat/long positions should take the format of: **DDHHCDDHHC**, where:
+Lat/long positions should take the format of: **DDMMCDDMMC**, where:
 
 - **DD** = Degrees
-- **HH** = Hours
+- **MM** = Minutes
 - **C** = Cardinal direction (i.e. N, S, E, W)
 
 !!! example
@@ -125,7 +125,7 @@ Positions can also be expressed with reference to a known position, using the fo
 - **DDD** = Distance from the known waypoint (as a three digit number)
 
 !!! example
-    A position **25nm on the 045 bearing** (northeast) from YSSY would be expressed as **YSSY045025**.
+    A position **25nm on the 045 bearing** (northeast) from **YSSY** would be expressed as **YSSY045025**.
 
 ## Remarks
 ### Airwork and Planned Delays
@@ -139,7 +139,7 @@ During training or special operation flights, it may be necessary to conduct air
 !!! example
     A pilot is conducting Search and Rescue operations within a 10nm radius of a position defined as **WG288030**, for 30 min.  
     **Filed Route**: `DCT WG288030 DCT`  
-    **Remarks**: `DLE/WG2880300300 RMK/SAR OPERATIONS WI 10NM OF WG288030`
+    **Remarks**: `DLE/WG2880300030 RMK/SAR OPERATIONS WI 10NM OF WG288030`
 
 ### Priority Status
 When simulating special operations, you are permitted to file a priority status in your remarks using the **STS/<status>** format. This will control how your flight plan is displayed to controllers.
@@ -154,7 +154,7 @@ When simulating special operations, you are permitted to file a priority status 
 | `STS/STATE` | Aircraft part of the defence force, military, or customs |
 
 !!! note
-    Under the VATSIM Code of Conduct, no flight may declare itself to have priority over another. Filing a priority status in your flight plan will not result in being prioritised above other aircraft (contrary to the real world), however it may signal ATS to provide track shortening or to facilitate your planned operations.
+    Under the VATSIM Code of Conduct, no flight may declare itself to have priority over another. Filing a priority status in your flight plan will not result in being prioritised above other aircraft (contrary to the real world), however it may signal ATC to provide track shortening or to facilitate your planned operations.
 
 ### Radio Callsign
 Where an unusual or non-standard callsign has been filed (see [Callsigns](#callsigns)), include the full radio callsign in your remarks using the **RTF/<callsign>** format.

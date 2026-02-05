@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airspace Requirements
-Different services are provided by ATS in different classes of airspace. Additionally, each class of airspace has different requirements for entry.
+Different air traffic services are provided by ATC in different classes of airspace. Additionally, each class of airspace has different requirements for entry.
 
 | Class | Flight Rules | Separation provided | Service Provided | Airspace Speed Limitation | Radio Communication Requirements | Subject to ATC Clearance |
 | ----------- | ----------------- | ------- | ----------- | ----------------- | ------- | ----------- |

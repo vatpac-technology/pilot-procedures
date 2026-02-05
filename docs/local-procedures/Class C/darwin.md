@@ -57,13 +57,13 @@ The **passive** aircraft is the landing or departing aircraft which has full use
 YPDN operates LAHSO using **RWY 29** as the passive runway and **RWY 36** as the active runway.
 
 ### Pilot Requirements
-All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATS must be informed no later than 120nm from the destination aerodrome.
+All Australian registered aircraft operating under a flight number callsign are assumed to be **approved active participants**. If a pilot is unable to participate, ATC must be informed no later than 120nm from the destination aerodrome.
 
 !!! phraseology
     **VOZ852**: "VOZ852, negative active LAHSO"  
     **TRT**: "VOZ852"
 
-Other pilots who wish to participate must notify ATS no later than 200nm from the destination aerodrome.
+Other pilots who wish to participate must notify ATC no later than 200nm from the destination aerodrome.
 
 !!! phraseology
     **ANZ1984**: "Brisbane Centre, ANZ1984, maintaining FL360, LAHSO approved"  

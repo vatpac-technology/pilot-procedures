@@ -22,7 +22,7 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
 </figure>
 
 !!! warning "Important"
-    SMC may provide instructions which contradict these standard taxi routes. Ensure you comply with any issued taxi instruction at all times.
+    SMC may issue instructions that differ from these standard taxi routes. Always comply with SMC's instructions.
 
 #### SMC Frequency Change
 Three SMC positions exist at Brisbane, all with different jurisdiction. Aircraft shall expect to hold short of predetermined taxiways. Domestic aircraft should independently transfer to the next SMC controller autonomously, while international aircraft may expect an explicit frequency change from the current SMC.
@@ -50,7 +50,7 @@ When the ATIS includes `ALL DEPARTURES MUST REQUEST PUSH BACK ON 118.85`, all pi
 !!! phraseology
     **QFA291:** "Brisbane Delivery, QFA291, bay 32, request pushback"  
     **BN ACD:** "QFA291, estimated delay 10 minutes, remain this frequency."  
-    **QFA291**: "Remain this frequency, QFA291"  
+    **QFA291**: "Remain this frequency, QFA291"
 
 When instructed, pilots must switch to SMC and **monitor** the frequency. **Do not contact SMC**, they will call you.
 
@@ -98,7 +98,7 @@ Some aircraft from the north, south, or west may be rerouted via the adjacent ST
 | West | BLAKA STAR | DCT BLAKA |
 
 ### Predictable Sequencing Waypoints
-ATS may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **H66** and **H252**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
+ATC may utilise [predictable sequencing waypoints](../../airspace/cta.md#predictable-sequencing-waypoints) to tactically delay aircraft inbound via **H66** and **H252**. Pilots should be aware of the following waypoints and expect possible tracking as per the table below.
 
 === "H66"
     | Initial Waypoint | New Waypoint | Final Waypoint | Delay (in mins) |
@@ -140,7 +140,7 @@ In VMC, all helicopters shall expect to be processed via two visual waypoints (o
     **RSCU533:** "Cleared to YXHE via amended BLHS, YXHE, climb to `A025`, squawk 1256, departures 124.7, RSCU533"
 
 ### Departures
-Both taxiways **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance from BN ADC. Helicopters departing on other surfaces outside the maneuvering areas will be instructed to *"report airborne"*. 
+Both taxiways **H2** and **F4** are inside the manoeuvring area and treated like a runway, requiring a takeoff and landing clearance from BN ADC. Helicopters departing on other surfaces outside the manoeuvring areas will be instructed to *"report airborne"*. 
 
 !!! phraseology
     **RSCU533:** "Brisbane Tower, helicopter RSCU533, Taxiway H2 ready"  
@@ -171,7 +171,7 @@ Depending on the current traffic situation, pilots may expect an instruction to 
     **BN ADC**: "X6G, cancel hold, pass behind the 737, maintain own separation, caution wake turbulence, cleared visual approach Taxiway F4"  
     **X6G**: "Cancel hold, pass behind the 737, maintain own separation, cleared visual approach Taxiway F4, X6G"
 
-Both taxiway **H2** and **F4** are inside the maneuvering area and treated like a runway, requiring a takeoff and landing clearance by BN ADC. Helicopters landing on other surfaces outside the maneuvering areas will be instructed to *"report on the ground"* so the controller knows when they you no longer active in their airspace.
+Both taxiway **H2** and **F4** are inside the manoeuvring area and treated like a runway, requiring a takeoff and landing clearance by BN ADC. Helicopters landing on other surfaces outside the manoeuvring areas will be instructed to *"report on the ground"* so the controller knows when they you no longer active in their airspace.
 
 !!! phraseology
     **BN ADC:** "X6G, Taxiway F4, cleared to land"  
@@ -184,7 +184,7 @@ Helicopters conducting scenic flights around the city require access to the Bris
 Aircraft must track via Class G airspace to UQLD and contact BN TCU prior to reaching UQLD requesting airways clearance. If a clearance cannot be given immediately, aircraft may be instructed to remain clear of Class C airspace.
 
 !!! phraseology 
-    **FHK**: "Departures, helicopter FHK, 2 miles south UQLD `A010`, for city scenic, request airways clearance"  
+    **FHK**: "Departures, helicopter FHK, 2 miles south UQLD `A010`, for city scenic, request clearance"  
     **BN TCU**: "FHK, Departures, squawk 1562, remain outside Class C airspace"  
     **FHK**: "Squawk 1562, remain OCTA, FHK"  
 
