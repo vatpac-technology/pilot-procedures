@@ -39,13 +39,9 @@ Aircraft may taxi past the undershoot of RWY 28L on the southern apron without c
 Aircraft shall advise planned departure intentions to AF SMC when requesting taxi.
 
 !!! phraseology
-    **BHK**: "Archer Ground, Archer BHK, Dual, received F, at Eastern Apron, for southern departure, request taxi"    
-    **AF SMC**: "BHK, Archer Ground, report approaching taxiway E"  
-    **BHK**: "Report approaching E, BHK"        
-
-    **BHK**: "BHK, approaching E"  
-    **AF SMC**: "BHK, taxi E, B, cross runway 04R, 04L, holding point B6, runway 10L"   
-    **BHK**: "Taxi E, B, cross runway 04R, 04L, holding point B6, runway 10L, BHK"  
+    **BJZ:** "Archer Ground, Seminole BJZ, Eastern Apron, received F, for eastern departure, request taxi"  
+    **AF ADC:** "BJZ, Archer Ground, taxi holding point B2, runway 28R"  
+    **BJZ:** "Taxi holding point B2, runway 28R, BJZ" 
 
 Aircraft shall confirm departure intentions to AF ADC on initial contact. All VFR departures shall depart the AF CTR at `A010`. 
 
@@ -68,7 +64,7 @@ Aircraft shall track via any designated VFR inbound reporting point at `A015`, t
 | GON     | West   |
 
 !!! warning
-    Caution must be exercised when tracking from PKR inbound YBAF, as Greenbank Firing Range restricted area (R627) is located a short distance to the west.
+    Caution must be exercised when tracking from PKR inbound YBAF, as Greenbank Firing Range restricted area (R627) is located a short distance to the west. Pilots should remain east of a prominent rail line abeam Greenbank, running south to north towards YBAF, to remain clear of R627.
 
 !!! phraseology
     **YQF**: "Archer Tower, YQF, Cirrus, TAR, `A015`, recieved Bravo, inbound fullstop"  
@@ -83,55 +79,62 @@ If applicable, aircraft may be instructed to maintain `A015`, for separation wit
 ## Helicopter Operations
 Archerfield has three helipads located around the aerodrome:
 
-- **Central Helipad**, on the southern side of Taxiway Foxtrot
-- **Northern Helipad**, adjacent the north-eastern end of Runway 04R/22L
-- The **Queensland Government Air facility** used by rescue helicopters, north of Taxiway B5
+- **Northern Helipad**, adjacent the north-eastern end of Runway 04R/22L.
+- **Central Helipad**, on the southern side of Taxiway Foxtrot.
+- The **LifeFlight Maintenance Base** and **Queensland Government Air facility** used by rescue helicopters, north of Taxiway B6 and B5.
 
 !!! note
     Both the Northern and Central helipads are inside the manoeuvring area and treated like a runway, requiring a takeoff and landing clearance from AF ADC. Helicopters operating on other surfaces outside the manoeuvring areas will be instructed to "report airborne" or "report on the ground" so the controllers knows when they are active/no longer active in their airspace.
 
 #### Training Areas
-There are 3 designated helicopter training areas which can be used for training operations in ground effect and circuits. The active helicopter training area shall be nominated on the ATIS.
-
-=== "Area A"
-
-    | Lateral Boundary | Vertical Limit  | Capacity     |
-    | ------| ---- | --------|
-    | North of Taxiway B within the confines of the aerodrome boundary, clear of all buildings  | Not above `A005`  | 3 helicopters in the circuit area, and additionally 2 helicopters in ground effect  |
-
-=== "Area B"
-
-    | Lateral Boundary | Vertical Limit  | Capacity     |
-    | ------| ---- | --------|
-    | North and west of Runway 04L within the confines of the aerodrome boundary, clear of all buildings  | Not above `A005`  | 3 helicopters in the circuit area, and additionally 2 helicopters in ground effect  |
-
-=== "Area C"
-
-    | Lateral Boundary | Vertical Limit  | Capacity     |
-    | ------| ---- | --------|
-    | South and east of Taxiway D, inside the fixed <br> wing circuit for Runway 04R/22L, east of the <br> control tower, *All landings to be conducted north of Taxiway B*  | Not above `A008`  | 2 helicopters  |
+There are 2 designated helicopter training areas which can be used for helicopter training operations in ground effect and circuits. The ATIS will indicate the current state of the helicopter circuit area.
 
 <figure markdown>
-![Caption](../img/ybaf_helicopter_area.png){ width="500" }
+![Caption](../img/YBAF-Helicopter-Areas.png){ width="600" }
     <figcaption>Archerfield Helicopter Training Areas</figcaption>
 </figure>
 
+#### Circuits
+
+Circuit operations are conducted parallel to the duty runway not above `A007` and inside the fixed-wing circuit. Once established within Northern Grass or Eastern Grass, helicopters may operate in ground effect, maintaining a listening watch with ADC. ATC will not positively control helicopter takeoff and landings from the training areas or provide sequencing instructions. Initial traffic information only will be provided on other helicopters conducting circuits, and a continuous lookout for airborne traffic is the responsibility of the pilot. 
+
+Once established, the only call is an airborne call before each circuit. Pilots must report airborne before each circuit. If departing, they must include their departure intentions.
+
+!!! phraseology 
+    **FHK:** "Archer Tower, helicopter FHK, northern pad, for northern grass, ready"  
+    **AF ADC:** "FHK, Archer Tower, air transit northern grass, report established, northern pad, cleared for takeoff"  
+    **FHK:** "Air transit northern grass, wilco, northern pad, cleared for takeoff, FHK"
+
+    **FHK:** "FHK, established"  
+    **AF ADC:**" "FHK"  
+
+    *FHK becomes airborne for circuits*  
+    **FHK:** "FHK, airborne"  
+    **AF ADC:** "FHK"
+
+After circuit training, pilots shall nominate their landing HLS during the airborne call and transition to the arrival procedure.
+
+!!! phraseology 
+    **FHK:** "FHK airborne, request northern pad"  
+    **AF ADC:** "FHK track direct northern pad, cleared to land"  
+    **FHK:** "Track direct northern pad, cleared to land, FHK"
+
 #### Departures
-Helicopters depart the zone via any of the designated outbound routes. Departures shall be parallel to and clear of the duty runways.
+Helicopters depart the zone via any of the [designated outbound routes](#departures). Departures shall be parallel to and clear of the duty runways. 
+
+!!! phraseology 
+    **TUY:** "Archer Tower, helicopter TUY, northen pad, for eastern departure, ready"  
+    **AF ADC:** "TUY, Archer Tower, depart east, parallel to runway 10L, northen pad, cleared for takeoff"  
+    **TUY:** "Depart east, parallel to runway 10L, cleared for takeoff, northen pad, TUY"
 
 ##### Uni Departure
 Departures with intended entry into BN CTR northbound shall depart the zone via the **Uni Departure**. Aircraft on the Uni Departure depart via UQLD at `A010`, then contact BN TCU for airways clearance.
-
-!!! phraseology 
-    **TUY:** "Archer Tower, helicopter TUY, northen pad, for uni departure, ready"  
-    **AF ADC:** "TUY, Archer Tower, northen pad, cleared for takeoff"  
-    **TUY:** "Cleared for takeoff, northen pad, TUY"
 
 #### Arrivals
 Helicopters enter the zone from any of the designated inbound reporting points. Pilots shall nominate their desired HLS on first contact with AF ADC. If necessary, helicopters may expect to be instructed to overfly the runway complex not below `A005` for a short circuit to the designated HLS.
 
 !!! phraseology 
-    **82Y:** "Archer Tower, helicopter 82Y, UQLD, `A010`, recieved Foxtrot, inbound northern pad"  
+    **82Y:** "Archer Tower, helicopter 82Y, TAR, `A010`, recieved Foxtrot, inbound northern pad"  
     **AF ADC:** "82Y, Archer Tower, track direct northen pad, report 1 mile"  
     **82Y:** "Track direct northern pad, 82Y"  
 
@@ -139,8 +142,21 @@ Helicopters enter the zone from any of the designated inbound reporting points. 
     **AF ADC:** "82Y, cleared to land northern pad"  
     **82Y:** "Cleared to land northen pad, 82Y"
 
+Helicopters inbound for the LifeFlight Maintenance Base or Queensland Government Air facility HLS shall expect a standard fixed wing circuit instruction for the applicable duty runway, complying with fixed wing operations unless another approach is requested or desired.
+
+Helicopters inbound from the south via PKR for either the northen or central helipad shall expect to *"cross 10L and 10R"* alongside any other tracking or traffic information.
+
+!!! phraseology
+    **SMD:** "Archer Tower, helicopter SMD, PKR `A015`, recieved Golf, inbound central pad"  
+    **AF ADC:** "SMD, Archer Tower, report Logan Motorway"  
+    **SMD:** "Report Logan Motorway, SMD"  
+
+    **SMD:** "SMD, Logan Motorway"  
+    **AF ADC:** "SMD, track direct central pad, cross 10L and 10R"  
+    **SMD:** "Track direct central pad, crossing 10L and 10R, SMD"
+
 ## Circuits
-The circuit direction changes depending on time of day and runway being used.
+The circuit direction changes depending on time of day and runway being used, outside tower hours, all circuit direction left hand.
 
 | Runway | Day  | Night |
 | ----------------| --------- | ---------- |
