@@ -68,7 +68,7 @@ Flight following may be cancelled by the pilot at any time.
 !!! note "Format"
     "<span class='placeholder'>Callsign</span>, cancel flight following"
 
-The service may also be terminated by the controller due to workload or lack of surveillance coverage. In either case, you will be advised *"identification service terminated"* when you are no longer being offered a surveillance serve.
+The service may also be terminated by the controller due to workload or lack of surveillance coverage. In either case, you will be advised *"identification service terminated"* when you are no longer being offered a surveillance service.
 
 !!! example
     **VFC**: "VFC, cancel flight following"  
