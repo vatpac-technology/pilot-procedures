@@ -38,6 +38,8 @@ As per the [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-condu
 
 The VATSIM advisory frequency is **122.800**.
 
+Pilots operating in the vicinity of an uncontrolled aerodrome must monitor, and broadcast on, the appropriate [CTAF](#ctafs).
+
 Voice is the preferred method of communication on VATSIM. Account holders should use voice if able to do so but must accommodate the use of text to support those with a disability who are unable to utilise voice. Only unaltered speech is permitted to be transmitted. Pilots shall be able to, at a minimum, receive voice but may send messages via text (Receive Only).
 
 Pilots should be aware of the existence of both voice-capable and text-only pilots, and consider making broadcasts via both voice and text where appropriate.
@@ -45,7 +47,7 @@ Pilots should be aware of the existence of both voice-capable and text-only pilo
 Some pilots may not be using real-world weather or time of day, so pilots should be alert to aircraft using reciprocal or crossing runways, or flying different approaches, at uncontrolled aerodromes.
 
 ### CTAFs
-Pilots operating in the vicinity of an uncontrolled aerodrome must monitor, and broadcast on, the relevant CTAF. Generally speaking, the CTAF on VATSIM matches the CTAF in the real world. However, at some locations, a dedicated CTAF has been published for use on VATSIM.
+Pilots operating in the [vicinity of an uncontrolled aerodrome](../radio-telephony/Uncontrolled%20Airspace/aerodrome.md#ctaf-frequency) must monitor, and broadcast on, the relevant CTAF. Generally speaking, the CTAF on VATSIM matches the CTAF in the real world. However, at some locations, a dedicated CTAF has been published for use on VATSIM.
 
 The CTAF for each aerodrome can be found by referencing its appropriate ERSA entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the [VATPAC Tools](https://vatpac.org/tools){target=new} page.
 
