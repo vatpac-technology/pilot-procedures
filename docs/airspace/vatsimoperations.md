@@ -34,7 +34,7 @@ As per the VATSIM [Special Operations Policy](https://vatsim.net/docs/policy/spe
 - Fly unmanned aerial vehicles, e.g. Global Hawk
 
 ## Radio Communication
-As per the [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct), pilots operating OCTA (or without any ATC online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In practice, this translates to making all CTAF radio calls on the advisory frequency.
+As per the [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct){target=new}, pilots operating OCTA (or without any ATC online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In the enroute phase of flight (and outside the vicinity of an aerodrome), pilots should monitor the advisory frequency.
 
 The VATSIM advisory frequency is **122.800**.
 
@@ -43,6 +43,17 @@ Voice is the preferred method of communication on VATSIM. Account holders should
 Pilots should be aware of the existence of both voice-capable and text-only pilots, and consider making broadcasts via both voice and text where appropriate.
 
 Some pilots may not be using real-world weather or time of day, so pilots should be alert to aircraft using reciprocal or crossing runways, or flying different approaches, at uncontrolled aerodromes.
+
+### CTAFs
+Pilots operating in the vicinity of an uncontrolled aerodrome must monitor, and broadcast on, the relevant CTAF. Generally speaking, the CTAF on VATSIM matches the CTAF in the real world. However, at some locations, a dedicated CTAF has been published for use on VATSIM.
+
+The CTAF for each aerodrome can be found by referencing its appropriate ERSA entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the [VATPAC Tools](https://vatpac.org/tools){target=new} page.
+
+Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} includes all VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC have defined an appropriate CTAF for these locations which should be used by pilots when there is no ATC coverage online.
+
+!!! tip
+    Pilots can type **.ctaf** into any VATSIM pilot client to display the appropriate frequency to use at any aerodrome.
+
 
 ## Top Down Rule
 VATSIM employs a 'top down' rule, whereby controllers may (and in some cases, are expected to) provide a level of coverage to terminal areas and controlled aerodromes within their jurisdiction. This provides a greater service level to pilots but may cause some minor confusion for new members.

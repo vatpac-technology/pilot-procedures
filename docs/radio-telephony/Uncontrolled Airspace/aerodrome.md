@@ -88,17 +88,82 @@ When operating within, or approaching, the vicinity of a non-controlled aerodrom
 
 You are only required to make a radio broadcast on a CTAF where you consider it necessary to avoid a collision with another aircraft. However, common sense would suggest that regular, structured broadcasts are the best way to mitigate potential conflict and aid other pilots in their situational awareness.
 
-### Recommended Calls
-It is recommended that you make a broadcast in the following situations:
+Pilots should reply to any received broadcast with their own position and intentions (and any other relevant information) where they deem potential for conflict.
 
-- Immediately before, or during, taxi for departure
-- Immediately before entering a runway
-- When inbound to the CTAF, at a distance of 10nm or greater (especially for high performance aircraft)
-- Immediately before joining the circuit
-- For a straight in approach or instrument approach, established on not less than a 3nm final
-- When clear of all runways after landing
+!!! note
+    The *vicinity* of an aerodrome is a broad term with no strict definition. As a general rule, pilots should broadcast on the frequency when within roughly **5 to 8 minutes laterally** and when intending to operate in the airspace from the **surface to roughly 5,000ft above ground level**. In practice, this translates to a 10 nautical mile radius for small, piston aircraft like Cessna 172s and Piper Cherokees, and up to a 30 nautical mile radius for high performance aircraft like turboprops and jets.
+
+    Good airmanship would dictate monitoring the CTAF even when outside this volume of airspace where it is known that high-performance aircraft are operating in the vicinity.
+
+### Finding the Correct Frequency
+The CTAF for each aerodrome can be found by referencing its appropriate ERSA entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the [VATPAC Tools](https://vatpac.org/tools){target=new} page.
+
+Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} includes all VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC have defined an appropriate CTAF for these locations which should be used by pilots when there is no ATC coverage online.
+
+!!! tip
+    Pilots can type **.ctaf** into any VATSIM pilot client to display the appropriate frequency to use at any aerodrome.
+
+### Recommended Calls
+#### Departures
+Pilots departing an aerodrome are encouraged to make a CTAF broadcast when they are:
+
+- Taxiing for departure
 
 !!! example
-    "Mareeba traffic, Cessna 172 UWA, 10nm north of the field, passing `A036` on descent, inbound, estimating the circuit area at 44, Mareeba"
+    "Dubbo traffic, Cessna 182 CSA, taxiing to runway 05, Dubbo"
 
-Pilots should reply to any received broadcast with their own position and intentions (and any other relevant information) where they deem potential for conflict.
+- Entering the runway
+
+!!! example
+    "Dubbo traffic, Cessna 182 CSA, entering and backtracking runway 05, Dubbo"
+
+- Commencing the takeoff roll
+
+!!! example
+    "Dubbo traffic, Cessna 182 CSA, rolling runway 05 for a downwind departure to the southwest, climbing to `A065`, Dubbo"
+
+- Departing the circuit
+
+!!! example
+    "Dubbo traffic, Cessna 182 CSA, departed downwind runway 05, passing `A023`, climbing to `A065`, tracking 214 to Griffith, Dubbo"
+
+
+#### Arrivals
+Pilots arriving to aerodrome are encouraged to make a CTAF broadcast when they are:
+
+- About to enter the vicinity of the aerodrome
+
+!!! example
+    "Cowra traffic, Cub ELN, 11 miles south southeast, `A045`, inbound, estimating the circuit area at 36, Cowra"
+
+
+- Joining the circuit
+
+!!! example
+    "Cowra traffic, Cub ELN, joining downwind runway 15, Cowra"
+
+
+- Clear of the runway
+
+!!! example
+    "Cowra traffic, Cub ELN, clear of all runways, Cowra"
+
+#### Overflyers
+Pilots overflying an aerodrome are encouraged to make a CTAF broadcast when they are:
+
+- About to enter the vicinity of the aerodrome
+
+!!! example
+    "Wagga traffic, Helicopter SUA, 8 miles west, `A035`, overflying to the east, estimating overhead at 40, Wagga"
+
+
+- Overhead
+
+!!! example
+    "Wagga traffic, Helicopter SUA, overhead, `A035`, tracking to the east, Wagga"
+
+#### Circuits
+Pilots conducting circuits at an aerodrome are encouraged to make CTAF broadcasts as appropriate to mitigate conflict with other aircraft. At a minimum, broadcasting on the base leg with your intentions is generally acceptable.
+
+!!! example
+    "Winton traffic, Cherokee KLR, base, runway 14, touch and go, Winton"
