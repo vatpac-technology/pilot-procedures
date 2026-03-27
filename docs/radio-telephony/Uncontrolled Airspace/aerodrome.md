@@ -4,7 +4,28 @@
 
 --8<-- "includes/abbreviations.md"
 
-## ATS Frequency
+## Radio Setup
+Avionics and radio hardware setup is generally pilot preference. Aircraft with a requirement to maintain two-way communications with ATC (e.g. IFR aircraft operating OCTA) will need to manage both the relevant ATC frequency and local CTAF.
+
+A common radio setup is:
+
+| COM 1 | COM 2 |
+| --- | --- |
+| ATC/Area Frequency | CTAF |
+
+### Single Radio Aircraft
+Aircraft equipped with a single radio engaged in IFR operations must continue to comply with the two-way communication requirement (outlined above). When operating OCTA in the vicinity of an aerodrome, these aircraft will need to switch between the relevant ATC frequency and the local CTAF.
+
+Pilots **must report** when leaving an ATC frequency in this manner, including listing the CTAF they are switching to.
+
+!!! phraseology
+    **RXA6518**: "RXA6518, switching to Parkes CTAF 126.7"  
+    **GUN**: "RXA6518, identification terminated"
+
+!!! warning "Important"
+    You **must not** leave an ATC frequency whilst inside controlled airspace. For aircraft equipped with a single radio, pilots must wait until they leave CTA and then notify ATC that they are switching frequencies. 
+
+## ATC Frequency
 ### Taxi
 Immediately prior to, or during, taxi at a Class G aerodrome, IFR aircraft must make a taxi report to the enroute or terminal controller managing the overlying airspace.
 
@@ -78,6 +99,6 @@ It is recommended that you make a broadcast in the following situations:
 - When clear of all runways after landing
 
 !!! example
-    "YMBA traffic, Cessna 172 UWA, 10nm north of the field, passing `A036` on descent, inbound, estimating the circuit area at 44, YMBA"
+    "Mareeba traffic, Cessna 172 UWA, 10nm north of the field, passing `A036` on descent, inbound, estimating the circuit area at 44, Mareeba"
 
 Pilots should reply to any received broadcast with their own position and intentions (and any other relevant information) where they deem potential for conflict.
