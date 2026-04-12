@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## Airspace
-**WLM ADC** administers the WLM MIL CTR airspace from `SFC` to `A015`. **WLM TCU** administers the overlying  from `A015` to `F125`.
+**WLM ADC** administers the WLM MIL CTR airspace from `SFC` to `A015`. **WLM TCU** administers the overlying airspace from `A015` to `F125`.
 
 ### Tower Closed Procedures
 When **WLM TCU** is offline, WLM MIL CTR (Class C `SFC` to `A065`) reverts to Class G, and WLM MIL CTR (Class C `A065` to `F125`) reverts to Class E. CTAF procedures apply at YWLM.
