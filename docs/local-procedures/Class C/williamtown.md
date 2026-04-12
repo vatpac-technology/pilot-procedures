@@ -42,7 +42,7 @@ All other aircraft may be assigned a visual departure or WLM (Radar) SID.
 ## Arrivals
 An ILS is available to RWY 12. RNP, RNP(AR), and NDB approaches are available to both runways.
 
-IFR aircraft can generally expect to be processed via direct tracking to the IAF for the following approach:
+IFR aircraft can generally expect to be processed via a STAR for the following approach:
 
 | Runway | Approach |
 | --- | --- |
