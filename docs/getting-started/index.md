@@ -31,7 +31,7 @@ We've got notes to help even the newest pilots, so head to the [Flight Planning]
 ### Want to try **VFR**?
 Generally speaking, real world pilots learn to fly VFR and then progress onto IFR after they've solidified the basics. Low time virtual pilots will benefit from following this pathway, especially at quiet aerodromes outside of controlled airspace.
 
-VFR flights remaining OCTA do not require a [flight plan](../flight-planning/flightplansubmission.md) but pilots intending on entering or operating in close proximity to CTA are encouraged to submit one. Ensure you [contact ATS](../radio-telephony/Controlled%20Airspace/) and obtain an [airways clearance](../airspace/cta.md#airways-clearances) before entering CTA. [VFR navigation](../navigation/vfrnavigation.md) is a simple skill but incredibly rewarding when mastered, and we've got everything you need to get started.
+VFR flights remaining OCTA do not require a [flight plan](../flight-planning/flightplansubmission.md) but pilots intending on entering or operating in close proximity to CTA are encouraged to submit one. Ensure you [contact ATS](../radio-telephony/Controlled%20Airspace/aerodrome.md) and obtain an [airways clearance](../airspace/cta.md#airways-clearances) before entering CTA. [VFR navigation](../navigation/vfrnavigation.md) is a simple skill but incredibly rewarding when mastered, and we've got everything you need to get started.
 
 Some of the most fun you can have in an aircraft comes from enjoying the view as you navigate over some of our country's most beautiful landscapes. Be sure to check out [Local Procedures](../local-procedures/) to learn about the specific VFR procedures each place has to offer.
 

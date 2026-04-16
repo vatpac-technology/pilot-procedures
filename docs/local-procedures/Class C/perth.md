@@ -41,7 +41,7 @@ Dring periods of peak traffic, special procedures are activated requiring pilots
 When the ATIS includes `ALL DEPARTURES MUST REQUEST PUSH BACK ON 118.85`, all pilots must contact ACD when ready for pushback or taxi (if no pushback is required).
 
 !!! phraseology
-    **NWK1622:** "Brisbane Delivery, NWK1622, bay 32, request pushback"  
+    **NWK1622:** "Perth Delivery, NWK1622, bay 32, request pushback"  
     **PH ACD:** "NWK1622, estimated delay 10 minutes, remain this frequency."  
     **NWK1622**: "Remain this frequency, NWK1622"  
 
