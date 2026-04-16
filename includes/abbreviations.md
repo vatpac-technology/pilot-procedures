@@ -259,6 +259,7 @@
 *[ERC]: En-Route Chart
 *[PRD]: Prohibited, Restricted & Danger Areas
 *[PRDs]: Prohibited, Restricted & Danger Areas
+*[TRA]: Temporary Restricted Area
 *[KIAS]: Knots Indicated Airspeed
 *[RADIAL]: A line extending from a radio navigation aid, usually a VOR, measured in degrees from magnetic north
 *[NVIS]: Night Vision Imaging System
