@@ -123,7 +123,8 @@ The Katherine Helicopter Corridor facilitates helicopter movement between privat
 
 - Katherine Railway Station
 - Springvale Homestead
-- Moonraker, Katherine Showgrounds
+- Moonraker
+- Katherine Showgrounds
 - Katherine Hospital (YXAE)
 - Katherine Museum
 - Kumbidgee Lodge
