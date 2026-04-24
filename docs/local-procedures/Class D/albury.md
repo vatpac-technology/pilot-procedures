@@ -15,6 +15,12 @@ AY ADC is responsible for the Class D airspace in the AY CTR `SFC` to `A045`.
 ### Tower Closed Proceedures
 When AY ADC is closed, the Class C & D airspace from `SFC` to `A085` is reclassified as Class G.
 
+## Taxiing
+The taxiway layout at YMAY has changed over the years, with taxiway **C** being extended to the new **C2** holding point (abeam the VOR) and taxiway **A** being extended to the threshold of RWY 07. If your scenery does not feature this taxiway structure, you must inform **AY SMC** when requesting taxi.
+
+!!! phraseology
+    **AM381**: "Albury Ground, AM381, received F, request taxi, require holding point E due scenery limitations"
+
 ## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
