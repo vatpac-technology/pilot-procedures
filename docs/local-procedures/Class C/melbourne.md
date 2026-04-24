@@ -24,6 +24,14 @@ Standard taxi routes exist to simplify issued taxi instructions. Unless explicit
 !!! warning "Important"
     SMC may issue instructions that differ from these standard taxi routes. Always comply with SMC's instructions.
 
+### Scenery Limitations
+The taxiway layout at YMML has changed over the years, with taxiway **E** being relocated to accommodate the new taxiway **D**. Due to the work-in-progress status of the construction, VATPAC controllers will continue to utilise taxiway **E** in it's original position. If your scenery has updated to include taxiway **D**, you must inform **ML SMC** when requesting taxi to runway 27 or when operating to/from aprons 1, 2, or 3.
+
+!!! phraseology
+    **QJE1501**: "Melbourne Ground, QJE1501, received F, request taxi, we can accept taxiway D"
+
+Additionally, the apron at terminal 4 has been adjusted to include **APN8** and **APN9**, two new taxilanes capable of simultaneous pushbacks from pier F and G. Ensure you remain situationally aware of other aircraft on the apron and inform SMC if you are unable to remain clear of an aircraft operating nearby.
+
 ## Departures
 VFR aircraft should expect to depart via a visual departure, on track to their first tracking point.
 
