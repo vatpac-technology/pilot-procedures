@@ -151,8 +151,8 @@ Sydney Coordinator is a position, unique to Sydney, that sequences outbound airc
 
 When the ATIS includes `WHEN READY FOR PUSH BACK OR TAXI CTC COORDINATOR 127.6`, all pilots must contact Coordinator when ready for pushback or taxi (if no pushback is required).
 
-!!! note
-    When a separate Coordinator controller is available, the role *may* be performed by ACD. This will be indicated in the ATIS.
+!!! tip
+    The responsibilities of Sydney Coordinator may be performed to **ACD** when there is no seperate Coordinator controller available. This will be reflected in the ATIS accordingly.
 
 !!! phraseology
     **VOZ543:** "Sydney Coordinator, VOZ543, bay 32, request pushback"  
