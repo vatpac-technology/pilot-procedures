@@ -53,7 +53,7 @@ All surface areas at YBWP are outside TCU's jurisdiction. Takeoff clearances are
 Once airborne, make a Class C [airborne report](../../radio-telephony/Controlled%20Airspace/terminal.md#first-contact) to SG TCU.
 
 ### Arrivals
-Inbound aircraft shall request airways clearance from SG TCU (if already in ENR CTA). Aircraft may be cleared for a visual approach or one of Weipa's instrument approaches.
+Inbound aircraft shall request airways clearance from SG TCU (unless already in ENR CTA). Aircraft may be cleared for a visual approach or one of Weipa's instrument approaches.
 
 As a landing clearance is not given, aircraft will instead be informed of any traffic operating on the aerodrome and instructed to *'report clear of the runway'*, when their SARWATCH (for IFR aircraft) will be terminated.
 
