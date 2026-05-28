@@ -95,6 +95,10 @@ Pilots should reply to any received broadcast with their own position and intent
 
     Good airmanship would dictate monitoring the CTAF even when outside this volume of airspace where it is known that high-performance aircraft are operating in the vicinity.
 
+### Video Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9XwzUzp-Ls?si=ClYxrKxcOSjvqXTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="display:block; margin:0 auto;" allowfullscreen></iframe>
+
 ### Finding the Correct Frequency
 The CTAF for each aerodrome can be found by referencing its appropriate ERSA entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the [VATPAC Tools](https://vatpac.org/tools){target=new} page.
 
