@@ -102,10 +102,17 @@ Pilots should reply to any received broadcast with their own position and intent
 ### Finding the Correct Frequency
 The CTAF for each aerodrome can be found by referencing its appropriate ERSA entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the [VATPAC Tools](https://vatpac.org/tools){target=new} page.
 
-Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} includes all VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC have defined an appropriate CTAF for these locations which should be used by pilots when there is no ATC coverage online.
+Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} includes all published VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC has defined an appropriate CTAF for these locations which should be used by pilots when there is no ATC coverage online.
 
 !!! tip
-    Pilots can type **.ctaf** into any VATSIM pilot client to display the appropriate frequency to use at any aerodrome.
+    Pilots can type **.ctaf** into any VATSIM pilot client to display the appropriate frequency to use at an aerodrome.
+
+#### Default Frequency
+Where a particular aerodrome or landing site is not included in the VATSIM AIP and/or does not have an ERSA FAC entry, pilots shall use the default frequency.
+
+**The default frequency is 126.7**. 
+
+If no discreet frequency is published for a particular aerodrome or the landing area you are operating from is not listed, you should use this frequency.
 
 ### Recommended Calls
 #### Departures
