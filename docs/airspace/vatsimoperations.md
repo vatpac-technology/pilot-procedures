@@ -51,7 +51,7 @@ Pilots operating in the [vicinity of an uncontrolled aerodrome](../radio-telepho
 
 The CTAF for each aerodrome can be found by referencing its appropriate ERSA entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the [VATPAC Tools](https://vatpac.org/tools){target=new} page.
 
-Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} includes all VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC have defined an appropriate CTAF for these locations which should be used by pilots when there is no ATC coverage online.
+Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} includes all VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC has defined an appropriate CTAF for these locations which should be used by pilots when there is no ATC coverage online.
 
 !!! tip
     Pilots can type **.ctaf** into any VATSIM pilot client to display the appropriate frequency to use at any aerodrome.
