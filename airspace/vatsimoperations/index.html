@@ -2578,6 +2578,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Radio Communication">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ctafs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CTAFs
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -3835,6 +3852,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Radio Communication">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ctafs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CTAFs
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -3923,11 +3957,20 @@
 <li>Fly unmanned aerial vehicles, e.g. Global Hawk</li>
 </ul>
 <h2 id="radio-communication">Radio Communication</h2>
-<p>As per the <a href="https://vatsim.net/docs/policy/code-of-conduct">VATSIM Code of Conduct</a>, pilots operating <abbr title="Outside Controlled Airspace">OCTA</abbr> (or without any <abbr title="Air Traffic Control">ATC</abbr> online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In practice, this translates to making all <abbr title="Common Traffic Advisory Frequency">CTAF</abbr> radio calls on the advisory frequency.</p>
+<p>As per the <a href="https://vatsim.net/docs/policy/code-of-conduct" target="new">VATSIM Code of Conduct</a>, pilots operating <abbr title="Outside Controlled Airspace">OCTA</abbr> (or without any <abbr title="Air Traffic Control">ATC</abbr> online) must monitor the appropriate advisory frequency and make radio broadcasts as deemed necessary. In the enroute phase of flight (and outside the vicinity of an aerodrome), pilots should monitor the advisory frequency.</p>
 <p>The VATSIM advisory frequency is <strong>122.800</strong>.</p>
+<p>Pilots operating in the vicinity of an uncontrolled aerodrome must monitor, and broadcast on, the appropriate <a href="#ctafs"><abbr title="Common Traffic Advisory Frequency">CTAF</abbr></a>.</p>
 <p>Voice is the preferred method of communication on VATSIM. Account holders should use voice if able to do so but must accommodate the use of text to support those with a disability who are unable to utilise voice. Only unaltered speech is permitted to be transmitted. Pilots shall be able to, at a minimum, receive voice but may send messages via text (Receive Only).</p>
 <p>Pilots should be aware of the existence of both voice-capable and text-only pilots, and consider making broadcasts via both voice and text where appropriate.</p>
 <p>Some pilots may not be using real-world weather or time of day, so pilots should be alert to aircraft using reciprocal or crossing runways, or flying different approaches, at uncontrolled aerodromes.</p>
+<h3 id="ctafs">CTAFs</h3>
+<p>Pilots operating in the <a href="../../radio-telephony/Uncontrolled%20Airspace/aerodrome/#ctaf-frequency">vicinity of an uncontrolled aerodrome</a> must monitor, and broadcast on, the relevant <abbr title="Common Traffic Advisory Frequency">CTAF</abbr>. Generally speaking, the <abbr title="Common Traffic Advisory Frequency">CTAF</abbr> on VATSIM matches the <abbr title="Common Traffic Advisory Frequency">CTAF</abbr> in the real world. However, at some locations, a dedicated <abbr title="Common Traffic Advisory Frequency">CTAF</abbr> has been published for use on VATSIM.</p>
+<p>The <abbr title="Common Traffic Advisory Frequency">CTAF</abbr> for each aerodrome can be found by referencing its appropriate <abbr title="Enroute Supplement Australia">ERSA</abbr> entry or reviewing its aerodrome chart. These resources are available on the Airservices website for free or through providers like Navigraph, Chartfox and the <a href="https://vatpac.org/tools" target="new">VATPAC Tools</a> page.</p>
+<p>Additionally, the <a href="https://my.vatsim.net/pilots/aip" target="new">VATSIM <abbr title="Aeronautical Information Publication">AIP</abbr></a> includes all VATPAC aerodromes, with information including the correct frequency to use. This is particularly important for locations like Sydney, Melbourne, and the other Class C airports which operate 24 hours a day in the real world. VATPAC has defined an appropriate <abbr title="Common Traffic Advisory Frequency">CTAF</abbr> for these locations which should be used by pilots when there is no <abbr title="Air Traffic Control">ATC</abbr> coverage online.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Pilots can type <strong>.ctaf</strong> into any VATSIM pilot client to display the appropriate frequency to use at an aerodrome.</p>
+</div>
 <h2 id="top-down-rule">Top Down Rule</h2>
 <p>VATSIM employs a 'top down' rule, whereby controllers may (and in some cases, are expected to) provide a level of coverage to terminal areas and controlled aerodromes within their jurisdiction. This provides a greater service level to pilots but may cause some minor confusion for new members.</p>
 <p>Tools like VATSIM Radar and the VATPAC Map display all online controllers. Any major controlled aerodromes which fit inside these sectors can be assumed to have top down coverage, with the overlying controller performing the roles of <abbr title="Aerodrome Control (Tower Controller)">ADC</abbr> and <abbr title="Surface Movement Control (Ground Controller)">SMC</abbr>/<abbr title="Airways Clearance Delivery (Delivery Controller)">ACD</abbr> if applicable.</p>
@@ -3981,7 +4024,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 21, 2025 11:13:26 UTC">November 21, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="May 31, 2026 23:41:02 UTC">May 31, 2026</span>
   </span>
 
     
