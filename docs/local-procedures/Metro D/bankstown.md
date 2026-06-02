@@ -198,11 +198,16 @@ Circuits are conducted within the lateral confines of the fixed-wing circuit at 
 ## IFR Operations
 IFR aircraft should request airways clearance from **BK SMC** with their taxi request.
 
-!!! phraseology
-    **FD213**: "Bankstown Ground, FD213, taxiway Charlie, for Dubbo, received Echo, request taxi and airways clearance"  
-    **BK SMC**: "FD213, Bankstown Ground, cleared to Dubbo via KADOM, flight planned route, BK1 departure, climb via SID to `A030`, squawk 3244, taxi via A8, hold short RWY 29R"  
-    **FD213**: "Cleared to Dubbo via KADOM, flight planned route, BK1 departure, climb via SID to `A030`, squawk 3244, taxi via A8, hold short RWY 29R, FD213"
-
 IFR aircraft shall expect the **MECKO** or **URDOS** SIDs, depending on direction of travel. Aircraft unable to accept a procedural SID must notify SMC on first contact.
 
+!!! phraseology
+    **FD213**: "Bankstown Ground, FD213, taxiway Charlie, for Dubbo, received Echo, request taxi and airways clearance"  
+    **BK SMC**: "FD213, Bankstown Ground, cleared to Dubbo via BENBU, flight planned route, URDOS1 departure, climb via SID to `A030`, squawk 3244, taxi via A8, hold short RWY 29R"  
+    **FD213**: "Cleared to Dubbo via BENBU, flight planned route, URDOS1 departure, climb via SID to `A030`, squawk 3244, taxi via A8, hold short RWY 29R, FD213"
+
 A single STAR exists to process aircraft inbound from the east, terminating in vectors. RNP approaches are available to RWY 11C from the west and southwest. An RNP approach is available to the circling area from the north.
+
+!!! note
+    Delays may be experienced for IFR arrivals to YSBK during periods of high traffic levels at YSWS or YSSY.
+
+IFR aircraft may be instructed to track to/from YSBK via a [VFR coded clearance](#vfr-coded-clearances) by day VMC.
