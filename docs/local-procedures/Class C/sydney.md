@@ -314,7 +314,6 @@ For the following designated routes, pilots must contact **SRI**, or the most ap
 |---------|---------------------|
 | BONDI 5 | SOUTH or NORTHBOUND |
 | ROSEHILL 5 | INBOUND |
-| ERSKINVILLE 5 | INBOUND |
 | HARBOUR BRIDGE 5 | INBOUND |
 | BARRACKS 5 | INBOUND |
 | MAROUBRA 5 | INBOUND |
@@ -358,7 +357,7 @@ Pilots may choose to depart from their company parking helipad or transit to H1 
     **SY ADC:** "YOE, reposition approved"  
     **YOE:** "Reposition approved, YOE"
 
-When ready for takeoff, contact the relevant ADC position as per below.
+When ready for takeoff, contact the relevant ADC position.
 
 !!! phraseology
     **HWD:** "Sydney Tower, helicopter HWD, Hotel 7, for the Harbour Bridge 5 outbound, ready"  
