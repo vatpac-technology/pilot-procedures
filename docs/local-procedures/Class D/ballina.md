@@ -23,7 +23,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 All other aircraft shall expect the BA (RADAR) SID. A visual departure may be available in lieu of a SID during day VMC.
 
 !!! note
-  \* The BUVAM SID is not available when M641 Evans Head is active.
+    \* The BUVAM SID is not available when M641 Evans Head is active.
 
 ## Arrivals
 RNP and RNP(AR) approaches are available to both runways. A NDB approach is available to RWY 24.
