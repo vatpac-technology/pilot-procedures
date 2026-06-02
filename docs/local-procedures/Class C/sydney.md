@@ -353,7 +353,7 @@ When RWY 07 or 25 is in use, the heliport is managed by **ADC West - 120.5**. Du
 Arriving helicopters shall contact ATC approximately 5 minutes before the prescribed entry gate and advise intentions.
 
 #### TCU Routes
-For the following designated routes, pilots must contact **SRI**, or the most appropriate terminal controller if SRI is not online.
+For the following designated routes, pilots must contact **SYC**, or the most appropriate terminal controller if SYC is not online.
 
 | Route | Direction |
 |---------|---------------------|
