@@ -30,7 +30,7 @@ The volume of Class C airspace overhead Camden (known as SY CTA C10) has a lower
   <figcaption>Sydney CTA C10 Airspace</figcaption>
 </figure>
 
-The status of the C10 CTA step will be notified on the YSBK ATIS for the awareness of pilots intending on operating in the area.
+The status of the C10 CTA step will be notified on the YSBK ATIS for the awareness of pilots intending to operate in the area.
 
 ## Start Approval
 Start approval is required on SMC for all aircraft.
