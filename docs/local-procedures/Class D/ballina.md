@@ -20,7 +20,7 @@ IFR aircraft should expect to be issued with a SID as per below:
 | Jets | All | IDNER | IDNER SID |
 | Non-Jets | RWY 06 | BUVAM | BUVAM SID\* |
 
-All other aircraft shall expect the BA (RADAR) SID. A visual departure may be available in lieu of a SID during day VMC.
+All other aircraft shall expect the BA (RADAR) SID. A visual departure may be available in lieu of a SID by day VMC.
 
 !!! note
     \* The BUVAM SID is not available when M641 Evans Head is active.
