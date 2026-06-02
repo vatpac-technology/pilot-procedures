@@ -10,6 +10,16 @@
 ### Tower Closed Procedures
 When CN ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 
+### Sydney CTA C10
+The volume of Class C airspace overhead Camden (known as SY CTA C10) has a lower level that varies according to the time of day. During the hours of 23:00 - 06:00 Sydney local time, the airspace within the C10 area is lowered to `A015`.
+
+<figure markdown>
+![Sydney CTA C10 Airspace](../img/sy_cta10.png){ width="400" }
+  <figcaption>Sydney CTA C10 Airspace</figcaption>
+</figure>
+
+The status of the C10 CTA step will be notified on the YSCN ATIS.
+
 ## Taxiing
 The apron & grass parking areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
 
@@ -100,6 +110,6 @@ By night, all helicopters must comply with fixed wing operations.
 ## IFR Operations
 IFR aircraft will be provided with **traffic information only** and will not receive an airways clearance on the ground. Aircraft planned into the overlying CTA can expect a clearance from **SY TCU** after departure.
 
-The only instrument approach at YSCN is the RNP-W approach. This approach commences OCTA and enters the CN CTR.
+A single STAR exists to process aircraft inbound from the east, which terminates in vectors. The only instrument approach at YSCN is the RNP-W approach. This approach may commence in SY TCU CTA or OCTA (depending on aircraft altitude and IAF) and transits Class G airspace before entering the CN CTR.
 
-SY TCU **will not** clear aircraft for the approach and will transfer aircraft to CN ADC at SCNWI. CN ADC will issue airways clearance into the zone. During day VMC, a restriction may be placed on aircraft on the RNP approach to descend **not below `A018`**. Pilots conducting a practice approach must treat this altitude as the minima and either commence the missed approach or join the circuit at that point.
+Aircraft can expect to be transfered to CN ADC at SC2WI. CN ADC will issue airways clearance into the zone. During day VMC, a restriction may be placed on aircraft on the RNP approach to descend **not below `A018`**. Pilots conducting a practice approach must treat this altitude as the minima and either commence the missed approach or join the circuit at that point.

@@ -22,6 +22,16 @@ The ATIS will indicate the current runway config and nominate what each parallel
 ### Tower Closed Procedures
 When BK ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
 
+### Sydney CTA C10
+The volume of Class C airspace overhead Camden (known as SY CTA C10) has a lower level that varies according to the time of day. During the hours of 23:00 - 06:00 Sydney local time, the airspace within the C10 area is lowered to `A015`.
+
+<figure markdown>
+![Sydney CTA C10 Airspace](../img/sy_cta10.png){ width="400" }
+  <figcaption>Sydney CTA C10 Airspace</figcaption>
+</figure>
+
+The status of the C10 CTA step will be notified on the YSBK ATIS for the awareness of pilots intending on operating in the area.
+
 ## Taxiing
 The apron areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
 
