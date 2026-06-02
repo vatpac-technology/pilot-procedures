@@ -30,6 +30,9 @@ YSWS uses four different SID designators to differentiate between different vari
 | N    | Night          | Between 2300-0530 Local, when RRO is **not** in use |
 | Q    | RRO            | Between 2300-0530 Local, when RRO is **in use**  |
 
+!!! warning "Important"
+    It is vital that pilots select the **correct SID** and comply with all published **speed and altitude restrictions**, as failure to do so may result in a loss of separation with aircraft operating on nearby procedures.
+
 IFR aircraft should expect to be issued with a SID as per below:
 
 === "05"
@@ -146,3 +149,6 @@ YSWS uses different STAR designators to differentiate between different variatio
 | A/B  | Day             | Between 0530-2300 Local       |
 | N    | Night           | Between 2300-0530 Local, when RRO is **not** in use |
 | Q    | RRO             | Between 2300-0530 Local, when RRO is **in use**  |
+
+!!! warning "Important"
+    It is vital that pilots select the **correct STAR** and comply with all published **speed and altitude restrictions**, as failure to do so may result in a loss of separation with aircraft operating on nearby procedures.
