@@ -28,7 +28,16 @@ The apron & grass parking areas are outside the manoeuvring area. The runup bays
 
 Aircraft above 5700kg MTOW must only use TWY D between RWY 06/24 and TWY F.
 
-## Departures
+## Departures    
+### Start Approval
+Start approval is required for all flights intending to operate in the circuit area.
+
+!!! phraseology  
+    **WKM**: "Camden Ground, Citabria WKM, for circuits, received Echo, request engine start"  
+    **CN SMC**: "WKM, Camden Ground, start approved"  
+    **WKM**: "Start approved, WKM"
+
+### VFR Departures
 Aircraft shall advise their intentions with their ready call.
 
 All departing aircraft shall depart via an extended leg of the circuit and climb to `A013`.
@@ -45,32 +54,22 @@ Aircraft may request to leave the CTR on climb into the Class G airspace above.
     **WKM**: "Camden Tower, Citabria WKM, upwind departure, ready, request depart on climb"  
     **CN ADC**: "WKM, depart on climb, runway 24, cleared for takeoff"  
     **WKM**: "Depart on climb, runway 24, cleared for takeoff, WKM"
-    
-### Start Approval
-Start approval is required for all flights intending to operate in the circuit area.
-
-!!! phraseology  
-    **WKM**: "Camden Ground, Citabria WKM, for circuits, received Echo, request engine start"  
-    **CN SMC**: "WKM, Camden Ground, start approved"  
-    **WKM**: "Start approved, WKM"
 
 ## Arrivals
-Arriving VFR aircraft should track via and report at BRY, MYF, MEG, PIC, or THK, at `A018`.
+Arriving VFR aircraft should track via and report at MEG, PIC, or THK, at `A018`.
 
 When arriving via a VFR inbound point, pilots should expect the following circuit instructions:
 
 | VFR Inbound Point | RWY 06 | RWY 24 |
 | ----------------- | ------ | ------ |
-| BRY | "Join downwind runway 06, maintain `A018`, report 2 miles" | "Join final runway 24, maintain `A018`, report Oran Park (ONPK)" |
-| MYF | "Join base runway 06, maintain `A018`, report 2 miles" | "Join base runway 24, maintain `A018`, report 2 miles" |
 | MEG | "Overfly Camden to join mid-field crosswind runway 06, maintain `A018`, report overhead" | "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report overhead" |
 | PIC | "Overfly Camden to join mid-field crosswind runway 06, maintain `A018`, report overhead" | "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report overhead" |
 | THK | "Join final runway 06, maintain `A018`, report 3 miles" | "Join downwind runway 24, maintain `A018`, report 2 miles" |
 
 !!! phraseology  
-    **MWY**: "Camden Tower, Citabria MWY, MYF, `A018`, inbound, received Golf"  
-    **CN ADC**: "MWY, Camden Tower, join base runway 24, maintain `A018`, report 2 miles"  
-    **MWY**: "Join base runway 24, maintain `A018`, MWY"  
+    **MWY**: "Camden Tower, Citabria MWY, MEG, `A018`, inbound, received Golf"  
+    **CN ADC**: "MWY, Camden Tower, overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report 2 miles"  
+    **MWY**: "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, MWY"  
 
     **MWY**:, "MWY, 2 miles"  
     **CN ADC**: "MWY, cleared visual approach"  
