@@ -124,27 +124,72 @@ VFR aircraft should expect a visual departure on track to their first waypoint.
 
 IFR aircraft should expect a SID, as per below:
 
-| Aircraft Type | Runway | First Waypoint | SID |
-| --- | --- | --- | --- |
-| Jets | 07 | OLSEM, WOL | FISHA SID, *Appropriate Transition* |
-| Jets | 07 | *All Others* | FISHA SID, Radar Transition |
-| Jets | 16L | WOL | KEVIN SID, or<br>ABBEY SID (during SODROPS only) |
-| Jets | 16L | CAWLY, EVONN, DIPSO, NOBAR, OLSEM, OPTIC | KEVIN SID, *Appropriate Transition* |
-| Jets | 16L | *All Others* | KEVIN SID, Radar Transition |
-| Jets | 16R | KADOM, RIC, WOL | GROOK SID, *Appropriate Transition* |
-| Jets | 16R | *All Others* | GROOK SID, Radar Transition |
-| Jets | 34L | KADOM | KADOM SID |
-| Jets | 34L | RIC | RIC SID, RIC Transition |
-| Jets | 34L | WOL | WOL SID |
-| Jets | 34L | *All Others* | RIC SID, Radar Transition |
-| Jets | 34R | WOL | MARUB SID, WOL Transition |
-| Jets | 34R | OLSEM | OLSEM SID |
-| Jets | 34R | *All Others* | MARUB SID, Radar Transition |
+=== "Runway 07"
 
-All other aircraft should expect the **SY (RADAR) SID**.
+    | Type    | Via  | SID      |
+    | ------- | ---- | -------- |
+    | Jet     | KADOM<br>OLSEM<br>STUIE<br>WOL | **FISHA** SID, Relevant Transition |
+    | Jet     | All others | **FISHA** SID, RADAR Transition |
+    | Non-Jet | BENBU<br>KADOM | [**ANKUB** SID](#ankub-non-jet-sid), Relevant Transition |
+    | Non-Jet | All others | **RADAR** SID |
+
+=== "Runway 16L"
+
+    | Type    | Via  | SID      |
+    | ------- | ---- | -------- |
+    | Jet     | OLSEM<br>NOBAR<br>DIPSO<br>EVONN<br>CAWLY<br>OPTIC | **KEVIN** SID, Relevant Transition |
+    | Jet     | WOL (during SODPROPS only) | **ABBEY** SID |
+    | Jet     | All others | **KEVIN** SID, RADAR Transition |
+    | Non-Jet | BENBU<br>KADOM | [**ANKUB** SID](#ankub-non-jet-sid), Relevant Transition |
+    | Non-Jet | All others | **RADAR** SID |
+
+=== "Runway 16R"
+
+    | Type    | Via  | SID      |
+    | ------- | ---- | -------- |
+    | Jet     | KADOM<br>STUIE<br>WOL | **GROOK** SID, Relevant Transition |
+    | Jet     | All others | **GROOK** SID, RADAR Transition |
+    | Non-Jet | BENBU<br>KADOM | [**ANKUB** SID](#ankub-non-jet-sid), Relevant Transition |
+    | Non-Jet | All others | **RADAR** SID |
+
+=== "Runway 25"
+
+    | Type    | Via  | SID      |
+    | ------- | ---- | -------- |
+    | Jet     | CAWLY<br>DIPSO<br>EVONN<br>NOBAR<br>OLSEM<br>OPTIC | **AVMOV** SID, Relevant Transition |
+    | Jet     | KADOM | **KADOM** SID |
+    | Jet     | STUIE | **STUIE** SID |
+    | Jet     | All others | **RADAR** SID |
+    | Non-Jet | BENBU<br>KADOM | [**ANKUB** SID](#ankub-non-jet-sid), Relevant Transition |
+    | Non-Jet | All others | **RADAR** SID ||
+
+=== "Runway 34L"
+
+    | Type    | Via  | SID      |
+    | ------- | ---- | -------- |
+    | Jet     | NWA<br>LEECE<br>WOL | **TONTO** SID, Relevant Transition |
+    | Jet     | CAWLY<br>DIPSO<br>EVONN<br>NOBAR<br>OLSEM<br>OPTIC | **AVMOV** SID, Relevant Transition |
+    | Jet     | KADOM | **KADOM** SID |
+    | Jet     | STUIE | **STUIE** SID |
+    | Jet     | All others | **RADAR** SID |
+    | Non-Jet | BENBU<br>KADOM | [**ANKUB** SID](#ankub-non-jet-sid), Relevant Transition |
+    | Non-Jet | All others | **RADAR** SID |
+
+=== "Runway 34R"
+
+    | Type    | Via  | SID      |
+    | ------- | ---- | -------- |
+    | Jet     | OLSEM | **OLSEM** SID |
+    | Jet     | WOL  | **MARUB** SID, WOL Transition |
+    | Jet     | All others | **MARUB** SID, RADAR Transition |
+    | Non-Jet | BENBU<br>KADOM | [**ANKUB** SID](#ankub-non-jet-sid), Relevant Transition |
+    | Non-Jet | All others | **RADAR** SID |
 
 !!! note  
     ATC may issue IFR jet departures the SY (RADAR) SID for traffic management or weather purposes.
+
+#### ANKUB Non-Jet SID
+The **ANKUB SID** is a unique departure that is assigned to non-jets planned via **KADOM** or **BENBU**. On this SID, non-jets fly an assigned heading before being vectored by SY TCU to a waypoint to rejoin the procedure.
 
 ### Pushback/Taxi on Coordinator
 Sydney Coordinator is a position, unique to Sydney, that sequences outbound aircraft during periods of high traffic before they are transferred to the SMC frequency.
