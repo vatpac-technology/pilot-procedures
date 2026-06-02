@@ -420,11 +420,6 @@ When ready for takeoff, contact the relevant ADC position.
 ### Harbour Scenic Flights
 Coded clearances exist to allow pilots to conduct scenic flights in the Class C airspace over Sydney Harbour. Clearances are available subject to YSSY traffic and controller workload.
 
-<figure markdown>
-![Sydney Harbour Scenic Flights](../img/sy_harbourbridge_vatsys.png){ width="600" }
-    <figcaption>Sydney Harbour Scenic Flights</figcaption>
-</figure>
-
 Expanded details and diagrams are available in the `YSSY ERSA FAC` and *Sydney General Flying Guide* (produced by Airservices Australia).
 
 !!! tip
@@ -434,25 +429,18 @@ Expanded details and diagrams are available in the `YSSY ERSA FAC` and *Sydney G
     VFR aircraft are not separated from other VFR aircraft in Class C airspace. Pilots must maintain their own separation with other aircraft operating in the vicinity. ATC will provide basic traffic information on these aircraft.
 
 #### Airways Clearance Requests
-Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate frequency if they are offline) prior to reaching LRF and request a 'Harbour Scenic One/Two'.  
+Track via Class G airspace to LRF. Obtain the YSSY ATIS, then contact Sydney Centre on 124.55 (or the most appropriate frequency if they are offline) prior to reaching LRF and request a '*Harbour Scenic*'.  
 
 Pilots must remain in Class G airspace until in receipt of a clearance.
 
-#### Harbour Scenic One
+#### Harbour Scenic Coded Clearance
 Maintain `A015`. 
 
 Track LRF direct to HBB. Remain east of HBB and commence a left turn, remaining north of the Opera House. 
 
 Conduct 2 left orbits, remaining east of HBB, north of the Opera House, and west of Garden Island.  
 
-On completion of the second orbit, track via North Head to Manly Beach. From Manly Beach track east of the coast to Long Reef. Report passing Manly northbound.
-
-#### Harbour Scenic Two 
-Maintain `A015`.
-
-Track LRF direct to CHAT. Conduct 2 left orbits, remaining east of CHAT and west of RVB.  
-
-On completion of the second orbit, track to Manly Beach. Report passing Manly northbound.
+On completion of the second orbit, track via North Head to Manly Beach. Report passing Manly northbound.
 
 #### Descent into Victor One
 Pilots may request descent into [Victor One South](#victor-one) approaching Manly Beach. Subject to traffic, and when established east of the coast, you may be cleared to leave CTA on descent. Report to ATC leaving `A015` then broadcast your position and intentions on the advisory frequency.  
@@ -479,22 +467,22 @@ To avoid entering the SY CTR, pilots **must not** coastal fly between Ben Buckle
 
 Aircraft tracking southbound must ensure that they reach `A005` before passing SYHD and entering [Victor One South](#victor-one-south).
 
-### R405 (Sydney Harbour)
-R405 is a block of [restricted airspace](../../airspace/sua.md) established for use by seaplanes and helicopters with MTOW not above 2,500kg or that adhere to specific noise standards. No clearance is required to enter the airspace.
+### R407 (Sydney Harbour)
+R407 is a block of [restricted airspace](../../airspace/sua.md) established for use by seaplanes and helicopters with MTOW not above 2,500kg or that adhere to specific noise standards. No clearance is required to enter the airspace.
 
-R405A extends from RYB to HBB bordered by the southern bank of the Parramatta River, from `SFC` to `A005`. R405B extends from HBB to the coastline bordered by the southern bank of Sydney Harbour, from `SFC` to `A010`.
+R407A extends south of the Parramatta River in the offshoot bordered by Millers Point, Pyrmont, and Balmain, from `SFC` to `A005`. R407B extends from RYB to SYHD bordered by the southern bank of the Parramatta River and the 8.5DME arc to the north, from `SFC` to `A010`. 
 
 !!! warning "Important"
-    Aircraft must not climb above `A005` in R405A or `A010` in R405B without an airways clearance from SY TCU.
+    Aircraft must not climb above `A005` in R407A or `A010` in R407B without an airways clearance from SY TCU.
 
-    Seaplanes operate at low levels in R405B. Aircraft may be operating in the Class C airspace immediately above R405.
+    Seaplanes operate at low levels in R407B. Aircraft may be operating in the Class C airspace immediately above R407.
 
-Aircraft are to broadcast intentions entering and leaving R405 on the advisory frequency.
+Aircraft are to broadcast intentions entering and leaving R407 on the advisory frequency.
 
-Transit from Victor One to R405B is only available through Sydney Heads. Transit over land is not permitted.
+Transit from Victor One to R407B is only available through Sydney Heads. Transit over land is not permitted.
 
 #### Helicopter Transit and Access Lanes
-Transit and access lanes exist to allow the transit of aircraft into/out of R405. The altitude specified for each lane must be maintained during lane transit.  
+Transit and access lanes exist to allow the transit of aircraft into/out of R407. The altitude specified for each lane must be maintained during lane transit.  
 
 Pilots shall keep to the right when flying along a helicopter lane. All helicopter routes shall be flown on Sydney local QNH.
 
@@ -504,7 +492,7 @@ Details of each lane (and some diagrams) are available in `YSSY ERSA FAC`. The t
 | ----------- | ------- | --------- |
 | Harbour Lane | Follow Parramatta River from Silverwater to Ryde Road Bridge, Gladesville Bridge, the Southern Pylon of Sydney Harbour Bridge, abeam Bradley's Head, abeam Middle Head, Sydney Heads and thence coastal to Long Reef. The lane is over water. | Not below `A007` on QNH from Silverwater to Ryde Road Bridge; `A005` on QNH between Ryde Road Bridge and the Harbour Bridge; `A010` on QNH between the Harbour Bridge and Middle Head, climb and descent to be conducted East of the Harbour Bridge. Not above `A010` on QNH, over water, between abeam Middle Head and Long Reef. |
 | Lane Cover River Lane | Access Lane from Gladesville Bridge to Pennant Hills via Northern Suburbs Cemetary, follows the Lane Cove River Valley to Pennant Hills. | `A005` on QNH between Gladesville Bridge and Delhi Rd; `A007` on QNH between Delhi Rd and Pennant Hills. |
-| North Shore Lane | Access Lane for the HLS near the Royal North Shore Hospital/Channel 9/Channel 2 is shown on the diagram in `YSSY ERSA FAC`. | `A010` on QNH. |
+| North Shore Lane | Access Lane for the HLS near the Royal North Shore Hospital is shown on the diagram in `YSSY ERSA FAC`. | `A010` on QNH. |
 
 ### Helicopter Coded Clearances
 #### BONDI 5
@@ -539,10 +527,9 @@ To reduce frequency congestion, several commonly used geographically defined are
 | ----------- | -------------- | --------------- |
 | City East | Bounded by Rushcutters Bay, Sydney Cricket Ground, Sydney Harbour Bridge South Pylon, Fort Denison, Clark Island, Rushcutters Bay | Not above `A020` |
 | CBD | Bounded by Rushcutters Bay, Sydney Cricket Ground, Cleveland Street, Regent Street, George Street, Sydney Harbour Bridge South Pylon, Fort Denison, Clark Island, Rushcutters Bay | Not above `A020` |
-| North Harbour | The area northeast of a line St Ives Showground, Roseville Bridge, Sydney Harbour Bridge North Pylon then via the northern shore of Sydney Harbour to Middle Head, then Manly | Not above `A015` |
-| Northern Beaches | The area east of a line Long Reef, Spit Bridge, Sydney Harbour Bridge North Pylon then via the northern shores of Sydney Harbour to Middle Head then Manly | Not above `A015` |
+| North Harbour | The area northeast of a line Roseville Bridge, Sydney Harbour Bridge North Pylon then via the northern shore of Sydney Harbour to Middle Head, then Manly | Not above `A015` |
+| Northern Beaches | The area east of a line Spit Bridge, Sydney Harbour Bridge North Pylon then via the northern shores of Sydney Harbour to Middle Head then Manly | Not above `A015` |
 | South Harbour | The area bounded by lines joining Sydney Harbour Bridge North Pylon, Sydney Harbour Bridge South Pylon, then via the southern shoreline of Sydney Harbour to South Head then Manly to Middle Head, then via the northern shoreline of Sydney Harbour to Sydney Harbour Bridge North Pylon | Not above `A015` |
-| Manly | The area North of line South Head to Middle Head to the Spit Bridge, East of a line Spit Bridge to intersection Pittwater and Warringah Roads to Curl Curl Beach, Coastal Southbound to South Head | Not above `A015` |
 
 Helicopters intending to operate in one of the sectors must request clearance from the most appropriate TCU controller.
 
