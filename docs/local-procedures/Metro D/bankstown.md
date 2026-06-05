@@ -60,6 +60,9 @@ Coded clearances are used to provide standardised routing for VFR aircraft depar
 
 Each coded clearance includes tracking instructions and height requirements that ensure aircraft remain within Class D airspace. Each coded clearance also includes explicit instructions on when to change frequencies.
 
+!!! warning "Important"
+    Pilots intending to operate in Class D CTA are required to file a flight plan. Ensure your filed route includes the waypoints listed below.
+
 ### Departures
 VFR aircraft intending to track via a coded clearance require an airways clearance from **BK SMC**.
 
@@ -74,7 +77,14 @@ VFR aircraft intending to track via a coded clearance require an airways clearan
     **BK SMC**: "UNY, Bankstown Ground, cleared Hornsby Outbound, taxi to holding point A8 runway 29R"  
     **UNY**: "Cleared Hornsby Outbound, taxi to holding point A8 runway 29R, UNY"  
 
-Aircraft shall report ready to **BK ADC** with their departure intentions. A takeoff clearance constitutes a clearance to operate in accordance with your requested departure. After takeoff, aircraft are expected to comply with the following tracking instructions:
+Aircraft shall report ready to **BK ADC** with their departure intentions. A takeoff clearance constitutes a clearance to operate in accordance with your requested departure. 
+
+!!! phraseology
+    **UNY**: "Bankstown Tower, Diamond UNY, holding point A8, runway 29R, for Hornsby Outbound, ready"   
+    **BK ADC**: "UNY, Bankstown Tower, runway 29R, cleared for takeoff"  
+    **UNY**: "Cleared for takeoff runway 29R, UNY" 
+
+After takeoff, aircraft are expected to comply with the following tracking instructions:
 
 === "Departure RWY 11"
 
@@ -92,11 +102,15 @@ Aircraft shall report ready to **BK ADC** with their departure intentions. A tak
 
 Aircraft operating on a coded clearance shall transfer to the next appropriate frequency upon leaving the zone, **no explicit frequency transfer will be given**. 
 
+!!! phraseology
+    **UNY**: "Bankstown Approach, Diamond UNY, passing `A011`, climbing to `A015`"   
+    **SBA**: "UNY, identified"
+
 !!! warning "Important"
     The Bankstown CTR is bordered to the east and south by the Sydney CTR. All VFR aircraft must depart to the west or northwest unless in receipt of an airways clearance.
 
-## Arrivals
-VFR aircraft inbound to YSBK shall contact SYC on 124.55 prior to entering CTA. SYC may transfer the aircraft to SBA who will issue airways clearance via one of the following routes:
+### Arrivals
+VFR aircraft inbound to YSBK shall contact **SYC on 124.55** prior to entering CTA. SYC may transfer the aircraft to SBA who will issue airways clearance via one of the following routes:
 
 | Coded Clearance    | Route             | Altitude | 
 | ------------------ | ------------------- | ------ | 
@@ -107,16 +121,16 @@ VFR aircraft inbound to YSBK shall contact SYC on 124.55 prior to entering CTA. 
 Establishing two-way communication with ATC constitutes a clearance to enter CTA as requested (other than an instruction to standby or similar).
 
 !!! phraseology
-    **BJZ**: "Sydney Centre, BJZ, Seminole, BBG, `A015`, received B, for Brooklyn Inbound"   
+    **BJZ**: "Sydney Centre, BJZ, Seminole, 5nm north of BBG, `A015`, received B, for Brooklyn Inbound"   
     **SYC**: "BJZ, Sydney Centre, squawk 0552, remain outside Class D airspace"  
     **BJZ**: "Squawk 0552, remain outside Class D airspace, BJZ"  
 
     **SYC**: "BJZ, identified, contact Bankstown Approach 125.8"  
     **BJZ**: "125.8, BJZ"  
     ...  
-    **BJZ**: "Bankstown Approach, BJZ"  
+    **BJZ**: "Bankstown Approach, BJZ, 2nm north of BBG, `A015`, received B, for Brooklyn Inbound"  
     **SBA**: "BJZ, Bankstown Approach, cleared Brooklyn Inbound"  
-    **BJZ**: "Cleared Brooklyn Inbound, BJZ"
+    **BJZ**: "Cleared Brooklyn Inbound, BJZ"  
 
 Each coded clearance includes a frequency transfer instruction to BK ADC, **no explicit frequency transfer will be given**.
 
@@ -125,7 +139,7 @@ When transferring to BK ADC, pilots should expect the following circuit instruct
 | VFR Approach Point | RWY 29  | RWY 11 |
 | ----------------| --------- | ---------- |
 | PSP    | *"Join right downwind runway 29R, maintain `A015`"*, then when abeam the runway 11 thresholds or clear of departing traffic, *"Cleared visual approach"*       | *"Join final runway 11L, report 3nm"*        |
-| TWRN   | *"Join crosswind runway 29R, maintain `A015`"*, then when abeam the runway 11 thresholds or clear of departing traffic, *"Cleared visual approach"* | *"Join final runway 11L, report at Warwick Farm"*  |
+| CRSC   | *"Join crosswind runway 29R, maintain `A015`"*, then when abeam the runway 11 thresholds or clear of departing traffic, *"Cleared visual approach"* | *"Join final runway 11L, report at Warwick Farm"*  |
 
 Warwick Farm is the large racecourse approx. 2nm west of YSBK on the Georges River.
 
@@ -133,12 +147,17 @@ Warwick Farm is the large racecourse approx. 2nm west of YSBK on the Georges Riv
     Aircraft joining final in the RWY 11 direction are not assigned a level and are expected to commence a visual approach in accordance with the tracking instructions issued by ADC.
 
 !!! phraseology  
-    **TEK**: "Bankstown Tower, Warrior TEK, 2RN, `A010`, inbound, received Golf"  
+    **TEK**: "Bankstown Tower, Warrior TEK, CRSC, `A010`, inbound, received Golf"  
     **BK ADC**: "TEK, Bankstown Tower, join final runway 11L, report at Warwick Farm"  
     **TEK**: "Join final runway 11L, TEK"  
 
     **BK ADC**: "TEK, RWY 11L, cleared to land"  
     **TEK**: "RWY 11L, cleared to land, TEK"
+
+### Class D Transits
+Aircraft intending to transit the Sydney TMA should plan to remain OCTA where possible. The [Victor One](../Class%20C/sydney.md#victor-one) lane is a suitable option for aircraft track north or south which does not require an airways clearance. Otherwise, the [Richmond Lane of Entry](../Class%20C/richmond.md#richmond-lane-of-entry) is another option to the west, which requires a clearance from BK ADC (when online).
+
+Alternatively, aircraft may utilise the YSBK coded clearances to track towards YSBK and then continue on another clearance outbound. These aircraft must make their requests to **SYC** early and expect a clearance tracking inbound on a coded clearance, then tracking via an outbound clearance, passing through the top of the BK CTR at `A015`.
 
 ## Circuits
 All circuits are to be flown at `A010`.
@@ -166,12 +185,12 @@ Three helicopter reporting points help keep helicopters segregated from other tr
 - **CSTH**: Intersection of two creeks enclosing a sewage treatment works 2.1nm south of the aerodrome reference point
 
 ### Inbound Procedures
-Helicopters should track inbound at `A007` via one of the normal inbound points (PSP or TWRN) or via *Olympic Park* and report to **BK ADC** at that point. In response, **BK ADC** will instruct the aircraft to track as below:
+Helicopters should track inbound at `A007` via one of the normal inbound points (PSP or CRSC) or via *Olympic Park* and report to **BK ADC** at that point. In response, **BK ADC** will instruct the aircraft to track as below:
 
 | Inbound Point | RWY 11 | RWY 29 |
 | ----------------| --------- | ---------- |
 | PSP | *"Report CWST"*, then <br>*"Join base main pad"* | *"Report CNTH"*, then <br>*"Join base main pad"* |
-| TWRN | *"Report CSTH, `A005`"*, then <br>*"Overfly midfield at `A005`, join downwind main pad"* | *"Report CSTH, `A005`"*, then <br>*"Overfly midfield at `A005`, join downwind main pad"* |
+| CRSC | *"Report CSTH, `A005`"*, then <br>*"Overfly midfield at `A005`, join downwind main pad"* | *"Report CSTH, `A005`"*, then <br>*"Overfly midfield at `A005`, join downwind main pad"* |
 | *Olympic Park* | *"Report CWST"*, then <br>*"Join base main pad"* | *"Report CNTH"*, then <br>*"Join base main pad"* |
 
 !!! note
