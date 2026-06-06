@@ -95,6 +95,8 @@ Pilots should reply to any received broadcast with their own position and intent
 
     Good airmanship would dictate monitoring the CTAF even when outside this volume of airspace where it is known that high-performance aircraft are operating in the vicinity.
 
+On VATSIM, some aerodromes may be [partially controlled](#partial-atc) and may, or may not, require CTAF calls to be made.
+
 ### Video Demonstration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D9XwzUzp-Ls?si=ClYxrKxcOSjvqXTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="display:block; margin:0 auto;" allowfullscreen></iframe>
@@ -113,6 +115,24 @@ Where a particular aerodrome or landing site is not included in the VATSIM AIP a
 **The default frequency is 126.7**. 
 
 If no discreet frequency is published for a particular aerodrome or the landing area you are operating from is not listed, you should use this frequency.
+
+### Partial ATC
+#### ADC Online
+If an ADC is online but no TCU controller is controlling the airspace above the aerodrome, the aerodrome is designated a **controlled aerodrome** and pilots will receive normal aerodrome services from ADC. After departure, in lieu of the '*contact departures*' call, ADC will inform pilots that their '*frequency change is approved*'.
+
+Pilots should switch to the most suitable frequency, generally Advisory (122.8). 
+
+!!!tip
+    In some circumstances, it may also be beneficial to monitor/broadcast on a nearby CTAF (e.g. YMEN if departing towards YMML with both aerodromes uncontrolled).
+
+Inbound aircraft should utilise Advisory when entering the vicinity and organise separation with other traffic on that frequency, then switch to the Tower frequency approaching the circuit area or when established on final.
+
+#### SMC Online
+If an SMC is online but no ADC is available, the aerodrome is designated an **uncontrolled aerodrome**. Pilots will receive normal clearance delivery and taxi instructions but will be required to utilise the aerodrome's CTAF for any runway entry, takeoff, and departure broadcasts.
+
+Approaching the holding point, pilots of domestic aircraft shall switch autonomously from the SMC frequency to the CTAF and commence normal CTAF calls. Pilots of international aircraft can expect an explicit frequency transfer.
+
+Inbound aircraft should utilise the CTAF when entering the vicinity and organise separation with other traffic on that frequency.
 
 ### Recommended Calls
 #### Departures

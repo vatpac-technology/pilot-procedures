@@ -56,6 +56,7 @@ Additionally, the [VATSIM AIP](https://my.vatsim.net/pilots/aip){target=new} inc
 !!! tip
     Pilots can type **.ctaf** into any VATSIM pilot client to display the appropriate frequency to use at an aerodrome.
 
+On VATSIM, some aerodromes may be [partially controlled](../radio-telephony/Uncontrolled%20Airspace/aerodrome.md/#partial-atc) and may, or may not, require CTAF calls to be made.
 
 ## Top Down Rule
 VATSIM employs a 'top down' rule, whereby controllers may (and in some cases, are expected to) provide a level of coverage to terminal areas and controlled aerodromes within their jurisdiction. This provides a greater service level to pilots but may cause some minor confusion for new members.
