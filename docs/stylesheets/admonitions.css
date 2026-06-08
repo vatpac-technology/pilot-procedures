@@ -63,6 +63,9 @@
     --md-admonition-icon--phraseology: url('../assets/headset.svg'); /* Path to your custom SVG */
     --phraseology-light-bg: #D3F8D3; /* Light mode: light green */
     --phraseology-dark-bg: #082515;  /* Dark mode: very dark green */
+    --md-admonition-icon--comingsoon: url('../assets/star.svg'); /* Path to your custom SVG */
+    --comingsoon-light-bg: #FFD700; /* Light mode: gold */
+    --comingsoon-dark-bg: #846F18;  /* Dark mode: golden rod */
   }
   
   .md-typeset .admonition.phraseology {

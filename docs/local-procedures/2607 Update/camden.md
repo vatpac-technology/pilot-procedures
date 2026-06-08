@@ -1,0 +1,120 @@
+---
+  title: Camden (YSCN)
+---
+
+--8<-- "includes/abbreviations.md"
+
+
+!!! comingsoon "Future Procedure"
+    This page documents **future procedures** that are scheduled to be introduced on **09 July 2026**. 
+    
+    Pilots are strongly encouraged to familiarise themselves with the incoming changes before launch day.
+
+## Airspace
+**CN ADC** is responsible for the Class D airspace within the Camden CTR from `SFC` to `A020`.
+
+### Tower Closed Procedures
+When CN ADC is offline, the airspace reverts to Class G. CTAF procedures apply.
+
+### Sydney CTA C10
+The volume of Class C airspace overhead Camden (known as SY CTA C10) has a lower level that varies according to the time of day. During the hours of 23:00 - 06:00 Sydney local time, the airspace within the C10 area is lowered to `A015`.
+
+<figure markdown>
+![Sydney CTA C10 Airspace](./img/sy_cta10.png){ width="400" }
+  <figcaption>Sydney CTA C10 Airspace</figcaption>
+</figure>
+
+The status of the C10 CTA step will be notified on the YSCN ATIS.
+
+## Taxiing
+The apron & grass parking areas are outside the manoeuvring area. The runup bays and all connecting taxiways are inside the manoeuvring area, requiring taxi instructions.
+
+!!! tip
+    The YSCN Manoeuvring Area chart can be found on the [CASA Website](https://www.casa.gov.au/camden-manoeuvring-area-map). 
+
+Aircraft above 5700kg MTOW must only use TWY D between RWY 06/24 and TWY F.
+
+## Departures    
+### Start Approval
+Start approval is required for all flights intending to operate in the circuit area.
+
+!!! phraseology  
+    **WKM**: "Camden Ground, Citabria WKM, for circuits, received Echo, request engine start"  
+    **CN SMC**: "WKM, Camden Ground, start approved"  
+    **WKM**: "Start approved, WKM"
+
+### VFR Departures
+Aircraft shall advise their intentions with their ready call.
+
+All departing aircraft shall depart via an extended leg of the circuit and climb to `A013`.
+
+!!! warning "Important"
+    Inbound aircraft enter the CTR at `A018`. Maintain `A013` until clear of the CTR, unless in receipt of a [depart on climb](#depart-on-climb) instruction.
+
+VFR aircraft will not be given specific frequency transfer instructions when exiting the CTR. Pilots should switch to an appropriate frequency once clear of the zone.
+
+### Depart on Climb
+Aircraft may request to leave the CTR on climb into the Class G airspace above.
+
+!!! phraseology
+    **WKM**: "Camden Tower, Citabria WKM, upwind departure, ready, request depart on climb"  
+    **CN ADC**: "WKM, depart on climb, runway 24, cleared for takeoff"  
+    **WKM**: "Depart on climb, runway 24, cleared for takeoff, WKM"
+
+## Arrivals
+Arriving VFR aircraft should track via and report at MEG, PIC, or THK, at `A018`.
+
+When arriving via a VFR inbound point, pilots should expect the following circuit instructions:
+
+| VFR Inbound Point | RWY 06 | RWY 24 |
+| ----------------- | ------ | ------ |
+| MEG | "Overfly Camden to join mid-field crosswind runway 06, maintain `A018`, report overhead" | "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report overhead" |
+| PIC | "Overfly Camden to join mid-field crosswind runway 06, maintain `A018`, report overhead" | "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report overhead" |
+| THK | "Join final runway 06, maintain `A018`, report 3 miles" | "Join downwind runway 24, maintain `A018`, report 2 miles" |
+
+!!! phraseology  
+    **MWY**: "Camden Tower, Citabria MWY, MEG, `A018`, inbound, received Golf"  
+    **CN ADC**: "MWY, Camden Tower, overfly Camden to join mid-field crosswind runway 24, maintain `A018`, report 2 miles"  
+    **MWY**: "Overfly Camden to join mid-field crosswind runway 24, maintain `A018`, MWY"  
+
+    **MWY**:, "MWY, 2 miles"  
+    **CN ADC**: "MWY, cleared visual approach"  
+    **MWY**: "Cleared visual approach, MWY"
+
+## Circuits
+All circuits are to be flown at `A013`. Low level circuits may be available on request and should be flown at `A008`.
+
+| Runway | Circuit Direction |
+| --- | -- |
+| RWY 06 | Left |
+| RWY 10 | Left |
+| RWY 24 | Right |
+| RWY 28 | Right |
+
+## Glider Operations
+Glider aircraft and their towplanes utilise two independent grass glider runways on the southwestern side of the aerodrome. The glider runways run parallel to RWY 06/24 and RWY 10/28, with contra circuits which oppose the normal circuit direction. 
+
+Simultaneous operations are conducted from both parallel glider strips.
+
+Outside the lateral limits of CN CTR, gliders operate throughout the surrounding and overlying Class G airspace.
+
+ATC responsibilities to aircraft engaged in gliding activity are limited to passing relevant traffic information after the intention to land has been notified. The normal requirements on entry to the CTR do not apply to gliders. Gliders must report entering the CTR and downwind.
+
+Other aircraft must not infringe the glider circuit below `A023` when glider operations are in progress.
+
+## Helicopter Operations
+A helipad is established to the north of RWY 06/24 and is inside the manoeuvring area. Takeoff and landing clearances are required to operate from the helipad.
+
+Helicopter circuits are conducted at `A010` inside the fixed wing circuit by day. 
+
+By night, all helicopters must comply with fixed wing operations.
+
+!!! note
+    During times of low traffic levels, helicopters may request departure from or arrival to the apron/parking area.
+
+## IFR Operations
+IFR aircraft will be provided with **traffic information only** and will not receive an airways clearance on the ground. Aircraft planned into the overlying CTA can expect a clearance from **SY TCU** after departure.
+
+A single STAR exists to process aircraft inbound from the east, which terminates in vectors. The only instrument approach at YSCN is the RNP-W approach. This approach may commence in SY TCU CTA or OCTA (depending on aircraft altitude and IAF) and transits Class G airspace before entering the CN CTR.
+
+Aircraft can expect to be transfered to CN ADC at SC2WI. CN ADC will issue airways clearance into the zone. During day VMC, a restriction may be placed on aircraft on the RNP approach to descend **not below `A018`**. Pilots conducting a practice approach must treat this altitude as the minima and either commence the missed approach or join the circuit at that point.
