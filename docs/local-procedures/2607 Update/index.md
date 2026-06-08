@@ -69,6 +69,20 @@ YSWS operates 24 hours a day. When WS ADC is offline, SY TCU will provide a top-
 
 Please see the **[Upcoming Sydney/Nancy-Bird Walton (YSWS) SOPs](./walton.md)** for full details about aerodrome operations.
 
+#### Airspace Changes
+A number of airspace changes, both in the Sydney TMA and the surrounding enroute airspace, will be implemented to support the aerodrome changes.
+
+Three new Sydney TMA control positions are being created:
+
+- Walton Approach (managing the airspace over YSWS and to the west)
+- Bankstown Approach (managing the Class D airspace north of YSBK)
+- Richmond Approach (managing the airspace over YSRI)
+
+Additional changes are being made to enroute sectors like **GUN**, with a slight amendment to the airspace boundary. **ARL** is being split into two primary sectors to better manage the workload of controllers responsible for aircraft inbound to YSSY and YSWS from the north. **ARL** will continue to manage the airspace in the northwest of the existing sector, while a new position, **MNN**, is being created to manage the outbound aircraft to the north and aircraft inbound from the east.
+
+!!! warning "Important"
+    Pilots should utilise the [VATPAC Airspace Map](https://vatpac.org/about/airspace) to ensure they are aware of the new sector boundaries. Programs like vatSpy and VATSIM Radar will be updated to reflect the new airspace boundaries.
+
 #### Other Aerodrome Updates
 ##### Sydney (YSSY) Changes
 Operations at Sydney (YSSY) are being adjusted to accommodate the new airport and associated aircraft movements.
@@ -77,6 +91,7 @@ Operations at Sydney (YSSY) are being adjusted to accommodate the new airport an
 - The Standard Assignable Departure Headings and Departure Frequencies are also changing.
 - The lateral boundaries of the SY ADC CTR are also changing to match new CTA boundaries.
 - The Erskineville and Georges River Helicopter Coded Clearances have been retired, as has the Harbour Scenic Two route.
+- The R405 restricted area (over Sydney Harbour & the Parramatta River) is being retired, replaced with R407. R407 has similar, but not identical, boundaries.
 
 Please see the **[Upcoming Sydney (YSSY) SOPs](./sydney.md)** for full details about aerodrome operations.
 
