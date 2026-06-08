@@ -96,3 +96,26 @@
       background-color: #90EE90; /* Set the icon color to black */
     }
   }
+
+  .md-typeset .comingsoon > .admonition-title {
+    background-color: var(--comingsoon-light-bg); /* Light gold background for the title */
+    border-color: #D4AF37; /* Light green border for title */
+    }
+
+    .md-typeset .comingsoon > .admonition-title::before {
+    background-color: black; /* Set the icon color to black */
+    -webkit-mask-image: var(--md-admonition-icon--comingsoon); /* Custom SVG for icon */
+    mask-image: var(--md-admonition-icon--comingsoon); /* Custom SVG for icon */
+    }
+
+    /* Custom comingsoon Admonition - Dark Mode Adjustments */
+    [data-md-color-scheme="slate"] {
+        .md-typeset .comingsoon > .admonition-title {
+            background-color: var(--comingsoon-dark-bg); /* Very dark gold background */
+            color: var(--md-default-fg-color); /* Text color remains readable */
+        }
+
+        .md-typeset .comingsoon > .admonition-title::before {
+            background-color: #FFD700; /* Set the icon color to gold */
+        }
+    }
