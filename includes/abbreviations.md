@@ -209,6 +209,16 @@
 *[CSTH]: Choppers South
 *[PSP]: Prospect Reservoir
 *[CRSC]: Crossroads Shopping Centre
+*[BBG]: Brooklyn Bridge
+*[BEE]: Berilee
+*[CAST]: Castle Towers
+*[BKHR]: Baulkham Hills Reservoir
+*[LIHR]: Lighthorse Interchange
+*[SSKP]: St Helens Skate Park
+*[CRST]: Campbelltown Railway Station
+*[REVS]: Revesby Station
+*[CASO]: Casuarina Oval
+*[WORC]: Woronora Cemetery
 *[EDT]: Edmonton
 *[CGF]: Cape Grafton
 *[ADI]: Admiralty Island
