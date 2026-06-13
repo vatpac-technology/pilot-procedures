@@ -82,13 +82,16 @@
 *[MDS]: Melbourne Departures South
 *[PHA]: Perth Approach
 *[PHD]: Perth Departures
-*[SAN]: Sydney Approach North
-*[SAS]: Sydney Approach South
-*[SDN]: Sydney Departures North
-*[SDS]: Sydney Departures South
-*[SFW]: Sydney Director West
-*[SFE]: Sydney Director East
-*[SRI]: Sydney Radar
+*[SAN]: Sydney Approach North - 124.4
+*[SAS]: Sydney Approach South - 128.3
+*[SBA]: Bankstown Approach - 125.8
+*[SDN]: Sydney Departures North - 123.0
+*[SDS]: Sydney Departures South - 129.7
+*[SFW]: Sydney Director West - 126.1
+*[SFE]: Sydney Director East - 125.3
+*[SRA]: Richmond Approach - 135.9
+*[SWA]: Walton Approach - 118.4
+*[SYC]: Sydney Centre - 124.55
 *[ARL]: Brisbane (Armidale) Centre
 *[INL]: Brisbane (Inverell) Centre
 *[ISA]: Brisbane (Mt Isa) Centre
@@ -206,6 +209,16 @@
 *[CSTH]: Choppers South
 *[PSP]: Prospect Reservoir
 *[CRSC]: Crossroads Shopping Centre
+*[BBG]: Brooklyn Bridge
+*[BEE]: Berilee
+*[CAST]: Castle Towers
+*[BKHR]: Baulkham Hills Reservoir
+*[LIHR]: Lighthorse Interchange
+*[SSKP]: St Helens Skate Park
+*[CRST]: Campbelltown Railway Station
+*[REVS]: Revesby Station
+*[CASO]: Casuarina Oval
+*[WORC]: Woronora Cemetery
 *[EDT]: Edmonton
 *[CGF]: Cape Grafton
 *[ADI]: Admiralty Island
