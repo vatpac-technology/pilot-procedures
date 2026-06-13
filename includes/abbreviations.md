@@ -205,6 +205,7 @@
 *[CNTH]: Choppers North
 *[CSTH]: Choppers South
 *[PSP]: Prospect Reservoir
+*[CRSC]: Crossroads Shopping Centre
 *[EDT]: Edmonton
 *[CGF]: Cape Grafton
 *[ADI]: Admiralty Island
