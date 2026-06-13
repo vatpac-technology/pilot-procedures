@@ -123,9 +123,9 @@ VFR aircraft inbound to YSBK shall contact **SYC on 124.55** prior to entering C
 
 | Coded Clearance    | Route             | Altitude | 
 | ------------------ | ------------------- | ------ | 
-| Brooklyn Inbound   | `BBG BEE CAST BKHR PSP`      | `A018` on descent to reach `A015` by BKHR |
-| Lighthorse Inbound | `NPBR LIHR PSP`     | `A015` |
-| St Helens Inbound  | `SSKP CRST CRSC`   | `A025` on descent to reach `A015` by CRSC |
+| Brooklyn Inbound   | `BBG BEE CAST BKHR PSP` | `A018` to BEE, thence `A015` by BKHR  |
+| Lighthorse Inbound | `NPBR LIHR PSP`     | `A015`   |
+| St Helens Inbound  | `SSKP CRST CRSC`    | `A025` to CRST, thence `A015` by CRSC   |
 
 Establishing two-way communication with ATC constitutes a clearance to enter CTA as requested (other than an instruction to standby or similar).
 
