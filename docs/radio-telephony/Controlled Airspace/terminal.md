@@ -26,7 +26,7 @@ On first contact with a terminal controller, **outbound** aircraft must report t
 Aircraft in the Heavy or Super categories must append their callsign with their wake turbulence category during the initial call with each Approach, Departures, and Director controller.
 
 !!! example
-    **QFA12**: "Sydney Approach, SIA213 Super, descending to `A010`, received Golf"
+    **QFA12**: "Sydney Approach, SIA213 Super, descending to `A100`, received Golf"
 
 The category is not required during any subsequent call.
 
