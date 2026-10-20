@@ -34,6 +34,9 @@ IFR aircraft can generally expect to be processed via a STAR (or direct to the I
 | 29 | ILS or RNP(AR) |
 | 36 | RNP |
 
+### Initial and Pitch
+The intial points are at 5 TAC, aligned with Runway 11 and 29. Aircraft will arrive via a straight initial.
+
 ## Circuit Operations
 The circuit altitude varies with aircraft type.
 
@@ -43,6 +46,32 @@ The circuit altitude varies with aircraft type.
 | Other Jet | `A015` |
 | Non-Jet | `A010` |
 | Helicopter | `A010` |
+
+## Special Use Airspace
+### Military Gates
+There are several military gates established throughout the SG TMA to facilitate entry and exit to adjoining SUA.
+
+| Intended SUA    | TCU Exit Gate        |
+| --------------- | -------------------- |
+| M277A-D         | Gates 8-10           |
+| M277E-H         | Gates 6-8            |
+| M278A           | Gates A-C            |
+| M278B-D         | WIZZOS<br>MONNIES    |
+| M278E           | Gates C-E            |
+| M278F-H         | MONNIES<br>SHAGS     |
+| R245            | Gates 1-4            |
+| R276A-D         | Gates 4-6            |
+
+!!! note
+    Details of each gate can be found in the [Darwin FIHA](https://ais-af.airforce.gov.au/australian-aip).
+
+Pilots should include the desired departure gate when requesting clearance.
+
+!!! phraseology
+    *GRFN11 plans to enter the M278A-D MOA via Gate A for military training and airwork.*  
+    **GRFN11**: "Darwin Delivery, GRFN11 for Gate A, `A180` for M278A-D, request clearance."  
+    **DN ACD**: "GRFN11, Darwin Delivery. Cleared Gate A, LIZAD3 departure. Climb via SID to `A180`, squawk 6001, departure frequency 126.8."
+    **GRFN11**: "Cleared Gate A, LIZAD3 departure. Climb via SID to `A180`, squawk 6001, departure frequency 126.8, GRFN11."
 
 ## VFR Routes
 Details of each VFR route are found on the Darwin VTC. VFR pilots should plan via one of the routes when inbound to or outbound from YPDN.
@@ -78,6 +107,19 @@ VFR helicopters are generally processed via by the TALC HEAD Inbound route.  IFR
 
 ### Hospital Helipads
 The Darwin CTR contains the helipad at the Royal Darwin Hospital (YXDH). This pad sits outside the manoeuvring area, so no takeoff or landing clearances will be issued. Instead, helicopters will be instructed to report airborne or report on the ground.
+
+### Snake Pit
+The **Snake Pit** is an area of dirt adjacent Runway 36 used for low level hover operations, most commonly by military helicopters located at the apron known as the **Snake Farm**, south of OLA 6-10.
+
+<figure markdown>
+![Snake Pit](../img/dn_snake_pit.png){ width="700" }
+<figcaption>Snake Pit</figcaption>
+</figure>
+
+!!! phraseology
+    **CHOP19**: "Darwin Tower, helicopter ZXY, Snake Farm, for Snake Pit."   
+    **DN ADC**: "CHOP19, Darwin Tower, air transit Snake Pit, cleared to operate Snake Pit, not above 100ft."
+	**CHOP19**: "Air transit Snake Pit, cleared to operate Snake Pit, not above 100ft, CHOP19."
 
 ## LAHSO
 LAHSO is the independent operation of two crossing runways for arrivals and departures. It is a complicated procedure which is rarely used, but occassionally run during VATPAC's busiest events featuring YPDN. Strict pilot requirements apply during LAHSO.
