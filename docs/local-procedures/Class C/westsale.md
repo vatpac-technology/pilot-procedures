@@ -30,7 +30,7 @@ In response to your ready call, ES TCU will issue an airways clearance, if avail
 !!! phraseology
     **AM301**: "AM301, lined up"  
     **ESA**: "AM301, cleared to YMEN via DUNNE, flight plan route, WS2 departure, climb via SID to `F150`"  
-    **AM301**: "Cleared to YMEN via DUNNE, flight plan route, climb to `F150`, AM301"  
+    **AM301**: "Cleared to YMEN via DUNNE, flight plan route, WS2 departure, climb via SID to `F150`, AM301"  
     **ESA**: "AM301, assigned heading left 360, report airborne"  
     **AM301**: "Assigned heading left 360, AM301"  
 
