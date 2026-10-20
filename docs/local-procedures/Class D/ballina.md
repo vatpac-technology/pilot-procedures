@@ -4,12 +4,6 @@
 
 --8<-- "includes/abbreviations.md"
 
-
-!!! comingsoon "Future Procedure"
-    This page documents **future procedures** that are scheduled to be introduced on **09 July 2026**. 
-    
-    Pilots are strongly encouraged to familiarise themselves with the incoming changes before launch day.
-
 ## Airspace
 BA ADC is responsible for the Class D airspace in the BA CTR from `SFC` to `A015`.
 

@@ -4,12 +4,6 @@
 
 --8<-- "includes/abbreviations.md"
 
-
-!!! comingsoon "Future Procedure"
-    This page documents **future procedures** that are scheduled to be introduced on **09 July 2026**. 
-    
-    Pilots are strongly encouraged to familiarise themselves with the incoming changes before launch day.
-
 ## Taxiing
 The Walton Apron frequency is not replicated on VATSIM. Aircraft on the cargo apron shall contact SMC for pushback or taxi (unless [pushback requests on ACD](#pushbacktaxi-on-acd) procedures are active).
 
@@ -17,7 +11,7 @@ The Walton Apron frequency is not replicated on VATSIM. Aircraft on the cargo ap
 The volume of Class C airspace overhead Camden (known as SY CTA C10) has a lower level that varies according to the time of day. During the hours of 23:00 - 06:00 Sydney local time, the airspace within the C10 area is lowered to `A015`.
 
 <figure markdown>
-![Sydney CTA C10 Airspace](./img/sy_cta10.png){ width="400" }
+![Sydney CTA C10 Airspace](../img/sy_cta10.png){ width="400" }
   <figcaption>Sydney CTA C10 Airspace</figcaption>
 </figure>
 
