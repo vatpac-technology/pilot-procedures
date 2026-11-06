@@ -9,7 +9,7 @@ Lanes of entry are pre-defined corridors which provide passage to/from certain C
 
 Details of each lane are found in the Class D aerodrome's ERSA FAC entry. They are also depicted on the relevant VTC as a line of purple dots. Some lanes transit CTA and require an airways clearance.
 
-Details on specific lanes of entry can be found in [Local Procedures](../local-procedures/).
+Details on specific lanes of entry can be found in [Local Procedures](../../local-procedures/).
 
 ## General Rules
 When operating on a lane of entry, the following rules must be abided by:
