@@ -32,8 +32,8 @@ Area forecasts are generally available on the NAIPS website and include GAF (for
 METARs and TAFs can be sourced from a number of sources.
 
 - [NAIPS](https://www.airservicesaustralia.com/naips/): Real world system maintained by Airservices Australia, providing access to reports, forecasts, first/last light calculations, a large variety of meteorological charts, and more
-- [VATPAC Pilot Tool](https://vatpac.org/membership-hub/tools/pilot): An all-in-one tool providing access to weather reports, forecasts, and ATISes, as well as easy access to aerodrome charts for your nominated origin and destination
-- [VATPAC Weather Data Tool](https://vatpac.org/membership-hub/tools/wx): A dedicated tool allowing members to access weather reports, forecasts, and ATISes, without linking a specific VATSIM flight
+- [VATPAC Pilot Tool](https://vatpac.org/tools/): An all-in-one tool providing access to weather reports, forecasts, and ATISes, as well as easy access to aerodrome charts for your nominated origin and destination
+- [VATPAC Weather Data Tool](https://vatpac.org/tools/wx/): A dedicated tool allowing members to access weather reports, forecasts, and ATISes, without linking a specific VATSIM flight
 
 ## Interpreting Data
 ### Written Reports/Forecasts

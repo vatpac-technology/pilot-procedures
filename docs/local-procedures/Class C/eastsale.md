@@ -99,7 +99,7 @@ The inner training areas (designated 'A-H') extend from 12NM to 35NM YMES ARP, a
 Aircraft requesting clearance to operate in a training area should expect to be cleared via the appropriate [military gate or lane](#military-gates).
 
 ### Military Gates
-There are numerous [military lanes](../../../controller-skills/military/#military-gates) established throughout the ES TMA to facilitate entry and exit to [training areas](#training-areas) and SUA.
+There are numerous [military lanes](https://sops.vatpac.org/controller-skills/military/#military-gates) established throughout the ES TMA to facilitate entry and exit to [training areas](#training-areas) and SUA.
 
 | Intended [Training Area](#training-areas) | Outbound Lane  |
 | ----------------------------------------- | -------------- |

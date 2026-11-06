@@ -7,7 +7,7 @@
 ## Background
 VATSIM strives to replicate the real world aviation environment as closely as possible. However, the network is a place of learning for both controllers and pilots, and it is unreasonable to expect a 1:1 service.
 
-Pilots should reference real world documents and charts but be prepared for some inconsistencies and discrepancies to exist. The procedures detailed on this site (particularly the [Local Procedures](../local-procedures/)) have been designed to compliment VATPAC's ATC SOPs.
+Pilots should reference real world documents and charts but be prepared for some inconsistencies and discrepancies to exist. The procedures detailed on this site (particularly the [Local Procedures](../../local-procedures/)) have been designed to compliment VATPAC's ATC SOPs.
 
 ## VATSIM Code of Conduct
 A number of policies govern how users of the VATSIM network must conduct themselves. Pilots should be aware of the [Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct){target=new}, which outlines the minimum pilot competency level, connection requirements, and other important information.
@@ -76,7 +76,7 @@ Pilots should contact the **lowest** applicable controller as they move up from 
     **GUN** and **Sydney ADC** are both online. A pilot on the ground at YSSY wishing to obtain airways clearance would contact **SY ADC**, as they are the lowest controller over Sydney.
 
 ### Zulu ATISes
-A Zulu ATIS (ATIS with code **Z**) may be published by controllers to indicate that an aerodrome which can be temporarily activated is currently **uncontrolled**. Pilots of IFR aircraft should contact the overlying controller prior to taxi to commence their SARWATCH service. Pilots should refer to [Local Procedures](../local-procedures/) to determine whether any special procedures apply to the aerodrome, but may otherwise taxi and depart at their own discretion.
+A Zulu ATIS (ATIS with code **Z**) may be published by controllers to indicate that an aerodrome which can be temporarily activated is currently **uncontrolled**. Pilots of IFR aircraft should contact the overlying controller prior to taxi to commence their SARWATCH service. Pilots should refer to [Local Procedures](../../local-procedures/) to determine whether any special procedures apply to the aerodrome, but may otherwise taxi and depart at their own discretion.
 
 <figure markdown> 
 ![Zulu ATIS](img/atiszulu.png){ width="500" }

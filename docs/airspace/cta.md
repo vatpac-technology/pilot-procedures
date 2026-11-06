@@ -22,7 +22,7 @@ VFR aircraft, however, do not require a clearance. Instead, VFR aircraft must ma
 ### Coded Clearances
 Generally, an airways clearance will specify a clearance limit, the approved route to fly, and any vertical restrictions, as well as other details (such as a squawk code and departure procedure) as required. A *coded clearance* is a published procedure which includes these details by default, removing the need for ATC to specify them over the radio. 
 
-Coded clearances are generally defined in/out of, and surrounding, busy controlled aerodromes, or in congested controlled airspace. Details can be found in local ERSA FAC entries and [Local Procedures](../local-procedures/).
+Coded clearances are generally defined in/out of, and surrounding, busy controlled aerodromes, or in congested controlled airspace. Details can be found in local ERSA FAC entries and [Local Procedures](../../local-procedures/).
 
 !!! example
     **Regular Clearance**: *"CYF, cleared to YSBK via HBB, SYHD, MANLY, LRF, maintain A015"*  
@@ -60,7 +60,7 @@ Major aerodromes have published airport efficiency procedures which provide guid
 !!! example
     Any aircraft landing on **runway 34L** at YSSY with the intention of parking at the **domestic terminal** should plan to vacate at **taxiway B9**.
 
-Airport efficiency procedures are published in dedicated DAP charts of the same title and replicated in [Local Procedures](../local-procedures/).
+Airport efficiency procedures are published in dedicated DAP charts of the same title and replicated in [Local Procedures](../../local-procedures/).
 
 !!! warning "Important"
     After vacating a runway, particularly via a rapid exit, **do not stop**. Keep taxiing forward and contact SMC for taxi instructions.
@@ -105,7 +105,7 @@ Class D aerodromes include a portion of Class D airspace managed by ADC. Aircraf
 #### Metro D
 Metro D aerodromes are small Class D aerodromes situated in busy terminal areas. They generally feature a small CTR with a limited lateral and vertical definition, and no overlying Class D CTA. Instead, they often sit directly below or adjacent to Class C CTA.
 
-The [Class D](#class-d) rules described above apply to Metro D aerodromes. In addition, there are often local procedures which dictate implied frequency transfers to circuit join instructions, specified in the local ERSA FAC entry and [Local Procedures](../local-procedures/). Pilots must ensure they are familiar with all local procedures prior to operating at these aerodromes.
+The [Class D](#class-d) rules described above apply to Metro D aerodromes. In addition, there are often local procedures which dictate implied frequency transfers to circuit join instructions, specified in the local ERSA FAC entry and [Local Procedures](../../local-procedures/). Pilots must ensure they are familiar with all local procedures prior to operating at these aerodromes.
 
 ## Pilot Tracking/Level Requests
 Whilst inside CTA, pilots must comply with the latest route clearance which they have received and maintain any assigned level. If alternate tracking or a different level is desired, this must first be requested and approved by ATC.
