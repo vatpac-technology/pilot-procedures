@@ -16,7 +16,7 @@ The procedures are categorised as either [2D](#2d-approaches) or [3D](#3d-approa
 Charts for procedures in the Australian FIR are published by Airservices Australia (available for free on the AIP website) or by Jeppesen (available with the Navigraph subscription).
 
 !!! tip
-    VATPAC's [Chart Finder](https://vatpac.org/membership-hub/tools/charts){target=new} tool provides free, easy access to all Airservices Australia charts.
+    VATPAC's [Chart Finder](https://vatpac.org/tools/charts/){target=new} tool provides free, easy access to all Airservices Australia charts.
 
 Each IAP chart features a description of the procedure (including relevant tracks and distances to be flown), navaid information, the minimum altitude to which the procedure may be flown, and the published missed approach to be followed in case a landing can't be carried out. Refer to the user guide of your chosen chart provider for details on interpreting each type of chart.
 

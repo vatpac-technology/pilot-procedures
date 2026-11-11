@@ -90,7 +90,7 @@ Flight planning can be greatly simplified through the use of the many available 
 
 [SimBrief](https://simbrief.com){target=new} is a popular site designed to automate route selection and fuel planning. Pay extra attention when selecting a route from the suggested list, as they may have been submitted by users with little flight planning experience. It is good practice to confidence check the suggested route against another source, and where available, select the purple 'Preferred Route' (which have been uploaded by VATPAC staff). It is also recommended that you add extra fuel (using the built-in input boxes) where required, as per [Fuel Planning](./fuelplanning.md).
 
-VATPAC's [Pilot Assist](https://vatpac.org/membership-hub/tools/pilot){target=new} tool can be helpful for generating weather forecasts and accessing charts for your planned flight. The system can also be used to generate a route which complies with the ERSA FPR.
+VATPAC's [Pilot Assist](https://vatpac.org/tools/){target=new} tool can be helpful for generating weather forecasts and accessing charts for your planned flight. The system can also be used to generate a route which complies with the ERSA FPR.
 
 Some aerodromes and terminal areas feature specific procedures for pilots to comply with. These procedures have been summarised in [Local Procedures](../../local-procedures/), where you'll find flight planning advice as well as in-flight procedural guidelines.
 
