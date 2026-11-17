@@ -88,14 +88,14 @@ Pilots shall include the desired departure gate when requesting clearance.
     **WLM ACD**: "RPLC15, Willy Delivery. Cleared Gate 7, CLASSIC departure. Climb via SID to `F120`, squawk 6001, departure frequency 135.7."   
 
 ### Salt Ash
-The Salt Ash Air Weapons Range is located within the WLM MIL CTR, and is used for air-surface gunnery and bombing practice. It is entirely contained within R596.
+The Salt Ash Air Weapons Range is located within the WLM MIL CTR, and is used for air-surface gunnery and bombing practice. It is entirely contained within R597A-B.
 
-The [restricted area](../../airspace/sua.md#restricted-areas) can be activated in two configurations according to the requirements of the operation. Only VFR aircraft are permitted.
+The [restricted areas](../../airspace/sua.md#restricted-areas) can be activated in two configurations according to the requirements of the operation. Only VFR aircraft are permitted.
 
-| Configuration Name | Vertical Limits  | Notes  | 
-| ------------------ | ---------------- | ------ |
-| R596 High          | `SFC` - `A130`   | Aircraft will remain on local QNH above `A100` |
-| R596 Low           | `SFC` - `A050`   |        |
+| Configuration Name | Activated SUA | Vertical Limits  | Notes  | 
+| ------------------ | ------------- | ---------------- | ------ |
+| Salt Ash High      | R597A & R597B | `SFC` - `A150`   | Aircraft will remain on local QNH above `A100` |
+| Salt Ash Low       | R597A         | `SFC` - `A060`   |        |
 
 Aircraft departing YWLM for the Salt Ash Air Weapons Range should expect the **SALT ASH** departure, in lieu of a SID. On this departure, aircraft will maintain runway heading until turning between 2 TAC and 7.5 TAC WLM to enter the restricted area.
 
